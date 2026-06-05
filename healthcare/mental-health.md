@@ -1,8 +1,8 @@
 ---
 title: Mental Health
-description: 
+description: Mental health is part of everyone's health, including disabled people. Whether you have a psychiatric disability, experience mental health challenges…
 published: true
-date: 2026-06-05T13:21:08.863Z
+date: 2026-06-05T20:36:13.436Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-28T00:25:03.670Z
