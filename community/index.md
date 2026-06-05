@@ -2,7 +2,7 @@
 title: Community & Connection
 description: Finding disabled community online and offline, across diagnoses and regions.
 published: true
-date: 2026-06-05T12:32:09.257Z
+date: 2026-06-05T19:43:21.337Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-11T19:38:38.558Z
@@ -168,7 +168,7 @@ Know a community space that should be listed? Have feedback on accessibility of 
 
 ---
 
-**Last updated**: [Date]  
+**Last updated**: June 2026  
 **Maintained by**: DisabilityWiki Community Connections Team  
 **Questions?** [Contact us →](/start/contact)
 
