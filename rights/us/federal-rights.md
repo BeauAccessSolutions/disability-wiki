@@ -2,7 +2,7 @@
 title: U.S. Federal Disability Rights Laws
 description: 
 published: true
-date: 2026-06-05T13:18:56.821Z
+date: 2026-06-05T14:59:18.619Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T19:14:38.965Z
@@ -322,7 +322,7 @@ The laws provide a floor—disabled people continue organizing for fuller implem
 
 - **Disability Rights Advocates**: dralegal.org
 - **DREDF**: dredf.org
-- **Legal Aid in your area**: lawhelp.org
+- **Legal Aid in your area**: www.lawhelp.org
 
 ---
 
