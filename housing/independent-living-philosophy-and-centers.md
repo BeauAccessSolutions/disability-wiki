@@ -2,7 +2,7 @@
 title: Independent Living Philosophy and Centers
 description: 
 published: true
-date: 2026-06-05T13:21:46.206Z
+date: 2026-06-05T14:58:37.451Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-07T20:07:49.958Z
@@ -186,13 +186,13 @@ Canada has IL infrastructure similar to U.S., though integrated somewhat differe
 
 ### Independent Living Canada
 
-**Independent Living Canada**: ilcan.ca. Coordinates IL movement across Canada; equivalent to U.S. NCIL.
+**Independent Living Canada**: ilc-vac.ca. Coordinates IL movement across Canada; equivalent to U.S. NCIL.
 
 **Provincial/regional CILs**: Similar model to U.S.—peer-led organizations providing housing assistance, peer counseling, advocacy, community education. Specific organizations vary by province.
 
 ### Services and access
 
-**Find your local CIL/IL organization**: ilcan.ca provides directory.
+**Find your local CIL/IL organization**: ilc-vac.ca provides directory.
 
 **Core services similar to U.S.**: peer counseling, housing assistance, advocacy, community living support.
 
@@ -204,14 +204,14 @@ Similar to U.S.: consumer control, peer support, cross-disability, community liv
 
 ### Getting involved (Canada)
 
-1. **Find your local IL organization** through ilcan.ca
+1. **Find your local IL organization** through ilc-vac.ca
 2. **Call and ask about services**
 3. **Get involved in governance and organizing**
 4. **Connect with Independent Living Canada**
 
 ### Resources (Canada)
 
-**Independent Living Canada**: ilcan.ca
+**Independent Living Canada**: ilc-vac.ca
 
 **Provincial disability organizations**: Complementary to IL; provide broader disability rights advocacy
 
@@ -366,14 +366,14 @@ IL movement less developed globally, but emerging in many countries. Universal p
 1. **Connect with your national disability organization**: Most countries have disability rights organizations; many incorporate IL principles
 2. **Seek peer support**: Find disabled people with similar experiences; build mutual support networks
 3. **Organize collectively**: If formal IL services don't exist, organize with other disabled people to create them
-4. **Connect internationally**: Disabled Peoples' International (dpi.org), SABE International (sabeint.org) coordinate global disability organizing
+4. **Connect internationally**: Disabled Peoples' International (dpi.org), SABE International (sabeusa.com) coordinate global disability organizing
 5. **Learn from others**: IL models successful in other countries can inspire local adaptation
 
 ### Resources (Other Countries)
 
 **Disabled Peoples' International**: dpi.org (global disability organizing)
 
-**SABE International**: sabeint.org (self-advocacy networks)
+**SABE International**: sabeusa.com (self-advocacy networks)
 
 **Your national disability organization**: Most countries have one
 
