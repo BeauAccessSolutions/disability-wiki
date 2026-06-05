@@ -1,8 +1,8 @@
 ---
 title: Housing Rights
-description: 
+description: Disabled people have legal protections in housing—yet many don't know what rights apply in their country or how to enforce them. This page starts with…
 published: true
-date: 2026-06-05T14:58:32.935Z
+date: 2026-06-05T20:38:02.282Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-07T20:07:45.079Z
