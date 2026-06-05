@@ -1,8 +1,8 @@
 ---
 title: Homelessness and Disability
-description: 
+description: Disabled people experience homelessness at higher rates than non-disabled people globally. Yet homelessness is not inevitable—it results from policy choices…
 published: true
-date: 2026-06-05T13:21:31.551Z
+date: 2026-06-05T20:37:52.428Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-07T20:07:40.525Z
