@@ -1,8 +1,8 @@
 ---
 title: Ethical Research With Disabled Communities
-description: 
+description: All disabled people have the right to participate in cultural, social, and political life, including research, as affirmed by Articles 30 and 31 of the UN…
 published: true
-date: 2026-06-05T14:59:00.221Z
+date: 2026-06-05T20:22:45.850Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T19:12:58.320Z
