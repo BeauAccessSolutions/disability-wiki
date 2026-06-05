@@ -1,8 +1,8 @@
 ---
 title: Paratransit
-description: 
+description: Paratransit is door-to-door transportation for disabled people who cannot use regular fixed-route transit. In the US, it's legally required as a complement…
 published: true
-date: 2026-06-05T13:19:19.519Z
+date: 2026-06-05T20:24:50.334Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T19:17:24.531Z
