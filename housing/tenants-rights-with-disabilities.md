@@ -2,7 +2,7 @@
 title: Tenants' Rights with Disabilities
 description: 
 published: true
-date: 2026-06-05T13:21:59.286Z
+date: 2026-06-05T14:58:46.300Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-07T20:08:03.275Z
@@ -93,7 +93,7 @@ If you receive eviction notice, you can request accommodations at any stage:
 
 Examples: If evicted for late rent due to disability-related income loss, request flexible payment timeline. If evicted for noise, request noise-hour modifications. If evicted for violations related to disability, request accommodation allowing time to comply.
 
-**Legal aid and tenant rights organizations** provide free representation in eviction cases. Contact: 211.org, lawhelp.org, or local legal aid societies. Some disability rights organizations provide eviction defense.
+**Legal aid and tenant rights organizations** provide free representation in eviction cases. Contact: 211.org, www.lawhelp.org, or local legal aid societies. Some disability rights organizations provide eviction defense.
 
 ### Retaliation protection
 
@@ -115,7 +115,7 @@ Fair Housing Act supersedes occupancy limits and guest restrictions for disabili
 
 **Tenant rights organizations**: tenantsunion.org, tenantsrights.org
 
-**Legal aid**: lawhelp.org, 211.org
+**Legal aid**: www.lawhelp.org, 211.org
 
 **Disability rights organizations**: dol.gov directory
 
@@ -177,7 +177,7 @@ Landlords cannot retaliate against tenants for asserting rights. Most provinces 
 
 **Provincial disability organizations**: Search "[province] disability rights"
 
-**Independent Living Canada**: ilcan.ca
+**Independent Living Canada**: ilc-vac.ca
 
 **Legal aid**: Search "[province] legal aid"
 
