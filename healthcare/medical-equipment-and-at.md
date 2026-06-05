@@ -1,8 +1,8 @@
 ---
 title: Medical Equipment and Assistive Technology
-description: 
+description: Assistive technology (AT) and medical equipment can transform disabled people's lives—enabling independence, communication, mobility, and participation. But…
 published: true
-date: 2026-06-05T13:21:03.057Z
+date: 2026-06-05T20:36:03.181Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-27T23:11:47.376Z
