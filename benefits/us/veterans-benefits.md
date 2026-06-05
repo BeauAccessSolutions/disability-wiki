@@ -1,8 +1,8 @@
 ---
 title: Veterans’ Disability Benefits (U.S.)
-description: 
+description: Disabled veterans in the United States may qualify for benefits through the Department of Veterans Affairs (VA) in addition to, or instead of, Social…
 published: true
-date: 2026-06-05T19:29:59.249Z
+date: 2026-06-05T20:28:21.644Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-07T19:59:46.246Z
