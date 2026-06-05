@@ -1,8 +1,8 @@
 ---
 title: SSI (Supplemental Security Income)
-description: 
+description: SSI is a federal income-support program for people with limited income and resources who are disabled, blind, or age 65+. It's needs-based, meaning…
 published: true
-date: 2026-06-05T19:29:49.289Z
+date: 2026-06-05T20:28:09.449Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-07T19:59:35.491Z
