@@ -1,8 +1,8 @@
 ---
 title: Proving You're Disabled: Documentation, Gatekeeping, and Burden of Proof
-description: 
+description: All disabled people have the right to the supports they need without being forced to repeatedly prove their legitimacy. This page centers disabled people's…
 published: true
-date: 2026-06-05T20:17:13.438Z
+date: 2026-06-05T20:27:32.088Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-11T19:38:05.547Z
