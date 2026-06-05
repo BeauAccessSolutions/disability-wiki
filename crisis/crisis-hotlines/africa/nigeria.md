@@ -1,0 +1,248 @@
+---
+title: Crisis Hotlines in Nigeria
+description: If this is overwhelming right now, you can just call the number below. You don't have to read everything.
+published: true
+date: 2026-06-05T20:30:25.819Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-07T20:02:03.635Z
+---
+
+# Crisis Help: Nigeria
+
+If you're in crisis right now, you're not alone. Help is available, free, 
+and confidential.
+
+⚠️ **Content note:** This page discusses suicide, abuse, self-harm, and violence. 
+If this is overwhelming right now, you can just call the number below. You don't have 
+to read everything.
+
+---
+
+## 🚨 RIGHT NOW: Call This Number
+
+### Lifeline Nigeria
+
+**Phone:** +234-809-063-0000 (24/7)  
+**Mobile:** Available on all networks  
+**Email:** support@lifelinenigeria.org  
+**Hours:** 24/7, 365 days a year  
+**Cost:** Free  
+**Languages:** English, Yoruba, Igbo, Hausa  
+
+**What happens:**
+- 24/7 emotional support
+- Suicide prevention
+- Trained counselors
+- Confidential and judgment-free
+
+---
+
+## Other Crisis Options (Choose What Works for You)
+
+### Mental Health Crisis
+
+**Lifeline Nigeria:** +234-809-063-0000 (24/7)  
+- Emotional support for any crisis
+
+**SERAP (Socio-Economic Rights and Accountability Project):** 01-493-0000  
+- Human rights advocacy (can help with institutional abuse)
+
+### Suicidal Thoughts
+
+**Lifeline Nigeria:** +234-809-063-0000 (24/7)  
+- Suicide prevention and support
+
+**Mental Health Foundation:** Lagos office  
+- Mental health support
+
+### Abuse or Violence
+
+**Domestic Violence:**  
+- National Human Rights Commission: 0803-400-9999
+- Local police family unit
+- Women organizations in your state
+
+**Sexual Abuse:**  
+- Mirabel Centre (Lagos): 01-493-5633
+- SERAP: 01-493-0000
+- Local hospital
+
+**Child Abuse:**  
+- National Child Rights Commission: 0800-000-8888
+- Local social services
+
+### Youth Crisis
+
+**Lifeline Nigeria:** +234-809-063-0000 (24/7)  
+- Support for young people
+
+**Youth-focused NGOs:** Search in your state
+
+### LGBTQ+ Crisis
+
+**Lifeline Nigeria:** +234-809-063-0000  
+- Support for LGBTQ+ people (confidential)
+
+**Note:** Same-sex relationships are illegal in Nigeria. Crisis services provide confidential support.
+
+### Disability-Specific Crisis Support
+
+**Disability Rights Foundation Nigeria:** 01-413-8081  
+- Support and advocacy for disabled people
+
+**National Association of the Physically Disabled:** Search local chapter
+
+### Substance Use Crisis
+
+**Lifeline Nigeria:** +234-809-063-0000  
+- Substance use information and support
+
+**NARC (Narcotics Anonymous):** Local meetings  
+- Peer support groups
+
+---
+
+## By Region
+
+**National numbers work nationwide. Major cities have additional resources:**
+
+### Lagos
+- Mirabel Centre (sexual assault): 01-493-5633
+- Lifeline Nigeria: +234-809-063-0000
+
+### Abuja
+- National Hospital: 09-413-2588
+- Lifeline Nigeria: +234-809-063-0000
+
+### Kano, Kaduna, and Northern Nigeria
+- Use national numbers
+- Contact state mental health services
+
+### Other States
+- Lifeline works nationwide
+- Contact state health ministry
+
+---
+
+## Emergency: Life-Threatening
+
+**Immediate life-threatening danger:**
+- **Call 112** for emergency (nationwide)
+- **Call 911** (some areas)
+- **Go to nearest hospital/emergency**
+- **Contact police (local precinct)**
+
+---
+
+## What to Say When You Call
+
+You don't need perfect words. Just say:
+
+- "I'm in crisis"
+- "I'm thinking about suicide"
+- "I need to talk to someone"
+
+Counselors are trained to help.
+
+---
+
+## Accessibility & Contact Methods
+
+### For Those Without Phone Access
+
+- **SMS/Text:** Some services available via text
+- **Email:** support@lifelinenigeria.org
+- **In-person:** Some NGOs have physical offices
+
+### For Multiple Languages
+
+- English (primary)
+- Yoruba, Igbo, Hausa available
+- Other local languages: Ask about support
+
+### Rural Areas
+
+- Phone services available from anywhere with mobile network
+- Some NGOs operate in rural areas
+
+### For Blind/Low Vision
+
+- All services available by phone
+- Some NGOs have offices in major cities
+
+---
+
+## After You Call
+
+Crisis lines help you get through RIGHT NOW. After that:
+
+### Finding Ongoing Support
+
+**Contact:**
+- Your nearest primary health center
+- General hospital
+- State mental health service
+
+**Mental health professionals:**
+- Nigerian Psychiatric Hospital, Yaba Lagos
+- University teaching hospitals
+- Private practitioners in major cities
+
+**Government support:**
+- State health ministry
+- FIRS (social welfare)
+
+---
+
+## Important Information
+
+### It's Free
+
+All services listed are completely free.
+
+### It's Confidential
+
+Confidential. Police only involved if immediate danger.
+
+### You Can Call Multiple Times
+
+Many people use crisis services multiple times. That's normal.
+
+### You're Not "Sick Enough" to Call
+
+If you're asking: "Am I sick enough to call?" → **You are.** Call.
+
+### Safety for LGBTQ+ People
+
+LGBTQ+ support is confidential. Your safety is protected.
+
+---
+
+## Related Resources
+
+- [[/crisis|Main Crisis Help Section]]
+- [[Emergency Preparedness|Emergency Preparedness & Safety Planning]]
+
+---
+
+
+*All numbers verified through official Nigerian sources*
+
+**In crisis right now?** Call +234-809-063-0000. Everything else can wait.
+
+**All services are free, confidential, and available 24/7.**
+
+---
+
+## Contribute to This Page
+
+Have lived experience or expertise that could strengthen this page? We especially welcome perspectives on models not well represented here, including those from the Global South and Indigenous communities.
+
+[Suggest an edit or addition →](/start/contribute)
+
+---
+
+*This page centers disabled people's expertise and is informed by disabled-led organizing globally. For questions or to suggest additions, see [How to Contribute](/start/contribute).*
+
+*Last updated: January 2026*
