@@ -1,8 +1,8 @@
 ---
 title: Supported Employment and Vocational Rehabilitation
-description: 
+description: Disabled people have the right to work with the supports they need. Vocational rehabilitation and supported employment programs exist to help disabled people…
 published: true
-date: 2026-06-05T13:20:32.470Z
+date: 2026-06-05T20:33:50.476Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-27T23:14:05.180Z
