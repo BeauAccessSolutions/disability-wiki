@@ -2,7 +2,7 @@
 title: Crisis & Safety
 description: 
 published: true
-date: 2026-06-05T12:32:30.391Z
+date: 2026-06-05T14:57:49.680Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-11T19:40:21.571Z
@@ -65,7 +65,7 @@ Create a disability-specific emergency plan. Covers evacuation with mobility dev
 
 ### I'm Deaf or hard-of-hearing and need crisis support
 - **US**: [Video Relay Services (VRS)](https://www.fcc.gov/consumers/guides/video-relay-services-vrs)
-- **Canada**: [Bell VRS](https://www.bellvrs.ca/)
+- **Canada**: [Bell VRS](https://srvcanadavrs.ca/en/)
 - [See all accessibility options →](/crisis/disabled-crisis-support)
 
 ### I use AAC (Augmentative and Alternative Communication) or can't speak
