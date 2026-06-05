@@ -1,8 +1,8 @@
 ---
 title: SSDI – Social Security Disability Insurance (U.S.)
-description: 
+description: SSDI is a federal program that pays monthly cash benefits to disabled people who have worked and paid Social Security taxes.
 published: true
-date: 2026-06-05T12:31:59.291Z
+date: 2026-06-05T20:28:05.290Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-11T19:38:05.547Z
