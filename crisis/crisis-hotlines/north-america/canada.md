@@ -1,8 +1,8 @@
 ---
 title: Crisis Hotlines in Canada
-description: 
+description: If this is overwhelming right now, you can just call the number below. You don't have to read everything.
 published: true
-date: 2026-06-05T19:29:39.705Z
+date: 2026-06-05T20:31:15.070Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-07T20:02:52.712Z
