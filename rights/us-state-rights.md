@@ -1,8 +1,8 @@
 ---
 title: U.S. State Disability Rights Laws
-description: 
+description: Federal laws like the ADA provide a national floor for disability rights, but many states go further. State laws may cover smaller employers, provide…
 published: true
-date: 2026-06-05T14:59:09.505Z
+date: 2026-06-05T20:23:32.799Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T19:14:49.821Z
