@@ -1,8 +1,8 @@
 ---
 title: Americans with Disabilities Act (ADA)
-description: 
+description: All disabled people have the right to live free from discrimination and to participate fully in society. The Americans with Disabilities Act (ADA) is the…
 published: true
-date: 2026-06-05T20:17:40.230Z
+date: 2026-06-05T20:25:53.128Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-24T22:25:04.809Z
