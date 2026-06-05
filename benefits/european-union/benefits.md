@@ -1,8 +1,8 @@
 ---
 title: Disability Benefits – European Union (Overview)
-description: 
+description: The European Union includes many countries with different disability benefits systems, but they share some common themes:
 published: true
-date: 2026-06-05T12:31:25.720Z
+date: 2026-06-05T20:27:11.956Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-07T19:58:42.157Z
