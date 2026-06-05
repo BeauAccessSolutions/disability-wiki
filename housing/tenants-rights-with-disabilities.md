@@ -1,8 +1,8 @@
 ---
 title: Tenants' Rights with Disabilities
-description: 
+description: Once you're in rental housing, your rights continue and expand. You can request accommodations to policies and practices, you're protected from…
 published: true
-date: 2026-06-05T14:58:46.300Z
+date: 2026-06-05T20:38:20.465Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-07T20:08:03.275Z
