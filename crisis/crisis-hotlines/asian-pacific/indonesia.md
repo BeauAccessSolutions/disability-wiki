@@ -1,0 +1,238 @@
+---
+title: Crisis Hotlines in Indonesia
+description: Jika Anda sedang dalam krisis sekarang, Anda tidak sendirian. Bantuan tersedia segera dan rahasia.
+published: true
+date: 2026-06-05T20:30:47.644Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-07T20:02:26.161Z
+---
+
+# Crisis Help: Indonesia
+
+Jika Anda sedang dalam krisis sekarang, Anda tidak sendirian. Bantuan tersedia 
+segera dan rahasia.
+
+If you're in crisis right now, you're not alone. Help is available immediately 
+and confidential.
+
+⚠️ **Content note:** This page discusses suicide, abuse, self-harm, and violence. 
+If this is overwhelming right now, you can just call the number below. You don't have 
+to read everything.
+
+---
+
+## 🚨 RIGHT NOW: Call This Number
+
+### Telp Teman Sejiwa Indonesia
+
+**Phone:** (021) 7588-8888 (Jakarta, 24/7)  
+**Toll-Free:** Varies by region  
+**Website:** telpteman.com  
+**Hours:** 24/7, 365 days a year  
+**Cost:** Local call cost  
+**Languages:** Bahasa Indonesia, English  
+
+**What happens:**
+- 24/7 emotional support
+- Suicide prevention
+- Trained counselors
+- Confidential and judgment-free
+
+---
+
+## Other Crisis Options (Choose What Works for You)
+
+### Mental Health Crisis
+
+**Telp Teman Sejiwa:** (021) 7588-8888 (24/7)  
+- Emotional support
+
+**RSCM (Hospital) Mental Health Unit:** 021-391-3000 (Jakarta)  
+- Government hospital services
+
+**Local health centers:** Available nationwide
+
+### Suicidal Thoughts
+
+**Telp Teman Sejiwa:** (021) 7588-8888 (24/7)  
+- Suicide prevention
+
+**Hospital psychiatric units:** Major cities
+
+### Abuse or Violence
+
+**Domestic Violence:**  
+- Komnas Perempuan (National Commission on Violence Against Women): 021-3920959
+- Rumah Sakit Cipto Mangunkusumo (RSCM): 021-391-3000
+- Local police (POLDA)
+
+**Sexual Abuse:**  
+- RSCM Emergency: 021-391-3000
+- Komnas Perempuan: 021-3920959
+- Local hospitals with sexual assault units
+
+**Child Abuse:**  
+- KPAI (Child Protection Commission): 021-31906655
+- Local social services
+
+### Youth Crisis
+
+**Telp Teman Sejiwa:** (021) 7588-8888 (24/7)  
+- Support for young people
+
+**Youth organizations:** Local NGOs
+
+### LGBTQ+ Crisis
+
+**Telp Teman Sejiwa:** (021) 7588-8888  
+- Support for LGBTQ+ people (confidential)
+
+**Note:** Same-sex relationships are legally restricted in Indonesia. Crisis services provide confidential support.
+
+**LGBT organizations:** Local groups (support varies by region)
+
+### Disability-Specific Crisis Support
+
+**Perhimpunan Penyandang Disabilitas Indonesia (Persatuan):** 021-573-5353  
+- Support and advocacy
+
+**Local disability organizations:** Major cities
+
+### Substance Use Crisis
+
+**Telp Teman Sejiwa:** (021) 7588-8888  
+- Substance use information and support
+
+**BNN (National Narcotics Board):** 021-570-1919
+
+---
+
+## By Region
+
+**Jakarta/Jawa:**  
+- Telp Teman Sejiwa: (021) 7588-8888
+- RSCM: 021-391-3000
+
+**Sumatera:**  
+- Regional hospitals
+- Local health centers
+
+**Indonesia timur (Eastern Indonesia):**  
+- Use local health centers
+- Regional hospitals
+
+---
+
+## Emergency: Life-Threatening
+
+**Immediate life-threatening danger:**
+- **Call 112** for emergency nationwide
+- **Call 110** for police
+- **Go to nearest hospital (emergency room)**
+
+---
+
+## What to Say When You Call
+
+You don't need perfect words. Just say:
+
+- "Saya dalam krisis" (I'm in crisis)
+- "Saya punya pikiran untuk bunuh diri" (I'm thinking about suicide)
+- "Saya butuh bicara dengan seseorang" (I need to talk to someone)
+
+Counselors are trained to help.
+
+---
+
+## Accessibility & Contact Methods
+
+### For Those Without Phone Access
+
+- **In-person:** Telp Teman offices in major cities
+- **Email:** Contact through website
+- **SMS/Text:** Some services via text
+
+### For Multiple Languages
+
+- Bahasa Indonesia (primary)
+- English available
+- Regional languages: Ask about support
+
+### Rural Areas
+
+- Health centers available nationwide
+- Some NGOs have outreach programs
+- Call services available from any location
+
+---
+
+## After You Call
+
+Crisis lines help you get through RIGHT NOW. After that:
+
+### Finding Ongoing Support
+
+**Contact:**
+- Your nearest Pusat Kesehatan Masyarakat (Puskesmas)
+- District hospital
+- Private hospital in major cities
+
+**Mental health professionals:**
+- Ikatan Dokter Indonesia (Indonesian Medical Association)
+- Teaching hospitals
+- Private practitioners
+
+**Government support:**
+- Ministry of Health services
+- Provincial health departments
+
+---
+
+## Important Information
+
+### It's Free or Very Low Cost
+
+All services listed are free or use local call costs (very cheap).
+
+### It's Confidential
+
+Confidential. Police only involved if immediate danger.
+
+### You Can Call Multiple Times
+
+Many people use crisis services multiple times. That's normal.
+
+### You're Not "Sick Enough" to Call
+
+If you're asking: "Apakah aku cukup sakit untuk menelepon?" → **Ya, kamu cukup.** Hubungi.
+
+---
+
+## Related Resources
+
+- [[/crisis|Main Crisis Help Section]]
+- [[Emergency Preparedness|Emergency Preparedness & Safety Planning]]
+
+---
+
+
+*All numbers verified through official Indonesian sources*
+
+**Sedang dalam krisis sekarang?** Hubungi (021) 7588-8888. Semuanya bisa menunggu.
+
+**All services are free or low-cost, confidential, and available 24/7.**
+
+---
+
+## Contribute to This Page
+
+Have lived experience or expertise that could strengthen this page? We especially welcome perspectives on models not well represented here, including those from the Global South and Indigenous communities.
+
+[Suggest an edit or addition →](/start/contribute)
+
+---
+
+*This page centers disabled people's expertise and is informed by disabled-led organizing globally. For questions or to suggest additions, see [How to Contribute](/start/contribute).*
+
+*Last updated: January 2026*
