@@ -2,7 +2,7 @@
 title: Higher Education
 description: 
 published: true
-date: 2026-06-05T13:19:58.956Z
+date: 2026-06-05T14:58:04.047Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-27T22:52:49.396Z
@@ -322,7 +322,7 @@ Document everything. Report to disability services, ADA/civil rights coordinator
 ### United States
 
 - **U.S. Department of Education Office for Civil Rights**: ocr@ed.gov, 1-800-421-3481
-- **National Center for College Students with Disabilities**: www.nccsdlearningcenter.org
+- **National Center for College Students with Disabilities**: nccsd.ici.umn.edu
 - **AHEAD (Association on Higher Education and Disability)**: www.ahead.org
 - **Disability Rights Advocates**: dralegal.org
 
