@@ -1,8 +1,8 @@
 ---
 title: International Disability Benefits – Overview
-description: 
+description: Disability benefits and safety nets outside the U.S. are extremely diverse. Some countries have:
 published: true
-date: 2026-06-05T12:31:35.273Z
+date: 2026-06-05T20:27:19.924Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-07T19:58:49.727Z
