@@ -1,8 +1,8 @@
 ---
 title: U.S. Federal Disability Rights Laws
-description: 
+description: Disabled Americans are protected by a framework of federal civil rights laws. These laws exist because disabled people fought for them—through protests…
 published: true
-date: 2026-06-05T14:59:18.619Z
+date: 2026-06-05T20:23:28.024Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T19:14:38.965Z
