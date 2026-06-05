@@ -2,7 +2,7 @@
 title: Section 504 of the Rehabilitation Act
 description: 
 published: true
-date: 2026-06-05T19:30:05.455Z
+date: 2026-06-05T20:17:45.867Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T19:15:47.041Z
@@ -13,6 +13,23 @@ dateCreated: 2025-11-20T19:15:47.041Z
 Section 504 is a federal civil rights law that prohibits discrimination against disabled people by any program or activity receiving federal funding. Enacted in 1973, it was the first major federal law protecting disabled people's civil rights and remains foundational to disability rights today.
 
 ---
+
+## 2024 Update: The New HHS Section 504 Rule
+
+In May 2024, the U.S. Department of Health and Human Services (HHS) finalized the **first major update to its Section 504 regulations since 1977**. It applies to health and human-services programs that receive federal funding (hospitals, clinics, state health/Medicaid agencies, etc.).
+
+**Key new protections:**
+- **Medical treatment:** Providers cannot deny or limit care based on biased assumptions about a disabled person's quality or value of life.
+- **Value-assessment tools:** Bans the use of measures (like the "quality-adjusted life year," QALY) that devalue life extension for disabled people when deciding coverage.
+- **Websites & mobile apps:** Must meet **WCAG 2.1 Level AA** by **May 11, 2026** (recipients with 15+ employees) or **May 10, 2027** (fewer than 15).
+- **Accessible medical equipment:** Exam tables, weight scales, and other diagnostic equipment must be accessible — by **July 8, 2026**.
+- **Community integration (Olmstead):** Reinforces the right to receive services in the most integrated setting rather than being unnecessarily institutionalized.
+
+**Where to complain:** the **HHS Office for Civil Rights (OCR)**, generally within **180 days** of the discrimination.
+
+> **Note on damages:** You can sue to enforce Section 504 in federal court, but the Supreme Court's 2022 decision in *Cummings v. Premier Rehab Keller* held that **emotional-distress damages are not available** under Section 504. Available remedies include injunctive relief, policy changes, and (in some cases) other compensatory damages and attorney's fees.
+
+*Sources: https://www.federalregister.gov/documents/2024/05/09/2024-09237/ ; https://www.supremecourt.gov/opinions/21pdf/20-219_1b8e.pdf*
 
 ## What Section 504 Does
 
