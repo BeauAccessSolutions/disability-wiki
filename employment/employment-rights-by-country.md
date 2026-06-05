@@ -1,8 +1,8 @@
 ---
 title: Employment Rights by Country
-description: 
+description: All disabled people have the right to work on an equal basis with others. The UN Convention on the Rights of Persons with Disabilities (CRPD) Article 27…
 published: true
-date: 2026-06-05T13:20:17.060Z
+date: 2026-06-05T20:33:36.643Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-27T23:13:06.523Z
