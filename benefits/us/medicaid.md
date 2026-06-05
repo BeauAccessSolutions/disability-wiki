@@ -1,8 +1,8 @@
 ---
 title: Medicaid (U.S.)
-description: 
+description: Medicaid is a joint federal-state program that provides health coverage to:
 published: true
-date: 2026-06-05T12:31:54.460Z
+date: 2026-06-05T20:27:52.025Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-07T19:59:20.143Z
