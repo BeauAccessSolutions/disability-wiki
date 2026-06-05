@@ -1,8 +1,8 @@
 ---
 title: Early Intervention
-description: 
+description: Early intervention provides developmental support to infants and toddlers with disabilities or developmental delays. When done well, it can help children…
 published: true
-date: 2026-06-05T13:19:53.847Z
+date: 2026-06-05T20:33:19.206Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-28T00:24:12.087Z
