@@ -1,8 +1,8 @@
 ---
 title: Ehlers-Danlos Syndromes (EDS)
-description: 
+description: All disabled people have the right to the highest attainable standard of health without discrimination. This page centers disabled people's expertise and is…
 published: true
-date: 2026-06-05T12:32:13.933Z
+date: 2026-06-05T20:28:53.665Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-07T20:00:20.243Z
