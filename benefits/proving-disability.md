@@ -2,20 +2,10 @@
 title: Proving You're Disabled: Documentation, Gatekeeping, and Burden of Proof
 description: 
 published: true
-date: 2026-06-05T12:31:44.581Z
+date: 2026-06-05T20:17:13.438Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-11T19:38:05.547Z
----
-
----
-title: Proving You're Disabled: Documentation, Gatekeeping, and Burden of Proof
-description: 
-published: true
-date: 2025-12-30T22:16:38.655Z
-tags: 
-editor: markdown
-dateCreated: 2025-12-30T22:16:38.655Z
 ---
 
 # Proving You're Disabled: Documentation, Gatekeeping, and Burden of Proof
