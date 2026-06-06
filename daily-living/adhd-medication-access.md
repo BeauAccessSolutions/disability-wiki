@@ -20,16 +20,16 @@ dateCreated: 2026-06-06T00:00:00.000Z
 
 ## Why this keeps happening
 
-If you've been unable to fill your prescription, **it's not your fault and you're not imagining it.** The US has had an ongoing, well-documented shortage of ADHD stimulants since **October 2022**, when the FDA first listed amphetamine mixed salts (the active ingredient in Adderall) as in shortage. As of early 2026, the FDA database still lists amphetamine mixed salts (immediate- and extended-release) in shortage, with intermittent methylphenidate shortages too. Availability varies a lot by location, dose, and formulation.
+If you've been unable to fill your prescription, **it's not your fault and you're not imagining it.** The US has had an ongoing, well-documented shortage of ADHD stimulants since **October 2022**, when the FDA first listed amphetamine mixed salts (the active ingredient in Adderall) as in shortage. As of this review (June 2026), the FDA database still lists amphetamine mixed salts (immediate- and extended-release) in shortage, with intermittent methylphenidate shortages too — but status changes often, so check the live [FDA database](https://www.accessdata.fda.gov/scripts/drugshortages/Drugshortages.cfm) for the current picture. Availability varies a lot by location, dose, and formulation.
 
 It's a stubborn shortage because several causes stack up:
 
-- **DEA production quotas.** Stimulants are Schedule II, so the DEA sets an annual national ceiling on how much active ingredient can be made. Advocates argue the quotas lagged real demand; the DEA has raised them in response (a ~25% d-amphetamine increase in Oct 2025, with further 2026 increases finalized after thousands of public comments) — but supply hasn't fully caught up.
+- **DEA production quotas.** Stimulants are Schedule II, so the DEA sets an annual national ceiling on how much active ingredient can be made. Advocates argue the quotas have lagged real demand. The DEA has raised *some* quotas in response (it increased certain amphetamine-related quotas for 2026) — but not every shortage-relevant ingredient, and supply hasn't fully caught up. Current figures are in the DEA's [Federal Register quota notices](https://www.federalregister.gov/agencies/drug-enforcement-administration).
 - **Manufacturing and ingredient issues.** Multiple generic makers have reported backorders and sourcing problems; when one falls behind, others can't always absorb demand — partly because their output is quota-capped too.
 - **Rising demand.** ADHD diagnoses and prescriptions have increased across age groups, including adults.
 - **Controlled-substance rules amplify everything.** Schedule II limits how prescriptions move and how far ahead you can fill, so the system has little slack to absorb a disruption.
 
-**Outlook:** reporting in early 2026 suggests supply may not consistently meet demand nationwide until late 2026 or into 2027. Treat any "the shortage is over" claim with caution and check the primary databases.
+**Outlook:** supply has been improving unevenly, but availability remained inconsistent through much of 2026 and forecasts vary. Treat any "the shortage is over" claim with caution, and rely on the live FDA/ASHP databases below rather than predictions.
 
 ---
 
@@ -53,8 +53,8 @@ Your prescriber may switch you to something in stock. Whether any option fits *y
 
 ### The controlled-substance rules that make this hard
 Knowing the rules helps you plan. (This is the federal baseline; **states often add stricter rules**, so your pharmacist is the authority for your situation.)
-- **No refills on Schedule II.** Stimulants need a **new prescription each time**, and a Schedule II script generally expires within **6 months** of being written.
-- **Limited early fills.** A common within-the-rules approach: request the next prescription around **25–28 days** after the last fill (submit new scripts ~3 weeks before you run out) so you have runway to hunt if there's a problem.
+- **No refills on Schedule II.** Each fill needs a **new prescription** — stimulants can't be "refilled." Federal law does *not* set a specific expiration period for a Schedule II prescription (the 6-month rule people cite is the refill window for Schedule III–IV drugs). But your state, insurer, and pharmacy may impose stricter limits, so don't assume an older script is still fillable — check with your pharmacist.
+- **Limited early fills.** You generally can't fill a Schedule II prescription far in advance — but exactly how early you can request, transmit, and fill the next one varies by state, insurer, pharmacy, and your prescription's instructions. Ask your prescriber and pharmacist what's allowed for you, and plan enough runway to hunt if there's a problem.
 - **Transfers are limited.** Since August 2023, an *electronic* Schedule II prescription can be transferred between pharmacies for an initial fill **once, at the patient's request** — pharmacist-to-pharmacist. In practice, it's often easier to ask your *prescriber* to send a fresh e-script to a pharmacy that has stock.
 - **~30-day supply norm**, which is why this becomes a monthly logistics task.
 

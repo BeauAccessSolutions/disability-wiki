@@ -12,7 +12,7 @@ dateCreated: 2026-06-06T00:00:00.000Z
 
 *If you're in burnout right now and reading is hard: you don't have to read all of this. Skip to [Recovery & prevention](#recovery--prevention). You're allowed to rest first.*
 
-> **The short version:** Autistic burnout is real. It is not laziness, "giving up," or a character flaw. It's what happens when the demands on you outpace your capacity and support for too long — often after years of masking and pushing through. Recovery is real and possible. It's usually slow and non-linear, and it works best when you're allowed to do less, mask less, and be supported more. You are more than your most depleted day.
+> **The short version:** Autistic burnout is real. It is not laziness, "giving up," or a character flaw. It's what happens when the demands on you outpace your capacity and support for too long — often after years of masking and pushing through. Recovery is possible — usually slow and non-linear — and it works best when you're allowed to do less, mask less, and be supported more. You are more than your most depleted day.
 
 ---
 
@@ -46,7 +46,7 @@ This is a guide, not a screening tool — and the two can exist together. Depres
 
 ### How it differs from ordinary burnout
 
-Occupational burnout comes mainly from chronic *workplace* stress and often eases with time off. Autistic burnout comes from the cumulative cost of navigating a non-autistic world across *all* areas of life — including masking — and frequently **doesn't lift with ordinary rest alone.** The temporary skill loss and sensory spike are characteristic of *autistic* burnout specifically.
+Occupational burnout comes mainly from chronic *workplace* stress and often (though not always) eases with time off. Autistic burnout comes from the cumulative cost of navigating a non-autistic world across *all* areas of life — including masking — and frequently **doesn't lift with ordinary rest alone.** The temporary skill loss and sensory spike are characteristic of *autistic* burnout specifically.
 
 ---
 
@@ -62,6 +62,8 @@ You won't have all of these, but common signs include:
 - More frequent meltdowns or shutdowns
 - Feeling like you've "lost yourself" or can't do things you could a year ago
 
+> **Rule out the overlap.** Autistic burnout can look like — and co-occur with — other things. New, severe, rapidly worsening, or unexplained symptoms (exhaustion, cognitive changes, loss of function) can *also* reflect depression, sleep disorders, medication effects, thyroid problems, anemia, or other medical conditions. It's worth a medical check-up to rule these out, especially if symptoms are new or escalating — naming it as burnout and getting a medical evaluation aren't mutually exclusive.
+
 **The masking link.** Masking (suppressing stims, scripting conversations, forcing eye contact, hiding distress to seem "fine") is effortful all day, every day — and that cost compounds. It's a major driver of burnout, and it's especially common in **late-diagnosed, high-masking** autistic people who were never given accommodations. Naming what's happening is often the first relief.
 
 ### Meltdown vs. shutdown vs. burnout
@@ -70,13 +72,13 @@ You won't have all of these, but common signs include:
 - **Shutdown** — the **inward** version: going quiet, still, less responsive. Also acute and involuntary. Usually short.
 - **Burnout** — a **chronic state** lasting weeks or months, with skill loss, exhaustion, and reduced capacity.
 
-A rough metaphor: meltdowns and shutdowns are the alarm going off; burnout is the battery being drained.
+These aren't rigid categories — experiences vary, the two can blur, and not everyone fits the outward/inward split neatly. A rough metaphor: meltdowns and shutdowns are the alarm going off; burnout is the battery being drained.
 
 ---
 
 ## Recovery & prevention
 
-**Recovery is real.** Autistic adults do come back from burnout. It tends to be **slow, non-linear (good days and bad days), and individual** — your path won't look like anyone else's, and a setback isn't failure. Research points to three things linked with recovery: **acceptance and social support, time off and reduced expectations, and doing things in an autistic way (unmasking).**
+**Recovery is possible.** Many autistic people report partial or substantial recovery from burnout. It tends to be **slow, non-linear (good days and bad days), and individual** — your path won't look like anyone else's, and a setback isn't failure. The evidence so far comes mostly from autistic people's own accounts (qualitative, not long-term studies), but it consistently points to three things linked with recovery: **acceptance and social support, time off and reduced expectations, and doing things in an autistic way (unmasking).**
 
 In practice:
 
@@ -93,7 +95,7 @@ In practice:
 > You don't have to earn rest, or justify your needs with a good enough reason. Capacity tends to return more reliably when you stop fighting your own wiring.
 
 ### A note on crisis
-If you're thinking about suicide or are in crisis, please reach out: in the US, call or text **988** (Suicide & Crisis Lifeline); elsewhere, see [Crisis & Safety](/crisis/index) for your local line. Burnout can carry real despair, and asking for help is not weakness.
+If you're thinking about suicide or are in crisis, please reach out: in the US, call or text **988** (Suicide & Crisis Lifeline). Most contacts stay confidential, but crisis lines do sometimes involve emergency services — if that's a concern for you, [Disabled-Led Crisis Support](/crisis/disabled-crisis-support) lists peer-run alternatives. Elsewhere, see [Crisis & Safety](/crisis/index) for your local line. Burnout can carry real despair, and asking for help is not weakness.
 
 ---
 
