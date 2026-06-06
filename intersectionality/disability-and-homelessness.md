@@ -42,6 +42,8 @@ Homelessness doesn't hit all disabled people equally. It stacks with other forms
 
 Homelessness is a **housing and policy problem**, not a disability problem. The solution isn't to "fix" disabled people — it's accessible, affordable housing paired with the support services people actually need. The UN Convention on the Rights of Persons with Disabilities (**CRPD Article 19**) affirms the right of all disabled people to live in the community with support; homelessness is one of the most severe violations of that right.
 
+And people are never only their hardship. Disabled people experiencing homelessness build mutual-aid networks, peer support, and survival knowledge, and disabled-led organizing has won real change — from housing-first programs to the deinstitutionalization fights that insisted on community over confinement. Dignity, creativity, and community persist even where housing is denied.
+
 ---
 
 ## Related Pages

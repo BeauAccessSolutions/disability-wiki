@@ -1,6 +1,6 @@
 ---
 title: Race and Disability
-description: Race and disability are not separate experiences that simply add up — structural racism produces disability, and disability deepens racial harm. This page centers disabled people of color.
+description: Disabled people of color built the disability justice movement. This page centers their leadership, culture, and brilliance — and is honest about the systems they organize against.
 published: true
 date: 2026-06-05T20:20:13.549Z
 tags: 
@@ -10,59 +10,61 @@ dateCreated: 2025-11-20T19:06:40.509Z
 
 # Race and Disability
 
-Race and disability are deeply intertwined. They don't simply stack as "racism plus ableism." Structural racism *produces* disability — through environmental harm, medical neglect, birth injury, and state violence — and disability then *intensifies* racial harm. This page centers the experiences of disabled people of color, who live at that intersection.
+Race and disability are deeply intertwined — but this is not only a story about harm. Disabled people of color have shaped culture, led movements, and built the very framework of **disability justice** that this wiki draws on. They are not defined by what systems have done to them. This page centers their leadership and brilliance first, and is honest about the structures they organize against.
 
-> **A note on the numbers below:** disability statistics shift depending on the survey used, and some figures in this area (especially around policing) are estimates, not complete counts. We've named sources and flagged uncertainty rather than overstate precision.
-
----
-
-## Disability is unevenly distributed — by design
-
-Disability is more common in communities that have faced the most structural harm:
-
-- **American Indian/Alaska Native adults report the highest disability rates** of any racial group — roughly **31%** — with Black adults also well above white adults (CDC, BRFSS data, 2018–2019).
-- **Disabled people of color are the poorest group in the country.** About 1 in 4 disabled people live below the poverty line, and **Black and Indigenous disabled people have the highest poverty rates of all** (National Disability Institute, 2019).
-
-These gaps aren't natural. They trace to **environmental racism** (hazardous facilities and lead exposure concentrated in communities of color — Flint, Michigan is the best-known case), **medical racism**, and generations of disinvestment.
+> **A note on the numbers below:** disability statistics shift depending on the survey used, and some figures (especially around policing) are estimates, not complete counts. We name sources and flag uncertainty rather than overstate precision.
 
 ---
 
-## How racism produces and worsens disability
+## Disabled people of color built this movement
 
-**Medical racism.** Providers who hold false beliefs about biological "race differences" rate Black patients' pain as lower and undertreat it (PNAS, 2016). Black children are diagnosed with autism later and less often than white children (research summaries, 2022), delaying support.
+**Disability justice was created by disabled queer and trans people of color** — among them Patty Berne, Mia Mingus, Stacey Park Milbern, and Leah Lakshmi Piepzna-Samarasinha, who co-founded or shaped the performance project **Sins Invalid** and named its *10 Principles of Disability Justice*. The framework's core ideas — interdependence, collective access, "most-impacted lead," wholeness — come directly from their lived brilliance.
 
-**Maternal and infant health.** Black women die of pregnancy-related causes at roughly **2.6–3.5 times the rate of white women**, and Black infants die at more than twice the rate of white infants (KFF; CDC). Many survive birth complications that bring long-term disability for parent or child.
+This leadership is not new:
 
-**State violence and criminalization.** Researchers estimate that **up to half of people killed by police in the U.S. are disabled** (Ruderman Family Foundation, 2016). *This is an estimate drawn from media-reported cases, not a complete national dataset — there is no comprehensive U.S. database of police killings by disability status.* Disability-justice organizers, including the Harriet Tubman Collective, stress that disabled people of color bear the sharpest edge of this violence — and that disability is routinely erased from the stories of people killed or criminalized by the state.
+- **Brad Lomax**, a Black disabled activist and member of the **Black Panther Party**, was central to the **1977 Section 504 Sit-in** — the longest occupation of a federal building in U.S. history. The Panthers delivered hot meals every day for nearly a month, keeping the protest alive. Disability rights in the U.S. were won, in part, through Black radical solidarity.
+- **Johnnie Lacy** led independent-living organizing as a Black disabled woman, naming the racism inside the disability movement itself.
+- **Leroy Moore** founded **Krip-Hop Nation**, a global network of disabled hip-hop and music artists, much of it led by disabled people of color.
+- **Harriet Tubman** — who lived with a seizure disability from a head injury — is claimed as an ancestor by Black disabled organizers today.
 
-**School-to-prison pipeline.** Black students are about **40% more likely to be identified as having a disability**, and roughly twice as likely to be labeled with "emotional disturbance" or "intellectual disability" (Child Trends). The harm is less about headcount than about **mis-identification, segregated placement, and disciplinary removal**. *(There is genuine scholarly debate here — some research argues Black students are under-identified for the services they need; the disability-justice critique focuses on segregation and discipline rather than raw numbers.)*
-
----
-
-## A history that isn't over
-
-- **Eugenics and forced sterilization.** *Buck v. Bell* (1927) upheld compulsory sterilization; tens of thousands of people — disproportionately women of color — were sterilized under eugenics laws. By the 1970s, the Indian Health Service sterilized an estimated quarter of Native women of childbearing age, and Black and Latina women were coercively sterilized as well.
-- **Institutionalization.** Places like Willowbrook (NY) warehoused disabled children in horrific conditions until exposés and lawsuits in the 1970s helped spark deinstitutionalization.
-- **The movement's own blind spots.** In 2016, the **Harriet Tubman Collective** — Black Deaf and disabled organizers — argued that the Movement for Black Lives erased disability *and* that the disability-rights movement has its own white-supremacy problem, sidelining disabled people of color. Their essay *"Disability Solidarity: Completing the Vision for Black Lives"* is a foundational text for this page's framing.
-
-These histories are roots of present-day systems: guardianship, congregate care, coerced sterilization in detention, and segregated special education.
+The point: at every stage, disabled people of color have been **architects, not just subjects**.
 
 ---
 
-## Centering the most impacted
+## Culture, community, and joy
 
-Disability justice insists that **the people most affected should lead.** That means disabled people of color set the agenda on race and disability — not white-led disability organizations, and not non-disabled researchers describing them from the outside. This page aims to point you toward those voices.
+Beyond struggle, there is richness — language, art, humor, ritual, mutual aid, and chosen family built at this intersection. Disabled people of color create **access intimacy** (the ease of being with someone who gets your access needs), crip-of-color art and poetry, neurodivergent and Mad culture, Deaf communities of color with their own histories, and care networks that model a different way of being human together. Disability justice insists that disabled people of color are **whole** — full of complexity, desire, creativity, and futures — not problems to be solved.
+
+---
+
+## The structural realities (told honestly)
+
+None of that erases what people organize against. Structural racism *produces* disability and *deepens* its harms:
+
+- **Uneven distribution.** American Indian/Alaska Native adults report the highest disability rates of any racial group (~31%; CDC BRFSS, 2018–2019), and Black and Indigenous disabled people have the highest poverty rates of any group (National Disability Institute, 2019) — driven by environmental racism (e.g., lead exposure, Flint), medical neglect, and disinvestment, not by anything inherent.
+- **Medical racism.** Providers who hold false beliefs about "biological race differences" undertreat Black patients' pain (PNAS, 2016); Black children are diagnosed with autism later and less often (research summaries, 2022).
+- **Maternal health.** Black women die of pregnancy-related causes at roughly 2.6–3.5× the rate of white women (KFF; CDC).
+- **State violence.** Researchers estimate up to half of people killed by police are disabled (Ruderman Foundation, 2016) — *an estimate from media-reported cases, not a complete dataset* — and organizers like the **Harriet Tubman Collective** stress that disabled people of color bear its sharpest edge, while disability is erased from the story.
+- **School-to-prison pipeline.** Black students are ~40% more likely to be labeled as having a disability (Child Trends) — a story less about headcount than about mis-identification, segregation, and discipline. *(There's genuine scholarly debate about over- vs. under-identification.)*
+
+These are conditions to change — and disabled people of color have always been the ones leading that change.
+
+---
+
+## A history of harm — and resistance
+
+Eugenics and forced sterilization targeted communities of color (*Buck v. Bell*, 1927; an estimated quarter of Native women of childbearing age sterilized by the Indian Health Service by the 1970s; coerced sterilizations of Black and Latina women). Institutions like Willowbrook warehoused disabled children. But each of these systems was met with organizing, lawsuits, exposés, and survivors who refused to disappear — and that resistance is as much the history as the harm.
 
 ---
 
 ## Organizations and resources
 
-- **[National Black Disability Coalition](https://www.blackdisability.org/)** — advances disability equity in the Black community and centers Black disabled people across both movements.
-- **[Sins Invalid](https://sinsinvalid.org/)** — disability-justice performance and movement-building project centering disabled people of color and queer/trans disabled people; originators of the *10 Principles of Disability Justice*.
-- **[HEARD](https://behearddc.org/)** — cross-disability, abolitionist organization supporting Deaf and disabled incarcerated people.
-- **[The Autistic People of Color Fund](https://autismandrace.com/)** — mutual-aid microgrants redistributing money directly to autistic people of color.
-- **[Disability & Philanthropy Forum](https://disabilityphilanthropy.org/)** — mobilizes funders to dismantle ableism and resource disability justice.
-- **Harriet Tubman Collective** — read their statement *["Disability Solidarity: Completing the Vision for Black Lives"](https://medium.com/@harriettubmancollective/disability-solidarity-completing-the-vision-for-black-lives-119ee03e9822)*.
+- **[National Black Disability Coalition](https://www.blackdisability.org/)** — disability equity in the Black community, by and for Black disabled people.
+- **[Sins Invalid](https://sinsinvalid.org/)** — disability-justice performance project centering disabled people of color and queer/trans disabled people.
+- **[HEARD](https://behearddc.org/)** — abolitionist organization supporting Deaf and disabled incarcerated people.
+- **[The Autistic People of Color Fund](https://autismandrace.com/)** — mutual-aid microgrants for autistic people of color.
+- **[Disability & Philanthropy Forum](https://disabilityphilanthropy.org/)** — resourcing disability justice.
+- **Harriet Tubman Collective** — read *["Disability Solidarity: Completing the Vision for Black Lives"](https://medium.com/@harriettubmancollective/disability-solidarity-completing-the-vision-for-black-lives-119ee03e9822)*.
 
 ---
 
@@ -71,10 +73,10 @@ Disability justice insists that **the people most affected should lead.** That m
 - [Indigenous Disability Perspectives](/intersectionality/indigenous-disability-perspectives)
 - [Poverty and Class](/intersectionality/poverty-and-class) · [Disability and Homelessness](/intersectionality/disability-and-homelessness)
 - [Incarceration and Criminalization](/intersectionality/incarceration-and-criminalization)
-- [Understanding Medical Bias](/healthcare/medical-bias) · [What Is Disability?](/foundations/what-is-disability)
+- [Disability Culture](/foundations/disability-culture) · [What Is Disability?](/foundations/what-is-disability)
 
 ---
 
 ## Contribute to This Page
 
-This page especially needs the expertise of disabled people of color. If you have lived experience or knowledge that could strengthen it — including corrections to any figure or framing — see [How to Contribute](/glossary/how-to-contribute).
+This page especially needs the expertise and stories of disabled people of color — including the joy and culture, not only the struggle. If you can strengthen or correct it, see [How to Contribute](/glossary/how-to-contribute).

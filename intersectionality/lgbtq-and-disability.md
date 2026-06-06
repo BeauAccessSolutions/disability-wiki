@@ -1,6 +1,6 @@
 ---
 title: LGBTQ+ and Disability
-description: LGBTQ+ people report disability at roughly 1.5–2x the rate of others. The two experiences share a history of being medicalized — and disability justice was built by queer, trans, disabled people of color.
+description: Queer and trans disabled people built disability justice and a rich culture of interdependence and joy. This page centers that — and is honest about the systems they navigate.
 published: true
 date: 2026-06-05T20:20:02.062Z
 tags: 
@@ -10,68 +10,61 @@ dateCreated: 2025-11-20T19:06:17.862Z
 
 # LGBTQ+ and Disability
 
-LGBTQ+ people and disabled people share more than overlapping membership — they share a history of being defined as "disorders" to be cured, and a present in which systems force people to split themselves into one identity at a time. Many people live at both intersections at once.
+Queer, trans, and disabled lives overlap richly — and that overlap is a source of culture, creativity, and political power, not just hardship. Disability justice itself was largely built by queer and trans disabled people. This page leads with that, while being honest about the systems people navigate.
 
-> **A note on the numbers:** disability and LGBTQ+ statistics vary a lot depending on how each study defines its terms and who it surveys. We give ranges and name sources rather than cite a single headline figure.
+> **A note on the numbers:** disability and LGBTQ+ statistics vary a lot by how each study defines its terms and who it surveys. We give ranges and name sources rather than cite a single headline figure.
 
 ---
 
-## How common is the overlap?
+## This intersection is foundational
 
-Studies consistently find that **LGBTQ+ people report disability at roughly 1.5 to 2 times the rate of non-LGBTQ+ people**, with the highest rates among **bisexual and transgender people**:
+**Disability justice was created largely by queer and trans disabled people of color** — the founders and shapers of **Sins Invalid** and its *10 Principles of Disability Justice*. The framework's most generative ideas — interdependence over forced independence, collective access, crip and queer "worldmaking" — come from people living at exactly this intersection. Being LGBTQ+ *and* disabled isn't a double burden to manage; for many, it's a vantage point that has produced some of the most imaginative thinking about how humans care for each other.
 
-- The **Williams Institute** (using CDC BRFSS data, the most conservative measure) finds about **28% of LGBT men and 35% of LGBT women report a disability**, versus 14% and 22% of non-LGBT men and women.
-- A **Center for American Progress** community survey (2024) found **48% of LGBTQI+ people — and 70% of transgender respondents — identified as disabled**, most commonly with mental-health disabilities and chronic illness. *(This is a community/opt-in sample, so it runs higher than probability surveys.)*
-- The **Trevor Project** (2023–2024) found about **30% of LGBTQ+ youth reported a disability — roughly double the rate for youth overall**.
+---
 
-The relationship runs both ways: stigma and minority stress raise disability and chronic-illness risk, *and* disabled people may be more likely to be openly LGBTQ+. Both can be true.
+## Culture, community, and joy
+
+There is a deep well of queer disabled culture: chosen family, access intimacy, mutual aid, crip and trans art and performance, online communities that make connection possible when bodies and worlds don't cooperate. Many queer disabled people describe finding, at this intersection, a freedom to **define themselves on their own terms** — rejecting the idea that either queerness or disability is something to fix. Interdependence, here, is not a sad necessity. It's a practice of love.
 
 ---
 
 ## A shared history of being pathologized
 
-Both communities know what it's like to have their existence treated as a medical problem:
+Part of what bonds these communities is a shared experience of being labeled "disorders":
 
-- **Homosexuality was classified as a mental disorder** in the American Psychiatric Association's DSM from 1952 until the board voted to remove it in **December 1973** — though it lingered in modified forms until **1987**.
-- **"Gender identity disorder"** entered the DSM in 1980; the DSM-5 (2013) replaced it with **"gender dysphoria,"** shifting the focus from identity to distress.
+- **Homosexuality was classified as a mental disorder** in the APA's DSM from 1952 until the board voted to remove it in **December 1973** (lingering in modified forms until **1987**).
+- **"Gender identity disorder"** entered the DSM in 1980; the DSM-5 (2013) replaced it with **"gender dysphoria,"** shifting focus from identity to distress.
 
-This shared history is why so many LGBTQ+ and disabled organizers are wary of "cure" framing — and why **disability justice**, the framework this wiki draws on, was built largely by **queer and trans disabled people of color** (notably Sins Invalid). The intersection isn't an add-on; it's foundational.
+Both communities know the harm of "cure" framing — which is exactly why so many queer disabled organizers reject it, and why disability justice centers self-determination instead.
 
 ---
 
-## Disparities come from systems, not identity
+## The realities (told honestly)
 
-Worse health and safety outcomes at this intersection are **produced by stigma, discrimination, and inaccessibility — not by being LGBTQ+ or disabled.** The research is clear that the **minority stress** of living in a hostile environment, not identity itself, drives mental-health disparities.
+Centering joy doesn't mean ignoring barriers — it means refusing to let barriers be the whole story.
 
-- **Discrimination compounds.** In the 2024 CAP survey, **51% of disabled LGBTQI+ adults reported discrimination in the past year — about double the rate for non-disabled LGBTQI+ adults.**
-- **Care gets postponed.** Many disabled LGBTQI+ people delay medical care because of cost or because of disrespect and discrimination from providers.
-- **Youth homelessness.** LGBTQ+ youth face roughly double the homelessness risk of their peers; disability raises it further (the specific combined figure isn't well measured, but both factors independently increase risk).
+- **Higher reported disability.** Studies consistently find LGBTQ+ people report disability at roughly **1.5–2× the rate** of others, highest among bisexual and transgender people (Williams Institute / BRFSS gives the most conservative numbers; community surveys like CAP's 2024 study run higher). The Trevor Project found ~30% of LGBTQ+ youth report a disability, about double the youth average.
+- **Disparities come from systems, not identity.** Worse mental-health outcomes are explained by **minority stress** — the strain of stigma and discrimination — not by being LGBTQ+ or disabled.
+- **Compounded discrimination.** In CAP's 2024 survey, 51% of disabled LGBTQI+ adults reported discrimination in the past year, about double the rate for non-disabled LGBTQI+ adults; many delay care due to cost or provider hostility.
 - **Conversion therapy** — condemned by every major medical association — is linked to more than double the suicide-attempt risk among LGBTQ+ youth. *(Its legal status is changing; check current law in your area.)*
 
 ---
 
 ## "Don't make me pick one"
 
-A recurring harm is being forced to foreground a single identity to get help:
-
-- LGBTQ+ spaces and events are often **not physically or sensorily accessible** (no ramps, no ASL, no low-sensory options, no plain language).
-- Disability services are often **not queer- or trans-affirming**, assuming everyone is straight and cisgender.
-
-Accessibility runs both directions. "Most-impacted lead" — a core disability-justice principle — means multiply-marginalized people should set the agenda in both movements.
-
-> **Dedicated organizations at this exact intersection are genuinely scarce** — itself a sign that people here are under-resourced. The list below mixes a few intersection-specific groups with broader LGBTQ+ and disability organizations.
+A common harm is being forced to foreground one identity to get help: LGBTQ+ spaces that aren't physically or sensorily accessible, and disability services that assume everyone is straight and cisgender. **Accessibility runs both ways**, and "most-impacted lead" means multiply-marginalized people set the agenda. Where dedicated organizations at this exact intersection are scarce — and they are — that scarcity is itself worth naming.
 
 ---
 
 ## Organizations and resources
 
-- **[Sins Invalid](https://sinsinvalid.org/)** — disability-justice project centering queer/trans disabled people of color; originators of the *10 Principles of Disability Justice*.
-- **[Deaf Queer Resource Center](http://dqrc.org/)** — national nonprofit uplifting Deaf Queer and Trans lives.
+- **[Sins Invalid](https://sinsinvalid.org/)** — disability-justice project centering queer/trans disabled people of color.
+- **[Deaf Queer Resource Center](http://dqrc.org/)** — uplifting Deaf Queer and Trans lives.
 - **[Rainbow Alliance of the Deaf](https://rad.org/)** — community and advocacy for Deaf LGBTQIA+ people.
-- **[The Trevor Project](https://www.thetrevorproject.org/)** — crisis support and research for LGBTQ+ young people (and publisher of the disability research cited here).
-- **[Trans Lifeline](https://translifeline.org/)** — peer-support crisis hotline by and for trans people (US: 1-877-565-8860).
-- **[LGBT National Help Center](https://lgbthotline.org/)** — free, confidential peer-support hotlines.
-- **[GLMA: Health Professionals Advancing LGBTQ+ Equality](https://www.glma.org/)** — runs a free LGBTQ+-affirming healthcare provider directory.
+- **[The Trevor Project](https://www.thetrevorproject.org/)** — crisis support and research for LGBTQ+ young people.
+- **[Trans Lifeline](https://translifeline.org/)** — peer-support crisis line by and for trans people (US: 1-877-565-8860).
+- **[LGBT National Help Center](https://lgbthotline.org/)** — free, confidential peer support.
+- **[GLMA](https://www.glma.org/)** — LGBTQ+-affirming healthcare provider directory.
 
 *For crisis numbers, see also [Crisis & Safety](/crisis/index).*
 
@@ -81,10 +74,10 @@ Accessibility runs both directions. "Most-impacted lead" — a core disability-j
 
 - [Gender and Disability](/intersectionality/gender-and-disability)
 - [Race and Disability](/intersectionality/race-and-disability) · [Disability and Homelessness](/intersectionality/disability-and-homelessness)
-- [Mental Health](/healthcare/mental-health) · [What Is Disability?](/foundations/what-is-disability)
+- [Disability Culture](/foundations/disability-culture) · [Mental Health](/healthcare/mental-health)
 
 ---
 
 ## Contribute to This Page
 
-This page especially needs the expertise of LGBTQ+ disabled people. If you have lived experience or knowledge that could strengthen it — including corrections to any figure or framing — see [How to Contribute](/glossary/how-to-contribute).
+This page especially needs the expertise and stories of LGBTQ+ disabled people — the culture and joy, not only the barriers. If you can strengthen or correct it, see [How to Contribute](/glossary/how-to-contribute).

@@ -49,6 +49,8 @@ Two disabled people can have the same diagnosis and completely different lives d
 
 Disability justice insists on centering the **most economically marginalized** disabled people — not treating disability as a single, classless experience.
 
+But poverty is a condition imposed, not an identity. Disabled people living on low incomes sustain mutual-aid funds, time banks, skill-sharing, and some of the most resourceful community-care networks anywhere — and disabled-led movements are actively fighting to raise asset limits, end marriage penalties, and build economies based on interdependence rather than scarcity. People are the experts on their own survival, and they are far more than their bank balance.
+
 ---
 
 ## Related Pages
