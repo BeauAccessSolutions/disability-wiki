@@ -49,12 +49,12 @@ Tracks fixes against the Codex audit (`AUDIT_RESULTS_2026-06-06.md`). Site is Wi
 - `poverty-and-class` — "designed to keep disabled people poor" → "can keep / are structured to" (intent-as-fact); qualify Medicaid-loss/work-disincentive; source the "earn less for same work" claim
 - `disability-and-homelessness` — "researchers consistently estimate ~half" is not defensible universally (sheltered data ~35%); name dataset/scope; attribute the CRPD Art. 19 "violation" as interpretation
 
-**In PR #5 (fix before merge — not yet live):**
+**✅ FIXED on PR #5 branch `content/intersectionality-remaining-6` (commit `5e6fa4f`, pushed 2026-06-07) — verified vs primary sources. Merge-ready except where noted. The fixes applied to each:**
 - `rural-disability` — **remove "friends sharing medication"** (unsafe/unlawful to normalize); drop the unsupported WHO "large majority rural" claim; split hospital "closed" vs "converted" (81/65, USDA); source travel/physician/AgrAbility/prevalence/broadband; soften CIL "statutory rural-outreach mandate"
-- `indigenous-disability-perspectives` — **GAO sterilization fix** (GAO found non-compliance with IHS consent regs, NOT "court moratorium violations"; cite GAO HRD-77-3); still needs Indigenous disabled review before merge
+- `indigenous-disability-perspectives` — **GAO sterilization fix** (GAO found non-compliance with IHS consent regs, NOT "court moratorium violations"; cited GAO HRD-77-3). ⚠️ **STILL NEEDS Indigenous disabled review before merge** — a publication-quality prerequisite that AI cannot satisfy.
 - `immigration-and-refugees` — date the "late 2025 public-charge moves" to a specific memo/proposal; note 2022 rule remains operative; cite agency rules for the §504 claim
 - `incarceration-and-criminalization` — keep BJS 32%/40% only with 2011–12 date (note 2016 = 38%); source the solitary-suicide and "hundreds of bills" claims; give the exact FCC order/date
-- `gender-and-disability` — date the NWLC "31 states" figure (2025 NWLC says 30); link the 2.27× OR + the ~2× lifetime study
+- `gender-and-disability` — linked the 2.27× OR meta-analysis (Mailhot Amborski 2022) + the ~2× lifetime figure (CDC). **Audit correction:** the note "2025 NWLC says 30" was wrong — the current NWLC/AWN report says **31 states + DC** (verified), so the page's figure was kept and only re-dated.
 - `religion-and-disability` — name the 2021 Jewish faith-inclusion survey + population; fix the AAPD IDAC link (redirects to 2011) and the RespectAbility→Disability Belongs redirect
 
 ### Spanish (`es/`) translation sync — ⚠️ added 2026-06-07
