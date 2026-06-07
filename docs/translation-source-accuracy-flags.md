@@ -29,6 +29,14 @@ on them:
 
 **Remaining ES sync (next session):** the benefits/ and rights/ pages listed above (⬜) are NOT yet synced to their Tier B/C English corrections.
 
+### ⚠️ ES SYNC — employment/ + education/ (added 2026-06-07, from cold slop-sweep fixes)
+These English pages were corrected this session (commits `8fa5f04`, `1f98057`) and their `es/` counterparts are now stale:
+- ⬜ `es/employment/workplace-accommodations.md` — §503/§504 split (federal contractors = 503); JAN cost figures + source; ESA case-by-case
+- ⬜ `es/employment/employment-rights-by-country.md` — Spain LISMI → Royal Legislative Decree 1/2013; CRPD "standard ≠ enforceable remedy" caveat at lead
+- ⬜ `es/employment/job-searching-with-a-disability.md` — "studies show … fewer callbacks" → Ameri et al. 2018 (~26%) + link
+- ⬜ `es/education/higher-education.md` — CRPD "signed" → "ratified" + US-signed-not-ratified caveat
+- ⬜ `es/education/k12-education.md` — same CRPD signing≠ratifying caveat
+
 ---
 
 ## benefits/ (category complete — 20 pages, June 2026)
