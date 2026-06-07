@@ -435,7 +435,7 @@ Algunos navegadores enfocados en la privacidad pueden tener menos funciones de a
 ## Páginas relacionadas
 
 - [Comparación de lectores de pantalla](/es/tech/screen-reader-comparison)
-- [Accesibilidad digital más allá de las listas de verificación](/es/tech/real-world-accessibility)
+- [Accesibilidad digital más allá de las listas de verificación](/es/tech/digital-disability-justice)
 - [Accesibilidad web](/es/tech/web-accessibility)
 - [Accesibilidad en dispositivos móviles y sistemas operativos](/es/tech/mobile-and-os-accessibility)
 

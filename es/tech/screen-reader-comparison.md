@@ -477,7 +477,7 @@ Algunas personas usuarias necesitan tanto la ampliación como la lectura de pant
 
 - [Navegadores y tecnología de apoyo](/es/tech/browsers-assistive-tech)
 - [Accesibilidad web](/es/tech/web-accessibility)
-- [Accesibilidad digital más allá de las listas de verificación](/es/tech/real-world-accessibility)
+- [Accesibilidad digital más allá de las listas de verificación](/es/tech/digital-disability-justice)
 - [Accesibilidad en dispositivos móviles y sistemas operativos](/es/tech/mobile-and-os-accessibility)
 - [Acceso a la comunicación y AAC](/es/tech/communication-access-and-aac)
 

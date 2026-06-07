@@ -12,7 +12,7 @@ dateCreated: 2026-01-11T19:41:46.293Z
 
 Todas las personas con discapacidad tienen derecho a una atención de salud que respete su conocimiento sobre su propio cuerpo. Esta página pone en el centro los conocimientos de las personas con discapacidad y se nutre de las estrategias de supervivencia que las comunidades de personas con discapacidad han desarrollado para sortear sistemas de salud que con demasiada frecuencia causan daño.
 
-Esta página se enfoca en el reconocimiento práctico, la sanación y la autodefensa. Para un análisis más profundo de por qué ocurren estos patrones, consulta [Entender el sesgo médico](/es/healthcare/understanding-medical-bias).
+Esta página se enfoca en el reconocimiento práctico, la sanación y la autodefensa. Para un análisis más profundo de por qué ocurren estos patrones, consulta [Entender el sesgo médico](/es/healthcare/medical-bias).
 
 ---
 
@@ -123,7 +123,7 @@ Presta atención a cuándo:
 
 **Rechazo de varios profesionales:** Cuando un profesional tras otro dice que es psicológico. Esto puede pasar porque algunas afecciones son difíciles de diagnosticar, o porque cada profesional ve el rechazo anterior y asume que estaba justificado. Que un patrón se repita no lo hace correcto.
 
-Para un análisis más profundo de por qué ocurren estos patrones de forma sistémica, consulta [Entender el sesgo médico](/es/healthcare/understanding-medical-bias).
+Para un análisis más profundo de por qué ocurren estos patrones de forma sistémica, consulta [Entender el sesgo médico](/es/healthcare/medical-bias).
 
 ---
 
@@ -486,7 +486,7 @@ Comparte a través de nuestro [formulario de contribución](/es/glossary/how-to-
 
 ## Páginas relacionadas
 
-- [Entender el sesgo médico](/es/healthcare/understanding-medical-bias) — Por qué el rechazo médico ocurre de forma sistémica
+- [Entender el sesgo médico](/es/healthcare/medical-bias) — Por qué el rechazo médico ocurre de forma sistémica
 - [Derechos en la atención de salud](/es/healthcare/healthcare-rights) — Tus derechos legales en entornos médicos
 - [Atención de salud accesible](/es/healthcare/accessible-healthcare) — Encontrar personal de salud que funcione
 - [Defensa y autodefensa](/es/rights/advocacy-and-self-advocacy) — Desarrollar habilidades de defensa

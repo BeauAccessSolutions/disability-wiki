@@ -114,3 +114,22 @@ index pages. Propagated to `es/`:
 - `es/education/index.md`, `es/daily-living/index.md`, `es/relationships/index.md`, `es/community/online-communities/index.md`
 
 All 12 files pass `check_translation.py`.
+
+---
+
+## Final broken-link clearance + 4 new pages (synced 2026-06-07, English commit `d5772e6`)
+
+English commit `d5772e6` cleared the last 35 broken links (2 repoints + 4 new
+pages, bringing the repo to 0 broken). Propagated to `es/`:
+
+### ✅ Repoints applied to es/
+- `es/tech/screen-reader-comparison.md`, `es/tech/browsers-assistive-tech.md` — `/tech/real-world-accessibility`→`/tech/digital-disability-justice`
+- `es/healthcare/medical-gaslighting.md` — `/healthcare/understanding-medical-bias`→`/healthcare/medical-bias` (3 refs)
+
+### ✅ New Spanish pages (translated from the English originals)
+- `es/community/disability-specific-peer-groups.md` (org names/acronyms kept in English: ASAN, NAD, AADB, NFB, SABE, DBSA, NAMI, CommunicationFIRST, The Arc, Helen Keller National Center, Hearing Voices Network USA)
+- `es/foundations/language-terminology-identity.md`
+- `es/foundations/epistemic-injustice.md`
+- `es/daily-living/mobility-aid-stigma.md`
+
+All 7 files pass `check_translation.py`; all `/es/` cross-links resolve.
