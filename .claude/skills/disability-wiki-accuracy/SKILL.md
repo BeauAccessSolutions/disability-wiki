@@ -54,6 +54,12 @@ facts cause real harm. Review and fix with primary-source verification.
   Title II, *Barnes v. Gorman*; "ADA excludes LGBTQ+ people" — overstated; statute
   says LGB "not impairments", and people with a disability are still protected).
 - **Agency renames** (CA DFEH → Civil Rights Department; "1300"→"1323" Thailand DMH).
+- **Propagated copies of one error.** The same wrong claim is often pasted across
+  sibling pages. The audit flagged "one car excluded *up to a value*" on `ssi.md`;
+  the identical error was also sitting unflagged on `benefits/index.md`. So when you
+  confirm an error, **`grep` the exact wrong phrasing across the repo** (English
+  content; exclude `es/`) and fix every copy in the same pass — don't trust that the
+  audit found them all.
 - **Frontmatter leaking into the body**, unbalanced code fences, `[Date]`/placeholder
   text, dead org URLs, `forms.gle` placeholders.
 
@@ -67,6 +73,8 @@ facts cause real harm. Review and fix with primary-source verification.
 4. Commit per tier with a clear message; **force-sync** life-safety fixes immediately
    (use disability-wiki-edit). Lower tiers can ride the 5-min auto-pull.
 5. **Verify after:** re-check the old wrong values are gone and the new ones present.
+   Then **`grep` the exact wrong phrasing repo-wide** to catch the same error pasted
+   onto sibling pages, and fix those too.
 6. If you changed an English page, flag its `es/` counterpart as out of sync.
 7. Track progress in a status doc (e.g. AUDIT_REMEDIATION_STATUS.md) for multi-pass work.
 
