@@ -57,7 +57,7 @@ Esta página te conecta con recursos de crisis en toda África.
 
 ## África del Norte
 
-### Argelia
+### Argelia {#algeria}
 
 **SOS Psychologique**
 - Teléfono: 0800-00-10-18 (gratuito)
@@ -70,7 +70,7 @@ Esta página te conecta con recursos de crisis en toda África.
 
 ---
 
-### Egipto
+### Egipto {#egypt}
 
 **⚠️ Importante:** Egipto actualmente **no cuenta con una línea de prevención del suicidio en funcionamiento**. Befrienders Cairo cerró aproximadamente en 2005.
 
@@ -90,7 +90,7 @@ Esta página te conecta con recursos de crisis en toda África.
 
 ---
 
-### Libia
+### Libia {#libya}
 
 **Servicios formales de crisis limitados actualmente disponibles debido al conflicto en curso**
 
@@ -101,7 +101,7 @@ Esta página te conecta con recursos de crisis en toda África.
 
 ---
 
-### Marruecos
+### Marruecos {#morocco}
 
 **SOS Help (en inglés)**
 - Teléfono: (0537) 76-06-04
@@ -117,7 +117,7 @@ Esta página te conecta con recursos de crisis en toda África.
 
 ---
 
-### Túnez
+### Túnez {#tunisia}
 
 **SOS Tunis**
 - Teléfono: (71) 783-888
@@ -132,7 +132,7 @@ Esta página te conecta con recursos de crisis en toda África.
 
 ## África Occidental
 
-### Ghana
+### Ghana {#ghana}
 
 **Mental Health Authority Crisis Line**
 - Teléfono: 0800-900-909 (gratuito)
@@ -153,7 +153,7 @@ Esta página te conecta con recursos de crisis en toda África.
 
 ---
 
-### Nigeria
+### Nigeria {#nigeria}
 
 **Para recursos de crisis completos en Nigeria, consulta [Ayuda en crisis: Nigeria](/es/crisis/nigeria)**
 
@@ -165,7 +165,7 @@ Esta página te conecta con recursos de crisis en toda África.
 
 ---
 
-### Senegal
+### Senegal {#senegal}
 
 **SOS Village d'Enfants Senegal**
 - Teléfono: 800-00-10-10
@@ -179,7 +179,7 @@ Esta página te conecta con recursos de crisis en toda África.
 
 ## África Oriental
 
-### Etiopía
+### Etiopía {#ethiopia}
 
 **Ethiopia Toll-Free Hotline**
 - Teléfono: 952 o 8399
@@ -193,7 +193,7 @@ Esta página te conecta con recursos de crisis en toda África.
 
 ---
 
-### Kenia
+### Kenia {#kenya}
 
 **Kenya Red Cross Counseling**
 - Teléfono: 1199 (gratuito, 24/7)
@@ -218,7 +218,7 @@ Esta página te conecta con recursos de crisis en toda África.
 
 ---
 
-### Tanzania
+### Tanzania {#tanzania}
 
 **National Crisis Hotline**
 - Teléfono: 0800-110-555 (gratuito)
@@ -231,7 +231,7 @@ Esta página te conecta con recursos de crisis en toda África.
 
 ---
 
-### Uganda
+### Uganda {#uganda}
 
 **Mental Health Uganda**
 - Teléfono: 0800-20-24-24 o 0417-711-200
@@ -253,7 +253,7 @@ Esta página te conecta con recursos de crisis en toda África.
 
 ## África Austral
 
-### Botsuana
+### Botsuana {#botswana}
 
 **Lifeline Botswana**
 - Teléfono: 3911-270 o 3912-279
@@ -270,7 +270,7 @@ Esta página te conecta con recursos de crisis en toda África.
 
 ---
 
-### Namibia
+### Namibia {#namibia}
 
 **LifeLine/ChildLine Namibia**
 - Teléfono: (061) 232-221 o 106-48-777
@@ -288,7 +288,7 @@ Esta página te conecta con recursos de crisis en toda África.
 
 ---
 
-### Sudáfrica
+### Sudáfrica {#south-africa}
 
 **Para recursos de crisis completos en Sudáfrica, consulta [Ayuda en crisis: Sudáfrica](/es/crisis/south-africa)**
 
@@ -302,7 +302,7 @@ Esta página te conecta con recursos de crisis en toda África.
 
 ---
 
-### Zimbabue
+### Zimbabue {#zimbabwe}
 
 **Lifeline Zimbabwe**
 - Teléfono: (04) 706-055 o 0800-350-00
@@ -322,7 +322,7 @@ Esta página te conecta con recursos de crisis en toda África.
 
 ## África Central
 
-### Camerún
+### Camerún {#cameroon}
 
 **Porte Ouverte (Open Door)**
 - Teléfono: (237) 233-472-046
@@ -334,7 +334,7 @@ Esta página te conecta con recursos de crisis en toda África.
 
 ---
 
-### República Democrática del Congo
+### República Democrática del Congo {#democratic-republic-of-congo}
 
 **Centre Médical Bondeko**
 - Teléfono: +243-85-131-3131
@@ -346,7 +346,7 @@ Esta página te conecta con recursos de crisis en toda África.
 
 ---
 
-## Otros países africanos
+## Otros países africanos {#other-african-countries}
 
 Muchos países africanos están desarrollando servicios de salud mental y líneas de crisis. Los recursos pueden ser limitados o estar surgiendo.
 

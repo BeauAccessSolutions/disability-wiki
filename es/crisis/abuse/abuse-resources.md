@@ -478,7 +478,7 @@ Busca el mismo apoyo y las mismas protecciones.
 
 **A nivel global:**
 - Disability Rights International: Trabaja en temas de abuso a nivel mundial
-- UNCRPD (Convención de la ONU sobre los Derechos de las Personas con Discapacidad)
+- CDPD (Convención de la ONU sobre los Derechos de las Personas con Discapacidad)
 
 ### Si quien abusa es un proveedor de servicios para la discapacidad
 

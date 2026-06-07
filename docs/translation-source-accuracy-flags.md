@@ -77,3 +77,40 @@ These English pages were corrected this session (commits `8fa5f04`, `1f98057`) a
   No action needed.
 - ⏭️ `benefits/european-union/benefits.md` references `/benefits/eu/germany` etc. —
   these are inside code spans as aspirational placeholders, not live links.
+
+---
+
+## Anchor TOCs — Spanish jump-links (added 2026-06-07)
+
+In-page "jump to section" TOCs were made to work in Spanish via explicit heading
+IDs (`## Heading {#id}`, markdown-it-attrs) pinned to match the existing anchor
+targets — accent-independent by construction. Done across all 51 non-crisis es/
+pages that have TOCs. The 10 crisis-hotline index pages are pending (blocked by
+the Norton write quarantine; finish with `pin_anchors.py` after the exclusion).
+
+### ⬜ Dangling anchors — broken in the ENGLISH source too (TOC link points to an id no heading produces)
+These were already dead links on the live English site; flag for an EN fix
+(correct the anchor or the heading), then the es/ pinning will pick them up:
+- `housing/*` (housing-rights, home-modifications, group-homes-and-institutions, homelessness-and-disability, independent-living-philosophy-and-centers, tenants-rights-with-disabilities, accessible-housing-search-guide): TOC link `#european-union` but heading is `## European Union & Member States` (real slug `european-union--member-states`); accessible-housing-search-guide also `#other-countries` vs `## Other Countries`.
+- `sports/paralympic-movement`: TOC `#sports` — no heading slugs to "sports" (headings are "Summer/Winter Paralympic Sports").
+- `rights/international-rights`: TOC `#united-nations-framework` — no matching heading slug.
+- `history/pre-industrial`: TOC `#ejemplos-históricos-detallados` — no matching ES heading (section retitled in translation).
+
+---
+
+## Link-repoint sync + new section indexes (synced 2026-06-07, English commit `203d0cf`)
+
+English commit `203d0cf` repointed 7 stale internal links and added 4 section
+index pages. Propagated to `es/`:
+
+### ✅ Repoints applied to es/ (same targets, `/es/` form)
+- `es/history/pre-industrial.md`, `es/history/accommodations.md` — accommodations/pre-industrial cross-links
+- `es/start/how-to-use.md`, `es/start/faq.md` — `/about/accessibility`→`/accessibility-statement`, `/about`→`/home`, `/foundations/welcome`→`/foundations/how-to-use-this-wiki`
+- `es/benefits/proving-disability.md` — `/rights/understanding-your-rights`→`/rights/index`
+- `es/relationships/boundaries-disclosure.md`, `es/foundations/handling-intrusive-questions.md` — `/relationships/dating-disclosure`→`/relationships/dating-and-relationships`
+- `es/foundations/index.md` — `/foundations/welcome`→`/foundations/how-to-use-this-wiki`
+
+### ✅ New Spanish section indexes (translated fresh from the English originals)
+- `es/education/index.md`, `es/daily-living/index.md`, `es/relationships/index.md`, `es/community/online-communities/index.md`
+
+All 12 files pass `check_translation.py`.

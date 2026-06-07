@@ -49,7 +49,7 @@ Esta página te conecta con recursos de crisis en toda América del Norte.
 
 ---
 
-## Estados Unidos
+## Estados Unidos {#united-states}
 
 ### Líneas de crisis nacionales
 
@@ -113,7 +113,7 @@ La mayoría de los estados tienen líneas de crisis locales. Busca: "[tu estado]
 
 ---
 
-## Canadá
+## Canadá {#canada}
 
 **988 Suicide Crisis Helpline**
 - Teléfono: 988 (24/7, lanzada en noviembre de 2023)
@@ -158,7 +158,7 @@ Cada provincia tiene servicios de crisis locales. Busca: "[provincia] crisis lin
 
 ---
 
-## México
+## México {#mexico}
 
 **SAPTEL (Sistema Nacional de Apoyo)**
 - Teléfono: (55) 5259-8121 o 800-472-7835 (gratuito, 24/7)
@@ -185,7 +185,7 @@ Cada provincia tiene servicios de crisis locales. Busca: "[provincia] crisis lin
 
 ## Caribe
 
-### Bahamas
+### Bahamas {#bahamas}
 
 **The Bahamas Crisis Centre**
 - Teléfono: (242) 328-0922 (24/7)
@@ -197,7 +197,7 @@ Cada provincia tiene servicios de crisis locales. Busca: "[provincia] crisis lin
 
 ---
 
-### Barbados
+### Barbados {#barbados}
 
 **Samaritans Barbados**
 - Teléfono: (246) 429-9999 (24/7)
@@ -210,7 +210,7 @@ Cada provincia tiene servicios de crisis locales. Busca: "[provincia] crisis lin
 
 ---
 
-### Cuba
+### Cuba {#cuba}
 
 **Servicios de salud mental**
 - Contacta a los hospitales locales (policlínicos)
@@ -222,7 +222,7 @@ Cada provincia tiene servicios de crisis locales. Busca: "[provincia] crisis lin
 
 ---
 
-### República Dominicana
+### República Dominicana {#dominican-republic}
 
 **Línea Vida**
 - Teléfono: 809-200-1202 o *462 (desde un móvil)
@@ -236,7 +236,7 @@ Cada provincia tiene servicios de crisis locales. Busca: "[provincia] crisis lin
 
 ---
 
-### Haití
+### Haití {#haiti}
 
 **Kay Fanm (Casa de la Mujer)**
 - Teléfono: (509) 2813-1234
@@ -251,7 +251,7 @@ Cada provincia tiene servicios de crisis locales. Busca: "[provincia] crisis lin
 
 ---
 
-### Jamaica
+### Jamaica {#jamaica}
 
 **Lifeline Jamaica**
 - Teléfono: (876) 618-5683 o (876) 655-0557
@@ -266,7 +266,7 @@ Cada provincia tiene servicios de crisis locales. Busca: "[provincia] crisis lin
 
 ---
 
-### Puerto Rico
+### Puerto Rico {#puerto-rico}
 
 **Línea PAS (Primera Ayuda Psicosocial)**
 - Teléfono: 1-800-981-0023 (gratuito, 24/7)
@@ -281,7 +281,7 @@ Cada provincia tiene servicios de crisis locales. Busca: "[provincia] crisis lin
 
 ---
 
-### Trinidad y Tobago
+### Trinidad y Tobago {#trinidad-and-tobago}
 
 **Lifeline Trinidad and Tobago**
 - Teléfono: (868) 645-2800 (24/7)
@@ -298,7 +298,7 @@ Cada provincia tiene servicios de crisis locales. Busca: "[provincia] crisis lin
 
 ## América Central
 
-### Belice
+### Belice {#belize}
 
 **National Helpline**
 - Teléfono: 0-800-226-4357 o 227-4357
@@ -312,7 +312,7 @@ Cada provincia tiene servicios de crisis locales. Busca: "[provincia] crisis lin
 
 ---
 
-### Costa Rica
+### Costa Rica {#costa-rica}
 
 **Instituto sobre Alcoholismo y Farmacodependencia (IAFA)**
 - Teléfono: 800-4232-800 (gratuito, 24/7)
@@ -330,7 +330,7 @@ Cada provincia tiene servicios de crisis locales. Busca: "[provincia] crisis lin
 
 ---
 
-### El Salvador
+### El Salvador {#el-salvador}
 
 **Teléfono de la Esperanza**
 - Teléfono: 503-2284-2284
@@ -344,7 +344,7 @@ Cada provincia tiene servicios de crisis locales. Busca: "[provincia] crisis lin
 
 ---
 
-### Guatemala
+### Guatemala {#guatemala}
 
 **Asociación de Servicios Comunitarios de Salud (ASECSA)**
 - Teléfono: 1545 (24/7)
@@ -358,7 +358,7 @@ Cada provincia tiene servicios de crisis locales. Busca: "[provincia] crisis lin
 
 ---
 
-### Honduras
+### Honduras {#honduras}
 
 **Teléfono de la Esperanza**
 - Teléfono: 2558-1978 (Tegucigalpa)
@@ -371,7 +371,7 @@ Cada provincia tiene servicios de crisis locales. Busca: "[provincia] crisis lin
 
 ---
 
-### Nicaragua
+### Nicaragua {#nicaragua}
 
 **Línea 133 (Policía)**
 - Teléfono: 133
@@ -385,7 +385,7 @@ Cada provincia tiene servicios de crisis locales. Busca: "[provincia] crisis lin
 
 ---
 
-### Panamá
+### Panamá {#panama}
 
 **Instituto Nacional de Salud Mental**
 - Teléfono: 507-263-7768
