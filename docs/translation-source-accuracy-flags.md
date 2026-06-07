@@ -36,6 +36,8 @@ These English pages were corrected this session (commits `8fa5f04`, `1f98057`) a
 - ⬜ `es/employment/job-searching-with-a-disability.md` — "studies show … fewer callbacks" → Ameri et al. 2018 (~26%) + link
 - ⬜ `es/education/higher-education.md` — CRPD "signed" → "ratified" + US-signed-not-ratified caveat
 - ⬜ `es/education/k12-education.md` — same CRPD signing≠ratifying caveat
+- ⬜ `es/benefits/index.md` — 2026 figures ($994/$1,690); one-vehicle exclusion; DAC age-22 clarification
+- ⬜ `es/benefits/poverty-and-benefits-trap.md` — 2026 SSI base; 1972/1989 reconciliation; inflation/proposed-limit correction
 
 ---
 
@@ -45,11 +47,11 @@ These English pages were corrected this session (commits `8fa5f04`, `1f98057`) a
 - ✅ `benefits/us/medicare.md` — Part B premium **$202.90**, Part D cap **$2,100**, Part A deductible **$1,736**, Part D deductible **$615**. Verified correct vs CMS 2026 (Codex audit). *(EN good; ES needs sync.)*
 - ✅ `benefits/us/ssi.md` — SGA **$1,690/mo** and FBR **$994/mo** verified vs SSA (Codex audit). *(EN good; ES needs sync.)*
 - ⬜ `benefits/us/veterans-benefits.md` — VA Pension income range "**~$17,400–$22,800**" may conflate **base** MAPR with **Aid & Attendance** MAPR (A&A is higher, ~$28k–$33k). Still open — check VA MAPR tables and clarify base vs A&A.
-- ⬜ `benefits/index.md` & `benefits/poverty-and-benefits-trap.md` — still show **2024** values (SSI base **$943**, SGA **~$1,550**). **Open** — refresh to 2026 ($994 / $1,690). *(Not edited this session.)*
+- ✅ `benefits/index.md` & `benefits/poverty-and-benefits-trap.md` — refreshed to 2026 (SSI base **$994**, SGA **$1,690**), verified vs SSA 2.8% COLA. Also fixed `index.md` "car up to certain value" → one vehicle (any value) and the DAC "before age 22" conflation. *(EN fixed 2026-06-07; ES needs sync.)*
 
 ### Internal inconsistencies (same page contradicts itself)
 - ✅ `benefits/us/ssi.md` — the stale **~$1,200** break-even in "Common SSI Myths" was corrected this session (now ~$2,000, consistent with the income-exclusion math). *(EN fixed; ES needs sync.)*
-- ⬜ `benefits/poverty-and-benefits-trap.md` — SSI $2,000 asset limit "set in **1989**" vs "set in **1972**, raised once (1989)" contradiction. **Open** — reconcile (the $2,000 individual limit took effect 1989; SSI began 1972). *(Not edited this session.)*
+- ✅ `benefits/poverty-and-benefits-trap.md` — reconciled the 1989-vs-1972 contradiction (limit dates to SSI's 1972 creation; current $2,000/$3,000 levels set 1989). Also corrected the inflation claim: "~$10,000" was the *proposed* SSI Savings Penalty Elimination Act figure, not inflation-adjusted (>$5,000). *(EN fixed 2026-06-07; ES needs sync.)*
 
 ### Naming / outdated references
 - ✅ `benefits/us/veterans-benefits.md` — TDRP wording corrected to **Temporary Disability Retired List (TDRL)** framing this session. *(EN fixed; ES needs sync.)*
