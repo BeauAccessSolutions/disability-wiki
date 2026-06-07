@@ -5,6 +5,14 @@ judgment, not a word list). Severity: **High** = strong AI signal; **Medium** =
 common AI but has legit uses; **Low** = overused, often fine. Flag High + Medium
 individually; batch Low as a count.
 
+> **The word lists below are a fading signal.** AI-authorship classifiers
+> (Pangram, GPTZero, etc.) don't match words at all — they learn a statistical
+> fingerprint — precisely because newer models stopped emitting "delve"/"tapestry".
+> So treat the marker tables as *presence-only* evidence: a hit is mild
+> corroboration, but a clean scan proves nothing. The **Structures** section is
+> the more durable stylistic tell; weight it above the word tables. And none of
+> Tier 2 outranks the Tier-1 fabrication check in SKILL.md.
+
 ## Marker words
 
 | Word | Severity | Note |
@@ -42,10 +50,19 @@ individually; batch Low as a count.
 - "…and that's a good thing!"
 - "Here's the thing:"
 
-## Structures
+## Structures — the durable tell (weight above the word tables)
+
+These outlast vocabulary scrubbing, so they're where newer slop actually shows:
 
 - **"Not just X — it's Y"** construction.
 - **Rule-of-three synonym stacks:** "comprehensive, robust, and holistic".
+- **Symmetric over-hedging:** "on one hand… on the other…", every claim balanced
+  into non-commitment. Reads thorough; says nothing.
+- **Uniform cadence:** every paragraph the same length, every section the same
+  shape (intro sentence → bulleted trio → wrap-up). Human writing varies.
+- **Generically comprehensive filler:** a tidy passage that names categories but
+  carries no specific, sourced, or locally-true detail. On this wiki that often
+  overlaps Tier 1 (unsourced specifics) — route the factual part accordingly.
 - **Em-dash overuse** as a rhythm crutch (several per paragraph).
 - **Sentence-starter filler:** "So,", "Now,", "Basically,", "Essentially,"
   (when not literally about sequence/time).
