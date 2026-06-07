@@ -57,6 +57,9 @@ Tracks fixes against the Codex audit (`AUDIT_RESULTS_2026-06-06.md`). Site is Wi
 - `gender-and-disability` — date the NWLC "31 states" figure (2025 NWLC says 30); link the 2.27× OR + the ~2× lifetime study
 - `religion-and-disability` — name the 2021 Jewish faith-inclusion survey + population; fix the AAPD IDAC link (redirects to 2011) and the RespectAbility→Disability Belongs redirect
 
+### Spanish (`es/`) translation sync — ⚠️ added 2026-06-07
+All English pages fixed this session have `es/` counterparts that are **now stale** and still carry the old/incorrect content (including wrong crisis numbers). See `docs/translation-source-accuracy-flags.md` for the full list and the ES-sync priority order (crisis pages first — life-safety). That file also tracks additional English-source issues the translator flagged (some already fixed this session; `benefits/index.md` + `poverty-and-benefits-trap.md` 2024-figure refresh and the 1972/1989 asset-limit contradiction remain open).
+
 ### Tier E — structural (rest)
 - **~48 unresolved internal links / 195 references** — recurring: `/community/online-communities`, `/community/disability-specific-peer-groups`, `/crisis/emergency-disaster-preparedness`, `/foundations/language-terminology-identity`; plus mechanical `/benefits/us-ssdi.md`-style stale paths on condition pages; one stray `/crisis/crisis-hotlines/south-america/indonesia`
 - **253 auto-generated descriptions** — 191 end mid-sentence (ellipsis), 14 end with a colon, 34 exact duplicates (incl. 10 copied from the contribute footer), `Rights/Filing-a-Disability-Complaint` = "2. Try Internal Process First", fact-check pages show `[DATE]`/`[Archive.org link]` placeholders, condition pages (POTS/EDS/MCAS) don't name the condition. Best treated as drafts → regenerate or hand-edit.

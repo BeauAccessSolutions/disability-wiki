@@ -438,7 +438,7 @@ Expanding coverage for:
 
 **Finding resources**:
 - VA.gov: Comprehensive information
-- Veterans Crisis Line: 1-800-273-8255, then press 1
+- Veterans Crisis Line: dial 988, then press 1 (or text 838255; the older 1-800-273-8255 still routes)
 - Local VA Regional Office
 - VSO in your area
 
@@ -452,7 +452,7 @@ We welcome contributions from veterans, caregivers, VSO representatives, and dis
 
 ---
 
-**VA Benefits Information**: 1-800-827-1000 | Veterans Crisis Line: 1-800-273-8255 (press 1)
+**VA Benefits Information**: 1-800-827-1000 | Veterans Crisis Line: dial 988 then press 1
 
 ---
 
