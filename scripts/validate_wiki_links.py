@@ -1,15 +1,34 @@
 #!/usr/bin/env python3
 """
-Internal Link Validator for Disability Wiki (Wiki.js exports)
-Checks all 254 markdown files for broken internal links and suggests improvements
+Internal Link Validator for Disability Wiki (Wiki.js content)
+Checks English markdown pages for broken internal links and missing descriptions.
+
+Content lives at the repository root (benefits/, rights/, crisis/, ...), so
+BASE_DIR is the repo root (this file is in scripts/). Non-content trees and the
+Spanish locale are excluded so the broken-link total is trustworthy.
 """
 
 import re
 from pathlib import Path
 from collections import defaultdict
 
-# Base directory
-BASE_DIR = Path(__file__).parent / 'disability-wiki'
+# Repo root is the parent of scripts/. Content pages live directly under it.
+BASE_DIR = Path(__file__).resolve().parent.parent
+
+# Directories that are not English content pages — excluded from the scan so
+# the totals reflect real, fixable links rather than locale/docs/backup noise.
+EXCLUDE_DIRS = {
+    'es',                     # Spanish locale (separate tree; /es/* links)
+    'docs', 'scripts', 'backups', 'node_modules', '.git', '.claude',
+    'archetypes',             # template scaffolding
+    'page-review-2026-06-05', # point-in-time review snapshot
+    'resources',              # generated assets
+    'disability-wiki',        # legacy/empty export dir
+}
+
+# Asset/file links are not page links; never flag these as "broken pages".
+ASSET_EXTS = ('.png', '.svg', '.jpg', '.jpeg', '.gif', '.webp', '.pdf',
+              '.ico', '.css', '.js', '.json', '.xml', '.txt', '.zip')
 
 def extract_frontmatter(content):
     """Extract YAML frontmatter from markdown (simple parsing)"""
@@ -39,28 +58,36 @@ def extract_links(content):
     return re.findall(pattern, content)
 
 def is_internal_link(url):
-    """Check if a link is internal (Wiki.js path)"""
-    return url.startswith('/') and not url.startswith(('http://', 'https://', 'mailto:'))
+    """Internal page link = absolute Wiki.js path, not external, anchor, or asset."""
+    if not url.startswith('/'):
+        return False
+    if url.startswith(('http://', 'https://', 'mailto:', '//')):
+        return False
+    # Strip an anchor before checking the extension.
+    path_only = url.split('#', 1)[0]
+    if path_only.lower().endswith(ASSET_EXTS):
+        return False
+    return True
 
 def normalize_wiki_path(link_url):
-    """Normalize a Wiki.js link URL to file path"""
-    # Remove leading slash
-    path = link_url.lstrip('/')
+    """Normalize a Wiki.js link URL to a candidate file path.
 
-    # Wiki.js uses URL paths like /benefits/us/ssdi
-    # Map to disability-wiki/benefits/us/ssdi.md
-    return BASE_DIR / f"{path}.md"
+    Handles the real-world variations seen in the content: a trailing ``#anchor``,
+    a stray ``.md`` suffix in the public path, and trailing slashes.
+    """
+    path = link_url.split('#', 1)[0].lstrip('/').rstrip('/')
+    if path.endswith('.md'):
+        path = path[:-3]
+    return path  # repo-root-relative, no extension
 
-def check_link_exists(link_path):
-    """Check if a Wiki.js link target exists"""
-    if link_path.exists():
+def check_link_exists(path):
+    """A page link resolves if ``path.md`` or ``path/index.md`` exists."""
+    if not path:
+        return True  # bare "/" -> site root
+    if (BASE_DIR / f"{path}.md").exists():
         return True
-
-    # Check parent as index (e.g., /benefits/ -> benefits.md)
-    parent_md = link_path.parent.with_suffix('.md')
-    if parent_md.name != '.md' and parent_md.exists():
+    if (BASE_DIR / path / "index.md").exists():
         return True
-
     return False
 
 def find_potential_links(content, all_pages):
@@ -96,14 +123,18 @@ def main():
     print("=" * 80)
     print()
 
-    # Find all markdown files
-    md_files = list(BASE_DIR.glob('**/*.md'))
-    print(f"Found {len(md_files)} markdown files\n")
+    # Find English content markdown files (skip excluded top-level trees).
+    md_files = [
+        f for f in BASE_DIR.glob('**/*.md')
+        if f.relative_to(BASE_DIR).parts[0] not in EXCLUDE_DIRS
+    ]
+    print(f"Found {len(md_files)} content markdown files (excluding {', '.join(sorted(EXCLUDE_DIRS))})\n")
 
     broken_links = []
     all_links = []
     files_without_description = []
     suggestions_by_file = defaultdict(list)
+    scanned = 0
 
     # Check each file
     for md_file in md_files:
@@ -112,6 +143,14 @@ def main():
 
         # Parse frontmatter
         frontmatter, body = extract_frontmatter(content)
+
+        # Only validate live (published) content pages. This skips internal
+        # docs (READMEs, AUDIT_*, setup guides — all published:false or no
+        # frontmatter) and unpublished drafts, so the broken-link total
+        # reflects what's actually on the live site.
+        if frontmatter.get('published', '').strip().lower() != 'true':
+            continue
+        scanned += 1
 
         # Check for missing description
         if not frontmatter.get('description') or frontmatter.get('description').strip() == '':
@@ -132,7 +171,7 @@ def main():
                         'file': str(rel_path),
                         'text': text,
                         'url': url,
-                        'target': str(target.relative_to(BASE_DIR.parent))
+                        'target': f"{target}.md"
                     })
 
         # Find suggestions
@@ -175,7 +214,7 @@ def main():
     print("\n" + "=" * 80)
     print("SUMMARY")
     print("=" * 80)
-    print(f"Total markdown files: {len(md_files)}")
+    print(f"Published content pages scanned: {scanned} (of {len(md_files)} candidate files)")
     print(f"Total internal links: {len(all_links)}")
     print(f"Broken links: {len(broken_links)}")
     print(f"Files missing descriptions: {len(files_without_description)}")
@@ -192,8 +231,8 @@ def main():
             for suggestion in suggestions[:3]:  # Max 3 per file
                 print(f"  • {suggestion}")
 
-    # Save detailed report
-    report_file = BASE_DIR.parent / 'wiki_link_validation_report.txt'
+    # Save detailed report (gitignored name, at repo root)
+    report_file = BASE_DIR / 'link_validation_report.txt'
     with open(report_file, 'w', encoding='utf-8') as f:
         f.write("DISABILITY WIKI - INTERNAL LINK VALIDATION REPORT\n")
         f.write("=" * 80 + "\n\n")
@@ -225,7 +264,7 @@ def main():
         f.write("\n" + "=" * 80 + "\n")
         f.write("SUMMARY\n")
         f.write("=" * 80 + "\n")
-        f.write(f"Total files: {len(md_files)}\n")
+        f.write(f"Published content pages scanned: {scanned} (of {len(md_files)} candidates)\n")
         f.write(f"Total internal links: {len(all_links)}\n")
         f.write(f"Broken links: {len(broken_links)}\n")
         f.write(f"Files missing descriptions: {len(files_without_description)}\n")
