@@ -16,7 +16,7 @@ Las personas con discapacidad no son pobres porque la discapacidad sea cara. Las
 
 ## Por qué esto importa
 
-En Estados Unidos, para recibir prestaciones de SSI no puedes tener más de $2,000 en recursos. Este límite se fijó en 1989 y nunca se ha ajustado por inflación.
+En Estados Unidos, para recibir prestaciones de SSI no puedes tener más de $2,000 en recursos contables ($3,000 para una pareja). Ese nivel de $2,000 se fijó en 1989 y no se ha elevado desde entonces, ni siquiera por inflación.
 
 Esto significa que:
 
@@ -52,7 +52,7 @@ Esto significa que:
 
 **Estados Unidos (SSI)**:
 
-- Prestación base: aproximadamente $943/mes (2024)
+- Prestación base: aproximadamente $994/mes para una persona (tarifa federal de 2026)
 - Por cada $2 que ganas, el SSI se reduce en $1
 - En cierto punto, las prestaciones terminan por completo
 - Cuando las prestaciones terminan, también termina Medicaid en muchos estados
@@ -251,8 +251,8 @@ Esto no son errores: son características intencionadas:
 
 **Contexto histórico**:
 
-- Los límites de recursos del SSI se fijaron en 1972 y se elevaron solo una vez (1989)
-- Si se hubieran ajustado por inflación, el límite sería de aproximadamente $10,000
+- Los límites de recursos del SSI se remontan a la creación del programa (ley de 1972); los niveles actuales de $2,000 (individual) / $3,000 (pareja) se fijaron en 1989 y no se han ajustado desde entonces
+- Si el límite de 1989 hubiera seguido el ritmo de la inflación, hoy superaría los $5,000; una ley federal pendiente (la SSI Savings Penalty Elimination Act, 119.º Congreso) propone elevarlo a $10,000 para una persona / $20,000 para una pareja
 - La penalización por matrimonio crea presión en contra de la formación de una familia
 - Los desincentivos al trabajo aseguran una reserva permanente de mano de obra barata
 

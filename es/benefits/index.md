@@ -110,12 +110,12 @@ Distintos programas tienen reglas diferentes sobre el trabajo, el matrimonio, la
 
 Quién reúne los requisitos:
 - Tienes una discapacidad que te impide realizar un trabajo sustancial
-- Has trabajado durante cierta cantidad de años (por lo general)
-- Quedaste con una discapacidad antes de los 22 años (o has trabajado lo suficiente recientemente)
+- Has trabajado y pagado impuestos del Seguro Social durante suficiente tiempo, y de forma suficientemente reciente, para estar "asegurado"
+- (Una vía aparte cubre a las personas adultas cuya discapacidad comenzó antes de los 22 años, que pueden calificar con el registro de uno de sus padres; consulta la página de SSDI)
 
 Importante saber:
 - Después de 9 meses de prestaciones, obtienes Medicare (seguro médico)
-- Puedes trabajar y ganar algo de dinero (el límite de Actividad Lucrativa Sustancial cambia cada año, alrededor de $1,550/mes en 2024)
+- Puedes trabajar y ganar algo de dinero (el límite de Actividad Lucrativa Sustancial cambia cada año; $1,690/mes en 2026 para beneficiarios no ciegos)
 - El cónyuge y los hijos pueden recibir prestaciones familiares
 - La Revisión Continua de Discapacidad (Continuing Disability Review) significa que verifican si tu discapacidad aún te da derecho a las prestaciones
 - Puedes apelar las denegaciones varias veces
@@ -126,13 +126,13 @@ Importante saber:
 
 Quién reúne los requisitos:
 - Tienes una discapacidad
-- Tus ingresos son bajos (menos de $943/mes en 2024)
-- Tus recursos son menores de $2,000
+- Tus ingresos son bajos (la base federal de SSI en 2026 es de $994/mes para una persona; las reglas de ingreso contable determinan el límite real)
+- Tus recursos son menores de $2,000 ($3,000 para una pareja)
 - Eres ciudadano de EE. UU. o residente permanente
 
 Importante saber:
 - Hay límites estrictos sobre lo que puedes poseer
-- Ciertos bienes no cuentan (vivienda principal, automóvil hasta cierto valor, tecnología de asistencia)
+- Ciertos bienes no cuentan (vivienda principal, un vehículo sin importar su valor, bienes del hogar, tecnología de asistencia)
 - Puedes trabajar y ganar algo de dinero (los primeros $85/mes más el 50 % de los ingresos restantes no cuentan)
 - Los ingresos del cónyuge cuentan en tu contra ("deeming")
 - La situación de vivienda afecta el monto de tu prestación (vivir con familiares puede reducir las prestaciones)

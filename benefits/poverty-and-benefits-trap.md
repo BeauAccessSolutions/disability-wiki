@@ -1,6 +1,6 @@
 ---
 title: Disability and Poverty: The Benefits Trap
-description: Disabled people are not poor because disability is expensive. Disabled people are poor because systems are designed to keep them poor. This page explains how…
+description: Disabled people are not poor because disability is expensive. Disabled people are poor because systems are designed to keep them poor.
 published: true
 date: 2026-06-05T20:27:27.770Z
 tags: 
@@ -16,7 +16,7 @@ Disabled people are not poor because disability is expensive. Disabled people ar
 
 ## Why This Matters
 
-In the United States, to receive SSI benefits, you cannot have more than $2,000 in assets. This limit was set in 1989 and has never been adjusted for inflation.
+In the United States, to receive SSI benefits, you cannot have more than $2,000 in countable assets ($3,000 for a couple). That $2,000 level was set in 1989 and has not been raised since—not even for inflation.
 
 This means:
 
