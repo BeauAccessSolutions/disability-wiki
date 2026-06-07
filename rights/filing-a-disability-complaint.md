@@ -103,20 +103,37 @@ If your disability rights are violated, you have options to file complaints. Thi
 
 ---
 
-### OCR Complaint (Education - Section 504/IDEA)
+### OCR Complaint (Education — Section 504 & ADA Title II)
 
-**For:** School discrimination, failure to accommodate, IEP violations
+**For:** Disability discrimination by schools or colleges — denied accommodations, inaccessibility, retaliation (Section 504 / Title II). **Note:** OCR does **not** handle IDEA/IEP disputes — those go through your state (see below).
 
-**Timeline:** 180 days for IDEA; longer for Section 504
+**Timeline:** 180 days from the discrimination (OCR may waive the deadline for good cause)
 
 **Process:**
-1. Usually try school's internal process first (due process hearing for IDEA)
-2. If unsatisfied, file OCR complaint
-3. OCR investigates
-4. OCR issues determination
-5. Can sue in court if needed
+1. You can file with OCR directly (you don't have to exhaust the school's process first for a 504/Title II complaint)
+2. OCR investigates
+3. OCR issues a determination
+4. Can sue in court if needed
 
 **Time:** OCR investigation varies (can be 1-2 years)
+
+**Cost:** Free to file; attorney optional
+
+---
+
+### IDEA Complaint (Special Education — state agency, not OCR)
+
+**For:** IEP/FAPE violations, eligibility disputes, special-education services
+
+**Timeline:** **State complaint** to your state education agency — within **1 year** of the violation (34 CFR 300.153). **Due process hearing** — within **2 years** of when you knew or should have known (34 CFR 300.507), or your state's explicit time limit.
+
+**Process:**
+1. Often start with the school's process or an IEP-team meeting
+2. File a state complaint (the state must investigate within 60 days) and/or a due process complaint
+3. Mediation is available and free
+4. Appeal or sue after a due process decision
+
+**Time:** State complaint ~60 days; due process varies
 
 **Cost:** Free to file; attorney optional
 
@@ -300,8 +317,9 @@ If your disability rights are violated, you have options to file complaints. Thi
 | Law | Deadline |
 |---|---|
 | ADA (Employment) | 180-300 days (varies by state) |
-| Section 504 | 180 days (varies) |
-| IDEA | 180 days |
+| Section 504 / Title II (OCR) | 180 days (waivable) |
+| IDEA — state complaint | 1 year |
+| IDEA — due process hearing | 2 years (or state limit) |
 | Fair Housing | 1 year |
 | ADA lawsuit | 2-3 years (varies) |
 
