@@ -76,12 +76,13 @@ Disabled people fought for these amendments after years of losing cases because 
 
 The ADA specifically excludes certain conditions from coverage:
 
-- Current illegal drug use (though people in recovery programs or who have completed rehabilitation are protected)
-- Homosexuality, bisexuality, and gender identity (these were explicitly excluded in the original ADA due to political compromise; LGBTQ+ disabled people have organized against this exclusion while also fighting for protections under other laws)
-- Sexual behavior disorders, compulsive gambling, kleptomania, pyromania
-- Psychoactive substance use disorders resulting from current illegal use of drugs
+- Current illegal drug use (though people in recovery or who have completed rehabilitation are protected)
+- **Homosexuality and bisexuality** — the statute says these "are not impairments and as such are not disabilities." This means the ADA does **not** treat being lesbian, gay, or bisexual as a disability (it does not pathologize it) — it does **not** strip LGB people of protection. **LGBTQ+ people who have a disability are fully protected by the ADA for that disability.**
+- "Gender identity disorders not resulting from physical impairments" and transvestism/transsexualism — though courts have increasingly held that **gender dysphoria can qualify as an ADA disability** (e.g., *Williams v. Kincaid*, 4th Cir. 2022)
+- Compulsive gambling, kleptomania, pyromania, and certain sexual-behavior disorders
+- Psychoactive substance use disorders resulting from current illegal drug use
 
-These exclusions have been widely criticized by disabled people and disability justice advocates as discriminatory and as reflecting stigma rather than legitimate policy concerns. Organizations of disabled people who use drugs, disabled sex workers, and disabled LGBTQ+ people continue to organize against these exclusions and for broader protections.
+Some of these exclusions (especially around substance use and sex) have been criticized by disability-justice advocates as reflecting stigma rather than legitimate policy, and organizing continues for broader protections.
 
 ---
 
@@ -232,7 +233,7 @@ Disabled people can file lawsuits directly in federal court to enforce the ADA. 
 
 - Injunctive relief (court order requiring compliance)
 - Back pay and compensation for economic losses (employment cases)
-- Compensatory and punitive damages (employment and government services cases, not public accommodation cases)
+- Compensatory damages in employment (Title I) and government-services (Title II) cases; **punitive damages are available in employment cases but NOT against government entities** (*Barnes v. Gorman*). Public-accommodation (Title III) cases generally allow injunctive relief and attorney's fees, not money damages to individuals
 - Attorneys' fees and costs
 
 Many disabled people cannot afford to hire attorneys, creating a significant barrier to enforcement. Some disability rights organizations provide free legal representation, and attorneys may take cases on contingency (getting paid only if they win) or seek attorneys' fees from the defendant if successful.
@@ -270,7 +271,7 @@ Retaliation can include termination, demotion, harassment, or any action that wo
 
 **Relies on individual enforcement**: The ADA is primarily enforced through individual complaints and lawsuits, placing the burden on disabled people who have already experienced discrimination. Federal agencies lack resources for proactive enforcement, and many violations go unaddressed because disabled people cannot afford to file lawsuits or fear retaliation.
 
-**Includes harmful exclusions**: The ADA excludes people with substance use disorders who are currently using drugs, people with certain psychiatric diagnoses, and LGBTQ+ people (explicitly excluded from coverage as LGBTQ+ identities). These exclusions reflect stigma and political compromise rather than legitimate policy.
+**Includes some criticized exclusions**: The ADA excludes people who are *currently* using illegal drugs (people in recovery are protected) and several specific conditions like compulsive gambling and certain sexual-behavior disorders. The statute also says homosexuality and bisexuality "are not impairments" — i.e., it doesn't treat them as disabilities — and it excludes "gender identity disorders not resulting from physical impairments." Note, though, that **LGBTQ+ people with a disability are still protected for that disability**, and courts increasingly recognize **gender dysphoria** as an ADA disability. Disability-justice advocates continue to criticize the substance-use and sexual-behavior exclusions as reflecting stigma.
 
 **Allows "undue hardship" and "readily achievable" defenses**: These standards give covered entities significant discretion to deny accommodations or accessibility improvements, and disabled people report that these defenses are often claimed inappropriately.
 

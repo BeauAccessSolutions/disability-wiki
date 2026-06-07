@@ -41,12 +41,12 @@ You can get SSI if you meet ALL of these requirements:
 - Some resources don't count (see below)
 
 **Citizenship/residency**:
-- U.S. citizen OR legal resident (some restrictions apply)
+- U.S. citizen, U.S. national, or a "qualified" noncitizen who meets additional conditions (being a lawful resident alone is not enough — the rules for noncitizens are strict; check SSA.gov)
 - Live in the U.S. (not outside the country more than 30 consecutive days)
 
-**Work**:
-- You're not working above substantial gainful activity level ($1,690/month in 2026)
-- Work incentives allow you to work and earn some money without losing SSI
+**Work** (mainly at application, for disability claims):
+- When you first apply based on disability, SSA checks whether you're working above the "substantial gainful activity" (SGA) level ($1,690/month in 2026, non-blind)
+- *Once you're receiving SSI, SGA is no longer the test — SSA instead counts your income against the income limit, and work incentives let you keep some SSI while working*
 
 ## What SSI Pays
 
@@ -58,26 +58,25 @@ You can get SSI if you meet ALL of these requirements:
 - Where you live (some states supplement)
 - Living situation (living with family can reduce benefits)
 
-**Important**: SSI is taxed as federal income assistance, so the amount you receive is what you get—no additional tax benefit.
+**Important**: SSI is **not** taxable income. You don't owe federal income tax on SSI payments, and you generally don't report them as income on a tax return.
 
-## Resources That DON'T Count (Can Have Unlimited Amount)
+## Resources That DON'T Count
 
-- Primary home (house you live in, any value)
-- One car (up to certain value, used for transportation)
+- Primary home (the house you live in, any value)
+- One vehicle (any value, if used for transportation for you or a household member)
+- Household goods and personal belongings
 - Assistive technology and medical equipment
 - Burial plots (yours and spouse's)
 - Life insurance (face value under $1,500)
-- Needed medical equipment for disability
 - Essential items for self-sufficiency
 
-## Resources That DO Count (Limited to $2,000)
+## Resources That DO Count (toward the $2,000 / $3,000 limit)
 
 - Bank accounts (savings, checking)
 - Stocks and bonds
-- Property you don't live in
-- Extra vehicles
-- Money (cash)
-- Most valuable personal property
+- Property you don't live in (a second home, land)
+- Additional vehicles beyond the one excluded
+- Cash
 
 ## Income That Counts
 
@@ -92,16 +91,16 @@ You can get SSI if you meet ALL of these requirements:
 - Pensions
 - Unemployment insurance
 - Most other benefits
-- Gifts over $20/month
+- Cash gifts (most count as unearned income)
 - Child support
 
 **Income that doesn't count**:
-- First $20 of any income each month
-- Food stamps
+- First $20 of most income each month (the general income exclusion)
+- Food stamps (SNAP)
 - Housing assistance
 - Some scholarships
 - Some home energy assistance
-- In-kind support (someone gives you food/shelter, not cash)
+- Food someone else gives you — as of September 2024, in-kind **food** no longer counts; but in-kind **shelter** (someone paying your rent or housing) can still reduce your SSI
 
 ## Work and SSI
 
@@ -306,7 +305,7 @@ Many people report online through my Social Security account.
 ## Common SSI Myths
 
 **Myth**: "I can't work at all on SSI"
-**Truth**: You can work and earn ~$1,200/month and still get some SSI
+**Truth**: You can work and still get some SSI — because of income exclusions, an individual can earn roughly $2,000/month before SSI phases out entirely (the exact break-even depends on your situation)
 
 **Myth**: "SSI is permanent once you get it"
 **Truth**: Social Security periodically reviews; if you improve, benefits can end
@@ -314,8 +313,8 @@ Many people report online through my Social Security account.
 **Myth**: "If I get married, I lose SSI"
 **Truth**: You don't lose SSI, but spouse's income counts toward your limit
 
-**Myth**: "Gifts count as income"
-**Truth**: Most gifts don't count; only $20/month of gifts count
+**Myth**: "Gifts never count as income"
+**Truth**: Cash gifts generally **do** count as unearned income, though the first $20 of most income in a month is excluded. (In-kind food no longer counts as of Sept 2024.)
 
 **Myth**: "I can't save money on SSI"
 **Truth**: You can save up to $2,000; also PASS plan lets you save for work goal
