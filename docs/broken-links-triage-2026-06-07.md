@@ -8,6 +8,12 @@ editor: markdown
 
 # Broken Internal Links — Triage (as of 2026-06-07)
 
+> **✅ RESOLVED 2026-06-07.** All 76 are cleared — repo is at **0 broken internal
+> links** (`scripts/validate_wiki_links.py`, 2,335 links). Done via commits
+> `203d0cf` (7 repoints + 4 section indexes), `d5772e6` (2 repoints + 4 new
+> content pages). es/ kept in parity (`0e00106`, `ba37a08`). The triage below is
+> retained as a record of what was done.
+
 Generated from `scripts/validate_wiki_links.py` (now fixed) after this session's
 mechanical link cleanup brought the total **179 → 76**. Everything below is a
 **genuinely missing page** — the link target does not exist anywhere in the repo.
