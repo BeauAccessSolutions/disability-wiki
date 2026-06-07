@@ -46,7 +46,7 @@ If you're experiencing abuse or violence right now, you're not alone. This page 
 
 **United States:** 1-800-656-4673 (RAINN, 24/7, free)  
 **Canada:** Local sexual assault services  
-**UK:** 0808 802 9999 (24/7, free)  
+**UK:** 0808 500 2222 (Rape & Sexual Abuse Support Line, 24/7, free)  
 **Australia:** 1800 737 732 (24/7, also handles sexual assault)  
 
 ### Other Violence

@@ -83,7 +83,7 @@ to read everything.
 - Non-judgmental
 
 **Sexual Assault:**  
-- Rape Crisis England & Wales: 0808 802 9999 (24/7, text available)
+- Rape & Sexual Abuse Support Line (Rape Crisis England & Wales): 0808 500 2222 (24/7)
 - Survivors UK: 020 3322 1860
 
 ### Youth Crisis (Under 35)
@@ -202,17 +202,17 @@ Crisis lines help you get through RIGHT NOW. After that:
 
 ## Important Information
 
-### It's Free
+### Cost
 
-All services listed are free. No insurance (NHS covers mental health).
+Most services listed are free. Cost and hours vary by service — check each one.
 
-### It's Confidential
+### Confidentiality
 
-Confidential. Police only contacted if immediate danger.
+These lines are confidential. Emergency services are contacted only in rare cases of immediate, serious risk.
 
-### It's 24/7
+### Hours
 
-Most services run 24/7.
+Many services run 24/7, but several (e.g., CALM, Scope, Mind) have limited hours — check each listing.
 
 ### You Can Call Multiple Times
 
@@ -233,11 +233,11 @@ If you're asking: "Am I bad enough to call?" → **You are.** Call.
 ---
 
 
-*All numbers verified through official UK sources*
+*Confirm each number with the service before calling; details can change.*
 
-**In crisis right now?** Call 116 123. Everything else can wait.
+**In crisis right now?** Call Samaritans on 116 123. Everything else can wait.
 
-**All services are free, confidential, and available 24/7.**
+*Cost, confidentiality, and hours vary by service — check each listing.*
 
 ---
 

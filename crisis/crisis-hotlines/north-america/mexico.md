@@ -21,20 +21,19 @@ No tienes que leer todo.
 
 ## 🚨 AHORA MISMO: Llama a Este Número
 
-### Fundación Teléfono de la Esperanza
+### Línea de la Vida
 
-**Teléfono:** 1-800-SUICIDE (1-800-784-2433) / Locales: Varía por estado  
-**Chat:** telefonodelaesperanza.org  
+**Teléfono:** 800-911-2000  
 **Horas:** 24/7, 365 días al año  
 **Costo:** Gratuito  
-**Idiomas:** Español, Inglés  
+**Idiomas:** Español  
+**Operada por:** CONASAMA (Comisión Nacional de Salud Mental y Adicciones), Secretaría de Salud  
 
 **Lo que sucede:**
-- Apoyo emocional gratuito
-- Línea de prevención de suicidio
-- Voluntarios entrenados
-- Confidencial
-- Disponible 24/7
+- Apoyo emocional e intervención breve en crisis
+- Para ansiedad, depresión, riesgo de suicidio y consumo de sustancias
+- Para personas y familias
+- Confidencial y gratuito
 
 ---
 
@@ -52,12 +51,10 @@ No tienes que leer todo.
 
 ### Pensamientos Suicidas
 
-**Teléfono de la Esperanza:** Tu estado (24/7)  
+**Línea de la Vida:** 800-911-2000 (24/7)  
 - Prevención de suicidio
 - Apoyo confidencial
-
-**National Suicide Prevention (US):** 1-800-273-8255  
-- Si tienes acceso (frontera con US)
+- Operada por la Secretaría de Salud (CONASAMA)
 
 ### Abuso o Violencia
 
@@ -207,17 +204,17 @@ Las líneas de crisis te ayudan AHORA. Después:
 
 ## Información Importante
 
-### Es Gratuito
+### Costo
 
-Todos los servicios enumerados son completamente gratuitos.
+Muchas de estas líneas son gratuitas, pero el costo y el horario varían según el servicio. La Línea de la Vida (800-911-2000) es gratuita y está disponible 24/7.
 
-### Es Confidencial
+### Confidencialidad
 
-Confidencial. La policía solo se contacta si hay peligro inmediato.
+Estas líneas son confidenciales. Los servicios de emergencia solo se contactan en casos de riesgo grave e inminente.
 
-### Es 24/7
+### Horario
 
-Todos los principales servicios funcionan 24/7.
+El horario varía según el servicio; confírmalo con cada línea. La Línea de la Vida está disponible 24/7.
 
 ### Puedes Llamar Múltiples Veces
 
@@ -238,11 +235,11 @@ Si te preguntas: "¿Soy lo suficientemente enfermo para llamar?" → **Sí lo er
 ---
 
 
-*All numbers verified through official Mexican sources*
+*Confirma cada número con el servicio antes de llamar; los datos pueden cambiar.*
 
-**¿En crisis ahora?** Llama a Teléfono de la Esperanza. Todo lo demás puede esperar.
+**¿En crisis ahora?** Llama a la Línea de la Vida: 800-911-2000. Todo lo demás puede esperar.
 
-**All services are free, confidential, and available 24/7.**
+*El costo, la confidencialidad y el horario varían según el servicio — confirma con cada línea.*
 
 ---
 

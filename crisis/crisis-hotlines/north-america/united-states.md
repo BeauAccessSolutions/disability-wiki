@@ -24,7 +24,7 @@ to read everything.
 ### 988 Suicide & Crisis Lifeline
 
 **Phone:** Call or text 988  
-**Alternative:** 1-800-273-8255  
+**Older number (still forwards to 988):** 1-800-273-8255  
 **Chat:** 988lifeline.org/chat  
 **Hours:** 24/7, 365 days a year  
 **Cost:** FREE  
@@ -34,7 +34,7 @@ to read everything.
 - Free, confidential support
 - Trained counselors listen without judgment
 - Can help with suicidal thoughts, emotional crisis, mental health
-- Police only involved if you're in immediate danger AND you want them (very rare)
+- 988 aims for the least-invasive help; it involves emergency services only in rare cases of imminent, life-threatening risk (fewer than ~2% of contacts)
 
 ---
 
@@ -98,10 +98,10 @@ to read everything.
 - Crisis Text: Text START to 678678
 - Chat available
 
-**Trans Lifeline:** 1-877-565-8860 (24/7)  
+**Trans Lifeline:** 1-877-565-8860 (Mon–Fri, 10am–6pm Pacific)  
 - Trans and non-binary specific support
 - Run by trans people for trans people
-- Does not contact law enforcement
+- Does not contact emergency services without your consent
 
 ### Disability-Specific Crisis Support
 
@@ -224,18 +224,17 @@ Crisis lines help you get through RIGHT NOW. After that:
 
 ## Important Information
 
-### It's Free
+### Cost
 
-All services listed are completely free. No insurance. No eligibility. No charge.
+Most services listed are free, but cost and hours vary by service — check each one. The core lines (988, Crisis Text Line, the Trevor Project) are free.
 
-### It's Confidential
+### Confidentiality
 
-Confidential by default. Police only called if you're in immediate, life-threatening danger 
-and request it. This is rare.
+Confidential by default. 988 may share identifying information or involve emergency services only in rare cases of imminent, life-threatening risk, when required by law, or under a valid court order — a small minority of contacts, and centers try least-invasive options first. Individual crisis centers also set their own policies.
 
-### It's 24/7
+### Hours
 
-Most services run 24/7, 365 days a year.
+Most services run 24/7, but some (e.g., Trans Lifeline, NAMI HelpLine) have limited hours — check each listing.
 
 ### You Can Call Multiple Times
 
@@ -269,9 +268,9 @@ All of these are valid reasons to call.
 
 *All numbers verified through official sources*
 
-**In crisis right now?** Call 988. Everything else can wait.
+**In crisis right now?** Call or text 988. Everything else can wait.
 
-**All services are free, confidential, and available 24/7.**
+*Cost, confidentiality, and hours vary by service — check each listing.*
 
 ---
 

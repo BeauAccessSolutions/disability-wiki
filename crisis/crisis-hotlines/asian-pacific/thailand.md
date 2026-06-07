@@ -23,18 +23,20 @@ to read everything.
 
 ## 🚨 RIGHT NOW: Call This Number
 
-### Samaritans Thailand
+### Department of Mental Health Hotline (national)
 
-**Phone:** 02-713-6791 to 02-713-6799 (24/7)  
-**Toll-Free:** 1300 (from most Thai phone networks)  
+**Phone:** 1323 (free, 24/7)  
+**Run by:** Department of Mental Health, Ministry of Public Health  
+**Languages:** Thai  
+
+### Samaritans Thailand (English-language support)
+
+**Phone:** 02-713-6791 (English line, 24/7)  
+**Thai line:** 02-713-6793 (12:00–22:00 daily)  
 **Website:** samaritansthailand.org  
-**Hours:** 24/7, 365 days a year  
-**Cost:** Free/minimal  
-**Languages:** Thai, English  
 
 **What happens:**
-- 24/7 emotional support
-- Suicide prevention
+- Emotional support and suicide prevention
 - Trained volunteers
 - Confidential and non-judgmental
 
@@ -47,7 +49,7 @@ to read everything.
 **Samaritans Thailand:** 02-713-6791 (24/7)  
 - Emotional support
 
-**Department of Mental Health:** 1300 (24/7)  
+**Department of Mental Health:** 1323 (free, 24/7)  
 - Government mental health services
 
 ### Suicidal Thoughts
@@ -183,13 +185,13 @@ Crisis lines help you get through RIGHT NOW. After that:
 
 ## Important Information
 
-### It's Free or Very Low Cost
+### Cost
 
-All services listed are free or minimal cost.
+Most services listed are free or low cost, but this varies by service — check each one. The Department of Mental Health line (1323) is free.
 
-### It's Confidential
+### Confidentiality
 
-Confidential. Police only involved if immediate danger.
+These lines are confidential. Emergency services are contacted only in cases of immediate, serious risk.
 
 ### You Can Call Multiple Times
 
@@ -209,11 +211,11 @@ If you're asking: "Am I sick enough to call?" → **You are.** Call.
 ---
 
 
-*All numbers verified through official Thai sources*
+*Confirm each number with the service before calling; details can change.*
 
-**In crisis right now?** Call 02-713-6791 or 1300. Everything else can wait.
+**In crisis right now?** Call 1323 (Thai) or Samaritans on 02-713-6791 (English). Everything else can wait.
 
-**All services are free or low-cost, confidential, and available 24/7.**
+*Cost, confidentiality, and hours vary by service — check each listing.*
 
 ---
 

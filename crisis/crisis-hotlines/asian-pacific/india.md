@@ -21,20 +21,19 @@ to read everything.
 
 ## 🚨 RIGHT NOW: Call This Number
 
-### AASRA (Suicide Prevention)
+### Tele-MANAS (National Mental Health Helpline)
 
-**Phone:** 9820466726 (24/7)  
-**WhatsApp:** Also available  
+**Phone:** 14416 or 1-800-891-4416  
 **Hours:** 24/7, 365 days a year  
-**Cost:** Free  
-**Languages:** Hindi, English, Marathi  
+**Cost:** Free (toll-free)  
+**Languages:** English, Hindi, and 20+ regional languages  
+**Run by:** Ministry of Health & Family Welfare, Government of India  
 
 **What happens:**
-- 24/7 crisis support
-- Trained volunteers
-- Suicide prevention and emotional support
+- Free 24/7 mental-health and crisis support
+- Trained counsellors, nationwide
 - Confidential
-- WhatsApp available for those who prefer texting
+- India's national tele–mental-health service (launched 2022)
 
 ---
 
@@ -42,19 +41,19 @@ to read everything.
 
 ### Mental Health Crisis
 
-**iCall (Youth & Mental Health):** 9152987821 (24/7)  
-- Crisis support for young people and mental health
-- 24/7 free confidential support
-- Text/WhatsApp available
+**iCall (TISS):** 9152987821 (Mon–Sat, 10am–8pm)  
+- Counselling for mental health and emotional distress
+- Free and confidential
+- Email and chat counselling also available
 
 **Vandrevala Foundation:** 9999 77 6666 (24/7)  
 - Crisis intervention service
 - Suicide prevention
 - Emotional support
 
-**AASRA:** 9820466726 (24/7)  
+**AASRA:** 9820466726 / +91-22-2754-6669 (24/7)  
 - Mental health and suicide support
-- WhatsApp available
+- Phone and email
 
 ### Suicidal Thoughts
 
@@ -179,17 +178,17 @@ Crisis lines help you get through RIGHT NOW. After that:
 
 ## Important Information
 
-### It's Free
+### Cost
 
-All services listed are completely free.
+Most services listed are free, but cost and hours vary by service — check each one. Tele-MANAS (14416) is free and 24/7.
 
-### It's Confidential
+### Confidentiality
 
-Confidential. Police only contacted if immediate danger.
+These lines are confidential. Emergency services are contacted only in cases of immediate, serious risk.
 
-### It's 24/7
+### Hours
 
-All major services run 24/7.
+Many services run 24/7, but some (e.g., iCall) have limited hours — check each listing.
 
 ### You Can Call Multiple Times
 
@@ -209,11 +208,11 @@ If you're asking: "Am I bad enough to call?" → **You are.** Call.
 ---
 
 
-*All numbers verified through official Indian sources*
+*Confirm each number with the service before calling; details can change.*
 
-**In crisis right now?** Call 9820466726 (AASRA). Everything else can wait.
+**In crisis right now?** Call Tele-MANAS: 14416. Everything else can wait.
 
-**All services are free, confidential, and available 24/7.**
+*Cost, confidentiality, and hours vary by service — check each listing.*
 
 ---
 

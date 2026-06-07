@@ -23,7 +23,7 @@ to read everything.
 
 ### Lifeline Australia
 
-**Phone:** 13 11 14 (24/7, local call rate)  
+**Phone:** 13 11 14 (free, 24/7)  
 **Text:** 0477 13 11 14  
 **Chat:** lifeline.org.au  
 **Hours:** 24/7, 365 days a year  
@@ -220,17 +220,17 @@ Crisis lines help you get through RIGHT NOW. After that:
 
 ## Important Information
 
-### It's Free or Low-Cost
+### Cost
 
-All services are free or very low cost (13 11 14 is a local call rate).
+Most services are free (Lifeline's 13 11 14 call, text, and chat are free), but this varies by service — check each one.
 
-### It's Confidential
+### Confidentiality
 
-Confidential. Police only contacted if immediate danger.
+These lines are confidential. Emergency services are contacted only in cases of immediate, serious risk.
 
-### It's 24/7
+### Hours
 
-All major services run 24/7.
+Many services run 24/7, but some (e.g., QLife, 3pm–midnight) have limited hours — check each listing.
 
 ### You Can Call Multiple Times
 
@@ -256,11 +256,11 @@ If a service discriminates because of disability, you have rights. Speak up.
 ---
 
 
-*All numbers verified through official Australian sources*
+*Confirm each number with the service before calling; details can change.*
 
-**In crisis right now?** Call 13 11 14. Everything else can wait.
+**In crisis right now?** Call Lifeline on 13 11 14. Everything else can wait.
 
-**All services are free or low-cost, confidential, and available 24/7.**
+*Cost, confidentiality, and hours vary by service — check each listing.*
 
 ---
 

@@ -24,20 +24,20 @@ to read everything.
 
 ## 🚨 RIGHT NOW: Call This Number
 
-### Telp Teman Sejiwa Indonesia
+### Healing119.id (Layanan Sejiwa — Kementerian Kesehatan)
 
-**Phone:** (021) 7588-8888 (Jakarta, 24/7)  
-**Toll-Free:** Varies by region  
-**Website:** telpteman.com  
-**Hours:** 24/7, 365 days a year  
-**Cost:** Local call cost  
-**Languages:** Bahasa Indonesia, English  
+**Phone:** Call **119**, then press extension **8**  
+**Online:** chat/voice at healing119.id (includes WhatsApp)  
+**Hours:** 24/7  
+**Run by:** Ministry of Health (Kementerian Kesehatan)  
+**Languages:** Bahasa Indonesia  
 
 **What happens:**
-- 24/7 emotional support
-- Suicide prevention
-- Trained counselors
-- Confidential and judgment-free
+- Government mental-health and suicide-prevention line
+- Trained responders
+- Confidential
+
+> *"119" on its own is Indonesia's national medical-emergency line; pressing extension 8 routes you to mental-health support.*
 
 ---
 
@@ -45,8 +45,8 @@ to read everything.
 
 ### Mental Health Crisis
 
-**Telp Teman Sejiwa:** (021) 7588-8888 (24/7)  
-- Emotional support
+**Healing119.id (Kemenkes):** call 119 ext. 8 (24/7)  
+- Government mental-health support
 
 **RSCM (Hospital) Mental Health Unit:** 021-391-3000 (Jakarta)  
 - Government hospital services
@@ -55,7 +55,7 @@ to read everything.
 
 ### Suicidal Thoughts
 
-**Telp Teman Sejiwa:** (021) 7588-8888 (24/7)  
+**Healing119.id (Kemenkes):** call 119 ext. 8 (24/7)  
 - Suicide prevention
 
 **Hospital psychiatric units:** Major cities
@@ -191,13 +191,13 @@ Crisis lines help you get through RIGHT NOW. After that:
 
 ## Important Information
 
-### It's Free or Very Low Cost
+### Cost
 
-All services listed are free or use local call costs (very cheap).
+Cost and hours vary by service — check each one. The national 119 line is free.
 
-### It's Confidential
+### Confidentiality
 
-Confidential. Police only involved if immediate danger.
+These lines are confidential. Emergency services are contacted only in cases of immediate, serious risk.
 
 ### You Can Call Multiple Times
 
@@ -217,11 +217,11 @@ If you're asking: "Apakah aku cukup sakit untuk menelepon?" → **Ya, kamu cukup
 ---
 
 
-*All numbers verified through official Indonesian sources*
+*Konfirmasikan setiap nomor dengan layanan sebelum menelepon; data dapat berubah.*
 
-**Sedang dalam krisis sekarang?** Hubungi (021) 7588-8888. Semuanya bisa menunggu.
+**Sedang dalam krisis sekarang?** Hubungi 119, lalu tekan 8. Semuanya bisa menunggu.
 
-**All services are free or low-cost, confidential, and available 24/7.**
+*Biaya, kerahasiaan, dan jam layanan berbeda-beda — periksa setiap layanan.*
 
 ---
 

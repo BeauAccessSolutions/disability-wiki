@@ -21,20 +21,18 @@ to read everything.
 
 ## 🚨 RIGHT NOW: Call This Number
 
-### Hopeline
+### NCMH Crisis Hotline (National Center for Mental Health)
 
-**Phone:** (02) 804 8143 / (02) 804 8144 (24/7)  
-**Mobile:** Available on all networks  
-**Chat:** hopeline.org.ph  
-**Hours:** 24/7, 365 days a year  
-**Cost:** Free  
+**Phone:** 1553 (nationwide landline, toll-free)  
+**Mobile:** 0919-057-1553 (Smart/TNT), 0917-899-8727 (Globe/TM)  
+**Hours:** 24/7  
+**Run by:** National Center for Mental Health, Department of Health  
 **Languages:** Tagalog, English  
 
 **What happens:**
-- 24/7 emotional support
-- Suicide prevention
-- Trained volunteers
-- Confidential and judgment-free
+- Government 24/7 crisis and suicide-prevention line
+- Trained responders
+- Confidential
 
 ---
 
@@ -42,15 +40,15 @@ to read everything.
 
 ### Mental Health Crisis
 
-**Hopeline:** (02) 804 8143 (24/7)  
-- Emotional support for any crisis
+**NCMH Crisis Hotline:** 1553 / 0919-057-1553 / 0917-899-8727 (24/7)  
+- Government mental-health and crisis services
 
-**National Center for Mental Health Crisis Hotline:** Search local number  
-- Government mental health services
+**Hopeline (Natasha Goulbourn Foundation):** 0917-558-4673 / 2919 (Globe/TM)  
+- Emotional support and suicide prevention (confirm current hours)
 
 ### Suicidal Thoughts
 
-**Hopeline:** (02) 804 8143 (24/7)  
+**NCMH Crisis Hotline:** 1553 (24/7)  
 - Suicide prevention and support
 
 **Bayanihan (Community Support):** Local organizations
@@ -72,14 +70,14 @@ to read everything.
 
 ### Youth Crisis
 
-**Hopeline:** (02) 804 8143 (24/7)  
+**Hopeline:** 0917-558-4673 (24/7)  
 - Support for young people
 
 **Youth organizations:** Local groups in your community
 
 ### LGBTQ+ Crisis
 
-**Hopeline:** (02) 804 8143  
+**Hopeline:** 0917-558-4673  
 - Support for LGBTQ+ people (confidential)
 
 **LGBT organizations:** Local groups (search "LGBT+ support [city]")
@@ -94,7 +92,7 @@ to read everything.
 
 ### Substance Use Crisis
 
-**Hopeline:** (02) 804 8143  
+**Hopeline:** 0917-558-4673  
 - Substance use information and support
 
 **Department of Health DATU:** Services nationwide
@@ -106,15 +104,15 @@ to read everything.
 **National numbers work nationwide:**
 
 ### Metro Manila
-- Hopeline: (02) 804 8143
+- Hopeline: 0917-558-4673
 - PNP: 02-724-4444
 
 ### Visayas (Cebu, Iloilo)
-- Hopeline: (02) 804 8143
+- Hopeline: 0917-558-4673
 - Regional hospitals
 
 ### Mindanao
-- Hopeline: (02) 804 8143
+- Hopeline: 0917-558-4673
 - Local services
 
 ---
@@ -184,13 +182,13 @@ Crisis lines help you get through RIGHT NOW. After that:
 
 ## Important Information
 
-### It's Free
+### Cost
 
-All services listed are completely free.
+Cost and hours vary by service — check each one. The NCMH hotline (1553) is toll-free.
 
-### It's Confidential
+### Confidentiality
 
-Confidential. Police only involved if immediate danger.
+These lines are confidential. Emergency services are contacted only in cases of immediate, serious risk.
 
 ### You Can Call Multiple Times
 
@@ -210,11 +208,11 @@ If you're asking: "Am I sick enough to call?" → **You are.** Call.
 ---
 
 
-*All numbers verified through official Philippine sources*
+*Confirm each number with the service before calling; details can change.*
 
-**In crisis right now?** Call (02) 804 8143. Everything else can wait.
+**In crisis right now?** Call NCMH: 1553. Everything else can wait.
 
-**All services are free, confidential, and available 24/7.**
+*Cost, confidentiality, and hours vary by service — check each listing.*
 
 ---
 

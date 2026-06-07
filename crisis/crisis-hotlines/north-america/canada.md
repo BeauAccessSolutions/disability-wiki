@@ -24,18 +24,16 @@ to read everything.
 ### 988 Suicide Crisis Helpline
 
 **Phone:** Call or text 988  
-**Alternative:** 1-833-456-4566  
-**Chat:** 988.ca/chat  
 **Hours:** 24/7, 365 days a year  
 **Cost:** FREE  
-**Languages:** English, French, 100+ languages with interpretation  
+**Languages:** English and French (phone interpretation in other languages may be available on request)  
 
 **What happens:**
 - Free, confidential support
-- Trained counselors
+- Trained responders
 - Suicide crisis intervention
 - Can help if you're worried about someone else too
-- Police only involved if you're in immediate danger
+- 988 contacts emergency services only if you are at risk of dying or seriously harming yourself, and tries safety planning first
 
 ---
 
@@ -186,8 +184,8 @@ Counselors are trained to help. Your words don't need to be perfect.
 
 ### For People Who Can't Speak
 
-- Text services: 988 (text), Kids Help Phone (686868)
-- Chat services: Available on 988.ca/chat
+- Text services: 988 (text), Kids Help Phone (text CONNECT to 686868)
+- Hope for Wellness offers online chat at hopeforwellness.ca
 
 ---
 
@@ -213,17 +211,17 @@ Crisis lines help you get through RIGHT NOW. After that:
 
 ## Important Information
 
-### It's Free
+### Cost
 
-All services listed are completely free. No insurance. No eligibility. No charge.
+Most services listed are free, but cost and hours vary by service — check each one. 988 and Kids Help Phone are free.
 
-### It's Confidential
+### Confidentiality
 
-Confidential. Police only contacted if immediate, life-threatening danger.
+These lines are confidential. 988 contacts emergency services only when you are at risk of dying or seriously harming yourself, and responders try safety planning first.
 
-### It's 24/7
+### Hours
 
-All major services run 24/7.
+Many services run 24/7, but some have limited hours — check each listing.
 
 ### You Can Call Multiple Times
 
@@ -244,11 +242,11 @@ If you're asking: "Am I bad enough to call?" → **You are.** Call.
 ---
 
 
-*All numbers verified through official Canadian sources*
+*Confirm each number with the service before calling; details can change.*
 
-**In crisis right now?** Call 988. Everything else can wait.
+**In crisis right now?** Call or text 988. Everything else can wait.
 
-**All services are free, confidential, and available 24/7.**
+*Cost, confidentiality, and hours vary by service — check each listing.*
 
 ---
 
