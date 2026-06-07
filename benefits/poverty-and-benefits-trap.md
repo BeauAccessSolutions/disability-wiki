@@ -52,7 +52,7 @@ This means:
 
 **United States (SSI)**:
 
-- Base benefit: approximately $943/month (2024)
+- Base benefit: approximately $994/month for an individual (2026 federal rate)
 - For every $2 you earn, SSI is reduced by $1
 - At a certain point, benefits end entirely
 - When benefits end, so does Medicaid in many states
@@ -251,8 +251,8 @@ These aren't bugs—they're features:
 
 **Historical context**:
 
-- SSI asset limits set in 1972, raised only once (1989)
-- If adjusted for inflation, limit would be approximately $10,000
+- SSI asset limits date to the program's creation (1972 law); the current $2,000 individual / $3,000 couple levels were set in 1989 and never adjusted since
+- If the 1989 limit had kept pace with inflation it would be more than $5,000 today; pending federal legislation (the SSI Savings Penalty Elimination Act, 119th Congress) proposes raising it to $10,000 for an individual / $20,000 for a couple
 - Marriage penalty creates pressure against family formation
 - Work disincentives ensure permanent cheap labor pool
 

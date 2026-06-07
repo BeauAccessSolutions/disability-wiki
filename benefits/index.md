@@ -110,12 +110,12 @@ Different programs have different rules about work, marriage, living situations,
 
 Who qualifies:
 - You have a disability that prevents substantial work
-- You have worked for a certain number of years (usually)
-- You were disabled before age 22 (or worked enough recently)
+- You have worked and paid Social Security taxes long enough, and recently enough, to be "insured"
+- (A separate path covers adults whose disability began before age 22, who may qualify on a parent's record — see the SSDI page)
 
 Important to know:
 - After 9 months of benefits, you get Medicare (medical insurance)
-- You can work and earn some money (Substantial Gainful Activity limit changes yearly, around $1,550/month in 2024)
+- You can work and earn some money (Substantial Gainful Activity limit changes yearly; $1,690/month in 2026 for non-blind beneficiaries)
 - Spouse and children can receive family benefits
 - Continuing Disability Review means they check if your disability still qualifies you
 - You can appeal denials multiple times
@@ -126,13 +126,13 @@ Important to know:
 
 Who qualifies:
 - You have a disability
-- Your income is low (under $943/month in 2024)
-- Your resources are under $2,000
+- Your income is low (the 2026 federal SSI base is $994/month for an individual; countable-income rules determine the actual cutoff)
+- Your resources are under $2,000 ($3,000 for a couple)
 - You're a U.S. citizen or permanent resident
 
 Important to know:
 - There are strict limits on what you can own
-- Certain assets don't count (primary home, car up to certain value, assistive tech)
+- Certain assets don't count (primary home, one vehicle regardless of value, household goods, assistive tech)
 - You can work and earn some money (first $85/month plus 50% of remaining earnings doesn't count)
 - Spouse's income counts against you ("deeming")
 - Living situation affects your benefit amount (living with family may reduce benefits)
