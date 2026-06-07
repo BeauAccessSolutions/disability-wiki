@@ -22,6 +22,8 @@ The dominant story treats mobility aids as decline—something you resist until 
 
 People who use aids are athletes, parents, workers, dancers, travelers, organizers. The aid is part of how they do those things, not a reason they can't.
 
+(None of this is automatic: getting the *right* aid—the proper fit, the training to use it, an environment you can actually use it in, and a way to afford and maintain it—matters, and those pieces are individual. The point isn't that any device instantly fixes everything; it's that an aid is a tool for freedom, not a sign of failure, and part-time or situational use is just as valid.)
+
 ---
 
 ## Where the rudeness comes from

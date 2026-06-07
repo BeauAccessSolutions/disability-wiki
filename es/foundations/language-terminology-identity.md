@@ -33,7 +33,7 @@ Este es el punto de confusión más común, y es genuinamente debatido.
 - **El lenguaje de identidad primero** pone la discapacidad por delante: "persona discapacitada", "persona autista", "persona Sorda". El razonamiento: la discapacidad es parte de quién soy, no un defecto separable, y nombrarla no es un insulto. Esta es la preferencia declarada de gran parte de la comunidad autista, Sorda, ciega y del movimiento más amplio de derechos de la discapacidad. (En español, "identidad primero" suele expresarse como "persona discapacitada" o "persona autista".)
 - **El lenguaje de persona primero** pone a la persona por delante: "persona con discapacidad", "persona con autismo". El razonamiento: soy una persona antes que mi diagnóstico. Es común en muchos entornos profesionales, médicos y de autogestión de la discapacidad intelectual y del desarrollo, y algunas personas lo prefieren con firmeza.
 
-Ninguno es universalmente "correcto". Las principales organizaciones dirigidas por personas con discapacidad usan el lenguaje de identidad primero; muchas guías de estilo históricamente impulsaron el de persona primero. **El criterio respetuoso es preguntar y reflejar.** Cuando no puedas preguntar —al escribir para un público amplio— seguir la preferencia declarada de la comunidad correspondiente es lo más seguro. (En español, este wiki usa de forma predeterminada "personas con discapacidad", que es la fórmula más reconocida y respetada en el ámbito hispanohablante.)
+Ninguno es universalmente "correcto". Las principales organizaciones dirigidas por personas con discapacidad usan el lenguaje de identidad primero; muchas guías de estilo históricamente impulsaron el de persona primero. **El criterio respetuoso es preguntar y reflejar.** Cuando no puedas preguntar —al escribir para un público amplio— seguir la preferencia declarada de la comunidad correspondiente es lo más seguro. (En español, este wiki usa de forma predeterminada "personas con discapacidad", una fórmula ampliamente reconocida; aun así, el uso varía mucho según el país, la comunidad, el contexto legal y la preferencia personal.)
 
 ---
 
@@ -54,13 +54,13 @@ La regla práctica: los términos reivindicados son para que las personas de la 
 Estas son ampliamente criticadas por las personas con discapacidad, aunque hay variación entre individuos:
 
 - **"Necesidades especiales"**: un eufemismo que muchas personas con discapacidad rechazan; las necesidades son necesidades humanas, no "especiales". "Discapacidad" es más claro y no es motivo de vergüenza.
-- **"Capacidades diferentes", "personas con diversidad funcional" (según el contexto), "discapacitada pero capaz"**: eufemismos que a menudo se sienten paternalistas y evitan la palabra "discapacidad".
+- **"Capacidades diferentes", "discapacitada pero capaz"**: eufemismos que a menudo se sienten paternalistas y evitan la palabra "discapacidad". (Caso aparte: **"diversidad funcional"** —acuñado por el Foro de Vida Independiente en España— es para muchas personas activistas hispanohablantes un término *preferido* y reivindicado, no un eufemismo a evitar; su valoración varía mucho según la región y la comunidad.)
 - **"Confinada a una silla de ruedas", "postrada en una silla de ruedas"**: las sillas de ruedas liberan a las personas; "persona usuaria de silla de ruedas" es lo preciso.
 - **"Sufre de / aquejada por / víctima de"**: enmarca una vida como sufrimiento. "Tiene", o nombrar la condición sin rodeos, suele ser mejor.
-- **El encuadre "inspirador"** para la vida cotidiana ("inspiration porn", pornografía inspiradora): situar a las personas con discapacidad como lecciones de superación para públicos no discapacitados.
+- **El encuadre "inspirador"** para la vida cotidiana: situar a las personas con discapacidad como lecciones de superación para públicos no discapacitados. La activista por la discapacidad Stella Young popularizó el término "inspiration porn" (pornografía inspiradora) para nombrar esto.
 - **Insultos** como usar "retrasado", "lisiado", "loco" o "psicópata" de manera casual como ofensa: cargan un daño real incluso cuando no se dirigen a una persona concreta.
 
-Esto no se trata de vigilancia ni de fragilidad; es que el lenguaje moldea cómo se trata a las personas, y estos términos rastrean de forma fiable suposiciones anticuadas y dañinas.
+Esto no se trata de vigilancia ni de fragilidad; es que el lenguaje moldea cómo se trata a las personas, y estos términos rastrean de forma fiable suposiciones anticuadas y dañinas. (Guías de estilo sobre discapacidad como la del [National Center on Disability and Journalism](https://ncdj.org/style-guide/) recogen buena parte de esta orientación —en inglés—; las preferencias de la comunidad siguen variando según la persona y la región.)
 
 ---
 

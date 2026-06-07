@@ -33,7 +33,7 @@ Autistic and neurodivergent self-advocacy is one of the most organized parts of 
 
 Deaf community is its own linguistic and cultural community, with Deaf-led national organizations. (Capital-D "Deaf" signals cultural identity; lowercase "deaf" describes audiological status—communities use both.)
 
-- **National Association of the Deaf (NAD)** — the largest Deaf-led civil rights organization in the US. [nad.org](https://www.nad.org)
+- **National Association of the Deaf (NAD)** — by its own description the nation's "premier" civil rights organization of, by, and for deaf and hard of hearing people, and the oldest civil rights organization in the US (founded 1880). [nad.org](https://www.nad.org)
 - **American Association of the DeafBlind (AADB)** — a national consumer organization of, by, and for DeafBlind people. [aadb.org](https://www.aadb.org)
 - **Helen Keller National Center** — services and community for DeafBlind people and people with combined vision and hearing loss. [helenkeller.org](https://www.helenkeller.org)
 
@@ -79,7 +79,7 @@ Self-advocacy by people with intellectual and developmental disabilities has its
 
 People who use augmentative and alternative communication (AAC) have their own communities and advocacy—centered on the principle that everyone communicates and has the right to be heard.
 
-- **CommunicationFIRST** — the only US nonprofit led by and for people who rely on AAC. [communicationfirst.org](https://communicationfirst.org)
+- **CommunicationFIRST** — describes itself as the only US civil rights organization led by and for the millions of people who can't rely on speech alone to be heard and understood (which includes AAC users). [communicationfirst.org](https://communicationfirst.org)
 - For the technology and access side, see [Communication Access and AAC](/tech/communication-access-and-aac).
 
 ---

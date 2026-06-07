@@ -22,6 +22,8 @@ El relato dominante trata las ayudas de movilidad como un declive: algo a lo que
 
 Las personas que usan ayudas son atletas, madres y padres, trabajadoras, bailarinas, viajeras, organizadoras. La ayuda es parte de cómo hacen esas cosas, no una razón por la que no pueden.
 
+(Nada de esto es automático: conseguir la ayuda *adecuada* —el ajuste correcto, el entrenamiento para usarla, un entorno donde de verdad puedas usarla, y una forma de costearla y mantenerla— importa, y esas piezas son individuales. La idea no es que cualquier dispositivo lo resuelva todo al instante, sino que una ayuda es una herramienta de libertad, no una señal de fracaso, y el uso a tiempo parcial o según la situación es igual de válido.)
+
 ---
 
 ## De dónde viene la grosería
@@ -31,7 +33,7 @@ Entender las suposiciones hace que los comentarios sean más fáciles de soltar:
 - **El mito del "último recurso".** A la gente le enseñan que las ayudas significan fracaso, así que ofrecen "ánimos" para no usar una, o tratan su uso como algo triste.
 - **La trampa del "no pareces discapacitada".** Muchas personas pueden caminar *un poco* y usar una silla de ruedas en otros momentos: esto es **uso ambulatorio de silla de ruedas**, y es común y legítimo. Levantarse de una silla de ruedas para alcanzar un estante no es "un milagro" ni "fingir"; es simplemente cómo funcionan el cuerpo y la energía de esa persona.
 - **La fluctuación confunde a la gente.** Usar un bastón un día malo y no usarlo uno bueno parece "inconsistente" para quien cree que la discapacidad es fija y constante. No lo es.
-- **Apropiación y vigilancia.** Las personas desconocidas se sienten con derecho a comentar sobre los cuerpos y el equipo de las personas con discapacidad de formas que nunca usarían en otro contexto: preguntas, "inspiración", oraciones no solicitadas o sospecha de fraude.
+- **Sentirse con derecho sobre el cuerpo ajeno, y vigilancia.** Las personas desconocidas se sienten con derecho a comentar sobre los cuerpos y el equipo de las personas con discapacidad de formas que nunca usarían en otro contexto: preguntas, "inspiración", oraciones no solicitadas o sospecha de fraude.
 - **Costo y barreras de acceso.** Las ayudas pueden ser caras y difíciles de conseguir y de que las aprueben, lo que alimenta una cultura de "¿seguro que de verdad la necesitas?".
 
 Nada de esto se trata de ti. Se trata de una cultura que no se ha puesto al día con cómo funciona realmente la discapacidad.

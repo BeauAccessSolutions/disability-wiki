@@ -57,10 +57,10 @@ These are widely criticized by disabled people, though individuals vary:
 - **"Differently abled", "handicapable", "diffability"** — euphemisms that often feel patronizing and avoid the word "disabled".
 - **"Wheelchair-bound", "confined to a wheelchair"** — wheelchairs free people; "wheelchair user" is accurate.
 - **"Suffers from / afflicted with / victim of"** — framing a life as suffering. "Has", or naming the condition plainly, is usually better.
-- **"Inspirational" framing** for ordinary life ("inspiration porn") — positioning disabled people as feel-good lessons for non-disabled audiences.
+- **"Inspirational" framing** for ordinary life — positioning disabled people as feel-good lessons for non-disabled audiences. The late disability activist Stella Young popularized the term "inspiration porn" for this.
 - **Slurs** like the r-word and "lame", "crazy", "psycho" used casually as insults—these carry real harm even when not aimed at a specific person.
 
-This isn't about policing or fragility; it's that language shapes how people are treated, and these terms reliably track outdated, harmful assumptions.
+This isn't about policing or fragility; it's that language shapes how people are treated, and these terms reliably track outdated, harmful assumptions. (Disability style guides such as the [National Center on Disability and Journalism's](https://ncdj.org/style-guide/) collect much of this guidance; community preferences still vary by person and region.)
 
 ---
 

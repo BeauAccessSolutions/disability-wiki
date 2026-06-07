@@ -33,7 +33,7 @@ La autodefensa autista y neurodivergente es una de las partes más organizadas d
 
 La comunidad sorda es su propia comunidad lingüística y cultural, con organizaciones nacionales dirigidas por personas sordas. (La "S" mayúscula en "Sordo" señala la identidad cultural; "sordo" en minúscula describe el estado audiológico; las comunidades usan ambas formas.)
 
-- **National Association of the Deaf (NAD)**: la mayor organización de derechos civiles dirigida por personas sordas en EE. UU. [nad.org](https://www.nad.org)
+- **National Association of the Deaf (NAD)**: según su propia descripción, la organización de derechos civiles "premier" (principal) de, por y para personas sordas y con dificultades auditivas, y la organización de derechos civiles más antigua de EE. UU. (fundada en 1880). [nad.org](https://www.nad.org)
 - **American Association of the DeafBlind (AADB)**: una organización nacional de consumidores, de, por y para personas sordociegas. [aadb.org](https://www.aadb.org)
 - **Helen Keller National Center**: servicios y comunidad para personas sordociegas y personas con pérdida combinada de visión y audición. [helenkeller.org](https://www.helenkeller.org)
 
@@ -79,7 +79,7 @@ La autogestión de las personas con discapacidad intelectual y del desarrollo ti
 
 Las personas que usan comunicación aumentativa y alternativa (CAA) tienen sus propias comunidades y su propia defensa, centradas en el principio de que todas las personas se comunican y tienen derecho a ser escuchadas.
 
-- **CommunicationFIRST**: la única organización sin fines de lucro de EE. UU. dirigida por y para personas que dependen de la CAA. [communicationfirst.org](https://communicationfirst.org)
+- **CommunicationFIRST**: se describe como la única organización de derechos civiles de EE. UU. dirigida por y para los millones de personas que no pueden depender solo del habla para ser escuchadas y comprendidas (lo que incluye a las personas usuarias de CAA). [communicationfirst.org](https://communicationfirst.org)
 - Para el lado de la tecnología y el acceso, consulta [Acceso a la comunicación y CAA](/es/tech/communication-access-and-aac).
 
 ---
