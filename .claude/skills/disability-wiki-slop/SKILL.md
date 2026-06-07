@@ -79,6 +79,46 @@ proof of error — but on this wiki, unverified specifics are the whole problem.
 - **Internal contradiction.** The page states a figure one way in the lead and
   another later, or "set in 1989" vs "set in 1972". → reconcile against source.
 
+## Tier 1c — Missing-safeguards check (omissions; route to disability-wiki-page/accuracy)
+
+Tiers 1/1b flag *bad text*. This tier flags **dangerous absence** — the defect a
+line-scan can't point at because there's no line. (It's the gap a test sweep
+missed: a page promises CIL help but never says what to do if an attendant is
+abusive.) Apply to **high-stakes pages only** (crisis, benefits, rights, housing,
+healthcare, employment, education, professional guidance). Each item is
+conditional — flag only when the **trigger is present and the safeguard is absent**.
+
+- **Urgent-help / safeguarding pathway.** Trigger: the page walks someone through a
+  service, support arrangement, or living situation (CILs, attendants, group homes,
+  benefits intake, research participation). Expected: a "what to do right now if
+  you're unsafe" note — abuse, coercion, neglect, exploitation, an unsafe
+  attendant, sudden loss of essential support, eviction/homelessness, immediate
+  medical risk. Absent → flag.
+- **International-standard ≠ enforceable-remedy caveat.** Trigger: the page asserts
+  a CRPD/treaty right ("Article 19 right to live in community", "right to
+  participate in research"). Expected: a line distinguishing the human-rights
+  standard from an immediately enforceable individual remedy (varies by
+  ratification, reservation, domestic implementation, eligibility). Absent → flag.
+- **Jurisdiction / eligibility / deadline caveat.** Trigger: an outcome that
+  actually varies ("services are free", "most qualify", "you're entitled to",
+  "programs cover costs"). Expected: a "varies by state/program/eligibility —
+  confirm locally" hedge. Absent → flag (overlaps the blanket-promise Tier-1 tell).
+- **Legal-obligation disclosure.** Trigger: the page tells the reader to take on a
+  role carrying legal duties ("you're the employer", "you hire and fire", "file the
+  complaint yourself"). Expected: a note on the obligations (payroll/tax/labor;
+  deadlines; standing) or alternatives (agency model, fiscal intermediary,
+  advocate). Absent → flag.
+- **Source + date on load-bearing stats.** Trigger: a statistic the reader might
+  act on (prevalence, "~half", a count like "403 CILs"). Expected: inline source +
+  date. Absent → flag (overlaps Tier-1 unsourced-specifics).
+- **Currency/verification note on directories.** Trigger: the page is a resource
+  list, org directory, or "archive". Expected: an access-date + "verify before
+  relying; details change". Absent → flag.
+
+Report omissions in their **own block** so they read as "add X", not "fix line N".
+This is judgment, not pattern-matching: when unsure whether an omission is genuinely
+expected for *that* page, say so and downgrade rather than inventing a gap.
+
 ## Tier 2 — STYLISTIC slop (route to disability-wiki-page house voice)
 
 Full word/phrase/structure tables in `references/rubric.md`. Highlights:
@@ -128,12 +168,15 @@ drafts violate it in recognizable ways — treat these as slop too:
 - benefits/us/ssi.md:42 — "$1,200 break-even" unsourced + contradicts later "$2,000" → reconcile, verify vs SSA → disability-wiki-accuracy
 - crisis/.../mexico.md:26 — lead hotline is a US 1-800 number → wrong-country lead, verify → disability-wiki-accuracy
 
+🟠 Missing safeguards (add — no single line to fix)
+- housing/independent-living-…md — walks reader through hiring attendants but no "what if an attendant is unsafe" pathway → add safeguarding note
+- housing/index.md:34 — asserts CRPD Art. 19 right with no "standard ≠ enforceable remedy" caveat → add caveat
+
 🟡 Tier 2 — Stylistic / Voice
 - conditions/x.md:11 — "delve into" → examine/look at
-- intersectionality/y.md:9 — Title Case heading → sentence case
 - housing/z.md:14 — opens on "the barriers facing…" → lead with agency
 
-Routing: 2 factual flags → disability-wiki-accuracy; 3 style/voice → disability-wiki-page.
+Routing: 2 factual + 2 omissions → disability-wiki-accuracy/page; 2 style/voice → disability-wiki-page.
 ```
 
 Only surface High/Medium stylistic items individually; batch Low ones as a count.
