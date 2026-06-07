@@ -19,11 +19,15 @@ this session. The corresponding **`es/` Spanish pages were NOT updated** and now
 incorrect content. Re-translate/sync these `es/` pages to match current English before relying
 on them:
 
-- `es/benefits/us/ssi.md`, `es/benefits/us/medicare.md`, `es/benefits/us/veterans-benefits.md`
-- `es/rights/us/ada.md`, `es/rights/us/section-504.md`, `es/rights/us/state-disability-rights-laws.md`, `es/rights/us/air-carrier-access-act.md`
-- All edited crisis pages: `es/crisis/crisis-hotlines/{north-america/mexico,north-america/united-states,north-america/canada,asian-pacific/india,asian-pacific/indonesia,asian-pacific/philippines,asian-pacific/thailand,asian-pacific/australia,europe/united-kingdom}.md` and `es/crisis/abuse/abuse-resources.md`
+- ⬜ `es/benefits/us/ssi.md`, `es/benefits/us/medicare.md`, `es/benefits/us/veterans-benefits.md`
+- ⬜ `es/rights/us/ada.md`, `es/rights/us/section-504.md`, `es/rights/us/state-disability-rights-laws.md`, `es/rights/us/air-carrier-access-act.md`
+- ✅✅ **All edited crisis pages — SYNCED 2026-06-07.** `es/crisis/crisis-hotlines/{north-america/mexico,north-america/united-states,north-america/canada,asian-pacific/india,asian-pacific/indonesia,asian-pacific/philippines,asian-pacific/thailand,asian-pacific/australia,europe/united-kingdom}.md` and `es/crisis/abuse/abuse-resources.md` now match the Tier A English corrections (`d1f90c7`). All 9 leaf pages validate clean via `check_translation.py`.
 
-**Life-safety priority:** the crisis-page `es/` versions still show the wrong/obsolete phone numbers (Mexico's US number, Thailand 1300, India's missing Tele-MANAS, the old UK Rape Crisis line, etc.). Sync those first.
+**Life-safety priority — DONE.** The crisis-page `es/` versions previously showed wrong/obsolete numbers; all are now corrected: Mexico → Línea de la Vida 800-911-2000; Thailand 1300 → DMH 1323; India → adds Tele-MANAS 14416; Indonesia → Healing119 / 119 ext 8; Philippines → NCMH 1553; Australia → Lifeline "gratuito"; UK + abuse-resources → Rape & Sexual Abuse Support Line 0808 500 2222; US/Canada → 988 emergency-policy wording. Blanket "all free/confidential/24-7" footers and false "verified" lines softened to match EN.
+
+> Note: the aggregator index `es/crisis/crisis-hotlines/asian-pacific.md` was checked — its Thailand "1300" is the **Baan Kredtrakarn child-abuse line** (a distinct, valid service), not the obsolete Samaritans number, so it correctly mirrors EN and needs no change.
+
+**Remaining ES sync (next session):** the benefits/ and rights/ pages listed above (⬜) are NOT yet synced to their Tier B/C English corrections.
 
 ---
 
