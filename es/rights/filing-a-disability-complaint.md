@@ -1,6 +1,6 @@
 ---
 title: Presentar una queja por discapacidad
-description: 2. Intenta primero el proceso interno (por lo general)
+description: Si se violan tus derechos como persona con discapacidad, tienes opciones para presentar quejas. ¿Tienes experiencia vivida o conocimientos que podrían fortalecer esta página?
 published: true
 date: 2026-06-05T20:38:48.724Z
 tags: 
@@ -103,20 +103,37 @@ Si se violan tus derechos como persona con discapacidad, tienes opciones para pr
 
 ---
 
-### Queja ante la OCR (Educación - Sección 504/IDEA)
+### Queja ante la OCR (Educación — Sección 504 y Título II de la ADA)
 
-**Para:** Discriminación escolar, falta de adaptación, violaciones del IEP
+**Para:** Discriminación por discapacidad por parte de escuelas o universidades — adaptaciones denegadas, falta de accesibilidad, represalias (Sección 504 / Título II). **Nota:** la OCR **no** atiende disputas de IDEA/IEP — esas se tramitan a través de tu estado (ver más abajo).
 
-**Plazo:** 180 días para IDEA; más tiempo para la Sección 504
+**Plazo:** 180 días desde la discriminación (la OCR puede dispensar el plazo por causa justificada)
 
 **Proceso:**
-1. Por lo general, intenta primero el proceso interno de la escuela (audiencia de debido proceso para IDEA)
-2. Si no quedas conforme, presenta una queja ante la OCR
-3. La OCR investiga
-4. La OCR emite una determinación
-5. Puedes demandar ante un tribunal si es necesario
+1. Puedes presentar la queja directamente ante la OCR (no tienes que agotar primero el proceso de la escuela para una queja de la 504/Título II)
+2. La OCR investiga
+3. La OCR emite una determinación
+4. Puedes demandar ante un tribunal si es necesario
 
 **Tiempo:** La investigación de la OCR varía (puede ser de 1 a 2 años)
+
+**Costo:** Gratis presentar la queja; abogado opcional
+
+---
+
+### Queja ante IDEA (Educación especial — agencia estatal, no la OCR)
+
+**Para:** Violaciones del IEP/FAPE, disputas de elegibilidad, servicios de educación especial
+
+**Plazo:** **Queja estatal** ante tu agencia estatal de educación — dentro de **1 año** de la violación (34 CFR 300.153). **Audiencia de debido proceso** — dentro de **2 años** desde que supiste o debiste haber sabido (34 CFR 300.507), o el plazo explícito de tu estado.
+
+**Proceso:**
+1. A menudo se empieza con el proceso de la escuela o una reunión del equipo del IEP
+2. Presenta una queja estatal (el estado debe investigar dentro de 60 días) y/o una queja de debido proceso
+3. La mediación está disponible y es gratuita
+4. Apela o demanda después de una decisión de debido proceso
+
+**Tiempo:** Queja estatal ~60 días; el debido proceso varía
 
 **Costo:** Gratis presentar la queja; abogado opcional
 
@@ -300,8 +317,9 @@ Si se violan tus derechos como persona con discapacidad, tienes opciones para pr
 | Ley | Plazo |
 |---|---|
 | ADA (Empleo) | 180-300 días (varía según el estado) |
-| Sección 504 | 180 días (varía) |
-| IDEA | 180 días |
+| Sección 504 / Título II (OCR) | 180 días (dispensable) |
+| IDEA — queja estatal | 1 año |
+| IDEA — audiencia de debido proceso | 2 años (o el plazo del estado) |
 | Vivienda justa | 1 año |
 | Demanda bajo la ADA | 2-3 años (varía) |
 
