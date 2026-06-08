@@ -183,7 +183,7 @@ Landlords cannot retaliate against tenants for asserting rights. Most provinces 
 
 ---
 
-## European Union & Member States
+## European Union & Member States {#european-union}
 
 EU member states must implement CRPD Article 19 protections. Tenant protections vary significantly by country, but core principles apply universally across EU.
 

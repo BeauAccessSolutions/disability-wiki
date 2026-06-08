@@ -28,7 +28,7 @@ Todas las personas con discapacidad tienen dignidad inherente e iguales derechos
 
 ## El marco global
 
-### Convención de la ONU sobre los Derechos de las Personas con Discapacidad (CDPD)
+### Convención de la ONU sobre los Derechos de las Personas con Discapacidad (CDPD) {#united-nations-framework}
 
 La CDPD es el principal tratado internacional de derechos humanos que protege los derechos de las personas con discapacidad. Adoptada en 2006 y en vigor desde 2008, fue moldeada de forma significativa por las organizaciones de personas con discapacidad bajo el principio "Nada Sobre Nosotros Sin Nosotros".
 

@@ -92,7 +92,7 @@ For most of human history, disabled people were integrated into their communitie
 - Specialization based on strengths
 - Flexibility in roles
 
-### Examples of Inclusion
+### Examples of Inclusion {#detailed-historical-examples}
 
 **Archaeological sites show:**
 - **Shanidar Cave (Iraq)**: Neanderthal skeleton shows individual survived with severe disability, lived to ~40 years old, received community care

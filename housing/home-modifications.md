@@ -192,7 +192,7 @@ Canadian building codes increasingly incorporating accessibility features. New c
 
 ---
 
-## European Union & Member States
+## European Union & Member States {#european-union}
 
 EU funding for home modifications varies dramatically by member state, though EU directives increasingly require accessibility.
 

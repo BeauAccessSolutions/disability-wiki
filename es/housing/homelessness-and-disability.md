@@ -245,7 +245,7 @@ Similares a las de EE. UU.: financiamiento insuficiente, inercia institucional, 
 
 ---
 
-## Unión Europea y Estados miembros
+## Unión Europea y Estados miembros {#european-union}
 
 Los Estados miembros de la UE deben implementar el artículo 19 de la CDPD (derecho a vivir de forma independiente en la comunidad). Sin embargo, la situación de calle persiste en toda la UE, en particular para las personas con discapacidad.
 

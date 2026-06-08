@@ -245,7 +245,7 @@ Similar to U.S.: underfunding, institutional inertia, accessibility gaps, servic
 
 ---
 
-## European Union & Member States
+## European Union & Member States {#european-union}
 
 EU member states required to implement CRPD Article 19 (right to live independently in community). Yet homelessness persists across EU, particularly for disabled people.
 

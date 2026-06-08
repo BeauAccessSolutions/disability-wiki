@@ -260,7 +260,7 @@ Similar to U.S.: supported living, self-directed care, host homes, cooperative h
 
 ---
 
-## European Union & Member States
+## European Union & Member States {#european-union}
 
 EU member states required to implement CRPD Article 19 deinstitutionalization. Progress varies dramatically.
 

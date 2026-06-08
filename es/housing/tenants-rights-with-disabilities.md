@@ -183,7 +183,7 @@ Los arrendadores no pueden tomar represalias contra los inquilinos por hacer val
 
 ---
 
-## Unión Europea y Estados miembros
+## Unión Europea y Estados miembros {#european-union}
 
 Los Estados miembros de la UE deben implementar las protecciones del artículo 19 de la CDPD. Las protecciones de los inquilinos varían de forma significativa según el país, pero los principios fundamentales se aplican de manera universal en toda la UE.
 

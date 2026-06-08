@@ -20,7 +20,7 @@ The Paralympic Games are the world's third-largest sporting event, showcasing el
 - [History](#history)
 - [How Paralympics Work](#how-paralympics-work)
   - [Classification](#classification)
-  - [Sports](#sports)
+  - [Sports](#summer-paralympic-sports)
 - [Summer Paralympic Sports](#summer-paralympic-sports)
 - [Winter Paralympic Sports](#winter-paralympic-sports)
 - [Major Paralympic Nations](#major-paralympic-nations)

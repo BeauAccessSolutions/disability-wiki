@@ -260,7 +260,7 @@ Similar a EE. UU.: la vida con apoyo, el cuidado autodirigido, los hogares de ac
 
 ---
 
-## Unión Europea y estados miembros
+## Unión Europea y estados miembros {#european-union}
 
 Los estados miembros de la UE están obligados a implementar la desinstitucionalización del Artículo 19 de la CDPD. El progreso varía dramáticamente.
 

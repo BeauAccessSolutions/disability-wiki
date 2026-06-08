@@ -192,7 +192,7 @@ Los códigos de construcción canadienses incorporan cada vez más característi
 
 ---
 
-## Unión Europea y estados miembros
+## Unión Europea y estados miembros {#european-union}
 
 La financiación de la UE para las modificaciones del hogar varía dramáticamente según el estado miembro, aunque las directivas de la UE exigen cada vez más la accesibilidad.
 

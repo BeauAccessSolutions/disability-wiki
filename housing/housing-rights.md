@@ -185,7 +185,7 @@ Document all communications. If landlord refuses, contact your provincial human 
 
 ---
 
-## European Union & Member States
+## European Union & Member States {#european-union}
 
 EU member states are required to implement CRPD Article 19 principles. The EU provides coordinated frameworks, but implementation varies by country.
 

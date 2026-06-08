@@ -186,7 +186,7 @@ Los códigos de construcción (National Building Code of Canada) establecen los 
 
 ---
 
-## Unión Europea y estados miembros
+## Unión Europea y estados miembros {#european-union}
 
 La búsqueda de vivienda en la UE varía significativamente según el país. No existe una base de datos a nivel de todo el continente; las herramientas de búsqueda y los estándares de accesibilidad varían según el estado miembro.
 
@@ -318,7 +318,7 @@ Solicita información por escrito antes de presentar la solicitud. Busca asisten
 
 ---
 
-## Otros países y recursos globales
+## Otros países y recursos globales {#other-countries}
 
 Las estrategias de búsqueda de vivienda varían a nivel global según los mercados de vivienda locales, los estándares de accesibilidad y la infraestructura de discapacidad.
 

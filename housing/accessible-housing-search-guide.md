@@ -186,7 +186,7 @@ Building codes (National Building Code of Canada) establish accessibility standa
 
 ---
 
-## European Union & Member States
+## European Union & Member States {#european-union}
 
 EU housing search varies significantly by country. No continent-wide database exists; search tools and accessibility standards vary by member state.
 
@@ -318,7 +318,7 @@ Request written information before applying. Seek assistance from state disabili
 
 ---
 
-## Other Countries & Global Resources
+## Other Countries & Global Resources {#other-countries}
 
 Housing search strategies vary globally based on local housing markets, accessibility standards, and disability infrastructure.
 

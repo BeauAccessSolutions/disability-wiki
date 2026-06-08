@@ -418,7 +418,7 @@ Empieza aquí. Estos son textos fundamentales para comprender los derechos, la c
 - 📘 Driven to Distraction – Hallowell y Ratey
 - 📘 ADHD 2.0 – Hallowell y Ratey
 
-### Personas Sordas y con dificultades auditivas {#personas-sordas-y-con-dificultades-auditivas}
+### Personas Sordas y con dificultades auditivas {#personas-sordas-y-con-dificultades-auditivas-1}
 
 - 📘 Haben – Haben Girma
 - 📘 El Deafo – Cece Bell
@@ -427,7 +427,7 @@ Empieza aquí. Estos son textos fundamentales para comprender los derechos, la c
 - 📘 The Story of My Life – Helen Keller
 - 📘 Deaf President Now! – Christiansen y Barnartt
 
-### Personas ciegas y con baja visión {#personas-ciegas-y-con-baja-visión}
+### Personas ciegas y con baja visión {#personas-ciegas-y-con-baja-visión-1}
 
 - 📘 Haben – Haben Girma
 - 📘 The Story of My Life – Helen Keller
@@ -450,14 +450,14 @@ Empieza aquí. Estos son textos fundamentales para comprender los derechos, la c
 - 📘 The Diving Bell and the Butterfly – Jean-Dominique Bauby
 - Out of My Mind – Sharon Draper
 
-### Discapacidad psiquiátrica {#discapacidad-psiquiátrica}
+### Discapacidad psiquiátrica {#discapacidad-psiquiátrica-1}
 
 - 📘 The Bell Jar – Sylvia Plath
 - 📘 An Unquiet Mind – Kay Redfield Jamison
 - 📘 The Collected Schizophrenias – Esmé Weijun Wang
 - 📘 Madness – Marya Hornbacher
 
-### Intelectual y del desarrollo {#intelectual-y-del-desarrollo}
+### Intelectual y del desarrollo {#intelectual-y-del-desarrollo-1}
 
 - 📘 Count Us In – Kingsley y Levitz
 - Flowers for Algernon – Daniel Keyes [histórico]

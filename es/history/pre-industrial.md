@@ -92,7 +92,7 @@ Durante la mayor parte de la historia humana, las personas con discapacidad estu
 - Especialización basada en las fortalezas
 - Flexibilidad en los roles
 
-### Ejemplos de inclusión
+### Ejemplos de inclusión {#ejemplos-históricos-detallados}
 
 **Los sitios arqueológicos muestran:**
 - **Cueva de Shanidar (Irak)**: Un esqueleto neandertal muestra que la persona sobrevivió con una discapacidad grave, vivió hasta los ~40 años y recibió cuidado comunitario

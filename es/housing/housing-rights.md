@@ -185,7 +185,7 @@ Documenta todas las comunicaciones. Si el arrendador se niega, contacta a tu com
 
 ---
 
-## Unión Europea y Estados miembros
+## Unión Europea y Estados miembros {#european-union}
 
 Los Estados miembros de la UE deben implementar los principios del artículo 19 de la CDPD. La UE ofrece marcos coordinados, pero la implementación varía según el país.
 

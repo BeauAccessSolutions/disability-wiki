@@ -217,7 +217,7 @@ Similares a los de EE. UU.: control de la persona usuaria, apoyo entre pares, tr
 
 ---
 
-## Unión Europea y Estados miembros
+## Unión Europea y Estados miembros {#european-union}
 
 El movimiento de IL está menos desarrollado en Europa que en EE. UU. y Canadá, pero crece. Las variaciones nacionales son significativas.
 

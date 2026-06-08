@@ -20,7 +20,7 @@ Los Juegos Paralímpicos son el tercer evento deportivo más grande del mundo y 
 - [Historia](#history)
 - [Cómo funcionan los Paralímpicos](#how-paralympics-work)
   - [Clasificación](#classification)
-  - [Deportes](#sports)
+  - [Deportes](#summer-paralympic-sports)
 - [Deportes paralímpicos de verano](#summer-paralympic-sports)
 - [Deportes paralímpicos de invierno](#winter-paralympic-sports)
 - [Principales naciones paralímpicas](#major-paralympic-nations)

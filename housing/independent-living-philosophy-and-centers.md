@@ -217,7 +217,7 @@ Similar to U.S.: consumer control, peer support, cross-disability, community liv
 
 ---
 
-## European Union & Member States
+## European Union & Member States {#european-union}
 
 IL movement less developed in Europe than U.S./Canada, but growing. National variations significant.
 
