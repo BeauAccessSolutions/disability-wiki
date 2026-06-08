@@ -18,7 +18,7 @@ Las prestaciones por discapacidad del VA son:
 - **Para condiciones relacionadas con el servicio**: Discapacidades causadas o agravadas por el servicio militar
 - **Libres de impuestos**: Las prestaciones mensuales no son ingresos tributables
 - **Basadas en una calificación de discapacidad**: Una calificación porcentual (10 %-100 %) determina el monto de la prestación
-- **Disponibles de por vida**: Una vez aprobadas, continúan mientras la discapacidad siga relacionada con el servicio
+- **A menudo a largo plazo, pero no garantizadas de por vida**: Una vez aprobadas, las prestaciones continúan mientras la condición siga relacionada con el servicio, pero el VA puede reducir o terminar una calificación tras una nueva evaluación si la condición mejora. Muchas calificaciones están protegidas contra reducciones —por ejemplo, una calificación mantenida de forma continua durante 20 años, una calificación del 100 % basada en una condición que no se espera que mejore, y las condiciones "estáticas"— y el VA a menudo no vuelve a evaluar a las personas veteranas mayores de cierta edad. El VA debe demostrar la mejoría para bajar una calificación.
 - **Combinables con otras prestaciones**: Puedes recibir discapacidad del VA + SSDI/SSI + Medicare + otros programas
 
 ## Quién califica
@@ -65,14 +65,14 @@ Puedes calificar para las prestaciones por discapacidad del VA si:
 **Elegibilidad**:
 - Sirvió durante tiempos de guerra
 - Mayor (por lo general 65 años o más) o permanente y totalmente discapacitado
-- Ingresos por debajo del umbral (~$17,400-$22,800 en 2026, según los dependientes)
-- Bienes por debajo de cierto límite ($163,699 para dic. 2025–nov. 2026)
+- Ingresos por debajo de la Tasa Máxima Anual de Pensión (Maximum Annual Pension Rate, MAPR). La MAPR **base** va de $17,441 (persona veterana sin dependientes) a $22,839 (con un dependiente) para dic. 2025–nov. 2026. Si calificas para las prestaciones de **Housebound** (confinamiento en el hogar) o de **Aid and Attendance** (ayuda y asistencia), tu MAPR es más alta: Housebound es $21,313/$26,710 y Aid and Attendance es $29,093/$34,488 (sin dependientes / con un dependiente). Verifica las tasas actuales en va.gov.
+- Bienes (patrimonio neto) por debajo del límite: $163,699 para dic. 2025–nov. 2026
 
 **Monto**: Basado en los ingresos, no en la conexión con el servicio
 - Prestación mensual: Diferencia entre los ingresos y el umbral
 - A menudo un pago significativo para veteranos de bajos ingresos
 
-**Duración**: Continúa de por vida (la elegibilidad se revisa periódicamente)
+**Duración**: Continúa mientras sigas cumpliendo los límites de ingresos y de patrimonio neto (el VA revisa la elegibilidad periódicamente, y la prestación puede terminar o cambiar si tus ingresos o bienes aumentan)
 
 **Importante**: La pensión y la compensación por discapacidad no se pueden recibir al mismo tiempo; la mayoría de los veteranos eligen la compensación por discapacidad si son elegibles
 

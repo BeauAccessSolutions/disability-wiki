@@ -51,7 +51,7 @@ These English pages were corrected this session (commits `8fa5f04`, `1f98057`) a
 ### Dollar amounts / figures to verify against official 2026 sources
 - ✅ `benefits/us/medicare.md` — Part B premium **$202.90**, Part D cap **$2,100**, Part A deductible **$1,736**, Part D deductible **$615**. Verified correct vs CMS 2026 (Codex audit). *(EN good; ES needs sync.)*
 - ✅ `benefits/us/ssi.md` — SGA **$1,690/mo** and FBR **$994/mo** verified vs SSA (Codex audit). *(EN good; ES needs sync.)*
-- ⬜ `benefits/us/veterans-benefits.md` — VA Pension income range "**~$17,400–$22,800**" may conflate **base** MAPR with **Aid & Attendance** MAPR (A&A is higher, ~$28k–$33k). Still open — check VA MAPR tables and clarify base vs A&A.
+- ✅ `benefits/us/veterans-benefits.md` — **FIXED EN 2026-06-07.** Verified vs va.gov (rates eff. Dec 1 2025, 2.8% COLA): base MAPR $17,441 (no deps) / $22,839 (1 dep); now also lists **Housebound** ($21,313/$26,710) and **Aid & Attendance** ($29,093/$34,488) MAPRs so the base figure isn't mistaken for the only threshold. Net-worth limit $163,699 confirmed correct. *(ES synced 2026-06-07.)*
 - ✅ `benefits/index.md` & `benefits/poverty-and-benefits-trap.md` — refreshed to 2026 (SSI base **$994**, SGA **$1,690**), verified vs SSA 2.8% COLA. Also fixed `index.md` "car up to certain value" → one vehicle (any value) and the DAC "before age 22" conflation. *(EN fixed 2026-06-07; ES needs sync.)*
 
 ### Internal inconsistencies (same page contradicts itself)
@@ -61,7 +61,7 @@ These English pages were corrected this session (commits `8fa5f04`, `1f98057`) a
 ### Naming / outdated references
 - ✅ `benefits/us/veterans-benefits.md` — TDRP wording corrected to **Temporary Disability Retired List (TDRL)** framing this session. *(EN fixed; ES needs sync.)*
 - ✅ `benefits/us/veterans-benefits.md` — Veterans Crisis Line updated to **dial 988 then press 1** (old 1-800-273-8255 noted as still routing). *(EN fixed this session; ES needs sync.)*
-- ⬜ `benefits/us/veterans-benefits.md` — "available for life / continues as long as service-connected" slightly overstates; ratings can be reduced on re-exam unless protected. **Open.**
+- ✅ `benefits/us/veterans-benefits.md` — **FIXED EN 2026-06-07.** "Available for life" → "often long-term, but not guaranteed": ratings can be reduced/ended on re-exam if the condition improves, with protections (20-yr continuous, 100% static, age-based no-re-exam). Pension "Continues for life" → "continues as long as income/net-worth limits are met". *(ES synced 2026-06-07.)*
 - ✅ `benefits/us/ssi.md` — "taxed as federal income assistance" → corrected to "SSI is **not** taxable income" this session. *(EN fixed; ES needs sync.)*
 
 ### Cosmetic link-text/href mismatches (href is correct; only displayed text is wrong)

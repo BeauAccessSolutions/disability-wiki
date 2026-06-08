@@ -18,7 +18,7 @@ VA disability benefits are:
 - **For service-connected conditions**: Disabilities caused or worsened by military service
 - **Tax-free**: Monthly benefits are not taxable income
 - **Based on disability rating**: Percentage rating (10%-100%) determines benefit amount
-- **Available for life**: Once approved, continue as long as disability remains service-connected
+- **Often long-term, but not guaranteed for life**: Once approved, benefits continue while the condition stays service-connected, but the VA can reduce or end a rating after a re-examination if the condition improves. Many ratings are protected from reduction—for example, a rating held continuously for 20 years, a 100% rating based on a condition not expected to improve, and "static" conditions—and the VA often won't re-examine veterans over a certain age. Improvement must be shown by the VA to lower a rating.
 - **Combinable with other benefits**: Can receive VA disability + SSDI/SSI + Medicare + other programs
 
 ## Who Qualifies
@@ -65,14 +65,14 @@ You may qualify for VA disability benefits if you:
 **Eligibility**:
 - Served during wartime
 - Older (usually age 65+) or permanently and totally disabled
-- Income below threshold (~$17,400-$22,800 in 2026, depending on dependents)
-- Assets under certain limit ($163,699 for Dec 2025–Nov 2026)
+- Income below the Maximum Annual Pension Rate (MAPR). The **base** MAPR is $17,441 (veteran with no dependents) to $22,839 (one dependent) for Dec 2025–Nov 2026. If you qualify for **Housebound** or **Aid and Attendance** benefits, your MAPR is higher—Housebound is $21,313/$26,710 and Aid and Attendance is $29,093/$34,488 (no dependents / one dependent). Verify current rates at va.gov.
+- Assets (net worth) under the limit: $163,699 for Dec 2025–Nov 2026
 
 **Amount**: Based on income, not on service connection
 - Monthly benefit: Difference between income and threshold
 - Often significant payment for low-income veterans
 
-**Duration**: Continues for life (eligibility reviewed periodically)
+**Duration**: Continues as long as you keep meeting the income and net-worth limits (the VA reviews eligibility periodically, and the benefit can stop or change if your income or assets rise)
 
 **Important**: Pension and disability compensation can't be received at same time; most veterans choose disability compensation if eligible
 
