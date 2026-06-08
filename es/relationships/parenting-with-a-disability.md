@@ -1,6 +1,6 @@
 ---
 title: Maternar o paternar con una discapacidad
-description: Las personas con discapacidad tienen el mismo derecho a tener y criar hijos que cualquier otra persona. Esta página pone en el centro las experiencias y los conocimientos de las madres y los padres con discapacidad, y ofrece…
+description: Las personas con discapacidad tienen el mismo derecho a tener y criar hijos que cualquier otra persona.
 published: true
 date: 2026-06-05T20:22:18.686Z
 tags: 

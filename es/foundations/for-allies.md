@@ -1,6 +1,6 @@
 ---
 title: Para personas aliadas
-description: Todas las personas con discapacidad tenemos derecho a un apoyo que ponga en el centro nuestra autonomía, dignidad y liderazgo. Esta página se basa en lo que las personas con discapacidad han dicho…
+description: La mejor manera de ser una persona aliada es escuchar a las personas con discapacidad. Quieres apoyar a las personas con discapacidad.
 published: true
 date: 2026-06-05T20:34:07.842Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Para personas aliadas
-description: 
+description: Para personas aliadas: orientación, derechos y recursos para la comunidad de la discapacidad.
 published: true
 date: 2026-06-05T20:17:55.698Z
 tags: 

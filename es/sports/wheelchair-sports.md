@@ -1,6 +1,6 @@
 ---
 title: Deportes en silla de ruedas
-description: Deportes diseñados para personas usuarias de silla de ruedas o adaptados para ellas, desde el juego recreativo hasta la competición paralímpica. Esta página cubre los principales deportes en silla de ruedas, cómo…
+description: Deportes diseñados para personas usuarias de silla de ruedas o adaptados para ellas, desde el juego recreativo hasta la competición paralímpica.
 published: true
 date: 2026-06-05T20:25:25.319Z
 tags: 

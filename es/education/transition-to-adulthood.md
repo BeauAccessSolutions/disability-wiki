@@ -1,6 +1,6 @@
 ---
 title: Transición a la vida adulta
-description: Todos los jóvenes con discapacidad tienen derecho a convertirse en personas adultas con plena participación en la sociedad. La Convención sobre los Derechos de las Personas con Discapacidad…
+description: Todos los jóvenes con discapacidad tienen derecho a convertirse en personas adultas con plena participación en la sociedad.
 published: true
 date: 2026-06-05T20:33:32.259Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Trauma de los sistemas, no de las condiciones
-description: Las personas con discapacidad a menudo viven trauma, pero no a causa de sus discapacidades. Lo viven a causa de los sistemas que se supone deben ayudarlas. Esta página distingue…
+description: Las personas con discapacidad a menudo viven trauma, pero no a causa de sus discapacidades. Lo viven a causa de los sistemas que se supone deben ayudarlas.
 published: true
 date: 2026-06-05T20:36:23.114Z
 tags: 

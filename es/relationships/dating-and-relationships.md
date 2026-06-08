@@ -1,6 +1,6 @@
 ---
 title: Citas y relaciones
-description: Las personas con discapacidad tienen los mismos deseos de conexión, intimidad y pareja que cualquier otra persona. Esta página pone en el centro las experiencias de las personas con discapacidad al navegar…
+description: Las personas con discapacidad tienen los mismos deseos de conexión, intimidad y pareja que cualquier otra persona.
 published: true
 date: 2026-06-05T20:22:13.587Z
 tags: 

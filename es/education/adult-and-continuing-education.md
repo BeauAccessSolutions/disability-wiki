@@ -1,6 +1,6 @@
 ---
 title: Educación de adultos y educación continua
-description: La educación de adultos y la educación continua incluyen oportunidades de aprendizaje para personas más allá de los entornos escolares tradicionales. Esto incluye el community college, las escuelas de oficios…
+description: La educación de adultos y la educación continua incluyen oportunidades de aprendizaje para personas más allá de los entornos escolares tradicionales.
 published: true
 date: 2026-06-05T20:33:10.203Z
 tags: 

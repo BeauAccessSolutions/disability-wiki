@@ -1,6 +1,6 @@
 ---
 title: "Demostrar que tienes una discapacidad: documentación, control de acceso y carga de la prueba"
-description: Todas las personas con discapacidad tienen derecho a los apoyos que necesitan sin verse obligadas a demostrar una y otra vez su legitimidad. Esta página pone en el centro los conocimientos de las personas con discapacidad…
+description: Las personas con discapacidad deben demostrar constantemente que tienen una discapacidad.
 published: true
 date: 2026-06-05T20:27:32.088Z
 tags: 

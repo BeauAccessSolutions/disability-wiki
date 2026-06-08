@@ -1,6 +1,6 @@
 ---
 title: Abuso, seguridad y consentimiento
-description: Las personas con discapacidad sufren abuso a tasas considerablemente más altas que las personas sin discapacidad. Esto no se debe a la discapacidad en sí, sino a que los sistemas y…
+description: Las personas con discapacidad sufren abuso a tasas considerablemente más altas que las personas sin discapacidad.
 published: true
 date: 2026-06-05T20:22:03.329Z
 tags: 

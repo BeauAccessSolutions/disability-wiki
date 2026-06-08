@@ -1,6 +1,6 @@
 ---
 title: Ley de Educación para Personas con Discapacidades (IDEA)
-description: La Ley de Educación para Personas con Discapacidades es una ley federal que garantiza a los niños con discapacidad el derecho a una educación pública gratuita y apropiada…
+description: La Ley de Educación para Personas con Discapacidades (Individuals with Disabilities Education Act, IDEA) es una ley federal que garantiza a los niños…
 published: true
 date: 2026-06-05T20:23:55.901Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Conducción y conducción adaptada
-description: Conducir puede brindar una independencia significativa a las personas con discapacidad. Esta página cubre el proceso de aprender a conducir o seguir conduciendo con una discapacidad…
+description: Conducir puede brindar una independencia significativa a las personas con discapacidad. No hay dos conductores iguales.
 published: true
 date: 2026-06-05T20:24:36.434Z
 tags: 

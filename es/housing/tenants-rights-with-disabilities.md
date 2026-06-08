@@ -1,6 +1,6 @@
 ---
 title: Derechos de los inquilinos con discapacidad
-description: Una vez que estás en una vivienda de alquiler, tus derechos continúan y se amplían. Puedes solicitar adaptaciones a políticas y prácticas, estás protegido frente a…
+description: Una vez que estás en una vivienda de alquiler, tus derechos continúan y se amplían.
 published: true
 date: 2026-06-05T20:38:20.465Z
 tags: 

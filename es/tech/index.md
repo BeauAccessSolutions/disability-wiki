@@ -1,6 +1,6 @@
 ---
 title: Tecnología y acceso digital
-description: El mundo digital debería ser accesible para todas las personas. Sin embargo, muchos sitios web, aplicaciones y servicios digitales excluyen a las personas con discapacidad. Esta sección cubre el acceso digital…
+description: El mundo digital debería ser accesible para todas las personas. Sin embargo, muchos sitios web, aplicaciones y servicios digitales excluyen a las personas con discapacidad.
 published: true
 date: 2026-06-05T20:24:10.382Z
 tags: 

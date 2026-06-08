@@ -1,6 +1,6 @@
 ---
 title: Estadísticas sobre discapacidad
-description: Todos los Estados Partes de la Convención sobre los Derechos de las Personas con Discapacidad de la ONU se comprometen a recopilar información apropiada, incluidos datos estadísticos y…
+description: Las estadísticas confiables son fundamentales para comprender la prevalencia de la discapacidad, las disparidades, las brechas de acceso y las necesidades no atendidas.
 published: true
 date: 2026-06-05T20:22:41.473Z
 tags: 

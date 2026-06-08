@@ -1,6 +1,6 @@
 ---
 title: Síndrome de taquicardia postural ortostática (POTS)
-description: Todas las personas con discapacidad tienen derecho al más alto nivel posible de salud sin discriminación. Esta página pone en el centro los conocimientos de las personas con discapacidad y se basa en…
+description: El POTS es una forma de disautonomía que hace que tu frecuencia cardíaca aumente de manera excesiva cuando te pones de pie, a menudo en 30 latidos por minuto o más.
 published: true
 date: 2026-06-05T20:29:35.063Z
 tags: 

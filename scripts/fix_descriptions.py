@@ -27,11 +27,15 @@ import re, sys, pathlib
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 MAX_LEN = 158
 APPLY = '--apply' in sys.argv
+LANG = 'es' if '--es' in sys.argv else 'en'
 
+# In English mode, scan repo-root content and skip es/. In Spanish mode, scan ONLY es/.
 SKIP_PREFIXES = ('es/', 'backups/', '.claude/', 'docs/', 'node_modules/', '.git/', 'scripts/')
 
 
 def is_content(rel: str) -> bool:
+    if LANG == 'es':
+        return rel.startswith('es/')
     return not any(rel.startswith(x) for x in SKIP_PREFIXES)
 
 
@@ -62,9 +66,13 @@ def clean_inline(s):
     return ' '.join(s.split())
 
 
-STOPWORDS_END = {'in', 'and', 'the', 'to', 'of', 'a', 'for', 'with', 'by',
-                 'that', 'is', 'are', 'or', 'as', 'at', 'on', 'an', 'their',
-                 'this', 'including', 'such'}
+STOPWORDS_END_EN = {'in', 'and', 'the', 'to', 'of', 'a', 'for', 'with', 'by',
+                    'that', 'is', 'are', 'or', 'as', 'at', 'on', 'an', 'their',
+                    'this', 'including', 'such'}
+STOPWORDS_END_ES = {'de', 'la', 'el', 'los', 'las', 'y', 'o', 'a', 'en', 'que',
+                    'con', 'para', 'un', 'una', 'del', 'al', 'su', 'sus', 'por',
+                    'como', 'se', 'lo', 'es', 'son', 'e', 'u', 'tu', 'sobre'}
+STOPWORDS_END = STOPWORDS_END_ES if LANG == 'es' else STOPWORDS_END_EN
 
 
 def intro_sentences(body):
@@ -92,7 +100,7 @@ def intro_sentences(body):
     return re.split(r'(?<=[.!?])\s+', text) if text else []
 
 
-BOILERPLATE = re.compile(
+BOILERPLATE_EN = re.compile(
     r"^(all (disabled people|people with disabilities|people|deaf|states parties)\b"
     r"|this page (centers|is informed by|complements|discusses|addresses|explains|walks|offers|covers|provides|helps)"
     r"|⚠️|content note|trigger warning"
@@ -101,6 +109,19 @@ BOILERPLATE = re.compile(
     r"|if this is overwhelming"
     r"|help is available)",
     re.IGNORECASE)
+
+BOILERPLATE_ES = re.compile(
+    r"^(tod[oa]s? (las personas|los? )?(con discapacidad|las personas con discapacidad)\b"
+    r"|tod[oa]s? las personas (con discapacidad|tienen|sordas)\b"
+    r"|tod[oa]s? los estados partes\b"
+    r"|esta página (pone en el centro|se basa|complementa|aborda|explica|ofrece|cubre|trata|brinda|te ayuda)"
+    r"|⚠️|nota de contenido|advertencia"
+    r"|no tienes que leer todo"
+    r"|si esto te resulta abrumador|si estás en crisis|hay ayuda disponible"
+    r"|¿tienes experiencia vivida)",
+    re.IGNORECASE)
+
+BOILERPLATE = BOILERPLATE_ES if LANG == 'es' else BOILERPLATE_EN
 
 
 def is_boilerplate(sentence):
@@ -151,7 +172,7 @@ def is_bad(desc):
         return 'truncated'
     if desc.endswith(':'):
         return 'colon'
-    if re.search(r'\[DATE\]|\[Archive|Comprehensive guide to', desc):
+    if re.search(r'\[DATE\]|\[Archive|\[FECHA\]|Comprehensive guide to|Guía completa', desc):
         return 'placeholder'
     if len(desc) < 50:
         return 'short'
@@ -202,7 +223,10 @@ def main():
                 if new and new not in used_texts:
                     break
         if (new in used_texts or not new) and title:
-            fallback = f"{title}: guidance, rights, and resources for the disability community."
+            if LANG == 'es':
+                fallback = f"{title}: orientación, derechos y recursos para la comunidad de la discapacidad."
+            else:
+                fallback = f"{title}: guidance, rights, and resources for the disability community."
             if fallback not in used_texts:
                 new = fallback
         status = 'OK'

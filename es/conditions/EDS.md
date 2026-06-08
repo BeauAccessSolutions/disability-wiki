@@ -1,6 +1,6 @@
 ---
 title: Síndromes de Ehlers-Danlos (EDS)
-description: Todas las personas con discapacidad tienen derecho al más alto nivel posible de salud sin discriminación. Esta página pone en el centro los conocimientos de las personas con discapacidad y se…
+description: Los síndromes de Ehlers-Danlos son un grupo de trastornos del tejido conectivo que afectan cómo tu cuerpo construye y mantiene la estructura que te mantiene…
 published: true
 date: 2026-06-05T20:28:53.665Z
 tags: 

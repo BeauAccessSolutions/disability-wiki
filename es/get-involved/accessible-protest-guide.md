@@ -1,6 +1,6 @@
 ---
 title: Guía de protesta accesible
-description: Todas las personas con discapacidad tienen derecho a la libertad de reunión pacífica, tal como afirma el Artículo 21 de la Convención de la ONU sobre los Derechos de las Personas con…
+description: Las personas con discapacidad siempre han sido centrales en los movimientos de protesta: bloqueando autobuses inaccesibles, subiendo a gatas las escaleras…
 published: true
 date: 2026-06-05T20:34:17.485Z
 tags: 

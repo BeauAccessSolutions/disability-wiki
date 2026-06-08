@@ -1,6 +1,6 @@
 ---
 title: Índice de Participa
-description: Todas las personas con discapacidad tienen derecho a participar plenamente en la vida política y pública, tal como afirma el Artículo 29 de la Convención de la ONU sobre los Derechos de las Personas…
+description: Esta sección pone en el centro los conocimientos de las personas con discapacidad en la construcción de movimientos para el cambio y se basa…
 published: true
 date: 2026-06-05T20:34:30.249Z
 tags: 

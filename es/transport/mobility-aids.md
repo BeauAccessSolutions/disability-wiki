@@ -1,6 +1,6 @@
 ---
 title: Apoyos de movilidad
-description: Los apoyos de movilidad son herramientas que ayudan a las personas a desplazarse por el mundo. Esta página pone en el centro los conocimientos de las personas con discapacidad para elegir, obtener y usar apoyos de movilidad…
+description: Los apoyos de movilidad son herramientas que ayudan a las personas a desplazarse por el mundo.
 published: true
 date: 2026-06-05T20:24:45.822Z
 tags: 

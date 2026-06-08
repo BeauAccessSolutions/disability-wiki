@@ -1,6 +1,6 @@
 ---
 title: Ley de Vivienda Justa (Fair Housing Act)
-description: 
+description: Ley de Vivienda Justa (Fair Housing Act): orientación, derechos y recursos para la comunidad de la discapacidad.
 published: true
 date: 2026-06-05T20:18:14.902Z
 tags: 

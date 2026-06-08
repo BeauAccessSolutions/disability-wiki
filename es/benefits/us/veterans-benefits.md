@@ -1,6 +1,6 @@
 ---
 title: Prestaciones por Discapacidad para Veteranos (EE. UU.)
-description: Los veteranos con discapacidad en Estados Unidos pueden calificar para prestaciones a través del Departamento de Asuntos de los Veteranos (VA), además de, o en lugar de, el Seguro Social…
+description: Los veteranos con discapacidad en Estados Unidos pueden calificar para prestaciones a través del Departamento de Asuntos de los Veteranos (Department of…
 published: true
 date: 2026-06-05T20:28:21.644Z
 tags: 

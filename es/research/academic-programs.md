@@ -1,6 +1,6 @@
 ---
 title: Programas académicos
-description: Todas las personas con discapacidad tienen derecho a la educación en igualdad de condiciones con las demás, incluido el acceso a la educación superior y al aprendizaje permanente, según…
+description: Esta página describe programas académicos, oportunidades de formación y vías educativas centradas en los estudios sobre discapacidad, la investigación…
 published: true
 date: 2026-06-05T20:22:33.037Z
 tags: 

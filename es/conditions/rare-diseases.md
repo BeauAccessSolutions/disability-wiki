@@ -1,6 +1,6 @@
 ---
 title: Enfermedades raras
-description: Todas las personas con enfermedades raras merecen un diagnóstico preciso, un tratamiento eficaz y acceso a una atención con conocimiento, sin importar cuán poco común sea su condición…
+description: Todas las personas con enfermedades raras merecen un diagnóstico preciso, un tratamiento eficaz y acceso a una atención con conocimiento, sin importar cuán…
 published: true
 date: 2026-06-05T20:29:44.965Z
 tags: 

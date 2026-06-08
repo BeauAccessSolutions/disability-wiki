@@ -1,6 +1,6 @@
 ---
 title: Qué navegadores funcionan mejor con la tecnología de apoyo
-description: La elección del navegador afecta el funcionamiento de tu tecnología de apoyo. Esta página comparte lo que las personas usuarias con discapacidad han aprendido sobre la compatibilidad entre navegadores y tecnología de apoyo…
+description: La elección del navegador afecta qué tan bien funciona tu tecnología de apoyo. Esta página comparte lo que las personas usuarias con discapacidad han…
 published: true
 date: 2026-06-05T20:26:21.050Z
 tags: 

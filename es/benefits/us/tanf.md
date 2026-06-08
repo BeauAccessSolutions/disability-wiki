@@ -1,6 +1,6 @@
 ---
 title: TANF – Asistencia en efectivo para familias (EE. UU.)
-description: El TANF es un programa federal-estatal de asistencia en efectivo para familias con hijos de muy bajos ingresos. Es:
+description: Los padres y madres con discapacidad y los hijos con discapacidad pueden verse afectados de maneras específicas.
 published: true
 date: 2026-06-05T20:28:17.790Z
 tags: 

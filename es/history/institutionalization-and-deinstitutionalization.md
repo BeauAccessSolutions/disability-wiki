@@ -1,6 +1,6 @@
 ---
 title: Institucionalización y desinstitucionalización
-description: Todas las personas con discapacidad tienen derecho a vivir de forma independiente y a estar incluidas en la comunidad, con opciones iguales a las de las…
+description: Durante más de un siglo, millones de personas con discapacidad fueron recluidas en instituciones contra su voluntad.
 published: true
 date: 2026-06-05T20:37:23.216Z
 tags: 

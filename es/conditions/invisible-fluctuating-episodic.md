@@ -1,6 +1,6 @@
 ---
 title: Discapacidades invisibles, fluctuantes y episódicas
-description: Todas las personas con discapacidad tienen derecho a apoyo y adaptaciones, sin importar si sus discapacidades son visibles o constantes. Esta página pone en el centro los conocimientos de las personas con discapacidad…
+description: Los sistemas diseñados en torno a la discapacidad normalmente asumen que los impedimentos son visibles, constantes y estables. No lo son.
 published: true
 date: 2026-06-05T20:29:12.417Z
 tags: 

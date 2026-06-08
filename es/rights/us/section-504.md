@@ -1,6 +1,6 @@
 ---
 title: Sección 504 de la Ley de Rehabilitación
-description: La Sección 504 es una ley federal de derechos civiles que prohíbe la discriminación contra las personas con discapacidad por parte de cualquier programa o actividad que reciba fondos federales. Promulgada…
+description: La Sección 504 es una ley federal de derechos civiles que prohíbe la discriminación contra las personas con discapacidad por parte de cualquier programa…
 published: true
 date: 2026-06-05T20:24:05.253Z
 tags: 

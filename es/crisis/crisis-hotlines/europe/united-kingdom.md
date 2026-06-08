@@ -1,6 +1,6 @@
 ---
 title: Líneas de crisis en el Reino Unido
-description: Si esto es abrumador en este momento, puedes simplemente llamar al número de abajo. No tienes que leer todo.
+description: La ayuda está disponible de inmediato, es gratuita y confidencial. Si esto es abrumador en este momento, puedes simplemente llamar al número de abajo.
 published: true
 date: 2026-06-05T20:31:05.611Z
 tags: 

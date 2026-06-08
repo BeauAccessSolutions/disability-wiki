@@ -1,6 +1,6 @@
 ---
 title: Panorama general de la tecnología de apoyo
-description: La tecnología de apoyo (AT) es cualquier herramienta, dispositivo, software o adaptación que ayuda a una persona con discapacidad a hacer algo. Puede ser un bastón, una silla de ruedas, un…
+description: La tecnología de apoyo (assistive technology, AT) es cualquier herramienta, dispositivo, software o adaptación que ayuda a una persona con discapacidad a hacer algo.
 published: true
 date: 2026-06-05T20:32:15.614Z
 tags: 

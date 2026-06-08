@@ -1,6 +1,6 @@
 ---
 title: Sesgo de peso y discapacidad
-description: Las personas gordas con discapacidad enfrentan una discriminación combinada. El sesgo de peso en la atención de salud lleva a diagnósticos no detectados, tratamiento tardío y peores resultados. Esta página…
+description: Las personas gordas con discapacidad enfrentan una discriminación combinada. El sesgo de peso en la atención de salud lleva a diagnósticos no detectados…
 published: true
 date: 2026-06-05T20:36:27.918Z
 tags: 

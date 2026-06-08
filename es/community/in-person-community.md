@@ -1,6 +1,6 @@
 ---
 title: Comunidad presencial
-description: Aunque las comunidades en línea son vitales, la comunidad presencial de personas con discapacidad —reunirse en espacios físicos con otras personas con discapacidad— ofrece una conexión única…
+description: Aunque las comunidades en línea son vitales, la comunidad presencial de personas con discapacidad —reunirse en espacios físicos con otras personas…
 published: true
 date: 2026-06-05T20:28:26.057Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Terminología
-description: Esta página de glosario define términos y conceptos importantes que se usan en todo el wiki. No es un diccionario de vocabulario general, sino una lista curada de términos que…
+description: Esta página de glosario define términos y conceptos importantes que se usan en todo el wiki.
 published: true
 date: 2026-06-05T20:35:14.780Z
 tags: 

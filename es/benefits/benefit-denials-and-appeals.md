@@ -1,6 +1,6 @@
 ---
 title: Denegaciones de prestaciones y apelaciones
-description: Para muchas personas con discapacidad, que te denieguen la primera vez no es el final de la historia: es casi parte del proceso. Esta página trata sobre:
+description: Como las leyes varían según el país, esta página usa principios generales y debería ampliarse con secciones específicas por país.
 published: true
 date: 2026-06-05T20:26:59.152Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Índice de deportes
-description: Las personas atletas con discapacidad compiten en todos los niveles, desde ligas recreativas hasta los Juegos Paralímpicos. Esta sección cubre los deportes adaptados, la historia paralímpica, cómo participar y…
+description: Las personas atletas con discapacidad compiten en todos los niveles, desde ligas recreativas hasta los Juegos Paralímpicos.
 published: true
 date: 2026-06-05T20:25:11.342Z
 tags: 

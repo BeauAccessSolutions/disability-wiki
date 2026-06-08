@@ -1,6 +1,6 @@
 ---
 title: Glosario y contribución
-description: Esta sección ofrece definiciones, terminología e información sobre cómo contribuir al Disability Wiki. Los términos se explican en lenguaje sencillo desde…
+description: Esta sección ofrece definiciones, terminología e información sobre cómo contribuir al Disability Wiki.
 published: true
 date: 2026-06-05T20:35:10.018Z
 tags: 

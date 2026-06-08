@@ -1,6 +1,6 @@
 ---
 title: Comunidades de juventud y estudiantes
-description: Las y los jóvenes y estudiantes con discapacidad enfrentan barreras y oportunidades específicas. La escuela, la universidad y la transición a la vida adulta pueden ser increíblemente desafiantes para…
+description: Las y los jóvenes y estudiantes con discapacidad enfrentan barreras y oportunidades específicas.
 published: true
 date: 2026-06-05T20:28:43.902Z
 tags: 

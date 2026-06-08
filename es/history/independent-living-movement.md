@@ -1,6 +1,6 @@
 ---
 title: El movimiento de vida independiente (décadas de 1960 a 1980)
-description: Todas las personas con discapacidad tienen derecho a vivir de forma independiente y a ser incluidas en la comunidad (Artículo 19 de la CDPD) y derecho a la movilidad personal con la mayor…
+description: El movimiento de vida independiente transformó la discapacidad de una cuestión médica en una cuestión de derechos civiles y de liberación comunitaria.
 published: true
 date: 2026-06-05T20:37:10.038Z
 tags: 

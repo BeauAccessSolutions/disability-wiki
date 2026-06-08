@@ -1,6 +1,6 @@
 ---
 title: Leyes estatales de derechos de las personas con discapacidad en EE. UU.
-description: Las leyes federales como la ADA establecen un piso nacional para los derechos de las personas con discapacidad, pero muchos estados van más allá. Las leyes estatales pueden cubrir a empleadores más pequeños, brindar…
+description: Las leyes federales como la ADA establecen un piso nacional para los derechos de las personas con discapacidad, pero muchos estados van más allá.
 published: true
 date: 2026-06-05T20:23:32.799Z
 tags: 

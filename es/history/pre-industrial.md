@@ -1,6 +1,6 @@
 ---
 title: La discapacidad en la era preindustrial
-description: Durante la mayor parte de la historia humana, las personas con discapacidad estuvieron integradas en sus comunidades. Distintas sociedades tuvieron distintos…
+description: Durante la mayor parte de la historia humana, las personas con discapacidad estuvieron integradas en sus comunidades.
 published: true
 date: 2026-06-05T20:37:27.677Z
 tags: 

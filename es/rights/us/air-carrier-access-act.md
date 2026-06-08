@@ -1,6 +1,6 @@
 ---
 title: Ley de Acceso al Transporte Aéreo
-description: La Ley de Acceso al Transporte Aéreo (ACAA) es una ley federal que prohíbe la discriminación contra los pasajeros con discapacidad por parte de las aerolíneas. Promulgada en 1986…
+description: La Ley de Acceso al Transporte Aéreo (Air Carrier Access Act, ACAA) es una ley federal que prohíbe la discriminación contra los pasajeros con discapacidad…
 published: true
 date: 2026-06-05T20:23:37.534Z
 tags: 

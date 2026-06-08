@@ -1,6 +1,6 @@
 ---
 title: Luz de gas médica y trauma en la atención de salud
-description: Todas las personas con discapacidad tienen derecho a una atención de salud que respete su conocimiento sobre su propio cuerpo. Esta página pone en el centro los conocimientos de las personas con discapacidad y…
+description: Esta página se enfoca en el reconocimiento práctico, la sanación y la autodefensa.
 published: true
 date: 2026-06-05T20:36:08.500Z
 tags: 

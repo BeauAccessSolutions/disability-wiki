@@ -1,6 +1,6 @@
 ---
 title: Defensa y autodefensa
-description: Todas las personas con discapacidad tienen derecho a hablar por sí mismas y a participar en las decisiones que afectan sus vidas. Esta página pone en el centro los conocimientos de las personas con discapacidad…
+description: Defender derechos significa alzar la voz: por ti, por otras personas o por el cambio.
 published: true
 date: 2026-06-05T20:23:04.199Z
 tags: 

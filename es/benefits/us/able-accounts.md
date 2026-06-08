@@ -1,6 +1,6 @@
 ---
 title: Cuentas ABLE (EE. UU.)
-description: Las cuentas ABLE son cuentas de ahorro especiales para ciertas personas con discapacidad que:
+description: Su propósito es ayudar a las personas con discapacidad a construir cierta estabilidad financiera sin perder prestaciones esenciales.
 published: true
 date: 2026-06-05T20:27:40.120Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Índice de profesionales
-description: Todas las personas con discapacidad tienen derecho a acceder a servicios, empleo, educación, atención médica, vivienda y participación comunitaria en igualdad de condiciones con las demás…
+description: Esta sección pone en el centro los conocimientos de las personas con discapacidad para ayudar a los profesionales a brindar un servicio genuinamente…
 published: true
 date: 2026-06-05T20:21:48.412Z
 tags: 

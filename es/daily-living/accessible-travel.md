@@ -1,6 +1,6 @@
 ---
 title: Viajes accesibles
-description: Esta página complementa Recreación, viajes y actividades al aire libre con una planificación de viajes específica y práctica para personas con discapacidad. Incluye guías de accesibilidad para…
+description: Incluye guías de accesibilidad para destinos comunes, cómo investigar la accesibilidad, listas de verificación para planificar viajes y recursos…
 published: true
 date: 2026-06-05T20:32:10.636Z
 tags: 

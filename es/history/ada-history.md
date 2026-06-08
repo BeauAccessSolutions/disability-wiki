@@ -1,6 +1,6 @@
 ---
 title: Historia de la ADA
-description: Todas las personas con discapacidad tienen derecho a la igualdad y a la no discriminación (CDPD, artículo 5). La Ley de Estadounidenses con Discapacidades de 1990 fue la primera…
+description: La Ley de Estadounidenses con Discapacidades (Americans with Disabilities Act, ADA) de 1990 fue la primera ley integral de derechos civiles para personas…
 published: true
 date: 2026-06-05T20:36:37.357Z
 tags: 

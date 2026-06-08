@@ -1,6 +1,6 @@
 ---
 title: Salud mental
-description: La salud mental es parte de la salud de todas las personas, incluidas las personas con discapacidad. Ya sea que tengas una discapacidad psiquiátrica, vivas desafíos de salud mental…
+description: La salud mental es parte de la salud de todas las personas, incluidas las personas con discapacidad.
 published: true
 date: 2026-06-05T20:36:13.436Z
 tags: 

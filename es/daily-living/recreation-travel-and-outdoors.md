@@ -1,6 +1,6 @@
 ---
 title: Recreación, viajes y actividades al aire libre
-description: La recreación, los viajes y las actividades al aire libre son fundamentales para la calidad de vida, no son lujos. Ofrecen alegría, comunidad y beneficios para la salud física y mental…
+description: La recreación, los viajes y las actividades al aire libre son fundamentales para la calidad de vida, no son lujos.
 published: true
 date: 2026-06-05T20:32:59.607Z
 tags: 

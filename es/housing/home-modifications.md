@@ -1,6 +1,6 @@
 ---
 title: Modificaciones del hogar
-description: Hacer que tu hogar sea físicamente accesible suele ser esencial para vivir de forma independiente. Ya sea que seas propietario de tu hogar, alquiles o vivas en vivienda con apoyo…
+description: Hacer que tu hogar sea físicamente accesible suele ser esencial para vivir de forma independiente.
 published: true
 date: 2026-06-05T20:37:57.361Z
 tags: 

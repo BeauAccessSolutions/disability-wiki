@@ -1,6 +1,6 @@
 ---
 title: Recursos para funcionarios públicos que trabajan con votantes con discapacidad
-description: Las personas con discapacidad constituyen al menos entre el 15 y el 20 % de cada comunidad. Las decisiones que tomas —sobre zonificación, planificación de emergencias, reuniones públicas, servicios a los votantes y…
+description: Las personas con discapacidad constituyen al menos entre el 15 y el 20 % de cada comunidad.
 published: true
 date: 2026-06-05T20:26:02.402Z
 tags: 

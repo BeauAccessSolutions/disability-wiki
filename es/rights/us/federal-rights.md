@@ -1,6 +1,6 @@
 ---
 title: Leyes federales de derechos de las personas con discapacidad en EE. UU.
-description: Las personas con discapacidad en EE. UU. están protegidas por un marco de leyes federales de derechos civiles. Estas leyes existen porque las personas con discapacidad lucharon por ellas—mediante protestas…
+description: Las personas con discapacidad en EE. UU. están protegidas por un marco de leyes federales de derechos civiles.
 published: true
 date: 2026-06-05T20:23:28.024Z
 tags: 

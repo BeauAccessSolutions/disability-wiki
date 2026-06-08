@@ -1,6 +1,6 @@
 ---
 title: Líneas de crisis en EE. UU.
-description: Si esto es abrumador en este momento, puedes simplemente llamar al número de abajo. No tienes que leer todo.
+description: Si esto es abrumador en este momento, puedes simplemente llamar al número de abajo. Con eso basta. Ellos se encargan del resto.
 published: true
 date: 2026-06-05T20:31:23.840Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Discapacidad, guerra y colonialismo (1500–1960)
-description: Todas las personas con discapacidad tienen derecho a vivir libres de explotación, violencia y abuso (CDPD, artículo 16) y derecho a la salud sin discriminación…
+description: La guerra y el colonialismo produjeron discapacidad de forma masiva, reconfiguraron cómo las sociedades entendían a las personas con discapacidad…
 published: true
 date: 2026-06-05T20:37:33.455Z
 tags: 

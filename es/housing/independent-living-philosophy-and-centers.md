@@ -1,6 +1,6 @@
 ---
 title: Filosofía de la vida independiente y centros
-description: La vida independiente (Independent Living, IL) es una filosofía de derechos de las personas con discapacidad y un movimiento social centrado en la autodeterminación, la autonomía y la participación comunitaria de las personas con discapacidad…
+description: La vida independiente (Independent Living, IL) es una filosofía de derechos de las personas con discapacidad y un movimiento social centrado…
 published: true
 date: 2026-06-05T20:38:07.155Z
 tags: 

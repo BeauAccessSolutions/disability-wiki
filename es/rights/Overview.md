@@ -1,6 +1,6 @@
 ---
 title: Panorama de los derechos de la discapacidad
-description: 
+description: Panorama de los derechos de la discapacidad: orientación, derechos y recursos para la comunidad de la discapacidad.
 published: true
 date: 2026-06-05T20:18:19.268Z
 tags: 

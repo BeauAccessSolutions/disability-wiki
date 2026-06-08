@@ -1,6 +1,6 @@
 ---
 title: Cómo manejar preguntas inapropiadas e intrusivas
-description: A las personas con discapacidad se nos trata como propiedad pública: las personas extrañas hacen preguntas que nunca le harían a una persona sin discapacidad. Esta página ofrece estrategias para responder a…
+description: A las personas con discapacidad se nos trata como propiedad pública: las personas extrañas hacen preguntas que nunca le harían a una persona sin discapacidad.
 published: true
 date: 2026-06-05T20:34:12.679Z
 tags: 

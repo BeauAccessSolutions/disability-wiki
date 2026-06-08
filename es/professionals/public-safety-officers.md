@@ -1,6 +1,6 @@
 ---
 title: Agentes de seguridad pública
-description: Todas las personas con discapacidad tienen derecho a la libertad y la seguridad personal, a igual protección ante la ley y a no ser sometidas a tortura ni a tratos crueles, inhumanos o…
+description: Las personas con discapacidad están significativamente sobrerrepresentadas en los incidentes con uso de la fuerza y en las muertes a manos de la policía.
 published: true
 date: 2026-06-05T20:21:52.856Z
 tags: 

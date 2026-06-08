@@ -1,6 +1,6 @@
 ---
 title: Derechos internacionales de las personas con discapacidad
-description: Todas las personas con discapacidad tienen dignidad inherente e iguales derechos bajo el derecho internacional. Esta página pone en el centro los conocimientos de las personas con discapacidad y se basa en décadas…
+description: La CDPD es el principal tratado internacional de derechos humanos que protege los derechos de las personas con discapacidad.
 published: true
 date: 2026-06-05T20:23:23.303Z
 tags: 

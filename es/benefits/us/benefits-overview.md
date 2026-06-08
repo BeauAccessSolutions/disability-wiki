@@ -1,6 +1,6 @@
 ---
 title: Prestaciones por discapacidad en EE. UU. – Panorama general
-description: En Estados Unidos, las prestaciones relacionadas con la discapacidad son un mosaico de programas federales y estatales. La mayoría de las personas terminan combinando varios de estos:
+description: Cada programa importante tiene su propia página con más detalles. Damos especial bienvenida a perspectivas sobre modelos poco representados aquí, incluidas…
 published: true
 date: 2026-06-05T20:27:43.910Z
 tags: 

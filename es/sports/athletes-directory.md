@@ -1,6 +1,6 @@
 ---
 title: Directorio de atletas con discapacidad
-description: Celebramos a las personas atletas con discapacidad de distintos deportes, épocas y tipos de discapacidad: paralímpicos, deaflímpicos, atletas profesionales y pioneros que cambiaron lo que…
+description: Celebramos a las personas atletas con discapacidad de distintos deportes, épocas y tipos de discapacidad: paralímpicos, deaflímpicos, atletas profesionales…
 published: true
 date: 2026-06-05T20:25:48.180Z
 tags: 

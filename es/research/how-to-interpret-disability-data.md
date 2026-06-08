@@ -1,6 +1,6 @@
 ---
 title: Cómo interpretar los datos sobre discapacidad
-description: Todos los Estados Partes de la Convención sobre los Derechos de las Personas con Discapacidad de la ONU se comprometen a usar la información recopilada para ayudar a evaluar la implementación de…
+description: Las estadísticas y los datos sobre discapacidad pueden ser herramientas poderosas para la defensa y el cambio de políticas, pero solo si se interpretan…
 published: true
 date: 2026-06-05T20:22:50.517Z
 tags: 

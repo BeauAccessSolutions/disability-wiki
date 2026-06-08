@@ -1,6 +1,6 @@
 ---
 title: Derechos de vivienda
-description: Las personas con discapacidad tienen protecciones legales en materia de vivienda, pero muchas no saben qué derechos rigen en su país ni cómo hacerlos valer. Esta página comienza con…
+description: Las personas con discapacidad tienen protecciones legales en materia de vivienda, pero muchas no saben qué derechos rigen en su país ni cómo hacerlos valer.
 published: true
 date: 2026-06-05T20:38:02.282Z
 tags: 

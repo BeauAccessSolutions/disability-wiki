@@ -1,6 +1,6 @@
 ---
 title: Canales de YouTube
-description: Creadores de contenido con discapacidad en YouTube que abarcan estilo de vida, defensa de derechos, educación, comedia, vlogs y más. Esta lista pone en el centro a creadores con discapacidad que cuentan sus propias…
+description: Creadores de contenido con discapacidad en YouTube que abarcan estilo de vida, defensa de derechos, educación, comedia, vlogs y más.
 published: true
 date: 2026-06-05T20:21:18.280Z
 tags: 

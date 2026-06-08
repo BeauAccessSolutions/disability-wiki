@@ -1,6 +1,6 @@
 ---
 title: Mantenimiento de la silla de ruedas y reparaciones cotidianas
-description: Tu silla de ruedas no es un equipo médico guardado en un armario. Es tu movilidad: tus piernas. Cuando se rompe, te quedas varado. Esta página pone en el centro los conocimientos de las personas con…
+description: Tu silla de ruedas no es un equipo médico guardado en un armario. Es tu movilidad: tus piernas. Cuando se rompe, te quedas varado.
 published: true
 date: 2026-06-05T20:33:05.196Z
 tags: 

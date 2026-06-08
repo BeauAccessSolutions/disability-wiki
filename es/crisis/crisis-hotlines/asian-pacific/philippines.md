@@ -1,6 +1,6 @@
 ---
 title: Líneas de crisis en Filipinas
-description: Si esto te resulta abrumador en este momento, puedes simplemente llamar al número de abajo. No tienes que leerlo todo.
+description: La ayuda está disponible, es gratuita y confidencial. No tienes que leerlo todo. Los consejeros están capacitados para ayudar.
 published: true
 date: 2026-06-05T20:30:51.996Z
 tags: 

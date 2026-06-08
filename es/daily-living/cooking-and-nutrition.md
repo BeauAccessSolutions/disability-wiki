@@ -1,6 +1,6 @@
 ---
 title: Cocina y nutrición
-description: Todo el mundo necesita comer. Sin embargo, para las personas con discapacidad, cocinar y nutrirse puede volverse increíblemente difícil: la movilidad limitada hace que estar de pie ante la estufa sea doloroso…
+description: Todo el mundo necesita comer. Sin embargo, para las personas con discapacidad, cocinar y nutrirse puede volverse increíblemente difícil: la movilidad…
 published: true
 date: 2026-06-05T20:32:20.223Z
 tags: 

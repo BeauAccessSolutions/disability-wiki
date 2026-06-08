@@ -1,6 +1,6 @@
 ---
 title: Investigación ética con comunidades de personas con discapacidad
-description: Todas las personas con discapacidad tienen derecho a participar en la vida cultural, social y política, incluida la investigación, según lo afirman los Artículos 30 y 31 de la…
+description: La investigación que involucra a personas con discapacidad conlleva responsabilidades éticas especiales.
 published: true
 date: 2026-06-05T20:22:45.850Z
 tags: 

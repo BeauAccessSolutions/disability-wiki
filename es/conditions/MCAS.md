@@ -1,6 +1,6 @@
 ---
 title: Síndrome de activación de los mastocitos (MCAS)
-description: Todas las personas con discapacidad tienen derecho al más alto nivel posible de salud sin discriminación. Esta página pone en el centro los conocimientos de las personas con discapacidad y se…
+description: El síndrome de activación de los mastocitos (MCAS, por sus siglas en inglés) es una condición en la que tus mastocitos —células inmunitarias…
 published: true
 date: 2026-06-05T20:29:16.492Z
 tags: 

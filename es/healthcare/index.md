@@ -1,6 +1,6 @@
 ---
 title: Atención médica y acceso
-description: Acceder a la atención médica como persona con discapacidad suele ser complicado. Esta sección ofrece orientación práctica para encontrar atención médica accesible, navegar…
+description: Acceder a la atención médica como persona con discapacidad suele ser complicado.
 published: true
 date: 2026-06-05T20:35:38.259Z
 tags: 

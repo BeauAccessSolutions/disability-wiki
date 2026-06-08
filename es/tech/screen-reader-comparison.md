@@ -1,6 +1,6 @@
 ---
 title: Guía comparativa de lectores de pantalla
-description: Los lectores de pantalla convierten las interfaces visuales en salida de audio y braille. Esta página compara los principales lectores de pantalla para ayudarte a elegir lo que funciona para tus necesidades…
+description: Los lectores de pantalla convierten las interfaces visuales en salida de audio y braille.
 published: true
 date: 2026-06-05T20:26:16.732Z
 tags: 

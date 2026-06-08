@@ -1,6 +1,6 @@
 ---
 title: Educadores
-description: Todos los estudiantes con discapacidad tienen derecho a la educación en igualdad de condiciones con los demás, con adaptaciones razonables y apoyos individualizados. Esta página…
+description: Todos los estudiantes con discapacidad tienen derecho a la educación en igualdad de condiciones con los demás, con adaptaciones razonables y apoyos individualizados.
 published: true
 date: 2026-06-05T20:21:28.131Z
 tags: 

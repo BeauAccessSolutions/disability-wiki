@@ -1,6 +1,6 @@
 ---
 title: Religión y discapacidad
-description: ¿Tienes experiencia vivida o conocimientos que podrían fortalecer esta página? Damos especial bienvenida a perspectivas sobre modelos poco representados aquí, incluidas…
+description: Contenido próximamente. ¿Tienes experiencia vivida o conocimientos que podrían fortalecer esta página?
 published: true
 date: 2026-06-05T20:20:18.592Z
 tags: 

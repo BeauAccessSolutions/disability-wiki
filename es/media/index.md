@@ -1,6 +1,6 @@
 ---
 title: Índice de medios, artes y cultura
-description: La representación de la discapacidad en los medios moldea cómo la sociedad ve a las personas con discapacidad, y cómo ellas se ven a sí mismas. Esta sección destaca…
+description: La representación de la discapacidad en los medios moldea cómo la sociedad ve a las personas con discapacidad, y cómo las personas con discapacidad se ven a sí mismas.
 published: true
 date: 2026-06-05T20:20:54.373Z
 tags: 

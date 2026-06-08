@@ -1,6 +1,6 @@
 ---
 title: SNAP – Asistencia alimentaria (EE. UU.)
-description: SNAP (Supplemental Nutrition Assistance Program) es un programa federal que proporciona prestaciones mensuales para alimentos:
+description: Para muchas personas con discapacidad, el SNAP es una parte fundamental de su supervivencia.
 published: true
 date: 2026-06-05T20:28:01.005Z
 tags: 

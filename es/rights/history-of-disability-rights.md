@@ -1,6 +1,6 @@
 ---
 title: Historia de los derechos de las personas con discapacidad
-description: La lucha por los derechos de las personas con discapacidad es un movimiento global construido por personas con discapacidad que exigieron el reconocimiento de su humanidad, su autonomía y su lugar en igualdad de…
+description: La lucha por los derechos de las personas con discapacidad es un movimiento global construido por personas con discapacidad que exigieron el reconocimiento…
 published: true
 date: 2026-06-05T20:23:14.184Z
 tags: 

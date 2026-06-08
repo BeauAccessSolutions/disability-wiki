@@ -1,6 +1,6 @@
 ---
 title: Fiestas y juegos accesibles
-description: Todas las personas con discapacidad tienen derecho a participar en la vida cultural, la recreación y las actividades de ocio en igualdad de condiciones con las demás. Esta página pone en el centro…
+description: El aislamiento social es uno de los impactos más significativos y menos discutidos de la discapacidad.
 published: true
 date: 2026-06-05T20:32:05.389Z
 tags: 

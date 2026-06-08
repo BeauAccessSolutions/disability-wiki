@@ -1,6 +1,6 @@
 ---
 title: Guía de búsqueda de vivienda accesible
-description: Encontrar vivienda accesible es uno de los desafíos más prácticos pero frustrantes que enfrentan las personas con discapacidad a nivel global. Los mercados de vivienda no etiquetan automáticamente…
+description: Encontrar vivienda accesible es uno de los desafíos más prácticos pero frustrantes que enfrentan las personas con discapacidad a nivel global.
 published: true
 date: 2026-06-05T20:37:42.424Z
 tags: 

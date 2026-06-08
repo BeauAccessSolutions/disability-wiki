@@ -1,6 +1,6 @@
 ---
 title: Cómo iniciar organizaciones
-description: Todas las personas con discapacidad tienen derecho a formar organizaciones de personas con discapacidad y a afiliarse a ellas, según afirma el Artículo 29 de la Convención de la ONU sobre los Derechos…
+description: Las personas con discapacidad han creado durante mucho tiempo sus propias organizaciones: grupos de incidencia, centros de vida independiente, redes de apoyo…
 published: true
 date: 2026-06-05T20:34:38.458Z
 tags: 

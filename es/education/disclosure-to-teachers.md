@@ -1,6 +1,6 @@
 ---
 title: Cómo explicarle tu discapacidad a una persona docente
-description: Contarle a una persona docente sobre tu discapacidad es una decisión estratégica. Esta página ayuda a las personas estudiantes a reflexionar sobre cuándo, cómo y cuánto comunicar, y cómo…
+description: Contarle a una persona docente sobre tu discapacidad es una decisión estratégica.
 published: true
 date: 2026-06-05T20:33:14.841Z
 tags: 

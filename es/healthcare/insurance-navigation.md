@@ -1,6 +1,6 @@
 ---
 title: Navegar los seguros
-description: Navegar el seguro médico con una discapacidad puede ser frustrante, confuso y agotador. Los sistemas de seguros a menudo crean barreras a la atención, niegan…
+description: Navegar el seguro médico con una discapacidad puede ser frustrante, confuso y agotador.
 published: true
 date: 2026-06-05T20:35:47.689Z
 tags: 

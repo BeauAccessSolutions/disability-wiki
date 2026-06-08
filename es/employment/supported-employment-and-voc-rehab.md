@@ -1,6 +1,6 @@
 ---
 title: Empleo con apoyo y rehabilitación vocacional
-description: Las personas con discapacidad tienen derecho a trabajar con los apoyos que necesitan. Los programas de rehabilitación vocacional y de empleo con apoyo existen para ayudar a las personas con discapacidad…
+description: Las personas con discapacidad tienen derecho a trabajar con los apoyos que necesitan.
 published: true
 date: 2026-06-05T20:33:50.476Z
 tags: 

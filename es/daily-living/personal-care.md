@@ -1,6 +1,6 @@
 ---
 title: Cuidado personal
-description: El cuidado personal es algo básico: bañarse, ir al baño, asearse y manejar la menstruación o la incontinencia. Son necesidades fundamentales, no lujos. Sin embargo, para muchas…
+description: El cuidado personal es algo básico: bañarse, ir al baño, asearse y manejar la menstruación o la incontinencia. Son necesidades fundamentales, no lujos.
 published: true
 date: 2026-06-05T20:32:50.732Z
 tags: 

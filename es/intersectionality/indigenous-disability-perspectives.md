@@ -1,6 +1,6 @@
 ---
 title: Perspectivas indígenas sobre la discapacidad
-description: ¿Tienes experiencia vivida o conocimientos que podrían fortalecer esta página? Damos especial bienvenida a perspectivas sobre modelos poco representados aquí, incluidas…
+description: Damos especial bienvenida a perspectivas sobre modelos poco representados aquí, incluidas las del Sur Global y de las comunidades indígenas.
 published: true
 date: 2026-06-05T20:38:44.714Z
 tags: 

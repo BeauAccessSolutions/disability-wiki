@@ -1,6 +1,6 @@
 ---
 title: Educación superior
-description: El artículo 24 de la Convención sobre los Derechos de las Personas con Discapacidad (CDPD) exige que las personas con discapacidad puedan acceder a la educación superior sin discriminación…
+description: El artículo 24 de la Convención sobre los Derechos de las Personas con Discapacidad (Convention on the Rights of Persons with Disabilities, CDPD) exige…
 published: true
 date: 2026-06-05T20:33:23.438Z
 tags: 

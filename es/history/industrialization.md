@@ -1,6 +1,6 @@
 ---
 title: Industrialización y el nacimiento del capacitismo (1750–1900)
-description: Todas las personas con discapacidad tienen derecho a ser reconocidas como personas ante la ley en igualdad de condiciones con las demás (Artículo 12 de la CDPD) y a trabajar en igualdad de condiciones…
+description: Comprender cómo la industrialización creó el capacitismo moderno —la idea de que algunos cuerpos y mentes son "normales" y otros son "defectuosos"— ayuda…
 published: true
 date: 2026-06-05T20:37:18.298Z
 tags: 

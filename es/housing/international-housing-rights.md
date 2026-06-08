@@ -1,6 +1,6 @@
 ---
 title: Derechos internacionales de vivienda
-description: La vivienda se reconoce a nivel global como un derecho humano fundamental para las personas con discapacidad. Sin embargo, la implementación varía drásticamente entre países y regiones. Esta…
+description: La vivienda se reconoce a nivel global como un derecho humano fundamental para las personas con discapacidad.
 published: true
 date: 2026-06-05T20:38:16.125Z
 tags: 

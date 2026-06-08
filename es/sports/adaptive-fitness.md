@@ -1,6 +1,6 @@
 ---
 title: Acondicionamiento físico adaptado y recreación
-description: Acondicionamiento físico y recreación más allá del deporte competitivo: accesibilidad de gimnasios, equipo de ejercicio adaptado, modificaciones de los entrenamientos y actividades recreativas para…
+description: Acondicionamiento físico y recreación más allá del deporte competitivo: accesibilidad de gimnasios, equipo de ejercicio adaptado, modificaciones…
 published: true
 date: 2026-06-05T20:25:43.435Z
 tags: 

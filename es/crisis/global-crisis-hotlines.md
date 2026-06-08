@@ -1,6 +1,6 @@
 ---
 title: Líneas de crisis y de ayuda en todo el mundo
-description: La ayuda está disponible de inmediato, de forma confidencial y sin juicios.
+description: La ayuda está disponible de inmediato, de forma confidencial y sin juicios. Esta página te conecta con recursos de crisis y apoyo emocional en todo el mundo.
 published: true
 date: 2026-06-05T20:31:55.479Z
 tags: 

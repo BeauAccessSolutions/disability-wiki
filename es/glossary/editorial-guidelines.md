@@ -1,6 +1,6 @@
 ---
 title: Pautas editoriales y de estilo
-description: Esta página describe las normas editoriales para el contenido de este wiki. Seguir estas pautas nos ayuda a mantener un recurso coherente, de alta calidad e inclusivo…
+description: Esta página describe las normas editoriales para el contenido de este wiki. Seguir estas pautas nos ayuda a mantener un recurso coherente, de alta calidad e inclusivo.
 published: true
 date: 2026-06-05T20:35:00.063Z
 tags: 

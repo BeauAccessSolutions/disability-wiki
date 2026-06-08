@@ -1,6 +1,6 @@
 ---
 title: Líneas de crisis en América del Sur
-description: La ayuda está disponible de inmediato, de forma confidencial y sin juzgar.
+description: La ayuda está disponible de inmediato, de forma confidencial y sin juzgar. Esta página te conecta con recursos de crisis en toda América del Sur.
 published: true
 date: 2026-06-05T20:31:28.471Z
 tags: 

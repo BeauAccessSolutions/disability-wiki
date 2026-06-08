@@ -1,6 +1,6 @@
 ---
 title: Discapacidades físicas
-description: Todas las personas con discapacidad tienen derecho a vivir de forma independiente y a estar incluidas en la comunidad, con acceso a ayudas para la movilidad, asistencia personal y entornos accesibles…
+description: Las discapacidades físicas afectan el movimiento, la movilidad, la fuerza, la coordinación o la función física.
 published: true
 date: 2026-06-05T20:29:30.095Z
 tags: 

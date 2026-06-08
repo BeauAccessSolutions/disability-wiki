@@ -1,6 +1,6 @@
 ---
 title: Historia de la discapacidad
-description: Todas las personas con discapacidad tienen derecho al reconocimiento ante la ley (Artículo 12 de la CDPD) y a la plena participación en la vida política y pública (Artículo 29)…
+description: Comprender la historia de la discapacidad ayuda a explicar por qué estos derechos siguen siendo cuestionados, y cómo las personas con discapacidad siempre…
 published: true
 date: 2026-06-05T20:37:14.292Z
 tags: 

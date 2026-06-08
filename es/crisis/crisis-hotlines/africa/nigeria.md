@@ -1,6 +1,6 @@
 ---
 title: Líneas de crisis en Nigeria
-description: Si esto te resulta abrumador en este momento, puedes simplemente llamar al número de abajo. No tienes que leer todo.
+description: La mayoría de los servicios son gratuitos, pero el costo y el horario varían según el servicio; consulta cada uno.
 published: true
 date: 2026-06-05T20:30:25.819Z
 tags: 

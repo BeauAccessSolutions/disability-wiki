@@ -1,6 +1,6 @@
 ---
 title: Panorama global de los derechos de la discapacidad
-description: Las personas con discapacidad de todo el mundo comparten experiencias comunes de discriminación y aspiraciones comunes de igualdad, dignidad y plena participación en la sociedad. Esta…
+description: Las personas con discapacidad de todo el mundo comparten experiencias comunes de discriminación y aspiraciones comunes de igualdad, dignidad y plena participación en la sociedad.
 published: true
 date: 2026-06-05T20:23:09.225Z
 tags: 

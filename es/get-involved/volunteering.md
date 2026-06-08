@@ -1,6 +1,6 @@
 ---
 title: Voluntariado
-description: Todas las personas con discapacidad tienen derecho a participar en la vida cultural, la recreación y las actividades comunitarias en igualdad de condiciones con las demás, según afirma…
+description: Las personas con discapacidad y sus aliadas apoyan los movimientos por la justicia y los derechos de las personas con discapacidad mediante muchas formas de voluntariado.
 published: true
 date: 2026-06-05T20:34:42.837Z
 tags: 

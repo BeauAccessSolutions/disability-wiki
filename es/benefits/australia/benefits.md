@@ -1,6 +1,6 @@
 ---
 title: Prestaciones por discapacidad – Australia
-description: Australia cuenta con una combinación de apoyo a los ingresos, esquemas específicos para la discapacidad y servicios estatales y territoriales. Esta página ofrece un mapa general e invita a las personas de Australia…
+description: Australia cuenta con una combinación de apoyo a los ingresos, esquemas específicos para la discapacidad y servicios estatales y territoriales.
 published: true
 date: 2026-06-05T20:26:55.120Z
 tags: 

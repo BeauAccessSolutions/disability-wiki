@@ -1,6 +1,6 @@
 ---
 title: Comunidades de discapacidad en Facebook
-description: Todas las personas con discapacidad tienen derecho a la comunidad, al apoyo entre pares y a espacios donde puedan conectar con otras personas que comparten sus experiencias. Esta página pone en el centro…
+description: Sin embargo, la estructura de Facebook —nombres reales, recopilación de datos, feed algorítmico— crea riesgos específicos.
 published: true
 date: 2026-06-05T20:28:35.075Z
 tags: 

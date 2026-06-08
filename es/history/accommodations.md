@@ -1,6 +1,6 @@
 ---
 title: Historia de las adaptaciones
-description: Esta página documenta adaptaciones específicas y concretas que las personas con discapacidad han usado y que las comunidades han provisto a lo largo de la historia. Aborda directamente…
+description: Esta página documenta adaptaciones específicas y concretas que las personas con discapacidad han usado y que las comunidades han provisto a lo largo de la historia.
 published: true
 date: 2026-06-05T20:36:32.657Z
 tags: 

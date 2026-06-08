@@ -1,6 +1,6 @@
 ---
 title: Vivir solo con una discapacidad
-description: Todas las personas con discapacidad tienen derecho a vivir de forma independiente en la comunidad con los apoyos que elijan. Esta página pone en el centro los conocimientos de las personas con discapacidad y se basa…
+description: Muchas personas con discapacidad viven solas, por elección, por circunstancia o por necesidad.
 published: true
 date: 2026-06-05T20:32:38.475Z
 tags: 

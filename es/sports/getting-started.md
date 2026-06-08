@@ -1,6 +1,6 @@
 ---
 title: Cómo empezar en los deportes adaptados
-description: Ya sea que tengas una discapacidad reciente, estés volviendo al deporte tras una lesión o pruebes el atletismo por primera vez, esta guía te ayuda a encontrar programas, equipo…
+description: Ya sea que tengas una discapacidad reciente, estés volviendo al deporte tras una lesión o pruebes el atletismo por primera vez, esta guía te ayuda…
 published: true
 date: 2026-06-05T20:25:20.541Z
 tags: 

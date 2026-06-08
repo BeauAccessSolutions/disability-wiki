@@ -1,6 +1,6 @@
 ---
 title: Deportes para personas sordas
-description: Las personas atletas sordas tienen su propia rica tradición deportiva, separada del movimiento paralímpico. Las Deaflympics, fundadas en 1924, son anteriores tanto a los Juegos Paralímpicos…
+description: Las personas atletas sordas tienen su propia rica tradición deportiva, separada del movimiento paralímpico.
 published: true
 date: 2026-06-05T20:25:30.097Z
 tags: 

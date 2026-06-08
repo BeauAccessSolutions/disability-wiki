@@ -1,6 +1,6 @@
 ---
 title: Discapacidad psiquiátrica y psicosocial
-description: Todas las personas tienen derecho al más alto nivel posible de salud mental y a vivir libres de discriminación por un diagnóstico psiquiátrico o por su estado de salud mental…
+description: Las discapacidades psiquiátricas y psicosociales incluyen condiciones de salud mental que impactan de forma significativa la vida diaria.
 published: true
 date: 2026-06-05T20:29:40.114Z
 tags: 

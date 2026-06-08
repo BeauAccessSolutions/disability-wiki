@@ -1,6 +1,6 @@
 ---
 title: Discapacidades múltiples
-description: Todas las personas merecen un apoyo que atienda a la totalidad compleja de quienes son, no solo un diagnóstico a la vez. Esta página pone en el centro los conocimientos de las personas que viven…
+description: Todas las personas merecen un apoyo que atienda a la totalidad compleja de quienes son, no solo un diagnóstico a la vez.
 published: true
 date: 2026-06-05T20:29:21.209Z
 tags: 

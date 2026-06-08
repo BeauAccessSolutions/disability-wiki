@@ -1,6 +1,6 @@
 ---
 title: Defensa de derechos 101
-description: Todas las personas con discapacidad tienen derecho a participar en la vida política y pública, incluso mediante la defensa de derechos y la autorrepresentación. Esta página pone en el centro…
+description: La defensa de derechos significa hablar, actuar u organizarse para influir en las decisiones sobre los derechos de las personas con discapacidad,…
 published: true
 date: 2026-06-05T20:34:22.260Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Prestaciones por discapacidad – Canadá
-description: Canadá cuenta con una combinación de prestaciones por discapacidad federales y provinciales o territoriales. Esta página ofrece una visión general e invita a contribuciones más profundas y específicas de cada provincia…
+description: Canadá cuenta con una combinación de prestaciones por discapacidad federales y provinciales o territoriales.
 published: true
 date: 2026-06-05T20:27:03.526Z
 tags: 

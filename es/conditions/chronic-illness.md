@@ -1,6 +1,6 @@
 ---
 title: Enfermedad crónica
-description: Todas las personas con discapacidad tienen derecho al más alto nivel posible de salud y a vivir libres de discriminación por su condición de discapacidad. Esta página…
+description: La enfermedad crónica se refiere a afecciones de salud que persisten en el tiempo, normalmente definidas como las que duran un año o más y requieren un manejo continuo.
 published: true
 date: 2026-06-05T20:28:48.994Z
 tags: 

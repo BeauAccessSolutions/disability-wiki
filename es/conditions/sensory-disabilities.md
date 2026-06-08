@@ -1,6 +1,6 @@
 ---
 title: Discapacidades sensoriales
-description: Todas las personas con discapacidad tienen derecho a acceder a la información y la comunicación en formatos accesibles. Esta página pone en el centro los conocimientos de las personas con discapacidad sensorial…
+description: Las discapacidades sensoriales afectan cómo las personas perciben y procesan la información sensorial, principalmente la vista y la audición, pero también…
 published: true
 date: 2026-06-05T20:29:49.843Z
 tags: 

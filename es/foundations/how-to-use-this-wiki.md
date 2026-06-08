@@ -1,6 +1,6 @@
 ---
 title: Cómo usar este wiki
-description: Cómo usar este wiki
+description: Esta era una página duplicada; su contenido anterior se conserva en el historial de git del sitio y en las copias de seguridad locales.
 published: true
 date: 2026-06-05T20:18:00.031Z
 tags: 

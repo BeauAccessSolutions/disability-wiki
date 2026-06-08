@@ -1,6 +1,6 @@
 ---
 title: Empleadores y RR. HH.
-description: Todas las personas con discapacidad tienen derecho a trabajar en igualdad de condiciones con las demás, con igual salario, condiciones de trabajo seguras y protección frente al acoso. Esta página…
+description: HH. a construir lugares de trabajo genuinamente inclusivos que vayan más allá del cumplimiento legal mínimo.
 published: true
 date: 2026-06-05T20:21:38.229Z
 tags: 

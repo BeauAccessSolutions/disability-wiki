@@ -1,6 +1,6 @@
 ---
 title: Libros
-description: Todas las personas con discapacidad merecen verse reflejadas en la literatura, no como objetos de lástima o inspiración, sino como seres humanos complejos que viven vidas plenas. Esta…
+description: Esta lista pone en el centro a personas autoras con discapacidad y la representación auténtica.
 published: true
 date: 2026-06-05T20:20:33.391Z
 tags: 

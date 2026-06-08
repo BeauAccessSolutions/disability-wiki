@@ -1,6 +1,6 @@
 ---
 title: Líneas de crisis en África
-description: Hay ayuda disponible de inmediato, de forma confidencial y sin juicios.
+description: Esta página te conecta con recursos de crisis en toda África. Muchos países africanos están desarrollando servicios de salud mental y líneas de crisis.
 published: true
 date: 2026-06-05T20:30:16.368Z
 tags: 

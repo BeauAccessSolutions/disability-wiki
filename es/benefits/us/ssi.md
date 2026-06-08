@@ -1,6 +1,6 @@
 ---
 title: SSI (Seguridad de Ingreso Suplementario)
-description: El SSI es un programa federal de apoyo económico para personas con ingresos y recursos limitados que tienen una discapacidad, son ciegas o tienen 65 años o más. Se basa en la necesidad…
+description: El SSI (Supplemental Security Income) es un programa federal de apoyo económico para personas con ingresos y recursos limitados que tienen una discapacidad…
 published: true
 date: 2026-06-05T20:28:09.449Z
 tags: 

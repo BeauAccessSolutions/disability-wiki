@@ -1,6 +1,6 @@
 ---
 title: Fair Housing Act
-description: La Fair Housing Act prohíbe la discriminación en la vivienda por discapacidad. Es una herramienta fundamental para las personas con discapacidad que buscan alquilar, comprar o conservar su…
+description: La Fair Housing Act prohíbe la discriminación en la vivienda por discapacidad. Es una herramienta fundamental para las personas con discapacidad que buscan…
 published: true
 date: 2026-06-05T20:23:46.942Z
 tags: 

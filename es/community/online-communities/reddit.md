@@ -1,6 +1,6 @@
 ---
 title: Comunidades de discapacidad en Reddit
-description: Todas las personas con discapacidad tienen derecho a la comunidad, al apoyo entre pares y a espacios donde puedan conectar con otras personas que comparten sus experiencias. Esta página pone en el centro…
+description: La estructura de la plataforma —votos positivos y negativos, seudonimato, mínima rendición de cuentas— puede amplificar tanto lo mejor como lo peor de la comunidad en línea.
 published: true
 date: 2026-06-05T20:28:39.590Z
 tags: 

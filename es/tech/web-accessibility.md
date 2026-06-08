@@ -1,6 +1,6 @@
 ---
 title: Accesibilidad web
-description: La accesibilidad web consiste en hacer que los sitios web y las aplicaciones web sean utilizables por la mayor cantidad de personas posible, incluidas:
+description: Es más que “marcar una casilla” para cumplir con la normativa. Se trata de si las personas con discapacidad realmente pueden participar.
 published: true
 date: 2026-06-05T20:24:27.684Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Atención médica accesible
-description: Todas las personas con discapacidad tienen derecho a una atención médica accesible y de calidad. Sin embargo, los sistemas de salud crean barreras a cada paso, desde instalaciones inaccesibles hasta…
+description: Sin embargo, los sistemas de salud crean barreras a cada paso, desde instalaciones inaccesibles hasta proveedores que no escuchan.
 published: true
 date: 2026-06-05T20:35:18.875Z
 tags: 

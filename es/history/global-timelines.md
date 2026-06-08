@@ -1,6 +1,6 @@
 ---
 title: Cronologías de la historia global de la discapacidad
-description: Todas las personas con discapacidad tienen derecho al reconocimiento ante la ley (Artículo 12 de la CDPD) y a la plena participación en la vida política y pública (Artículo 29)…
+description: La historia de la discapacidad es historia global: las personas con discapacidad de todos los continentes se han organizado, han resistido y han moldeado sus sociedades.
 published: true
 date: 2026-06-05T20:37:04.998Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: "Discapacidad y pobreza: la trampa de las prestaciones"
-description: Las personas con discapacidad no son pobres porque la discapacidad sea cara. Son pobres porque los sistemas están diseñados para mantenerlas en la pobreza. Esta página explica cómo…
+description: Las personas con discapacidad no son pobres porque la discapacidad sea cara. Las personas con discapacidad son pobres porque los sistemas están diseñados para mantenerlas en la pobreza.
 published: true
 date: 2026-06-05T20:27:27.770Z
 tags: 

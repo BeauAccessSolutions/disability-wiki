@@ -1,6 +1,6 @@
 ---
 title: Límites sociales y comunicación de la discapacidad
-description: Las personas con discapacidad enfrentan decisiones constantes sobre qué compartir, con quién y cuándo. Esta página ofrece marcos para pensar la comunicación de la discapacidad…
+description: Las personas con discapacidad enfrentan decisiones constantes sobre qué compartir, con quién y cuándo.
 published: true
 date: 2026-06-05T20:26:11.926Z
 tags: 

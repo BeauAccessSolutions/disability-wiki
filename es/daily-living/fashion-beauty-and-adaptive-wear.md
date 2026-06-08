@@ -1,6 +1,6 @@
 ---
 title: Moda, belleza y ropa adaptada
-description: La moda y la belleza no son frívolas. Son expresiones de identidad, cultura y autodeterminación. Para las personas con discapacidad, elegir qué ponerse, cómo…
+description: La moda y la belleza no son frívolas. Son expresiones de identidad, cultura y autodeterminación.
 published: true
 date: 2026-06-05T20:32:34.129Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Proveedores de atención médica
-description: Todas las personas con discapacidad tienen derecho al más alto nivel posible de salud sin discriminación por motivos de discapacidad. Esta página pone en el centro a las personas con discapacidad…
+description: Las personas con discapacidad experimentan disparidades de salud significativas, no por sus discapacidades, sino por sistemas de atención médica diseñados sin tenerlas en cuenta.
 published: true
 date: 2026-06-05T20:21:43.597Z
 tags: 

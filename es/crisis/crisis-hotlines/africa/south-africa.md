@@ -1,6 +1,6 @@
 ---
 title: Líneas de crisis en Sudáfrica
-description: Si esto te resulta abrumador en este momento, puedes simplemente llamar al número de abajo. No tienes que leer todo.
+description: Los consejeros están capacitados para ayudar. La mayoría de los servicios son gratuitos, pero algunas líneas cobran una tarifa de llamada local, y el horario…
 published: true
 date: 2026-06-05T20:30:29.924Z
 tags: 

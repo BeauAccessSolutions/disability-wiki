@@ -1,6 +1,6 @@
 ---
 title: Líneas de crisis en Europa
-description: Hay ayuda disponible de inmediato, de forma confidencial y sin juicios.
+description: Esta página te conecta con recursos de crisis en toda Europa. El 112 funciona en todos los países de la UE y en muchos otros para emergencias de policía, ambulancia y bomberos.
 published: true
 date: 2026-06-05T20:31:00.461Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Documentales y películas
-description: Documentales sobre la historia, la cultura y la experiencia vivida de la discapacidad, además de largometrajes con representación auténtica de la discapacidad. Esta lista pone en el centro…
+description: Documentales sobre la historia, la cultura y la experiencia vivida de la discapacidad, además de largometrajes con representación auténtica de la discapacidad.
 published: true
 date: 2026-06-05T20:20:49.371Z
 tags: 

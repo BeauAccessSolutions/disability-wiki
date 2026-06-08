@@ -1,6 +1,6 @@
 ---
 title: Prestaciones por discapacidad internacionales – Visión general
-description: Las prestaciones por discapacidad y las redes de protección fuera de EE. UU. son sumamente diversas. Algunos países tienen:
+description: Otros tienen sistemas muy limitados o frágiles, especialmente en regiones afectadas por conflictos, austeridad o legados coloniales.
 published: true
 date: 2026-06-05T20:27:19.924Z
 tags: 

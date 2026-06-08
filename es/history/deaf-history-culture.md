@@ -1,6 +1,6 @@
 ---
 title: Historia y cultura sorda
-description: La historia sorda es historia de la comunidad de la discapacidad. La comunidad sorda es la comunidad de la discapacidad más antigua, más visible y más desarrollada culturalmente. Comprender…
+description: La historia sorda es historia de la comunidad de la discapacidad. La comunidad sorda es la comunidad de la discapacidad más antigua, más visible y más desarrollada culturalmente.
 published: true
 date: 2026-06-05T20:36:41.858Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Identidad y visibilidad de la discapacidad
-description: ¿Qué significa tener una discapacidad? ¿Cuándo "cuentas"? ¿Quién decide? Estas preguntas surgen tanto si tienes un diagnóstico reciente, como si te autoidentificas, te lo cuestionas o…
+description: ¿Qué significa tener una discapacidad? ¿Cuándo "cuentas"? ¿Quién decide? Estas preguntas surgen tanto si tienes un diagnóstico reciente, como si te…
 published: true
 date: 2026-06-05T20:34:03.445Z
 tags: 

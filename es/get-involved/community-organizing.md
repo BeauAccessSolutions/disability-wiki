@@ -1,6 +1,6 @@
 ---
 title: Organización comunitaria
-description: Todas las personas con discapacidad tienen derecho a organizarse y participar en asociaciones relacionadas con la vida pública y política, tal como afirma el Artículo 29 de la…
+description: La organización comunitaria construye poder colectivo para generar cambios. Las personas con discapacidad han usado la organización para conseguir transporte…
 published: true
 date: 2026-06-05T20:34:26.205Z
 tags: 

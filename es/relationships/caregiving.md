@@ -1,6 +1,6 @@
 ---
 title: Cuidado
-description: Esta página aborda el cuidado desde múltiples perspectivas: las personas con discapacidad que reciben cuidados, los familiares que los brindan y los sistemas más amplios que dan forma…
+description: Ponemos en el centro la autonomía y los conocimientos de las personas con discapacidad, a la vez que reconocemos las realidades que enfrentan las personas cuidadoras.
 published: true
 date: 2026-06-05T20:22:08.629Z
 tags: 

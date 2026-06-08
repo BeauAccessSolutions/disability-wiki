@@ -1,6 +1,6 @@
 ---
 title: Derechos laborales por país
-description: Todas las personas con discapacidad tienen derecho a trabajar en igualdad de condiciones con las demás. El artículo 27 de la Convención de la ONU sobre los Derechos de las Personas con Discapacidad (CDPD)…
+description: El artículo 27 de la Convención sobre los Derechos de las Personas con Discapacidad (CDPD) de la ONU afirma el derecho al trabajo, incluido el derecho…
 published: true
 date: 2026-06-05T20:33:36.643Z
 tags: 

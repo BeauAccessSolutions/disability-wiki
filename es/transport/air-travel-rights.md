@@ -1,6 +1,6 @@
 ---
 title: Derechos en los viajes aéreos
-description: Las personas con discapacidad tienen derecho a volar. Viajar en avión con una discapacidad puede ser difícil, pero las leyes protegen tu derecho a viajes aéreos accesibles. Conocer tus…
+description: Las personas con discapacidad tienen derecho a volar. Viajar en avión con una discapacidad puede ser difícil, pero las leyes protegen tu derecho a viajes aéreos accesibles.
 published: true
 date: 2026-06-05T20:24:31.894Z
 tags: 

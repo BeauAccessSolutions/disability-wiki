@@ -1,6 +1,6 @@
 ---
 title: Discapacidades invisibles
-description: Todas las personas con discapacidad tienen derecho a adaptaciones y apoyo, sin importar si sus discapacidades son evidentes para los demás. Esta página pone en el centro las…
+description: Las discapacidades invisibles —también llamadas no visibles, no aparentes u ocultas— son afecciones que impactan de forma significativa la vida diaria pero…
 published: true
 date: 2026-06-05T20:29:07.700Z
 tags: 

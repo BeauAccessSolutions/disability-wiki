@@ -1,6 +1,6 @@
 ---
 title: Discapacidad en zonas rurales
-description: ¿Tienes experiencia vivida o conocimientos que podrían fortalecer esta página? Damos especial bienvenida a perspectivas sobre modelos poco representados aquí, incluidas…
+description: ¿Tienes experiencia vivida o conocimientos que podrían fortalecer esta página? Damos especial bienvenida a perspectivas sobre modelos poco representados…
 published: true
 date: 2026-06-05T20:20:23.308Z
 tags: 

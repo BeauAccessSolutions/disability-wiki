@@ -1,6 +1,6 @@
 ---
 title: Atención en el hogar y en la comunidad
-description: Todas las personas con discapacidad tienen derecho a vivir en la comunidad con los apoyos que necesitan. El artículo 19 de la Convención sobre los Derechos de las Personas con Discapacidad (CDPD)…
+description: El artículo 19 de la Convención sobre los Derechos de las Personas con Discapacidad (Convention on the Rights of Persons with Disabilities, CDPD) afirma…
 published: true
 date: 2026-06-05T20:35:28.655Z
 tags: 

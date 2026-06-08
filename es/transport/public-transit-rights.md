@@ -1,6 +1,6 @@
 ---
 title: Derechos al transporte público
-description: Todas las personas con discapacidad tienen derecho a un transporte público accesible. El Artículo 9 de la Convención sobre los Derechos de las Personas con Discapacidad (CDPD) de la ONU…
+description: El Artículo 9 de la Convención sobre los Derechos de las Personas con Discapacidad (CDPD) de la ONU exige sistemas de transporte accesibles que hagan posible…
 published: true
 date: 2026-06-05T20:24:55.055Z
 tags: 

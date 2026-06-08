@@ -1,6 +1,6 @@
 ---
 title: Madres y padres de hijos con discapacidad
-description: Esta página ofrece orientación para madres y padres que crían a hijos con discapacidad, poniendo en el centro el bienestar de los niños con discapacidad y…
+description: La mejor orientación para criar a hijos con discapacidad viene de las personas adultas con discapacidad que pueden reflexionar sobre su infancia.
 published: true
 date: 2026-06-05T20:22:23.566Z
 tags: 

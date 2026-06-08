@@ -1,6 +1,6 @@
 ---
 title: Pago y apoyo para personas cuidadoras familiares (EE. UU.)
-description: En muchas familias de EE. UU., un familiar brinda la mayor parte o la totalidad del cuidado de una persona con discapacidad. A veces, hay formas de que esa persona cuidadora familiar reciba pago o…
+description: En muchas familias de EE. UU., un familiar brinda la mayor parte o la totalidad del cuidado de una persona con discapacidad.
 published: true
 date: 2026-06-05T20:27:48.058Z
 tags: 

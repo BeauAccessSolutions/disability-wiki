@@ -1,6 +1,6 @@
 ---
 title: Archivo de estudios
-description: Todas las personas con discapacidad tienen derecho a acceder a la información en igualdad de condiciones con las demás, según lo afirma el Artículo 21 de la Convención de la ONU sobre los Derechos de…
+description: Esta página funciona como un archivo en constante evolución de estudios, informes, conjuntos de datos y publicaciones significativas relacionadas…
 published: true
 date: 2026-06-05T20:22:59.175Z
 tags: 

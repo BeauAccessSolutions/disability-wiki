@@ -1,6 +1,6 @@
 ---
 title: Ley de Estadounidenses con Discapacidades (ADA)
-description: 
+description: Ley de Estadounidenses con Discapacidades (ADA): orientación, derechos y recursos para la comunidad de la discapacidad.
 published: true
 date: 2026-06-05T20:18:10.275Z
 tags: 

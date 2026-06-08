@@ -1,6 +1,6 @@
 ---
 title: Historia de la discapacidad en los medios
-description: Todas las personas con discapacidad tienen derecho a participar en la vida cultural en igualdad de condiciones (CDPD, artículo 30). Cómo se ha representado a las personas con discapacidad —y…
+description: Cómo se ha representado a las personas con discapacidad —y cómo se las ha tergiversado— en los medios moldea las actitudes públicas, las políticas y la forma…
 published: true
 date: 2026-06-05T20:36:46.733Z
 tags: 

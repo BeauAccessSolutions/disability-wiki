@@ -1,6 +1,6 @@
 ---
 title: Leyes Estatales de Derechos de las Personas con Discapacidad
-description: Si bien las leyes federales como la ADA, la Sección 504 y la Ley de Vivienda Justa brindan protecciones de base importantes, muchos estados tienen leyes de derechos de las personas con discapacidad que…
+description: Si bien las leyes federales como la ADA, la Sección 504 y la Ley de Vivienda Justa brindan protecciones de base importantes, muchos estados tienen leyes…
 published: true
 date: 2026-06-05T20:24:14.991Z
 tags: 

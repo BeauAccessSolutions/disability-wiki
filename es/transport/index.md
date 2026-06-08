@@ -1,6 +1,6 @@
 ---
 title: Transporte y movilidad
-description: Desplazarse es esencial para la independencia, el empleo, la educación y la participación en la comunidad. Sin embargo, muchas personas con discapacidad enfrentan barreras: transporte inaccesible…
+description: Desplazarse es esencial para la independencia, el empleo, la educación y la participación en la comunidad.
 published: true
 date: 2026-06-05T20:24:41.225Z
 tags: 

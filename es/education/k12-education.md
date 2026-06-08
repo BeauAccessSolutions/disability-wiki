@@ -1,6 +1,6 @@
 ---
 title: Educación K-12
-description: Todos los niños con discapacidad tienen derecho a la educación. El artículo 24 de la Convención sobre los Derechos de las Personas con Discapacidad (CDPD) afirma el derecho a…
+description: Todos los niños con discapacidad tienen derecho a la educación. El artículo 24 de la Convención sobre los Derechos de las Personas con Discapacidad…
 published: true
 date: 2026-06-05T20:33:27.580Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Medicaid (EE. UU.)
-description: Medicaid es un programa conjunto federal-estatal que brinda cobertura de salud a:
+description: Como las categorías de elegibilidad y los límites de ingresos cambian, consulta siempre con la agencia de Medicaid de tu estado o con una persona orientadora local.
 published: true
 date: 2026-06-05T20:27:52.025Z
 tags: 

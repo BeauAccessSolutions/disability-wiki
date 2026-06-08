@@ -1,6 +1,6 @@
 ---
 title: Herramientas de investigación accesibles
-description: Todas las personas con discapacidad tienen derecho a participar en la investigación y la producción de conocimiento en igualdad de condiciones con las demás, según lo afirman los Artículos 30 y 31 de…
+description: La accesibilidad importa no solo en los servicios y los espacios: es esencial en la propia investigación.
 published: true
 date: 2026-06-05T20:22:37.127Z
 tags: 

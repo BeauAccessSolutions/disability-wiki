@@ -1,6 +1,6 @@
 ---
 title: Intervención temprana
-description: La intervención temprana brinda apoyo al desarrollo de bebés y niños pequeños con discapacidad o retrasos en el desarrollo. Cuando se hace bien, puede ayudar…
+description: La intervención temprana brinda apoyo al desarrollo de bebés y niños pequeños con discapacidad o retrasos en el desarrollo.
 published: true
 date: 2026-06-05T20:33:19.206Z
 tags: 

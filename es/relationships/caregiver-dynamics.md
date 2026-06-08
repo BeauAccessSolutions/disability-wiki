@@ -1,6 +1,6 @@
 ---
 title: Dinámicas de pareja y de cuidado
-description: Cuando alguien con quien tienes una relación también es tu persona cuidadora, los roles se desdibujan. Cuando dependes de alguien para tu supervivencia diaria, el poder se desplaza. Esta página aborda…
+description: Cuando alguien con quien tienes una relación también es tu persona cuidadora, los roles se desdibujan.
 published: true
 date: 2026-06-05T20:26:07.267Z
 tags: 

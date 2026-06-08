@@ -1,6 +1,6 @@
 ---
 title: Accesibilidad en las redes sociales
-description: Las redes sociales pueden conectar a las personas con discapacidad a través de la distancia, el idioma y el aislamiento. También pueden dejar a la gente afuera mediante:
+description: Esta página se centra en formas prácticas de hacer que las publicaciones, las cuentas y las campañas sean más accesibles.
 published: true
 date: 2026-06-05T20:24:23.895Z
 tags: 

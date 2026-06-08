@@ -1,6 +1,6 @@
 ---
 title: Emprendimiento y trabajo por cuenta propia
-description: El trabajo por cuenta propia y el emprendimiento ofrecen a las personas con discapacidad flexibilidad, control e ingresos, a menudo de formas que el empleo tradicional no puede. Muchas personas con discapacidad…
+description: El trabajo por cuenta propia y el emprendimiento ofrecen a las personas con discapacidad flexibilidad, control e ingresos, a menudo de formas que el empleo tradicional no puede.
 published: true
 date: 2026-06-05T20:33:41.197Z
 tags: 

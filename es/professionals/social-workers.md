@@ -1,6 +1,6 @@
 ---
 title: Trabajadores sociales
-description: Todas las personas con discapacidad tienen derecho a vivir de forma independiente y a ser incluidas en la comunidad, con acceso a servicios de apoyo que respeten su autonomía y…
+description: Los trabajadores sociales a menudo tienen un poder significativo sobre la vida de las personas con discapacidad: decisiones sobre vivienda, prestaciones…
 published: true
 date: 2026-06-05T20:21:57.798Z
 tags: 

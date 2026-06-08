@@ -1,6 +1,6 @@
 ---
 title: Neurodivergencia
-description: Todas las personas tienen derecho a la educación, el empleo y la participación plena en la sociedad, sin importar cómo funcionen sus cerebros. Esta página pone en el centro los conocimientos de…
+description: La neurodivergencia describe cerebros que funcionan de manera distinta a lo que la sociedad considera "típico".
 published: true
 date: 2026-06-05T20:29:25.526Z
 tags: 

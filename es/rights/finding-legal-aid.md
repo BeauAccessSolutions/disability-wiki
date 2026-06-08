@@ -1,6 +1,6 @@
 ---
 title: Encontrar asistencia legal
-description: La ayuda legal suele estar disponible de forma gratuita o a bajo costo si buscas reparación por violaciones a los derechos de las personas con discapacidad. Esta página te ayuda a encontrar abogados, asistencia legal…
+description: La ayuda legal suele estar disponible de forma gratuita o a bajo costo si buscas reparación por violaciones a los derechos de las personas con discapacidad.
 published: true
 date: 2026-06-05T20:38:53.663Z
 tags: 

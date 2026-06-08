@@ -1,6 +1,6 @@
 ---
 title: Clichés mediáticos y representación
-description: Análisis de los clichés dañinos sobre la discapacidad en los medios y de cómo es una buena representación. Comprender estos patrones ayuda a identificar el capacitismo y a abogar por…
+description: Análisis de los clichés dañinos sobre la discapacidad en los medios y de cómo es una buena representación.
 published: true
 date: 2026-06-05T20:20:58.581Z
 tags: 

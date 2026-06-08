@@ -1,6 +1,6 @@
 ---
 title: Arquitectos y diseñadores
-description: Todas las personas con discapacidad tienen derecho a acceder al entorno físico, el transporte, la información y las comunicaciones en igualdad de condiciones con las demás. Esta…
+description: El entorno construido determina quién puede participar en la sociedad. Las escaleras excluyen a las personas usuarias de silla de ruedas.
 published: true
 date: 2026-06-05T20:21:23.136Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Entender el sesgo médico
-description: Todas las personas con discapacidad tienen derecho al más alto nivel posible de salud, lo que incluye que se les crea sobre su propio cuerpo y sus experiencias. Esta página…
+description: Para estrategias prácticas, consulta Invalidación médica y trauma en la atención de salud.
 published: true
 date: 2026-06-05T20:35:52.663Z
 tags: 

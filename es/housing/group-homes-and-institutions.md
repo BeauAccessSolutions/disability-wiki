@@ -1,6 +1,6 @@
 ---
 title: Hogares grupales e instituciones
-description: Las instituciones—asilos, hospitales psiquiátricos, hogares grupales, centros para personas con discapacidades del desarrollo y otros entornos colectivos—segregan a las personas con discapacidad de…
+description: Las instituciones—asilos, hospitales psiquiátricos, hogares grupales, centros para personas con discapacidades del desarrollo y otros entornos…
 published: true
 date: 2026-06-05T20:37:47.429Z
 tags: 

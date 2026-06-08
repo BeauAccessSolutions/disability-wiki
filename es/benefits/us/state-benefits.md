@@ -1,6 +1,6 @@
 ---
 title: Prestaciones estatales por discapacidad y relacionadas (EE. UU.)
-description: Además de los programas federales (SSDI, SSI, SNAP, Medicaid, etc.), muchos estados y territorios de EE. UU. tienen sus propias prestaciones y apoyos relacionados con la discapacidad…
+description: Esta página es un mapa y un marcador de posición. Está pensada para que la desarrollen las personas que viven en cada estado.
 published: true
 date: 2026-06-05T20:28:13.897Z
 tags: 

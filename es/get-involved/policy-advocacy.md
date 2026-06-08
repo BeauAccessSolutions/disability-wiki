@@ -1,6 +1,6 @@
 ---
 title: Incidencia en políticas públicas
-description: Todas las personas con discapacidad tienen derecho a participar en la vida política y pública en igualdad de condiciones con las demás, según afirma el Artículo 29 de la Convención de la ONU…
+description: La incidencia en políticas públicas se centra en cambiar leyes, reglamentos, estructuras de financiamiento y programas de gobierno.
 published: true
 date: 2026-06-05T20:34:34.437Z
 tags: 

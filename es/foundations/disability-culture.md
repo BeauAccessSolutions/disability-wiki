@@ -1,6 +1,6 @@
 ---
 title: Cultura de la discapacidad
-description: Todas las personas con discapacidad tienen derecho a la comunidad, la identidad y la expresión cultural. Esta página pone en el centro los conocimientos de las personas con discapacidad sobre lo que significa la cultura de la discapacidad…
+description: La cultura de la discapacidad es real. Abarca una historia, un arte, un humor, un lenguaje, unos valores y unas formas de ser compartidas que surgen de vivir…
 published: true
 date: 2026-06-05T20:33:59.030Z
 tags: 

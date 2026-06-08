@@ -1,6 +1,6 @@
 ---
 title: Bibliografía
-description: Esta bibliografía reúne las fuentes utilizadas en todo DisabilityWiki. Está organizada por tema e incluye marcos internacionales, organizaciones lideradas por personas con discapacidad…
+description: Esta bibliografía reúne las fuentes utilizadas en todo DisabilityWiki. Está organizada por tema e incluye marcos internacionales, organizaciones lideradas…
 published: true
 date: 2026-06-05T20:34:51.163Z
 tags: 

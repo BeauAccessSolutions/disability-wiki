@@ -1,6 +1,6 @@
 ---
 title: Primeros movimientos de la discapacidad (1800–1960)
-description: Todas las personas con discapacidad tienen derecho a la plena participación en la vida política y pública (Artículo 29 de la CDPD) y derecho a participar en la vida cultural…
+description: Antes de la era moderna de los derechos de las personas con discapacidad, las personas con discapacidad de todo el mundo construyeron comunidades…
 published: true
 date: 2026-06-05T20:36:55.672Z
 tags: 

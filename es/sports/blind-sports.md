@@ -1,6 +1,6 @@
 ---
 title: Deportes para personas ciegas y con baja visión
-description: Deportes adaptados para atletas ciegos y con discapacidad visual: desde el goalball (diseñado específicamente para jugadores ciegos) hasta versiones adaptadas de deportes convencionales…
+description: Deportes adaptados para atletas ciegos y con discapacidad visual: desde el goalball (diseñado específicamente para jugadores ciegos) hasta versiones…
 published: true
 date: 2026-06-05T20:25:34.423Z
 tags: 

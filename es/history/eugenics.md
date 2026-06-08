@@ -1,6 +1,6 @@
 ---
 title: Eugenesia e institucionalización (1880–1945)
-description: Todas las personas con discapacidad tienen derecho a la vida (Artículo 10 de la CDPD), a no ser sometidas a tortura ni a tratos crueles (Artículo 15) y a verse libres de explotación, violencia…
+description: Entre fines del siglo XIX y mediados del XX, la eugenesia y la institucionalización se convirtieron en sistemas globales dominantes para controlar, segregar…
 published: true
 date: 2026-06-05T20:37:00.113Z
 tags: 

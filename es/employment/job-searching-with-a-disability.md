@@ -1,6 +1,6 @@
 ---
 title: Búsqueda de empleo con una discapacidad
-description: Encontrar trabajo como persona con discapacidad significa navegar un sistema que a menudo discrimina, a la vez que se manejan los desafíos relacionados con la discapacidad. La buena noticia…
+description: Encontrar trabajo como persona con discapacidad significa navegar un sistema que a menudo discrimina, a la vez que se manejan los desafíos relacionados con la discapacidad.
 published: true
 date: 2026-06-05T20:33:45.621Z
 tags: 

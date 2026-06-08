@@ -1,6 +1,6 @@
 ---
 title: Animales de servicio
-description: Los animales de servicio ayudan a las personas con discapacidad a desenvolverse en el mundo: realizan tareas, brindan asistencia y hacen posible la independencia. Están protegidos por la ley en…
+description: Los animales de servicio ayudan a las personas con discapacidad a desenvolverse en el mundo: realizan tareas, brindan asistencia y hacen posible la independencia.
 published: true
 date: 2026-06-05T20:24:59.646Z
 tags: 

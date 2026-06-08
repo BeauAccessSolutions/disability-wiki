@@ -1,6 +1,6 @@
 ---
 title: Planificadores de emergencias
-description: Todas las personas con discapacidad tienen derecho a la protección y la seguridad en situaciones de riesgo, incluidos los conflictos armados, las emergencias humanitarias y los desastres naturales…
+description: Las personas con discapacidad mueren de forma desproporcionada en los desastres.
 published: true
 date: 2026-06-05T20:21:33.065Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Por qué se necesitan intérpretes de lengua de señas (incluso cuando existen "alternativas")
-description: Todas las personas sordas y con dificultades auditivas tienen derecho a una comunicación efectiva en su idioma preferido. Esta página pone en el centro los conocimientos de las personas con discapacidad y…
+description: Los proveedores de atención médica, los empleadores, el personal educativo y los servicios públicos rechazan de forma rutinaria las solicitudes…
 published: true
 date: 2026-06-05T20:25:57.798Z
 tags: 

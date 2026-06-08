@@ -1,6 +1,6 @@
 ---
 title: Directorio de personas creadoras con discapacidad
-description: Un directorio de personas con discapacidad que son artistas, escritoras, músicas, cineastas, performers y creadoras en todos los medios. Esta página te ayuda a descubrir y apoyar a personas creadoras con discapacidad…
+description: Un directorio de personas con discapacidad que son artistas, escritoras, músicas, cineastas, performers y creadoras en todos los medios.
 published: true
 date: 2026-06-05T20:20:44.291Z
 tags: 

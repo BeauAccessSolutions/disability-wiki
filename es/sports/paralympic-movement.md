@@ -1,6 +1,6 @@
 ---
 title: El movimiento paralímpico
-description: Los Juegos Paralímpicos son el tercer evento deportivo más grande del mundo y muestran a personas atletas de élite con discapacidad en decenas de deportes. Esta página cubre la historia paralímpica…
+description: Los Juegos Paralímpicos son el tercer evento deportivo más grande del mundo y muestran a personas atletas de élite con discapacidad en decenas de deportes.
 published: true
 date: 2026-06-05T20:25:15.731Z
 tags: 

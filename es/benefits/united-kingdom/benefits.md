@@ -1,6 +1,6 @@
 ---
 title: Prestaciones por discapacidad – Reino Unido
-description: El sistema de prestaciones por discapacidad del Reino Unido incluye programas nacionales que interactúan con el apoyo de vivienda, el empleo y los servicios de salud. Esta página ofrece una visión general…
+description: El sistema de prestaciones por discapacidad del Reino Unido incluye programas nacionales que interactúan con el apoyo de vivienda, el empleo y los servicios de salud.
 published: true
 date: 2026-06-05T20:27:36.400Z
 tags: 

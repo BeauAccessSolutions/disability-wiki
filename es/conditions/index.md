@@ -1,6 +1,6 @@
 ---
 title: Índice de afecciones
-description: Todas las personas con discapacidad tienen derecho al más alto nivel posible de salud, sin discriminación. Esta sección pone en el centro los conocimientos de las personas con discapacidad sobre…
+description: Esta sección pone en el centro los conocimientos de las personas con discapacidad sobre sus propios cuerpos y experiencias, informados por las comunidades…
 published: true
 date: 2026-06-05T20:28:58.565Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Cuando los médicos no te creen: navegar la invalidación médica
-description: Todas las personas con discapacidad tienen derecho a una atención médica que respete su dignidad, su autonomía y sus conocimientos sobre su propio cuerpo. Esta página pone en el centro los conocimientos de las personas con discapacidad…
+description: La invalidación médica —a veces llamada "medical gaslighting"— ocurre cuando los proveedores de atención médica descuentan, minimizan o se niegan…
 published: true
 date: 2026-06-05T20:35:57.647Z
 tags: 

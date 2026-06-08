@@ -1,6 +1,6 @@
 ---
 title: Ley de Estadounidenses con Discapacidades (ADA)
-description: Todas las personas con discapacidad tienen derecho a vivir libres de discriminación y a participar plenamente en la sociedad. La Ley de Estadounidenses con Discapacidades (ADA) es la…
+description: La Ley de Estadounidenses con Discapacidades (Americans with Disabilities Act, ADA) es la principal ley federal de derechos civiles de EE. UU.
 published: true
 date: 2026-06-05T20:25:53.128Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Dolor y fatiga
-description: El dolor y la fatiga crónicos afectan a millones de personas con discapacidad. Suelen ser invisibles, con frecuencia se desestiman y tienen un impacto profundo en la vida diaria. Vivir con dolor…
+description: El dolor y la fatiga crónicos afectan a millones de personas con discapacidad. Suelen ser invisibles, con frecuencia se desestiman y tienen un impacto profundo en la vida diaria.
 published: true
 date: 2026-06-05T20:36:18.421Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Medicare
-description: Medicare es un seguro de salud federal principalmente para personas de 65 años o más, pero también disponible para algunas personas con discapacidad más jóvenes. Esta página explica Medicare en lenguaje sencillo…
+description: Medicare es un seguro de salud federal principalmente para personas de 65 años o más, pero también disponible para algunas personas con discapacidad más jóvenes.
 published: true
 date: 2026-06-05T20:27:56.378Z
 tags: 

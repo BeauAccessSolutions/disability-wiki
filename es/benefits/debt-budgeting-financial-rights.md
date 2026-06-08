@@ -1,6 +1,6 @@
 ---
 title: Deudas, presupuesto y derechos financieros
-description: Muchas personas con discapacidad terminan endeudadas o en crisis financiera porque:
+description: Algunas personas con discapacidad prefieren pensar en el presupuesto como un mapeo de recursos en lugar de "tener más disciplina".
 published: true
 date: 2026-06-05T20:27:07.698Z
 tags: 

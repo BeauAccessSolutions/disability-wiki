@@ -1,6 +1,6 @@
 ---
 title: Cómo prepararte para el hospital como persona con discapacidad
-description: Todas las personas con discapacidad tienen derecho a una atención médica que se adapte a sus necesidades de acceso y respete su autonomía. Esta página pone en…
+description: Los hospitales están diseñados para la rapidez, la eficiencia y los cuerpos normativos, no para pacientes con discapacidad que tienen necesidades complejas…
 published: true
 date: 2026-06-05T20:35:33.748Z
 tags: 

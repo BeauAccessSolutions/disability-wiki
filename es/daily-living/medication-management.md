@@ -1,6 +1,6 @@
 ---
 title: Manejar la medicación en un mundo inaccesible
-description: El manejo de la medicación supone que tienes memoria perfecta, manos firmes, energía constante y un horario predecible. La mayoría de las personas con discapacidad no tienen todo…
+description: El manejo de la medicación supone que tienes memoria perfecta, manos firmes, energía constante y un horario predecible.
 published: true
 date: 2026-06-05T20:32:42.630Z
 tags: 

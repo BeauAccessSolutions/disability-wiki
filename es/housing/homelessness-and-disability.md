@@ -1,6 +1,6 @@
 ---
 title: La situación de calle y la discapacidad
-description: Las personas con discapacidad viven en situación de calle en tasas más altas que las personas sin discapacidad a nivel global. Sin embargo, la situación de calle no es inevitable: resulta de decisiones de política…
+description: Las personas con discapacidad viven en situación de calle en tasas más altas que las personas sin discapacidad a nivel global.
 published: true
 date: 2026-06-05T20:37:52.428Z
 tags: 

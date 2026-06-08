@@ -1,6 +1,6 @@
 ---
 title: Blogs y sitios web
-description: Blogs, sitios de noticias y publicaciones en línea centrados en la discapacidad. Esta lista pone en el centro a personas con discapacidad que escriben, a organizaciones lideradas por personas con discapacidad y a perspectivas auténticas sobre la discapacidad…
+description: Blogs, sitios de noticias y publicaciones en línea centrados en la discapacidad.
 published: true
 date: 2026-06-05T20:20:27.715Z
 tags: 

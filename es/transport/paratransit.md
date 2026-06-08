@@ -1,6 +1,6 @@
 ---
 title: Paratránsito
-description: El paratránsito es un transporte puerta a puerta para personas con discapacidad que no pueden usar el transporte regular de ruta fija. En EE. UU. es obligatorio por ley como complemento…
+description: El paratránsito es un transporte puerta a puerta para personas con discapacidad que no pueden usar el transporte regular de ruta fija. En EE. UU.
 published: true
 date: 2026-06-05T20:24:50.334Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Derechos de atención médica para personas con discapacidad
-description: Todas las personas con discapacidad tienen derecho a una atención médica accesible, respetuosa y eficaz. Esta página pone en el centro las experiencias de las personas con discapacidad al sortear la atención médica…
+description: El artículo 25 establece que las personas con discapacidad tienen derecho al más alto nivel posible de salud sin discriminación.
 published: true
 date: 2026-06-05T20:35:23.610Z
 tags: 

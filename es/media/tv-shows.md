@@ -1,6 +1,6 @@
 ---
 title: Programas de televisión
-description: Series de televisión con personajes y creadores con discapacidad. Esta lista destaca el casting auténtico, los guionistas y showrunners con discapacidad, y las series que ponen en el centro…
+description: Series de televisión con personajes y creadores con discapacidad. Esta lista destaca el casting auténtico, los guionistas y showrunners con discapacidad,…
 published: true
 date: 2026-06-05T20:21:13.522Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Olimpiadas Especiales (Special Olympics)
-description: El movimiento de Special Olympics ofrece entrenamiento y competición deportiva durante todo el año para personas con discapacidad intelectual. A diferencia de los Paralímpicos…
+description: El movimiento de Special Olympics ofrece entrenamiento y competición deportiva durante todo el año para personas con discapacidad intelectual.
 published: true
 date: 2026-06-05T20:25:38.777Z
 tags: 

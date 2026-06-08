@@ -1,6 +1,6 @@
 ---
 title: Índice de investigación
-description: Todas las personas con discapacidad tienen derecho a participar en la vida cultural, recreativa y pública, incluidas la investigación y la producción de conocimiento, según lo afirman…
+description: Esta sección pone en el centro los conocimientos de las personas con discapacidad y se guía por el principio de que la investigación sobre discapacidad debe…
 published: true
 date: 2026-06-05T20:22:55.016Z
 tags: 

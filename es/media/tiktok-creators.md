@@ -1,6 +1,6 @@
 ---
 title: Creadores de TikTok
-description: Creadores con discapacidad que construyen comunidad y conciencia en TikTok. Esta lista pone en el centro a personas con discapacidad que comparten sus propias experiencias, educación, humor y vida diaria…
+description: Creadores con discapacidad que construyen comunidad y conciencia en TikTok. Esta lista pone en el centro a personas con discapacidad que comparten…
 published: true
 date: 2026-06-05T20:21:09.196Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Prestaciones por discapacidad – Unión Europea (Visión general)
-description: La Unión Europea incluye muchos países con distintos sistemas de prestaciones por discapacidad, pero comparten algunos temas comunes:
+description: Esta página es una visión general regional. La información detallada debería vivir en páginas específicas de cada país.
 published: true
 date: 2026-06-05T20:27:11.956Z
 tags: 

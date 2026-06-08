@@ -1,6 +1,6 @@
 ---
 title: Comunidades de personas con discapacidad en Discord
-description: Todas las personas con discapacidad tienen derecho a la comunidad, al apoyo entre pares y a espacios donde puedan conectar con otras personas que comparten sus experiencias. Esta página pone en el centro…
+description: Sin embargo, Reddit también es un espacio donde el capacitismo, la desinformación y las narrativas dañinas son comunes.
 published: true
 date: 2026-06-05T20:28:30.626Z
 tags: 

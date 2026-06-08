@@ -1,6 +1,6 @@
 ---
 title: Discapacidad intelectual y del desarrollo
-description: Todas las personas tienen derecho a tomar decisiones sobre su propia vida, a ser incluidas en la comunidad y a recibir un apoyo que respete su autonomía y…
+description: Las discapacidades intelectuales y del desarrollo (DID) incluyen afecciones presentes desde el nacimiento o la primera infancia que afectan el desarrollo…
 published: true
 date: 2026-06-05T20:29:02.703Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Ejercicio y deportes adaptados
-description: El movimiento, la actividad física y el deporte son para todos, incluidas las personas con discapacidad. Las personas con discapacidad podemos hacer ejercicio, practicar deportes, mover nuestros cuerpos y…
+description: El movimiento, la actividad física y el deporte son para todos, incluidas las personas con discapacidad.
 published: true
 date: 2026-06-05T20:32:29.224Z
 tags: 

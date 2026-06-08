@@ -1,6 +1,6 @@
 ---
 title: Dispositivos de apoyo caseros y de bricolaje
-description: Todas las personas con discapacidad tienen derecho a las herramientas y el equipo que sostienen su independencia. Esta página pone en el centro los conocimientos de las personas con discapacidad y se basa…
+description: Las personas con discapacidad siempre han adaptado, modificado y creado herramientas que les funcionan.
 published: true
 date: 2026-06-05T20:32:24.711Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Control familiar y gaslighting
-description: Algunas personas con discapacidad enfrentan dinámicas familiares controladoras, manipuladoras o abusivas. Las familias pueden usar la discapacidad como justificación para controlar, ocultar el abuso detrás del…
+description: Algunas personas con discapacidad enfrentan dinámicas familiares controladoras, manipuladoras o abusivas.
 published: true
 date: 2026-06-05T20:25:06.000Z
 tags: 

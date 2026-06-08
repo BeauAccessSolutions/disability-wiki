@@ -1,6 +1,6 @@
 ---
 title: Líneas de crisis de Asia y el Pacífico
-description: La ayuda está disponible de inmediato, de forma confidencial y sin juicios.
+description: La ayuda está disponible de inmediato, de forma confidencial y sin juicios. Esta página te conecta con recursos de crisis en toda la región de Asia y el Pacífico.
 published: true
 date: 2026-06-05T20:30:34.377Z
 tags: 

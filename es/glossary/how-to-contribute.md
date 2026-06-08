@@ -1,6 +1,6 @@
 ---
 title: Cómo contribuir
-description: ¡Nos alegra que te interese contribuir! Así funciona el proceso de contribución para este wiki:
+description: ¡Gracias por ayudar a construir este recurso! Tu voz importa, especialmente si tienes experiencia vivida.
 published: true
 date: 2026-06-05T20:35:05.786Z
 tags: 
