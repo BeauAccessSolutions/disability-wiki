@@ -3,10 +3,12 @@ name: disability-wiki-edit
 description: >-
   Read, edit, create, unpublish, or publish pages on the disability-wiki Wiki.js
   site (disabilitywiki.org). Use this whenever the user wants to change live wiki
-  content — fix a page, bulk-edit, create or move a page, unpublish something, run
-  the GraphQL API, or push changes live. Covers the Wiki.js API recipes, the
-  pull-mode edit→commit→sync workflow, the WAF/User-Agent gotcha, the full-field
-  update mutation, token handling, and per-page backups. Trigger even if the user
+  content — fix a page, bulk-edit, create, move, unpublish, or delete a page, run
+  the GraphQL API, or push changes live. Also when a force-sync fails/conflicts and
+  the server git needs recovery. Covers the Wiki.js API recipes, the pull-mode
+  edit→commit→sync workflow, the WAF/User-Agent gotcha, the full-field update
+  mutation, the never-`git rm`-in-pull-mode rule, SSH sync recovery, Cloudflare-cache
+  verification, token handling, and per-page backups. Trigger even if the user
   doesn't say "Wiki.js" — any "fix/edit/update/publish the wiki" request in this
   repo applies.
 ---
@@ -82,6 +84,26 @@ mutation($id:Int!,$path:String!,$locale:String!){
 ```
 Moving leaves the old path 404 — check for inbound links first.
 
+### Delete a page — ⚠️ use the API, NEVER `git rm` in pull mode
+```graphql
+mutation($id:Int!){ pages { delete(id:$id){ responseResult{ succeeded errorCode message } } } }
+```
+**Do NOT remove a live page by deleting its `.md` and pushing.** In pull mode Wiki.js
+re-writes and *locally commits* each page's `.md` on every API edit ("Administrator"
+commits). A `git rm` on GitHub then collides with those local modify commits →
+**modify/delete rebase conflict** that wedges the server's clone and breaks the whole
+sync pipeline (see recovery below). To remove a page:
+- **Unpublish** (hide, reversible): the `update` mutation with `isPublished:false`. A
+  *modify*, so its write-back rebases cleanly — always safe.
+- **Delete** (purge from DB): `pages.delete(id)` — removes the DB row *first*, then
+  `git rm`s the local file. If the file is already gone it returns a scary
+  `fatal: pathspec … did not match` — **harmless; the DB row is already deleted.**
+  Confirm with `pages{list}`.
+- Frontmatter `published:false` in the repo does **NOT** propagate to the DB on pull
+  (observed). Publish-state lives in the DB; change it via API.
+- The whole repo syncs to the wiki, so non-content paths (`.claude/`, `docs/`,
+  root `AUDIT_*`/`README`) get published as pages unless removed/unpublished.
+
 ### Force a Git pull (publish repo changes immediately)
 ```graphql
 mutation { storage { executeAction(targetKey:"git", handler:"sync"){
@@ -89,6 +111,28 @@ mutation { storage { executeAction(targetKey:"git", handler:"sync"){
 ```
 Run this right after `git push origin main` to publish in seconds. (Storage target
 key is `git`; available actions are `sync` = Force Sync, `syncUntracked`, `importAll`.)
+
+If a sync returns `succeeded:false` with a CONFLICT / `unresolved conflict` message,
+the server's clone is wedged mid-rebase (almost always from a `git rm` colliding with
+local write-back commits — see Delete above). The handlers can't fix it; recover over SSH.
+
+### Recover a wedged server-side git sync (needs SSH)
+SSH host alias **`cripchronicle`** → the DigitalOcean droplet (key in `~/.ssh`).
+Containers `wiki_wiki_1` / `wiki_db_1`. The Wiki.js git clone is at
+**`/wiki/wiki/data/repo`** inside the container (storage config `localRepoPath:
+wiki/data/repo`, relative to workdir `/wiki`). Abort the rebase and realign with GitHub:
+```bash
+ssh cripchronicle 'docker exec wiki_wiki_1 sh -c \
+  "cd /wiki/wiki/data/repo && git rebase --abort 2>/dev/null; \
+   git fetch origin && git reset --hard origin/main"'
+```
+The discarded local "Administrator" commits are just Wiki.js write-backs already
+reflected in the DB — nothing is lost. Then force-sync via the API to confirm green.
+
+**⚠️ Cloudflare caches rendered HTML.** After a sync the DB/repo can be correct while
+the live page still shows the old version — and a `?v=` query param does NOT bust
+Cloudflare's cache. **Verify changes via the API** (`pages{single{content}}`), not a
+`curl` of the page; the page catches up on cache-TTL expiry.
 
 ## Creating a new page
 
@@ -133,5 +177,7 @@ life-safety priority.
 - [ ] Backup before bulk edits
 - [ ] Verify internal links resolve (see disability-wiki-page)
 - [ ] Commit to `main` (or branch+PR), then force-sync
+- [ ] To remove a page: API `pages.delete`/unpublish — NEVER `git rm` (wedges the sync)
+- [ ] Verify via API (`pages{single{content}}`), not curl — Cloudflare caches the HTML
 - [ ] Token never committed; temp copy deleted after
 - [ ] If you changed an English page, note the `es/` sync need

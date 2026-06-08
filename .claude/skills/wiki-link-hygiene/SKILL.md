@@ -4,9 +4,10 @@ description: >-
   Find and fix broken internal links on the disability-wiki. Use when the user
   wants to "fix broken links", "run the link validator", "clean up dead links",
   "check internal links", or act on the broken-link triage backlog. Covers the
-  validator, the mechanical/case/missing triage, the Wiki.js case-sensitive-slug
-  and .md-in-path gotchas, safe batch-fixing across English content, and producing
-  a create-vs-repoint-vs-remove list for genuinely missing pages.
+  validator, the mechanical/case/missing triage, the Wiki.js case-sensitive-slug,
+  .md-in-path, and unsupported-`[[wikilink]]` gotchas, safe batch-fixing across
+  English content, and producing a create-vs-repoint-vs-remove list for genuinely
+  missing pages.
 ---
 
 # Wiki Link Hygiene
@@ -16,6 +17,35 @@ paths, missing landing pages). Most "broken links" are **wrong paths to pages th
 exist** — fixable mechanically and safely. A minority are **genuinely missing
 pages**, which need a content decision. This skill separates the two and clears the
 first cheaply.
+
+## The `[[wikilink]]` gotcha (separate from broken markdown links)
+
+Wiki.js does **not** support `[[Title|label]]` double-bracket wikilink syntax — it's
+not in GitHub-Flavored Markdown, and the maintainers never adopted the feature
+request. It renders as **literal bracket text**, so the "link" is dead *and* visibly
+broken (`[[…]]` shows on the page). The markdown-link validator won't catch these
+(they aren't `[](…)` links), so grep for them separately:
+
+```
+grep -rn '\[\[' --include='*.md' crisis es/crisis   # whole site: drop the path args
+```
+
+Convert each `[[Target|label]]` → `[label](/path)`. Resolving `Target` to a path:
+- **Don't match on `title:` frontmatter** — the bracket labels rarely equal the page
+  title (`[[Emergency Preparedness]]` vs title "Emergency & Disaster Preparedness").
+  Map by **file path/structure** instead, verifying each target file exists.
+- `[[/crisis|label]]` (already a slash-path) → `[label](/crisis)` — trivial.
+- On **es/** pages, the target needs the `/es/` prefix (`[label](/es/crisis/…)`), and
+  the es target page must exist — confirm, or flag the gap (per the translation skill).
+- External orgs (e.g. RAINN) → a real external URL, not an internal path.
+- No matching page anywhere → strip to plain label text (so no broken `[[…]]` shows)
+  and add to the missing-page triage (Step 4). Don't invent a page silently.
+- Watch for **malformed unclosed `[[`** (a regex `\[\[([^\]]*)\]\]` will run past it to
+  the next `]]`) — repair the source first.
+
+This was a whole-site batch on the crisis pages (2026-06-08): 34 pages converted, see
+`docs/crisis-link-triage-2026-06-08.md`. Validate touched es/ files with
+`check_translation.py`. **Never write new `[[…]]` links.**
 
 ## Step 1 — Run the validator
 
