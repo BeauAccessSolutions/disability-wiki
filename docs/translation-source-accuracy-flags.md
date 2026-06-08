@@ -98,9 +98,12 @@ targets — accent-independent by construction. Done across all 51 non-crisis es
 pages that have TOCs. The 10 crisis-hotline index pages are pending (blocked by
 the Norton write quarantine; finish with `pin_anchors.py` after the exclusion).
 
-### ⬜ Dangling anchors — broken in the ENGLISH source too (TOC link points to an id no heading produces)
-These were already dead links on the live English site; flag for an EN fix
-(correct the anchor or the heading), then the es/ pinning will pick them up:
+### ✅ Dangling anchors — FIXED 2026-06-07 (EN+ES, commit `d987d5e`)
+These were dead in-page TOC links on the live English site (and mirrored into es/);
+all now resolve by pinning the target heading's expected id or relinking:
+- `#european-union` (7 housing pages) → pinned `{#european-union}`; `#other-countries` (accessible-housing-search-guide) → pinned; `sports/paralympic-movement` → relinked `#sports`→`#summer-paralympic-sports`; `rights/international-rights` → pinned `{#united-nations-framework}`; `history/pre-industrial` → pinned the examples heading; `es/media/books` duplicate-heading `-1` dedup fixed. (`&`-in-heading anchors like `#alpine--nordic-skiing` resolve natively in Wiki.js — left as-is.)
+
+(historical, for reference — all resolved above:)
 - `housing/*` (housing-rights, home-modifications, group-homes-and-institutions, homelessness-and-disability, independent-living-philosophy-and-centers, tenants-rights-with-disabilities, accessible-housing-search-guide): TOC link `#european-union` but heading is `## European Union & Member States` (real slug `european-union--member-states`); accessible-housing-search-guide also `#other-countries` vs `## Other Countries`.
 - `sports/paralympic-movement`: TOC `#sports` — no heading slugs to "sports" (headings are "Summer/Winter Paralympic Sports").
 - `rights/international-rights`: TOC `#united-nations-framework` — no matching heading slug.
