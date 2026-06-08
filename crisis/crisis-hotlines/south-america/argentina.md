@@ -1,6 +1,6 @@
 ---
 title: Crisis Hotlines in Argentina
-description: Si estás en crisis ahora, no estás solo. La ayuda está disponible inmediatamente y es confidencial.
+description: If you're in crisis right now, you're not alone. Help is available immediately and is confidential.
 published: true
 date: 2026-06-05T20:31:33.296Z
 tags: 
@@ -10,155 +10,155 @@ dateCreated: 2026-01-07T20:03:12.032Z
 
 # Crisis Help: Argentina
 
-Si estás en crisis ahora, no estás solo. La ayuda está disponible inmediatamente 
-y es confidencial.
+If you're in crisis right now, you're not alone. Help is available immediately 
+and is confidential.
 
-⚠️ **Contenido importante:** Esta página discute suicidio, abuso y autolesiones. 
-Si es abrumador ahora, simplemente llama al número abajo. No tienes que leer todo.
+⚠️ **Important content:** This page discusses suicide, abuse, and self-harm. 
+If that's overwhelming right now, just call the number below. You don't have to read everything.
 
 ---
 
-## 🚨 AHORA MISMO: Llama a Este Número
+## 🚨 RIGHT NOW: Call This Number
 
 ### Teléfono de la Esperanza
 
-**Teléfono:** (011) 4758-2142 (Buenos Aires)  
-**Línea Nacional:** Varios números por provincia  
+**Phone:** (011) 4758-2142 (Buenos Aires)  
+**National line:** Various numbers by province  
 **Chat:** telefonodelaesperanza.org.ar  
-**Horas:** 24/7, 365 días al año  
-**Costo:** Gratuito  
-**Idiomas:** Español  
+**Hours:** 24/7, 365 days a year  
+**Cost:** Free  
+**Languages:** Spanish  
 
-**Lo que sucede:**
-- Apoyo emocional gratuito
-- Prevención de suicidio
-- Voluntarios entrenados
-- Confidencial, sin juzgar
+**What happens:**
+- Free emotional support
+- Suicide prevention
+- Trained volunteers
+- Confidential, non-judgmental
 
 ---
 
-## Otras Opciones de Crisis (Elige lo que Funcione para Ti)
+## Other Crisis Options (Choose What Works for You)
 
-### Crisis de Salud Mental
+### Mental Health Crisis
 
-**Teléfono de la Esperanza:** Por provincia (24/7)  
-- Apoyo emocional
+**Teléfono de la Esperanza:** By province (24/7)  
+- Emotional support
 
-**BAPSI (Asociación de Psicólogos):** 4323-0909  
-- Referal a profesionales
+**BAPSI (psychologists' association):** 4323-0909  
+- Referral to professionals
 
-### Pensamientos Suicidas
-
-**Teléfono de la Esperanza:** 24/7  
-- Prevención de suicidio
-
-**Hospital de Emergencia Psiquiátrica:** 4931-8000 (CABA)  
-- Atención de emergencia
-
-### Abuso o Violencia
-
-**Violencia Doméstica:**  
-- Línea de Orientación: 0-800-333-0091 (24/7, gratuito)
-- Comisaría de Mujer
-
-**Abuso Sexual:**  
-- Hospital Nacional de Emergencias "Dr. F. P. Garrahan": 4308-3000 (niños)
-- Centro de Atención de Violencia Sexual
-
-### Crisis de Jóvenes
+### Suicidal Thoughts
 
 **Teléfono de la Esperanza:** 24/7  
-- Apoyo para jóvenes
+- Suicide prevention
 
-**Línea de Atención a Adolescentes:** Busca en tu provincia
+**Hospital de Emergencias Psiquiátricas:** 4931-8000 (CABA)  
+- Emergency care
 
-### Crisis LGBTQ+
+### Abuse or Violence
+
+**Domestic violence:**  
+- Línea de Orientación: 0-800-333-0091 (24/7, free)
+- Comisaría de la Mujer (women's police station)
+
+**Sexual abuse:**  
+- Hospital Nacional de Emergencias "Dr. F. P. Garrahan": 4308-3000 (children)
+- Sexual violence response center
+
+### Youth Crisis
 
 **Teléfono de la Esperanza:** 24/7  
-- Apoyo inclusivo
+- Support for young people
+
+**Adolescent support line:** Search in your province
+
+### LGBTQ+ Crisis
+
+**Teléfono de la Esperanza:** 24/7  
+- Inclusive support
 
 **Fundación Huésped:** 4322-1373  
-- Apoyo para comunidad LGBTQ+
+- Support for the LGBTQ+ community
 
-### Apoyo para Personas con Discapacidad
+### Support for People with Disabilities
 
-**ANDIS (Asociación Nacional de Discapacitados):** 4303-9088  
-- Apoyo y derechos
+**ANDIS (Argentina's national disability agency):** 4303-9088  
+- Support and rights
 
-**Municipalidad Local:** Servicios de discapacidad en tu área
+**Local municipality:** Disability services in your area
 
-### Crisis por Sustancias
+### Substance-Use Crisis
 
 **SEDRONAR:** 0-800-222-0122 (24/7)  
-- Drogas y alcohol
-- Referal a tratamiento
-- Gratuito
+- Drugs and alcohol
+- Referral to treatment
+- Free
 
 ---
 
-## Por Provincia
+## By Province
 
 **Buenos Aires (CABA):**  
 - Teléfono de la Esperanza: (011) 4758-2142
-- Línea de Orientación Violencia: 0-800-333-0091
+- Línea de Orientación (violence): 0-800-333-0091
 
-**Otras Provincias:**  
-- Busca "teléfono de la esperanza [provincia]"
-
----
-
-## Emergencia: Peligro Inminente
-
-**Si hay peligro inmediato:**
-- **Llama 911** para ambulancia y policía
-- **Ve al hospital más cercano (urgencias)**
-- **Llama 100** para policía (algunos lugares)
+**Other provinces:**  
+- Search "teléfono de la esperanza [province]"
 
 ---
 
-## Qué Decir Cuando Llames
+## Emergency: Imminent Danger
 
-No necesitas palabras perfectas. Solo di:
-
-- "Estoy en crisis"
-- "Tengo pensamientos suicidas"
-- "Necesito hablar con alguien"
-
-Los consejeros están entrenados para ayudar.
+**If there's immediate danger:**
+- **Call 911** for ambulance and police
+- **Go to the nearest hospital (emergency room)**
+- **Call 100** for emergency services (in some areas)
 
 ---
 
-## Accesibilidad e Información de Contacto
+## What to Say When You Call
 
-### Para Personas Sordas
+You don't need perfect words. Just say:
 
-- Chat disponible
-- Algunos servicios ofrecen video relay
+- "I'm in crisis"
+- "I'm having suicidal thoughts"
+- "I need to talk to someone"
 
-### Para Personas Ciegas o Baja Visión
-
-- Todos los servicios disponibles por teléfono
-- Chat en sitios web
-
-### Múltiples Idiomas
-
-- Español (primario)
-- Algunos servicios ofrecen otros idiomas
+Counselors are trained to help.
 
 ---
 
-## Después de Llamar
+## Accessibility & Contact Information
 
-### Encontrar Apoyo Continuo
+### For Deaf or Hard-of-Hearing People
 
-**Contacta:**
-- Tu médico general
-- Centro de Salud Mental en tu barrio
-- Hospital público local
+- Chat available
+- Some services offer video relay
 
-**Profesionales:**
+### For Blind or Low-Vision People
+
+- All services available by phone
+- Chat on websites
+
+### Multiple Languages
+
+- Spanish (primary)
+- Some services offer other languages
+
+---
+
+## After You Call
+
+### Finding Ongoing Support
+
+**Contact:**
+- Your general practitioner
+- A community mental health center in your neighborhood
+- Your local public hospital
+
+**Professionals:**
 - Colegio de Psicólogos de Buenos Aires: cpba.org.ar
-- Otros colegios provinciales
+- Other provincial colleges
 
 ---
 
@@ -186,7 +186,7 @@ If you're asking whether you're "sick enough" to call → **You are.** Call.
 
 ---
 
-## Recursos Relacionados
+## Related Resources
 
 - [[/crisis|Main Crisis Help Section]]
 - [[Emergency Preparedness|Emergency Preparedness & Safety Planning]]
@@ -194,7 +194,7 @@ If you're asking whether you're "sick enough" to call → **You are.** Call.
 ---
 
 
-**¿En crisis ahora?** Llama a Teléfono de la Esperanza. Todo lo demás puede esperar.
+**In crisis right now?** Call Teléfono de la Esperanza. Everything else can wait.
 
 *Cost, confidentiality, and hours vary by service — check each listing.*
 

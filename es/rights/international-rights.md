@@ -60,9 +60,9 @@ La Convención reconoce que la discapacidad resulta de la interacción entre las
 
 ### Estado actual
 
-Hasta 2024, más de 190 países han ratificado la CDPD o se han adherido a ella, lo que la convierte en uno de los tratados de derechos humanos más ampliamente adoptados. Estados Unidos la firmó en 2009, pero no la ha ratificado.
+Hasta junio de 2026, más de 190 países han ratificado la CDPD o se han adherido a ella, lo que la convierte en uno de los tratados de derechos humanos más ampliamente adoptados. Estados Unidos la firmó en 2009, pero no la ha ratificado.
 
-**El Protocolo Facultativo** permite que personas o grupos presenten quejas ante el Comité de la ONU sobre los Derechos de las Personas con Discapacidad cuando se han agotado los recursos internos. 107 países han ratificado el Protocolo Facultativo.
+**El Protocolo Facultativo** permite que personas o grupos presenten quejas ante el Comité de la ONU sobre los Derechos de las Personas con Discapacidad cuando se han agotado los recursos internos. Hasta junio de 2026, 109 países son partes del Protocolo Facultativo ([Colección de Tratados de la ONU](https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=IV-15-a&chapter=4)).
 
 ### Comité de la ONU sobre los Derechos de las Personas con Discapacidad
 

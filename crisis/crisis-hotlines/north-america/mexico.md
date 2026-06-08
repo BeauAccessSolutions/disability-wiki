@@ -1,6 +1,6 @@
 ---
 title: Crisis Hotlines in Mexico
-description: Si estás en crisis en este momento, no estás solo. La ayuda está disponible inmediatamente y es confidencial.
+description: If you're in crisis right now, you're not alone. Help is available immediately and is confidential.
 published: true
 date: 2026-06-05T20:31:19.471Z
 tags: 
@@ -8,225 +8,225 @@ editor: markdown
 dateCreated: 2026-01-07T20:02:57.662Z
 ---
 
-# Crisis Help: México
+# Crisis Help: Mexico
 
-Si estás en crisis en este momento, no estás solo. La ayuda está disponible 
-inmediatamente y es confidencial.
+If you're in crisis right now, you're not alone. Help is available immediately 
+and is confidential.
 
-⚠️ **Contenido importante:** Esta página habla de suicidio, abuso y autolesiones. 
-Si esto es abrumador en este momento, puedes simplemente llamar al número de abajo. 
-No tienes que leer todo.
+⚠️ **Important content:** This page discusses suicide, abuse, and self-harm. 
+If that's overwhelming right now, you can just call the number below. 
+You don't have to read everything.
 
 ---
 
-## 🚨 AHORA MISMO: Llama a Este Número
+## 🚨 RIGHT NOW: Call This Number
 
 ### Línea de la Vida
 
-**Teléfono:** 800-911-2000  
-**Horas:** 24/7, 365 días al año  
-**Costo:** Gratuito  
-**Idiomas:** Español  
-**Operada por:** CONASAMA (Comisión Nacional de Salud Mental y Adicciones), Secretaría de Salud  
+**Phone:** 800-911-2000  
+**Hours:** 24/7, 365 days a year  
+**Cost:** Free  
+**Languages:** Spanish  
+**Operated by:** CONASAMA (Comisión Nacional de Salud Mental y Adicciones), Secretaría de Salud  
 
-**Lo que sucede:**
-- Apoyo emocional e intervención breve en crisis
-- Para ansiedad, depresión, riesgo de suicidio y consumo de sustancias
-- Para personas y familias
-- Confidencial y gratuito
+**What happens:**
+- Emotional support and brief crisis intervention
+- For anxiety, depression, suicide risk, and substance use
+- For individuals and families
+- Confidential and free
 
 ---
 
-## Otras Opciones de Crisis (Elige lo que Funcione para Ti)
+## Other Crisis Options (Choose What Works for You)
 
-### Crisis de Salud Mental
+### Mental Health Crisis
 
-**Fundación Teléfono de la Esperanza:** Locales en tu estado  
-- Apoyo emocional para crisis mental
-- Prevención de suicidio
+**Fundación Teléfono de la Esperanza:** Local offices in your state  
+- Emotional support for mental health crises
+- Suicide prevention
 
-**IMSS/ISSSTE Mental Health Services:** 01-800-PSIQUIAT (1-800-774-8474)  
-- Servicios del gobierno
-- Referal a centros de atención psicosocial
+**IMSS/ISSSTE mental health services:** 01-800-PSIQUIAT (1-800-774-8474)  
+- Government services
+- Referral to psychosocial care centers
 
-### Pensamientos Suicidas
+### Suicidal Thoughts
 
 **Línea de la Vida:** 800-911-2000 (24/7)  
-- Prevención de suicidio
-- Apoyo confidencial
-- Operada por la Secretaría de Salud (CONASAMA)
+- Suicide prevention
+- Confidential support
+- Operated by the Secretaría de Salud (CONASAMA)
 
-### Abuso o Violencia
+### Abuse or Violence
 
-**Violencia Doméstica:**  
-- LOCATEL: 5658-1111 (Ciudad de México)
+**Domestic violence:**  
+- LOCATEL: 5658-1111 (Mexico City)
 - Local domestic violence hotlines by state
-- Centros de Atención a la Violencia Familiar
+- Centros de Atención a la Violencia Familiar (family violence centers)
 
-**Abuso Sexual:**  
+**Sexual abuse:**  
 - LOCATEL: 5658-1111
 - Centro de Atención a Violencia Sexual (varies by state)
 
-**Abuso de Menores:**  
+**Child abuse:**  
 - LOCATEL: 5658-1111
-- Sistema Nacional de Protección de Infancia
+- Sistema Nacional de Protección de Infancia (national child protection system)
 
-### Crisis de Jóvenes
-
-**Teléfono de la Esperanza:** 24/7  
-- Apoyo para jóvenes
-
-**Línea PAS (Apoyo Psicosocial):** 1-800-0113  
-- Apoyo para jóvenes
-
-### Crisis LGBTQ+
+### Youth Crisis
 
 **Teléfono de la Esperanza:** 24/7  
-- Apoyo inclusivo para comunidad LGBTQ+
+- Support for young people
+
+**Línea PAS (psychosocial support):** 1-800-0113  
+- Support for young people
+
+### LGBTQ+ Crisis
+
+**Teléfono de la Esperanza:** 24/7  
+- Inclusive support for the LGBTQ+ community
 
 **Fundación Arcoíris:** 5286-1481  
-- Apoyo específico para personas LGBTQ+
+- Specific support for LGBTQ+ people
 
-### Apoyo para Personas con Discapacidad
-
-**Teléfono de la Esperanza:** 24/7  
-- Apoyo para personas con discapacidad
-
-**CONADIS (Comisión Nacional de Derechos Humanos):** 01-800-526-2345  
-- Derechos y apoyo para personas con discapacidad
-
-**Organizaciones locales de discapacidad:** Busca en tu estado
-
-### Crisis por Sustancias
+### Support for People with Disabilities
 
 **Teléfono de la Esperanza:** 24/7  
-- Apoyo y referales
+- Support for people with disabilities
+
+**CONADIS / CNDH (disability rights):** 01-800-526-2345  
+- Rights and support for people with disabilities
+
+**Local disability organizations:** Search in your state
+
+### Substance-Use Crisis
+
+**Teléfono de la Esperanza:** 24/7  
+- Support and referrals
 
 **CONADIC:** 01-800-911-2000  
-- Dependencia de drogas y alcohol
-- Referal a tratamiento
+- Drug and alcohol dependence
+- Referral to treatment
 
 ---
 
-## Por Estado
+## By State
 
-**Aunque hay un número nacional, algunos estados tienen líneas locales:**
+**There's a national number, but some states have local lines:**
 
-### Ciudad de México
+### Mexico City
 - LOCATEL: 5658-1111 (24/7)
 - Teléfono de la Esperanza: 5484-0900
 
-### Estado de México
-- Línea de Crisis: Search "línea de crisis Estado de México"
+### State of Mexico
+- Crisis line: Search "línea de crisis Estado de México"
 
 ### Jalisco
 - Teléfono de la Esperanza: Local number
 
-### Otros Estados
-- Usa números nacionales o busca "línea de crisis [tu estado]"
+### Other States
+- Use the national numbers or search "línea de crisis [your state]"
 
 ---
 
-## Emergencia: Peligro Inminente
+## Emergency: Imminent Danger
 
-**Si hay peligro de vida inmediato:**
-- **Llama 911** para ambulancia y policía
-- **Ve al hospital más cercano (urgencias)**
-- **Llama 066** (algunas áreas)
-
----
-
-## Qué Decir Cuando Llames
-
-No necesitas palabras perfectas. Solo di:
-
-- "Estoy en crisis"
-- "Estoy pensando en suicidarme"
-- "Necesito hablar con alguien"
-- "Estoy luchando"
-
-Los consejeros están entrenados para ayudar.
+**If there's immediate danger to life:**
+- **Call 911** for ambulance and police
+- **Go to the nearest hospital (emergency room)**
+- **Call 066** (some areas)
 
 ---
 
-## Accesibilidad e Información de Contacto
+## What to Say When You Call
 
-### Para Personas Sordas o con Discapacidad Auditiva
+You don't need perfect words. Just say:
 
-- **Servicio por video relay:** Algunos servicios disponibles
+- "I'm in crisis"
+- "I'm thinking about suicide"
+- "I need to talk to someone"
+- "I'm struggling"
+
+Counselors are trained to help.
+
+---
+
+## Accessibility & Contact Information
+
+### For Deaf or Hard-of-Hearing People
+
+- **Video relay service:** Some services available
 - **Chat:** telefonodelaesperanza.org
-- **Email:** para preguntas
+- **Email:** for questions
 
-### Para Personas Ciegas o Baja Visión
+### For Blind or Low-Vision People
 
-- Todos los servicios disponibles por teléfono
-- Chat disponible en sitios web
+- All services available by phone
+- Chat available on websites
 
-### Para Personas que No Pueden Hablar
+### For People Who Cannot Speak
 
 - **Chat:** telefonodelaesperanza.org
-- **Email:** disponible para contacto
+- **Email:** available for contact
 
-### Idiomas Múltiples
+### Multiple Languages
 
-- Español (primario)
-- Inglés disponible
-- Otros idiomas: Busca "teléfono de la esperanza [idioma]"
+- Spanish (primary)
+- English available
+- Other languages: Search "teléfono de la esperanza [language]"
 
-### Áreas Rurales
+### Rural Areas
 
-- Los números telefónicos funcionan desde cualquier lugar
-- Algunos servicios tienen clínicas móviles
+- Phone numbers work from anywhere
+- Some services have mobile clinics
 
 ---
 
-## Después de Llamar
+## After You Call
 
-Las líneas de crisis te ayudan AHORA. Después:
+Crisis lines help you NOW. Afterward:
 
-### Encontrar Apoyo Continuo
+### Finding Ongoing Support
 
-**Contacta:**
-- Tu médico general
-- Centro de Atención Psicosocial (CAPS) más cercano
-- Hospital local
+**Contact:**
+- Your general practitioner
+- The nearest Centro de Atención Psicosocial (CAPS)
+- Your local hospital
 
-**Profesionales de salud mental:**
-- Busca psicólogos en tu ciudad
-- Colegio de Psicólogos: colegio.org.mx (encuentra profesionales)
+**Mental health professionals:**
+- Search for psychologists in your city
+- Colegio de Psicólogos: colegio.org.mx (find professionals)
 
-**Servicios del gobierno:**
+**Government services:**
 - IMSS (Instituto Mexicano del Seguro Social)
 - ISSSTE
-- Servicios estatales de salud
+- State health services
 
 ---
 
-## Información Importante
+## Important Information
 
-### Costo
+### Cost
 
-Muchas de estas líneas son gratuitas, pero el costo y el horario varían según el servicio. La Línea de la Vida (800-911-2000) es gratuita y está disponible 24/7.
+Many of these lines are free, but cost and hours vary by service. Línea de la Vida (800-911-2000) is free and available 24/7.
 
-### Confidencialidad
+### Confidentiality
 
-Estas líneas son confidenciales. Los servicios de emergencia solo se contactan en casos de riesgo grave e inminente.
+These lines are confidential. Emergency services are contacted only in cases of serious, imminent risk.
 
-### Horario
+### Hours
 
-El horario varía según el servicio; confírmalo con cada línea. La Línea de la Vida está disponible 24/7.
+Hours vary by service; confirm with each line. Línea de la Vida is available 24/7.
 
-### Puedes Llamar Múltiples Veces
+### You Can Call Multiple Times
 
-Muchas personas usan líneas de crisis múltiples veces. Es normal.
+Many people use crisis lines multiple times. That's normal.
 
-### No Estás "Enfermo Suficiente" para Llamar
+### You're Not "Sick Enough" to Call
 
-Si te preguntas: "¿Soy lo suficientemente enfermo para llamar?" → **Sí lo eres.** Llama.
+If you're asking yourself, "Am I sick enough to call?" → **You are.** Call.
 
 ---
 
-## Recursos Relacionados
+## Related Resources
 
 - [[/crisis|Main Crisis Help Section]]
 - [[Emergency Preparedness|Emergency Preparedness & Safety Planning]]
@@ -235,11 +235,11 @@ Si te preguntas: "¿Soy lo suficientemente enfermo para llamar?" → **Sí lo er
 ---
 
 
-*Confirma cada número con el servicio antes de llamar; los datos pueden cambiar.*
+*Confirm each number with the service before calling; details can change.*
 
-**¿En crisis ahora?** Llama a la Línea de la Vida: 800-911-2000. Todo lo demás puede esperar.
+**In crisis right now?** Call Línea de la Vida: 800-911-2000. Everything else can wait.
 
-*El costo, la confidencialidad y el horario varían según el servicio — confirma con cada línea.*
+*Cost, confidentiality, and hours vary by service — check each listing.*
 
 ---
 

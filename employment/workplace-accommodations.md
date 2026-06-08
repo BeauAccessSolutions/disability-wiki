@@ -10,7 +10,7 @@ dateCreated: 2025-11-28T00:22:39.759Z
 
 # Workplace Accommodations
 
-Workplace accommodations are adjustments to jobs, work environments, or work practices that enable disabled people to do their jobs. Where disability discrimination laws apply, they're a legal right—and they work: the U.S. [Job Accommodation Network](https://askjan.org/topics/costs.cfm) finds most accommodations are low- or no-cost (about 61% cost nothing to implement; those with a one-time cost run a median of roughly $300).
+Workplace accommodations are adjustments to jobs, work environments, or work practices that enable disabled people to do their jobs. Where disability discrimination laws apply, they're a legal right—and they work: the U.S. [Job Accommodation Network](https://askjan.org/topics/costs.cfm) finds most accommodations are low- or no-cost (in its 2025 cost survey, about 61% cost nothing to implement; those with a one-time cost run a median of roughly $300).
 
 This page centers disabled workers' expertise on requesting and getting accommodations.
 

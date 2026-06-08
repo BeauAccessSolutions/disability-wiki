@@ -60,9 +60,9 @@ The Convention recognizes that disability results from the interaction between p
 
 ### Current Status
 
-As of 2024, more than 190 countries have ratified or acceded to the CRPD, making it one of the most widely adopted human rights treaties. The United States signed it in 2009 but has not ratified it.
+As of June 2026, more than 190 countries have ratified or acceded to the CRPD, making it one of the most widely adopted human rights treaties. The United States signed it in 2009 but has not ratified it.
 
-**The Optional Protocol** allows individuals or groups to submit complaints to the UN Committee on the Rights of Persons with Disabilities when domestic remedies have been exhausted. 107 countries have ratified the Optional Protocol.
+**The Optional Protocol** allows individuals or groups to submit complaints to the UN Committee on the Rights of Persons with Disabilities when domestic remedies have been exhausted. As of June 2026, 109 countries are parties to the Optional Protocol ([UN Treaty Collection](https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=IV-15-a&chapter=4)).
 
 ### UN Committee on the Rights of Persons with Disabilities
 

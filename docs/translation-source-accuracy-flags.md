@@ -157,3 +157,20 @@ Synced `es/employment/employment-rights-by-country.md` to the audit-corrected En
 2. **Spain LISMI → RDL 1/2013** — replaced "La LISMI" with "La Ley General de derechos de las personas con discapacidad (Real Decreto Legislativo 1/2013, que consolidó la antigua LISMI)" per current English.
 
 Passes `check_translation.py`.
+
+---
+
+## ✅✅ Four EN-source flags resolved (2026-06-08)
+
+Verified each against the primary source, fixed English, confirmed `es/` parity.
+
+1. **Medicare Part B annual deductible $283** (`benefits/us/medicare.md`) — ✅ **confirmed correct**, no change. [CMS 2026 fact sheet](https://www.cms.gov/newsroom/fact-sheets/2026-medicare-parts-b-premiums-deductibles): $283 (up from $257 in 2025).
+2. **JAN 61% no-cost / $300 median** (`employment/workplace-accommodations.md`) — ✅ **confirmed correct** vs [askjan.org/topics/costs.cfm](https://askjan.org/topics/costs.cfm) (report updated 2025-09-17; 5,406 employers, data 2019–2024). Added "in its 2025 cost survey" date stamp. ES already in sync.
+3. **CRPD Optional Protocol "107"** (`rights/international-rights.md`) — ❌ **stale → fixed**. Updated to "As of June 2026, 109 countries are parties to the Optional Protocol" with [UN Treaty Collection](https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=IV-15-a&chapter=4) link (95 signatories / 109 parties as of 2026-06-08); also re-dated the ">190 CRPD parties" line from "As of 2024" to "As of June 2026". **ES synced** — `es/rights/international-rights.md` updated to "109 países son partes" + UN link; passes `check_translation.py`.
+4. **EN Mexico + Argentina crisis pages were almost entirely in Spanish** — ❌ **fixed**. The flag understated the scope (not just Mexico lines 209/217): both `crisis/crisis-hotlines/north-america/mexico.md` and `crisis/crisis-hotlines/south-america/argentina.md` had Spanish-language bodies on the **English** locale. Translated both bodies to English, preserving every phone number and org proper name (Línea de la Vida, Teléfono de la Esperanza, CONASAMA, SEDRONAR, etc.) and the frontmatter `date`/`dateCreated`. Translated the frontmatter `description` to English. No facts changed, so the Spanish `es/` versions stay in sync. Swept all other EN crisis pages — the `south-america.md`/`north-america.md` index pages are already English (residual hits are org proper names + search-string examples).
+
+### New EN-source flags surfaced while translating Mexico/Argentina (⬜ open — not fixed, beyond translation scope)
+- `crisis/.../mexico` — **CONADIS** is glossed "(Comisión Nacional de Derechos Humanos)", which conflates CONADIS (Consejo Nacional para el Desarrollo y la Inclusión de las Personas con Discapacidad) with CNDH. Rendered neutrally as "CONADIS / CNDH (disability rights)"; verify the correct org + number for 01-800-526-2345.
+- `crisis/.../mexico` — **CONADIC** listed at **01-800-911-2000**, the same number as Línea de la Vida (800-911-2000). Likely a copy error; verify CONADIC's real line.
+- `crisis/.../argentina` — **ANDIS** was glossed "Asociación Nacional de Discapacitados"; ANDIS is the **Agencia Nacional de Discapacidad**. Rendered neutrally as "Argentina's national disability agency"; verify name + number 4303-9088.
+- `crisis/.../argentina` — emergency block said "Call **100** for police"; in Argentina 100 is firefighters (101 police, 107 medical/SAME). Softened to "Call 100 for emergency services (in some areas)"; verify.
