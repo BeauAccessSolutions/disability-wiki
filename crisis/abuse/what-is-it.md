@@ -12,7 +12,7 @@ dateCreated: 2026-01-07T20:01:49.523Z
 
 **What this page covers:** Patterns of abuse specifically targeting disabled people, how to identify it, and why disabled people are at higher risk.
 
-⚠️ **Content note:** This page discusses abuse, violence, and trauma. If this is difficult for you right now, please see [[Crisis Resources]] or [[Peer Support Communities]] before reading. You can come back when you're ready. Your safety matters.
+⚠️ **Content note:** This page discusses abuse, violence, and trauma. If this is difficult for you right now, please see [Crisis Resources](/crisis) or [Peer Support Communities](/community) before reading. You can come back when you're ready. Your safety matters.
 
 ---
 
@@ -297,7 +297,7 @@ Abuse includes:
 - Fear of certain staff members
 - You're punished for complaining
 
-**Resistance:** [[Fighting Institutionalization]] is an act of abuse prevention.
+**Resistance:** [Fighting Institutionalization](/history/institutionalization-and-deinstitutionalization) is an act of abuse prevention.
 
 ---
 
@@ -516,7 +516,7 @@ Systemic abuse is the foundation that makes individual abuse possible. When the 
 ## Disability Type Accessibility
 
 **Deaf/Hard of Hearing:**
-This page discusses abuse; if you need information but prefer video with captions, [[Crisis Resources]] provides captioned hotline information.
+This page discusses abuse; if you need information but prefer video with captions, [Crisis Resources](/crisis) provides captioned hotline information.
 
 **Blind/Low Vision:**
 All information here is presented in text format for screen readers. Crisis numbers are listed at the end for easy access.
@@ -525,7 +525,7 @@ All information here is presented in text format for screen readers. Crisis numb
 Information is organized by abuse type with clear headers; skip to sections most relevant to you. Red flag summaries use bullet points for quick scanning.
 
 **Psychosocial/Mental Health Disability:**
-Your experiences are real and valid even if abuser claims abuse is "just symptoms." See [[Crisis Resources]] if you need immediate support.
+Your experiences are real and valid even if abuser claims abuse is "just symptoms." See [Crisis Resources](/crisis) if you need immediate support.
 
 **Hidden/Invisible Disabilities:**
 Your disability is real. Abuse is real. Your needs are valid even if invisible.
@@ -628,7 +628,7 @@ In many Global South countries, abuse is compounded by:
 - Informal economy abuse (wage theft, dangerous conditions)
 
 **Disability-serving organizations:**
-Abuse happens in the organizations meant to help. Abusers sometimes have power in disability community. This is called [[Community Accountability]] and requires specific approaches.
+Abuse happens in the organizations meant to help. Abusers sometimes have power in disability community. This is called Community Accountability and requires specific approaches.
 
 ---
 
@@ -638,7 +638,7 @@ Abuse happens in the organizations meant to help. Abusers sometimes have power i
 
 - **National Domestic Violence Hotline (US):** 1-800-799-7233 | Text START to 88788
 - **Crisis Text Line (US):** Text HOME to 741741
-- **International:** [[Crisis Hotlines by Country]]
+- **International:** [Crisis Hotlines by Country](/crisis/global-crisis-hotlines)
 - **For Deaf/Hard of Hearing:** Video relay or TTY available on most hotlines
 
 ### Disability-Specific Abuse Resources
@@ -658,17 +658,17 @@ Abuse happens in the organizations meant to help. Abusers sometimes have power i
 
 ### Legal & Advocacy
 
-- **[[Filing a Complaint]]:** How to report abuse to authorities
+- **[Filing a Complaint](/rights/filing-a-disability-complaint):** How to report abuse to authorities
 - **Legal Aid:** Finding free/low-cost lawyers
-- **[[Restraining Orders & Protection:**** How they work for disabled people
+- **Restraining Orders & Protection:** How they work for disabled people
 - **Victim compensation programs:** Many states/countries offer crime victim compensation
 
 ### Support & Community
 
-- **[[Peer Support Communities]]:** Find other survivors
+- **[Peer Support Communities](/community):** Find other survivors
 - **Disability community spaces:** Reddit r/disability, various Facebook groups
 - **LGBTQ+ disability resources:** If you're targeted for orientation/gender identity
-- **[[RAINN (Rape, Abuse & Incest National Network)]]:** Sexual abuse specific
+- **[RAINN (Rape, Abuse & Incest National Network)](https://www.rainn.org):** Sexual abuse specific
 
 ### Reading & Education
 
@@ -678,23 +678,23 @@ Abuse happens in the organizations meant to help. Abusers sometimes have power i
 
 ### Related Pages on This Wiki
 
-- [[What Does Violence Look Like]]
-- [[Crisis Resources]]
-- [[Peer Support Communities]]
-- [[Your Rights & Laws]]
-- [[Fighting Institutionalization]]
-- [[Community Accountability]]
-- [[Disability Justice & Disability Culture]]
+- [What Does Violence Look Like](/crisis/abuse/what-is-it)
+- [Crisis Resources](/crisis)
+- [Peer Support Communities](/community)
+- [Your Rights & Laws](/rights)
+- [Fighting Institutionalization](/history/institutionalization-and-deinstitutionalization)
+- Community Accountability
+- [Disability Justice & Disability Culture](/foundations/disability-culture)
 
 ---
 
 ## Navigation
 
-**Crisis?** → [[Crisis Resources]]  
-**Need support?** → [[Peer Support Communities]]  
-**Want to understand abuse better?** → [[What Does Violence Look Like]]  
-**Ready to report/get legal help?** → [[Your Rights & Laws]]  
-**About your specific disability?** → [[Specific Disabilities]]
+**Crisis?** → [Crisis Resources](/crisis)  
+**Need support?** → [Peer Support Communities](/community)  
+**Want to understand abuse better?** → [What Does Violence Look Like](/crisis/abuse/what-is-it)  
+**Ready to report/get legal help?** → [Your Rights & Laws](/rights)  
+**About your specific disability?** → [Specific Disabilities](/community/disability-specific-peer-groups)
 
 ---
 

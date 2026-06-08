@@ -225,8 +225,8 @@ LGBTQ+ support is confidential. Your safety is protected.
 
 ## Related Resources
 
-- [[/crisis|Main Crisis Help Section]]
-- [[Emergency Preparedness|Emergency Preparedness & Safety Planning]]
+- [Main Crisis Help Section](/crisis)
+- [Emergency Preparedness & Safety Planning](/crisis/emergency/emergency-preparedness)
 
 ---
 

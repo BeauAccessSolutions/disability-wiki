@@ -12,7 +12,7 @@ dateCreated: 2026-01-07T20:01:44.297Z
 
 **What this page covers:** Concrete descriptions of what violence against disabled people looks like—visible and invisible, obvious and subtle, in intimate relationships and institutions.
 
-⚠️ **Content note:** This page contains descriptions of violence and abuse. If this is heavy for you right now, [[Crisis Resources]] is here. You can bookmark this and come back when you're ready.
+⚠️ **Content note:** This page contains descriptions of violence and abuse. If this is heavy for you right now, [Crisis Resources](/crisis) is here. You can bookmark this and come back when you're ready.
 
 ---
 
@@ -921,7 +921,7 @@ Violence is:
 - **In the moment:** Interrupt if safe (a simple "Hey, that's not okay" can stop an incident)
 - **After:** Check on the person privately, without the abuser present
 - **Believe them.** Don't question or minimize
-- **Offer resources.** Share [[Crisis Resources]]
+- **Offer resources.** Share [Crisis Resources](/crisis)
 - **Don't force action.** Let them decide; they know their situation
 - **Follow up.** Check in later; abuse doesn't disappear with one conversation
 
@@ -954,7 +954,7 @@ Violence is:
 
 - **National Domestic Violence Hotline:** 1-800-799-7233
 - **Crisis Text Line:** Text HOME to 741741
-- **[[Crisis Hotlines by Country]]:** Global options
+- **[Crisis Hotlines by Country](/crisis/global-crisis-hotlines):** Global options
 - **Accessibility:** Video relay, TTY, captions available
 
 ### Disability-Specific Resources
@@ -972,21 +972,21 @@ Violence is:
 
 ### Related Pages on This Wiki
 
-- **[[Recognizing Abuse]]:** Patterns and red flags
-- **[[Crisis Resources]]:** Immediate help
-- **[[Your Rights & Laws]]:** Legal options
-- **[[Peer Support Communities]]:** Survivor communities
-- **[[Community Accountability]]:** Beyond police
+- **[Recognizing Abuse](/crisis/abuse/recognizing-violence):** Patterns and red flags
+- **[Crisis Resources](/crisis):** Immediate help
+- **[Your Rights & Laws](/rights):** Legal options
+- **[Peer Support Communities](/community):** Survivor communities
+- **Community Accountability:** Beyond police
 
 ---
 
 ## Navigation
 
-**In crisis?** → [[Crisis Resources]]  
-**Need patterns?** → [[Recognizing Abuse]]  
-**Ready to act?** → [[Your Rights & Laws]]  
-**Need support?** → [[Peer Support Communities]]  
-**Looking for accountability models?** → [[Community Accountability]]
+**In crisis?** → [Crisis Resources](/crisis)  
+**Need patterns?** → [Recognizing Abuse](/crisis/abuse/recognizing-violence)  
+**Ready to act?** → [Your Rights & Laws](/rights)  
+**Need support?** → [Peer Support Communities](/community)  
+**Looking for accountability models?** → Community Accountability
 
 ---
 

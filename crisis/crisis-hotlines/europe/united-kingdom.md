@@ -226,9 +226,9 @@ If you're asking: "Am I bad enough to call?" → **You are.** Call.
 
 ## Related Resources
 
-- [[/crisis|Main Crisis Help Section]]
-- [[Emergency Preparedness|Emergency Preparedness & Safety Planning]]
-- [[Abuse & Violence Resources|Abuse & Violence Resources]]
+- [Main Crisis Help Section](/crisis)
+- [Emergency Preparedness & Safety Planning](/crisis/emergency/emergency-preparedness)
+- [Abuse & Violence Resources](/crisis/abuse-neglect-exploitation)
 
 ---
 

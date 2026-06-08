@@ -52,7 +52,7 @@ If you're experiencing abuse or violence right now, you're not alone. This page 
 ### Other Violence
 
 Use general crisis hotlines:
-- [[Crisis Hotlines by Country|Find your country]]
+- [Find your country](/crisis/global-crisis-hotlines)
 
 ---
 
@@ -627,16 +627,16 @@ Get the same support and protections.
 
 ## CRISIS RESOURCES BY COUNTRY
 
-→ [[Crisis Hotlines by Country|Full Crisis Hotlines by Country]]
+→ [Full Crisis Hotlines by Country](/crisis/global-crisis-hotlines)
 
 ---
 
 ## RELATED PAGES
 
-- [[Crisis Help|Main Crisis Help Section]]
-- [[Crisis Hotlines by Country|Crisis Hotlines (All Countries)]]
-- [[Emergency Preparedness|Emergency Preparedness & Safety Planning]]
-- [[Disability Rights|Know Your Disability Rights]]
+- [Main Crisis Help Section](/crisis)
+- [Crisis Hotlines (All Countries)](/crisis/global-crisis-hotlines)
+- [Emergency Preparedness & Safety Planning](/crisis/emergency/emergency-preparedness)
+- [Know Your Disability Rights](/rights)
 
 ---
 

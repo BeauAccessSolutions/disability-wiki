@@ -219,9 +219,9 @@ Disability discrimination is illegal. If a service discriminates, speak up.
 
 ## Related Resources
 
-- [[/crisis|Main Crisis Help Section]]
-- [[Emergency Preparedness|Emergency Preparedness & Safety Planning]]
-- [[Disability Rights: Kenya|Disability Rights in Kenya]]
+- [Main Crisis Help Section](/crisis)
+- [Emergency Preparedness & Safety Planning](/crisis/emergency/emergency-preparedness)
+- Disability Rights in Kenya
 
 ---
 

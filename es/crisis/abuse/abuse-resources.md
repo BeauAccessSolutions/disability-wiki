@@ -52,7 +52,7 @@ Si estás viviendo abuso o violencia en este momento, no estás solo. Esta pági
 ### Otros tipos de violencia
 
 Usa las líneas de crisis generales:
-- [[Líneas de crisis por país|Encuentra tu país]]
+- [Encuentra tu país](/es/crisis/global-crisis-hotlines)
 
 ---
 
@@ -627,16 +627,16 @@ Busca el mismo apoyo y las mismas protecciones.
 
 ## RECURSOS DE CRISIS POR PAÍS
 
-→ [[Líneas de crisis por país|Líneas de crisis completas por país]]
+→ [Líneas de crisis completas por país](/es/crisis/global-crisis-hotlines)
 
 ---
 
 ## PÁGINAS RELACIONADAS
 
-- [[Ayuda en crisis|Sección principal de ayuda en crisis]]
-- [[Líneas de crisis por país|Líneas de crisis (todos los países)]]
-- [[Preparación para emergencias|Preparación para emergencias y planificación de seguridad]]
-- [[Derechos de las personas con discapacidad|Conoce tus derechos como persona con discapacidad]]
+- [Sección principal de ayuda en crisis](/es/crisis)
+- [Líneas de crisis (todos los países)](/es/crisis/global-crisis-hotlines)
+- [Preparación para emergencias y planificación de seguridad](/es/crisis/emergency/emergency-preparedness)
+- [Conoce tus derechos como persona con discapacidad](/es/rights)
 
 ---
 

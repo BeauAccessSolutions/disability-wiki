@@ -12,7 +12,7 @@ dateCreated: 2026-01-07T20:01:49.523Z
 
 **Lo que cubre esta página:** patrones de abuso dirigidos específicamente a las personas con discapacidad, cómo identificarlo y por qué las personas con discapacidad corren mayor riesgo.
 
-⚠️ **Nota sobre el contenido:** Esta página habla de abuso, violencia y trauma. Si esto te resulta difícil en este momento, por favor consulta [[Recursos de crisis]] o [[Comunidades de apoyo entre pares]] antes de leer. Puedes volver cuando estés listo. Tu seguridad importa.
+⚠️ **Nota sobre el contenido:** Esta página habla de abuso, violencia y trauma. Si esto te resulta difícil en este momento, por favor consulta [Recursos de crisis](/es/crisis) o [Comunidades de apoyo entre pares](/es/community) antes de leer. Puedes volver cuando estés listo. Tu seguridad importa.
 
 ---
 
@@ -297,7 +297,7 @@ El abuso incluye:
 - Miedo a ciertos miembros del personal
 - Te castigan por quejarte
 
-**Resistencia:** [[Luchar contra la institucionalización]] es un acto de prevención del abuso.
+**Resistencia:** [Luchar contra la institucionalización](/es/history/institutionalization-and-deinstitutionalization) es un acto de prevención del abuso.
 
 ---
 
@@ -516,7 +516,7 @@ El abuso sistémico es la base que hace posible el abuso individual. Cuando el *
 ## Accesibilidad según el tipo de discapacidad
 
 **Personas sordas/con dificultades auditivas:**
-Esta página habla del abuso; si necesitas información pero prefieres video con subtítulos, [[Recursos de crisis]] ofrece información de líneas de ayuda con subtítulos.
+Esta página habla del abuso; si necesitas información pero prefieres video con subtítulos, [Recursos de crisis](/es/crisis) ofrece información de líneas de ayuda con subtítulos.
 
 **Personas ciegas/con baja visión:**
 Toda la información aquí se presenta en formato de texto para lectores de pantalla. Los números de crisis están al final para un acceso fácil.
@@ -525,7 +525,7 @@ Toda la información aquí se presenta en formato de texto para lectores de pant
 La información está organizada por tipo de abuso con encabezados claros; salta a las secciones más relevantes para ti. Los resúmenes de señales de alerta usan viñetas para una lectura rápida.
 
 **Personas con discapacidad psicosocial/de salud mental:**
-Tus experiencias son reales y válidas aunque quien abusa afirme que el abuso son "solo síntomas". Consulta [[Recursos de crisis]] si necesitas apoyo inmediato.
+Tus experiencias son reales y válidas aunque quien abusa afirme que el abuso son "solo síntomas". Consulta [Recursos de crisis](/es/crisis) si necesitas apoyo inmediato.
 
 **Personas con discapacidades ocultas/invisibles:**
 Tu discapacidad es real. El abuso es real. Tus necesidades son válidas aunque sean invisibles.
@@ -628,7 +628,7 @@ En muchos países del Sur Global, el abuso se agrava por:
 - Abuso en la economía informal (robo de salario, condiciones peligrosas)
 
 **Organizaciones que sirven a las personas con discapacidad:**
-El abuso ocurre en las organizaciones que se supone que ayudan. A veces quienes abusan tienen poder en la comunidad de personas con discapacidad. Esto se aborda en [[Rendición de cuentas comunitaria]] y requiere enfoques específicos.
+El abuso ocurre en las organizaciones que se supone que ayudan. A veces quienes abusan tienen poder en la comunidad de personas con discapacidad. Esto se aborda en Rendición de cuentas comunitaria y requiere enfoques específicos.
 
 ---
 
@@ -638,7 +638,7 @@ El abuso ocurre en las organizaciones que se supone que ayudan. A veces quienes 
 
 - **National Domestic Violence Hotline (EE. UU.):** 1-800-799-7233 | Envía START al 88788
 - **Crisis Text Line (EE. UU.):** Envía HOME al 741741
-- **Internacional:** [[Líneas de crisis por país]]
+- **Internacional:** [Líneas de crisis por país](/es/crisis/global-crisis-hotlines)
 - **Para personas sordas/con dificultades auditivas:** Relevo de video o TTY disponible en la mayoría de las líneas
 
 ### Recursos sobre abuso específicos para la discapacidad
@@ -658,17 +658,17 @@ El abuso ocurre en las organizaciones que se supone que ayudan. A veces quienes 
 
 ### Legal y defensa
 
-- **[[Presentar una queja]]:** cómo denunciar el abuso ante las autoridades
+- **[Presentar una queja](/es/rights/filing-a-disability-complaint):** cómo denunciar el abuso ante las autoridades
 - **Asistencia legal:** encontrar abogados gratuitos o de bajo costo
-- **[[Órdenes de restricción y protección]]:** cómo funcionan para las personas con discapacidad
+- **Órdenes de restricción y protección:** cómo funcionan para las personas con discapacidad
 - **Programas de compensación a víctimas:** muchos estados y países ofrecen compensación a víctimas de delitos
 
 ### Apoyo y comunidad
 
-- **[[Comunidades de apoyo entre pares]]:** encuentra a otras personas sobrevivientes
+- **[Comunidades de apoyo entre pares](/es/community):** encuentra a otras personas sobrevivientes
 - **Espacios de la comunidad de personas con discapacidad:** Reddit r/disability, varios grupos de Facebook
 - **Recursos LGBTQ+ sobre discapacidad:** si eres blanco por tu orientación o identidad de género
-- **[[RAINN (Rape, Abuse & Incest National Network)]]:** específico de abuso sexual
+- **[RAINN (Rape, Abuse & Incest National Network)](https://www.rainn.org):** específico de abuso sexual
 
 ### Lectura y educación
 
@@ -678,23 +678,23 @@ El abuso ocurre en las organizaciones que se supone que ayudan. A veces quienes 
 
 ### Páginas relacionadas en este wiki
 
-- [[¿Cómo se ve la violencia?]]
-- [[Recursos de crisis]]
-- [[Comunidades de apoyo entre pares]]
-- [[Tus derechos y las leyes]]
-- [[Luchar contra la institucionalización]]
-- [[Rendición de cuentas comunitaria]]
-- [[Justicia para las personas con discapacidad y cultura de la discapacidad]]
+- [¿Cómo se ve la violencia?](/es/crisis/abuse/what-is-it)
+- [Recursos de crisis](/es/crisis)
+- [Comunidades de apoyo entre pares](/es/community)
+- [Tus derechos y las leyes](/es/rights)
+- [Luchar contra la institucionalización](/es/history/institutionalization-and-deinstitutionalization)
+- Rendición de cuentas comunitaria
+- [Justicia para las personas con discapacidad y cultura de la discapacidad](/es/foundations/disability-culture)
 
 ---
 
 ## Navegación
 
-**¿En crisis?** → [[Recursos de crisis]]  
-**¿Necesitas apoyo?** → [[Comunidades de apoyo entre pares]]  
-**¿Quieres entender mejor el abuso?** → [[¿Cómo se ve la violencia?]]  
-**¿Listo para denunciar o conseguir ayuda legal?** → [[Tus derechos y las leyes]]  
-**¿Sobre tu discapacidad específica?** → [[Discapacidades específicas]]
+**¿En crisis?** → [Recursos de crisis](/es/crisis)  
+**¿Necesitas apoyo?** → [Comunidades de apoyo entre pares](/es/community)  
+**¿Quieres entender mejor el abuso?** → [¿Cómo se ve la violencia?](/es/crisis/abuse/what-is-it)  
+**¿Listo para denunciar o conseguir ayuda legal?** → [Tus derechos y las leyes](/es/rights)  
+**¿Sobre tu discapacidad específica?** → [Discapacidades específicas](/es/community/disability-specific-peer-groups)
 
 ---
 

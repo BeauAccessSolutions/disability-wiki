@@ -225,8 +225,8 @@ El apoyo a las personas LGBTQ+ es confidencial. Tu seguridad está protegida.
 
 ## Recursos relacionados
 
-- [[/es/crisis|Sección principal de ayuda en crisis]]
-- [[Preparación para emergencias|Preparación para emergencias y planificación de seguridad]]
+- [Sección principal de ayuda en crisis](/es/crisis)
+- [Preparación para emergencias y planificación de seguridad](/es/crisis/emergency/emergency-preparedness)
 
 ---
 

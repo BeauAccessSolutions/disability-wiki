@@ -248,10 +248,10 @@ If a service discriminates because of disability, you have rights. Speak up.
 
 ## Related Resources
 
-- [[/crisis|Main Crisis Help Section]]
-- [[Emergency Preparedness|Emergency Preparedness & Safety Planning]]
-- [[Abuse & Violence Resources|Abuse & Violence Resources]]
-- [[Disability Rights: Australia|Disability Rights in Australia]]
+- [Main Crisis Help Section](/crisis)
+- [Emergency Preparedness & Safety Planning](/crisis/emergency/emergency-preparedness)
+- [Abuse & Violence Resources](/crisis/abuse-neglect-exploitation)
+- Disability Rights in Australia
 
 ---
 

@@ -219,9 +219,9 @@ La discriminación por discapacidad es ilegal. Si un servicio discrimina, alza l
 
 ## Recursos relacionados
 
-- [[/es/crisis|Sección principal de ayuda en crisis]]
-- [[Preparación para emergencias|Preparación para emergencias y planificación de seguridad]]
-- [[Derechos de las personas con discapacidad: Kenia|Derechos de las personas con discapacidad en Kenia]]
+- [Sección principal de ayuda en crisis](/es/crisis)
+- [Preparación para emergencias y planificación de seguridad](/es/crisis/emergency/emergency-preparedness)
+- Derechos de las personas con discapacidad en Kenia
 
 ---
 

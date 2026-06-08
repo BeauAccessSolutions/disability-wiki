@@ -226,9 +226,9 @@ Disability discrimination is illegal. If a service discriminates, speak up.
 
 ## Related Resources
 
-- [[/crisis|Main Crisis Help Section]]
-- [[Emergency Preparedness|Emergency Preparedness & Safety Planning]]
-- [[Disability Rights: South Africa|Disability Rights in South Africa]]
+- [Main Crisis Help Section](/crisis)
+- [Emergency Preparedness & Safety Planning](/crisis/emergency/emergency-preparedness)
+- Disability Rights in South Africa
 
 ---
 

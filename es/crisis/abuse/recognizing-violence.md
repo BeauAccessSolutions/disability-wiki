@@ -12,7 +12,7 @@ dateCreated: 2026-01-07T20:01:44.297Z
 
 **Lo que cubre esta página:** descripciones concretas de cómo se ve la violencia contra las personas con discapacidad: visible e invisible, evidente y sutil, en las relaciones íntimas y en las instituciones.
 
-⚠️ **Nota sobre el contenido:** Esta página contiene descripciones de violencia y abuso. Si esto te resulta difícil en este momento, [[Recursos de crisis]] está aquí para ti. Puedes guardar esta página y volver cuando estés listo.
+⚠️ **Nota sobre el contenido:** Esta página contiene descripciones de violencia y abuso. Si esto te resulta difícil en este momento, [Recursos de crisis](/es/crisis) está aquí para ti. Puedes guardar esta página y volver cuando estés listo.
 
 ---
 
@@ -921,7 +921,7 @@ La violencia es:
 - **En el momento:** Interrumpe si es seguro (un simple "Oye, eso no está bien" puede detener un incidente)
 - **Después:** Acércate a la persona en privado, sin que quien abusa esté presente
 - **Créele.** No cuestiones ni minimices
-- **Ofrece recursos.** Comparte [[Recursos de crisis]]
+- **Ofrece recursos.** Comparte [Recursos de crisis](/es/crisis)
 - **No fuerces ninguna acción.** Deja que la persona decida; conoce su situación
 - **Haz seguimiento.** Vuelve a comunicarte más adelante; el abuso no desaparece con una sola conversación
 
@@ -954,7 +954,7 @@ La violencia es:
 
 - **National Domestic Violence Hotline:** 1-800-799-7233
 - **Crisis Text Line:** Envía HOME al 741741
-- **[[Líneas de crisis por país]]:** opciones globales
+- **[Líneas de crisis por país](/es/crisis/global-crisis-hotlines):** opciones globales
 - **Accesibilidad:** relevo de video, TTY y subtítulos disponibles
 
 ### Recursos específicos para la discapacidad
@@ -972,21 +972,21 @@ La violencia es:
 
 ### Páginas relacionadas en este wiki
 
-- **[[Reconocer el abuso]]:** patrones y señales de alerta
-- **[[Recursos de crisis]]:** ayuda inmediata
-- **[[Tus derechos y las leyes]]:** opciones legales
-- **[[Comunidades de apoyo entre pares]]:** comunidades de sobrevivientes
-- **[[Rendición de cuentas comunitaria]]:** más allá de la policía
+- **[Reconocer el abuso](/es/crisis/abuse/recognizing-violence):** patrones y señales de alerta
+- **[Recursos de crisis](/es/crisis):** ayuda inmediata
+- **[Tus derechos y las leyes](/es/rights):** opciones legales
+- **[Comunidades de apoyo entre pares](/es/community):** comunidades de sobrevivientes
+- **Rendición de cuentas comunitaria:** más allá de la policía
 
 ---
 
 ## Navegación
 
-**¿En crisis?** → [[Recursos de crisis]]  
-**¿Necesitas identificar patrones?** → [[Reconocer el abuso]]  
-**¿Listo para actuar?** → [[Tus derechos y las leyes]]  
-**¿Necesitas apoyo?** → [[Comunidades de apoyo entre pares]]  
-**¿Buscas modelos de rendición de cuentas?** → [[Rendición de cuentas comunitaria]]
+**¿En crisis?** → [Recursos de crisis](/es/crisis)  
+**¿Necesitas identificar patrones?** → [Reconocer el abuso](/es/crisis/abuse/recognizing-violence)  
+**¿Listo para actuar?** → [Tus derechos y las leyes](/es/rights)  
+**¿Necesitas apoyo?** → [Comunidades de apoyo entre pares](/es/community)  
+**¿Buscas modelos de rendición de cuentas?** → Rendición de cuentas comunitaria
 
 ---
 

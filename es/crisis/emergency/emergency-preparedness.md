@@ -656,10 +656,10 @@ Busca apoyo:
 
 ## Páginas relacionadas
 
-- [[Crisis Help|Sección principal de ayuda en crisis]]
-- [[Crisis Hotlines by Country|Líneas de crisis (todos los países)]]
-- [[Abuse & Violence Resources|Recursos sobre abuso y violencia]]
-- [[Medical Emergency Cards|Tarjetas médicas de emergencia e información]]
+- [Sección principal de ayuda en crisis](/es/crisis)
+- [Líneas de crisis (todos los países)](/es/crisis/global-crisis-hotlines)
+- [Recursos sobre abuso y violencia](/es/crisis/abuse-neglect-exploitation)
+- [Tarjetas médicas de emergencia e información](/es/crisis/emergency/medical-cards)
 
 ---
 

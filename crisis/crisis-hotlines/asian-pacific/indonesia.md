@@ -211,8 +211,8 @@ If you're asking: "Apakah aku cukup sakit untuk menelepon?" → **Ya, kamu cukup
 
 ## Related Resources
 
-- [[/crisis|Main Crisis Help Section]]
-- [[Emergency Preparedness|Emergency Preparedness & Safety Planning]]
+- [Main Crisis Help Section](/crisis)
+- [Emergency Preparedness & Safety Planning](/crisis/emergency/emergency-preparedness)
 
 ---
 

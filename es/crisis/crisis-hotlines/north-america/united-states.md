@@ -258,10 +258,10 @@ Todas estas son razones válidas para llamar.
 
 ## Recursos relacionados
 
-- [[/es/crisis|Sección principal de ayuda en crisis]]
-- [[Emergency Preparedness|Preparación para emergencias y planificación de seguridad]]
-- [[Abuse & Violence Resources|Recursos sobre abuso y violencia]]
-- [[Medical Emergency Cards|Tarjetas de emergencia médica y hojas informativas]]
+- [Sección principal de ayuda en crisis](/es/crisis)
+- [Preparación para emergencias y planificación de seguridad](/es/crisis/emergency/emergency-preparedness)
+- [Recursos sobre abuso y violencia](/es/crisis/abuse-neglect-exploitation)
+- [Tarjetas de emergencia médica y hojas informativas](/es/crisis/emergency/medical-cards)
 
 ---
 

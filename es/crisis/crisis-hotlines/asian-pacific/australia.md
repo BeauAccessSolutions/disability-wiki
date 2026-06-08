@@ -248,10 +248,10 @@ Si un servicio te discrimina por tu discapacidad, tienes derechos. Alza la voz.
 
 ## Recursos relacionados
 
-- [[/es/crisis|Sección principal de ayuda en crisis]]
-- [[Preparación para emergencias|Preparación para emergencias y planificación de seguridad]]
-- [[Recursos sobre abuso y violencia|Recursos sobre abuso y violencia]]
-- [[Derechos de las personas con discapacidad: Australia|Derechos de las personas con discapacidad en Australia]]
+- [Sección principal de ayuda en crisis](/es/crisis)
+- [Preparación para emergencias y planificación de seguridad](/es/crisis/emergency/emergency-preparedness)
+- [Recursos sobre abuso y violencia](/es/crisis/abuse-neglect-exploitation)
+- Derechos de las personas con discapacidad en Australia
 
 ---
 

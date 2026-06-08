@@ -228,9 +228,9 @@ Si te preguntas "¿Estoy lo suficientemente mal como para llamar?" → **Sí lo 
 
 ## Recursos relacionados
 
-- [[/es/crisis|Sección principal de ayuda en crisis]]
-- [[Emergency Preparedness|Preparación para emergencias y planificación de seguridad]]
-- [[Abuse & Violence Resources|Recursos sobre abuso y violencia]]
+- [Sección principal de ayuda en crisis](/es/crisis)
+- [Preparación para emergencias y planificación de seguridad](/es/crisis/emergency/emergency-preparedness)
+- [Recursos sobre abuso y violencia](/es/crisis/abuse-neglect-exploitation)
 
 ---
 
