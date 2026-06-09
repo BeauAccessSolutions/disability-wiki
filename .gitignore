@@ -1,7 +1,12 @@
 # Hugo build files
 /public/
-/resources/_gen/
+/resources/
 /.hugo_build.lock
+
+# Vestigial content from the prior project (NY-23 Accountability Tracker / Hugo).
+# Not part of the Disability Wiki; removed from the wiki + repo on 2026-06-08.
+/content/
+/archetypes/
 
 # OS files
 .DS_Store
