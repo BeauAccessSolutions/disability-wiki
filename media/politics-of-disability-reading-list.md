@@ -2,14 +2,10 @@
 title: The Politics of Disability — A Reading Pathway
 description: A guided, staged reading list on disability as a political and cultural category — own-voices first, with a framing lens for reading any portrayal critically.
 published: true
-date: 2026-06-09T00:00:00.000Z
-tags:
-  - reading-list
-  - disability-studies
-  - books
-  - own-voices
+date: 2026-06-09T13:31:52.477Z
+tags: reading-list, disability-studies, books, own-voices
 editor: markdown
-dateCreated: 2026-06-09T00:00:00.000Z
+dateCreated: 2026-06-09T13:31:52.477Z
 ---
 
 # The Politics of Disability — A Reading Pathway
