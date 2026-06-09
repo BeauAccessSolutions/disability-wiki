@@ -1,6 +1,6 @@
 ---
 title: Poverty and Class
-description: Disability and poverty feed each other — poverty causes disability, disability causes poverty, and benefit systems are designed to keep disabled people poor.
+description: Disability and poverty feed each other — poverty causes disability, disability causes poverty, and benefit systems are structured in ways that keep disabled people poor.
 published: true
 date: 2026-06-05T20:20:07.658Z
 tags: 
@@ -26,9 +26,9 @@ The result is a feedback loop that's hard to escape — especially without wealt
 
 ---
 
-## The system is designed to keep people poor
+## How the benefit system keeps people poor
 
-This isn't an accident of bad luck. Many disability benefit programs are built around **strict income and asset limits** that actively prevent people from building any financial stability:
+This isn't an accident of bad luck. Many disability benefit programs are built around **strict income and asset limits** that make it hard to build any financial stability:
 
 - **Asset limits** (in the U.S., as low as $2,000 for SSI) make it illegal to have meaningful savings.
 - **Income limits** claw back benefits as you earn, so working more can leave you no better off — or worse.
