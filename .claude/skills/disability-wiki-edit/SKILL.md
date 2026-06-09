@@ -128,11 +128,15 @@ key is `git`; available actions are `sync` = Force Sync, `syncUntracked`, `impor
 > for *modified* files and **never create** *new* files. The live page then 404s
 > (new) or shows stale content (modified). **So after any merge/push, verify via
 > the API** (`pages{single(id){content}}` or `pages{list}`), not just a `curl`.
-> If the DB didn't pick it up, push the on-disk content in yourself:
-> - **New page** → `pages.create` from the file's frontmatter+body.
-> - **Modified page** → `pages.update` (resend all fields) from the file's content.
+> If the DB didn't pick it up, push the on-disk content in with the helper —
+> it derives locale+path from the file, then `pages.create` (new) or
+> `pages.update` (existing), resending all fields:
+> ```
+> python3 scripts/publish_page.py --dry-run media/foo.md es/media/foo.md   # preview
+> python3 scripts/publish_page.py media/foo.md es/media/foo.md             # publish
+> ```
 > Do **NOT** use `importAll` to force it — that re-imports every file and
-> re-publishes everything you'd unpublished (and the redirect stubs). The
+> re-publishes everything you'd unpublished (and the redirect stubs). The helper's
 > per-page `create`/`update` is surgical and safe. Re-run the sweep after if unsure.
 
 If a sync returns `succeeded:false` with a CONFLICT / `unresolved conflict` message,
