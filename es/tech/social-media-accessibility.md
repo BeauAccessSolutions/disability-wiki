@@ -89,7 +89,7 @@ Herramientas que importan:
 - Controles de privacidad y cuentas bloqueadas  
 - Políticas de moderación a nivel de comunidad que protejan explícitamente a las personas usuarias con discapacidad
 
-Estos temas se cruzan con la justicia digital para las personas con discapacidad (consulta [/es/tech/digital-disability-justice](/es/tech/digital-disability-justice)) y con los derechos legales en distintos países.
+Estos temas se cruzan con la justicia digital para las personas con discapacidad (consulta [Justicia digital para personas con discapacidad](/es/tech/digital-disability-justice)) y con los derechos legales en distintos países.
 
 ---
 

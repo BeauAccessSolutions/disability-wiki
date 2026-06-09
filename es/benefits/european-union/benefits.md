@@ -58,7 +58,7 @@ Si vives en un estado miembro de la UE:
 - Resalta los problemas que son especialmente importantes para las personas con discapacidad migrantes, las personas solicitantes de asilo y las personas trabajadoras transfronterizas.
 
 Para comparaciones globales, consulta:  
-[/benefits/international-benefits-overview](/es/benefits/international/benefits-overview)
+[Resumen de prestaciones internacionales](/es/benefits/international/benefits-overview)
 
 ---
 

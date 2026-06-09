@@ -74,7 +74,7 @@ If you know how caregiver pay works in your state or country:
 - Include any **practical tips** or warnings (long waitlists, agencies that are more accessible, etc.)
 
 For broader context on benefits, see:  
-[/benefits/us-benefits-overview](/benefits/us/benefits-overview) and [/benefits/international-benefits-overview](/benefits/international/benefits-overview)
+[US benefits overview](/benefits/us/benefits-overview) and [International benefits overview](/benefits/international/benefits-overview)
 
 ---
 

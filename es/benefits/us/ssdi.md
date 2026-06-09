@@ -62,7 +62,7 @@ A veces, algunos familiares califican con base en tu registro (por ejemplo, cier
 - Después de recibir el SSDI durante cierto período, normalmente calificas para **Medicare**, incluso si eres menor de 65 años.  
 - Algunas personas tienen **Medicare y Medicaid a la vez**.
 
-Consulta: [/es/benefits/us/medicare](/es/benefits/us/medicare)
+Consulta: [Medicare](/es/benefits/us/medicare)
 
 ---
 
@@ -89,7 +89,7 @@ Pasos comunes:
 - **Cartas confusas.** Los avisos pueden ser difíciles de entender, especialmente en torno a sobrepagos o revisiones de trabajo.
 
 Si te deniegan o recibes un aviso confuso, consulta:  
-[/es/benefits/benefit-denials-and-appeals](/es/benefits/benefit-denials-and-appeals)
+[Denegaciones y apelaciones de prestaciones](/es/benefits/benefit-denials-and-appeals)
 
 ---
 
@@ -113,7 +113,7 @@ Los detalles son complejos y cambian con el tiempo. Antes de trabajar más horas
 - **SSDI** – Basado en el historial laboral, puede ser una prestación más alta, no evalúa tus bienes.  
 - **SSI** – Basado en la necesidad, para personas con bajos ingresos y bienes limitados, con montos de pago más bajos.
 
-Algunas personas reciben **tanto** SSDI como SSI. Consulta: [/es/benefits/us/ssi](/es/benefits/us/ssi)
+Algunas personas reciben **tanto** SSDI como SSI. Consulta: [SSI](/es/benefits/us/ssi)
 
 ---
 

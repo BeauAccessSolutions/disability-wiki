@@ -73,7 +73,7 @@ If you know Canadian systems:
 - Note any **accessibility issues, gaps, or common problems** people face.
 
 For cross-country overview, see:  
-[/benefits/international-benefits-overview](/benefits/international/benefits-overview)
+[International benefits overview](/benefits/international/benefits-overview)
 
 ---
 

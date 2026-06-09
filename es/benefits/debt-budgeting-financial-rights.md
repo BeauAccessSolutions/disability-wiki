@@ -102,7 +102,7 @@ Cuando contribuyas, considera agregar:
 
 ## Páginas relacionadas
 
-- [/es/benefits/benefit-denials-and-appeals](/es/benefits/benefit-denials-and-appeals)  
+- [Denegaciones y apelaciones de prestaciones](/es/benefits/benefit-denials-and-appeals)  
 - Páginas de prestaciones por país o región (EE. UU., Canadá, Reino Unido, etc.)  
 - Las secciones de vivienda y de salud (porque esos costos suelen ser los que generan deuda)
 

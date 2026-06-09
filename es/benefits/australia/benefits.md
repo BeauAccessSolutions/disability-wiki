@@ -69,7 +69,7 @@ Si conoces el sistema australiano:
 - Agrega secciones estatales y territoriales cuando sea relevante.
 
 Para contexto global, consulta:  
-[/benefits/international-benefits-overview](/es/benefits/international/benefits-overview)
+[Resumen de prestaciones internacionales](/es/benefits/international/benefits-overview)
 
 ---
 

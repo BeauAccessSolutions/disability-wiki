@@ -69,7 +69,7 @@ If you know the Australian system:
 - Add state/territory sections where relevant.
 
 For global context, see:  
-[/benefits/international-benefits-overview](/benefits/international/benefits-overview)
+[International benefits overview](/benefits/international/benefits-overview)
 
 ---
 

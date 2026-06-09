@@ -101,8 +101,8 @@ Common combinations:
 
 See also:
 
-- [/benefits/us-ssi](/benefits/us/ssi)  
-- [/benefits/us-medicare](/benefits/us/medicare)
+- [SSI](/benefits/us/ssi)  
+- [Medicare](/benefits/us/medicare)
 
 ---
 

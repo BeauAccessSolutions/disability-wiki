@@ -73,7 +73,7 @@ Si conoces los sistemas canadienses:
 - Señala cualquier **problema de accesibilidad, brecha o dificultad común** que enfrenten las personas.
 
 Para una visión general entre países, consulta:  
-[/benefits/international-benefits-overview](/es/benefits/international/benefits-overview)
+[Resumen de prestaciones internacionales](/es/benefits/international/benefits-overview)
 
 ---
 

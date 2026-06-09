@@ -40,11 +40,11 @@ Según el país, el apoyo relacionado con la discapacidad podría incluir:
 
 Tenemos páginas iniciales para:
 
-- [/benefits/canada-benefits](/es/benefits/canada/benefits)  
-- [/benefits/uk-benefits](/es/benefits/united-kingdom/benefits)  
-- [/benefits/australia-benefits](/es/benefits/australia/benefits)  
-- [/benefits/eu-benefits](/es/benefits/european-union/benefits)  
-- [/benefits/other-countries-benefits](/es/benefits/other-countries-benefits)
+- [Prestaciones de Canadá](/es/benefits/canada/benefits)  
+- [Prestaciones del Reino Unido](/es/benefits/united-kingdom/benefits)  
+- [Prestaciones de Australia](/es/benefits/australia/benefits)  
+- [Prestaciones de la UE](/es/benefits/european-union/benefits)  
+- [Prestaciones de otros países](/es/benefits/other-countries-benefits)
 
 Estas **no** pretenden ser exhaustivas ni centrarse solo en los países más ricos; son simplemente las primeras estructuras que deben completarse.
 
@@ -54,7 +54,7 @@ Estas **no** pretenden ser exhaustivas ni centrarse solo en los países más ric
 
 Si vives fuera de EE. UU., puedes ayudar de las siguientes maneras:
 
-1. Encontrando la página regional adecuada (Europa, América Latina, África, etc.), o usando [/benefits/other-countries-benefits](/es/benefits/other-countries-benefits) como punto de partida.  
+1. Encontrando la página regional adecuada (Europa, América Latina, África, etc.), o usando [Prestaciones de otros países](/es/benefits/other-countries-benefits) como punto de partida.  
 2. Agregando un encabezado para tu **país o región**.  
 3. Describiendo, en términos claros:  
    - Los principales apoyos a los ingresos por discapacidad  
