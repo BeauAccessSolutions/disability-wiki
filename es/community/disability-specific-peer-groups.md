@@ -104,4 +104,4 @@ Las personas que usan comunicación aumentativa y alternativa (CAA) tienen sus p
 
 ## Contribuye a esta página
 
-Si ayudas a dirigir o formas parte de una comunidad de apoyo entre pares dirigida por personas con discapacidad —en especial una dirigida por personas con múltiples marginaciones o ubicada fuera de EE. UU.— nos encantaría tu ayuda para hacer este mapa más preciso y más completo. Cuéntanos qué falta o qué está desactualizado. Consulta [Cómo contribuir](/es/glossary/how-to-contribute).
+Si ayudas a dirigir o formas parte de una comunidad de apoyo entre pares dirigida por personas con discapacidad —en especial una dirigida por personas con múltiples marginaciones o ubicada fuera de EE. UU.— nos encantaría tu ayuda para hacer este mapa más preciso y más completo. Cuéntanos qué falta o qué está desactualizado. Consulta [Cómo contribuir](/es/start/contribute).

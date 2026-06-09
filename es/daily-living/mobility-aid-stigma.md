@@ -60,4 +60,4 @@ Nada de esto se trata de ti. Se trata de una cultura que no se ha puesto al día
 
 ## Contribuye a esta página
 
-Si usas una ayuda de movilidad —a tiempo completo, a tiempo parcial o a veces— tu experiencia y tus respuestas podrían ayudar a alguien que recién empieza. Cuéntanos qué te gustaría que la gente entendiera. Consulta [Cómo contribuir](/es/glossary/how-to-contribute).
+Si usas una ayuda de movilidad —a tiempo completo, a tiempo parcial o a veces— tu experiencia y tus respuestas podrían ayudar a alguien que recién empieza. Cuéntanos qué te gustaría que la gente entendiera. Consulta [Cómo contribuir](/es/start/contribute).

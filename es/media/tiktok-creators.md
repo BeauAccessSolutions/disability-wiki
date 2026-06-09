@@ -281,7 +281,7 @@ Para sugerir agregados:
 3. **Incluye el nombre de usuario** con el símbolo @
 4. **Indica el número aproximado de seguidores** si es muy grande (más de 100 mil)
 
-Consulta [Cómo Contribuir](/es/glossary/how-to-contribute)
+Consulta [Cómo Contribuir](/es/start/contribute)
 
 ---
 

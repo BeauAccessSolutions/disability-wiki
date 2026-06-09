@@ -164,7 +164,7 @@ If you don't see your people in leadership, it's an access issue, not a reflecti
 
 Know a community space that should be listed? Have feedback on accessibility of listed communities? Want to share your story about peer support?
 
-[Contribute here →](/glossary/how-to-contribute)
+[Contribute here →](/start/contribute)
 
 ---
 

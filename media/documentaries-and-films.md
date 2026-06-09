@@ -348,7 +348,7 @@ To suggest additions:
 3. **Note streaming availability** if known
 4. **Flag representation concerns** if relevant
 
-See [How to Contribute](/glossary/how-to-contribute)
+See [How to Contribute](/start/contribute)
 
 ---
 

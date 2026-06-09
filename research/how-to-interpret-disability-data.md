@@ -169,7 +169,7 @@ This framework supports interpretation that looks beyond individual impairment t
 
 ---
 
-*This page centers disabled people's expertise and supports critical, rights-based interpretation of disability data. For questions or to suggest additions, see [How to Contribute](/glossary/how-to-contribute).*
+*This page centers disabled people's expertise and supports critical, rights-based interpretation of disability data. For questions or to suggest additions, see [How to Contribute](/start/contribute).*
 
 ---
 

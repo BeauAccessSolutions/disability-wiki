@@ -215,7 +215,7 @@ Hacer que la investigación sea accesible:
 
 ---
 
-*Esta página pone en el centro los conocimientos de las personas con discapacidad y apoya prácticas de investigación que incluyan a las personas con discapacidad como participantes plenas. Para preguntas o para sugerir agregados, consulta [Cómo Contribuir](/es/glossary/how-to-contribute).*
+*Esta página pone en el centro los conocimientos de las personas con discapacidad y apoya prácticas de investigación que incluyan a las personas con discapacidad como participantes plenas. Para preguntas o para sugerir agregados, consulta [Cómo Contribuir](/es/start/contribute).*
 
 ---
 

@@ -18,7 +18,7 @@ A directory of disabled artists, writers, musicians, filmmakers, performers, and
 
 This directory collects disabled creators in one place for easy discovery. All creators listed here are openly disabled and create work that may or may not be disability-focused.
 
-**This directory is always growing.** Suggest additions via [How to Contribute](/glossary/how-to-contribute).
+**This directory is always growing.** Suggest additions via [How to Contribute](/start/contribute).
 
 **Labels used below**
 - *(non-US)* — creator is based outside the US
@@ -315,7 +315,7 @@ To suggest other creators:
 2. **Include same information above**
 3. **Verify they're comfortable being listed**
 
-See [How to Contribute](/glossary/how-to-contribute)
+See [How to Contribute](/start/contribute)
 
 ---
 

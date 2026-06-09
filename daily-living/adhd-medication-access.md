@@ -103,4 +103,4 @@ It's understandable to feel desperate during a gap. But buying "Adderall" or oth
 
 ## Contribute to This Page
 
-Know a working strategy, a patient-assistance program, or a correction — especially anything time-sensitive about the current shortage? See [How to Contribute](/glossary/how-to-contribute).
+Know a working strategy, a patient-assistance program, or a correction — especially anything time-sensitive about the current shortage? See [How to Contribute](/start/contribute).

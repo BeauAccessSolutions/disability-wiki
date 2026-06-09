@@ -342,7 +342,7 @@ R: No. Para obtener un consejo médico, consulta a tu profesional de salud.
 R: Sí, bajo la licencia CC-BY-SA 4.0 (debes darnos crédito y compartir bajo la misma licencia). [Consulta la página Acerca de →](/es/home)
 
 **P: ¿Puedo contribuir?**  
-R: ¡Sí! Necesitamos las perspectivas de la comunidad. [Aprende cómo contribuir →](/es/glossary/how-to-contribute)
+R: ¡Sí! Necesitamos las perspectivas de la comunidad. [Aprende cómo contribuir →](/es/start/contribute)
 
 **P: ¿Dónde está la información sobre [un tema específico]?**  
 R: Prueba a buscar o navega por la sección correspondiente. Si no la encuentras, [avísanos →](https://forms.gle/YJFxFGrK3cZs1VKi8) y la agregaremos a nuestra hoja de ruta.
@@ -361,7 +361,7 @@ R: Prueba a buscar o navega por la sección correspondiente. Si no la encuentras
 → Consulta la [Declaración de accesibilidad →](/es/accessibility-statement) o [Contáctanos →](/es/start/contact)
 
 **¿Quieres aportar tus conocimientos?**  
-→ [Aprende cómo contribuir →](/es/glossary/how-to-contribute)
+→ [Aprende cómo contribuir →](/es/start/contribute)
 
 **¿Tienes comentarios sobre el wiki?**  
 → [Comparte tus ideas →](https://forms.gle/YJFxFGrK3cZs1VKi8)

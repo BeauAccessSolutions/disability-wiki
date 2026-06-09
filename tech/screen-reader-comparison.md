@@ -483,7 +483,7 @@ Some users need both magnification and screen reading:
 
 ---
 
-*This page centers disabled people's expertise and is informed by blind and low-vision community knowledge. The best screen reader is the one that works for your life. For questions or to suggest additions, see [How to Contribute](/glossary/how-to-contribute).*
+*This page centers disabled people's expertise and is informed by blind and low-vision community knowledge. The best screen reader is the one that works for your life. For questions or to suggest additions, see [How to Contribute](/start/contribute).*
 
 ---
 

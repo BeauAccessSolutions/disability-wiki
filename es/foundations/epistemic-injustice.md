@@ -55,4 +55,4 @@ Repetido lo suficiente, esto se vuelve un daño en sí mismo: duda internalizada
 
 ## Contribuye a esta página
 
-Si has encontrado palabras o encuadres que te ayudaron a nombrar una experiencia que antes no podías, valoraríamos tu ayuda para hacer esta página más útil, en especial desde perspectivas con múltiples marginaciones, donde estas injusticias se acumulan. Consulta [Cómo contribuir](/es/glossary/how-to-contribute).
+Si has encontrado palabras o encuadres que te ayudaron a nombrar una experiencia que antes no podías, valoraríamos tu ayuda para hacer esta página más útil, en especial desde perspectivas con múltiples marginaciones, donde estas injusticias se acumulan. Consulta [Cómo contribuir](/es/start/contribute).

@@ -36,7 +36,7 @@ Libros, artículos y recursos clave citados a lo largo del wiki. Incluye obras d
 
 Cómo citar páginas de este wiki en trabajos académicos o textos formales. Incluye los formatos MLA, APA, Chicago y Harvard.
 
-### [Cómo contribuir](/es/glossary/how-to-contribute)
+### [Cómo contribuir](/es/start/contribute)
 
 Instrucciones para contribuir al wiki. Cubre las distintas formas de contribuir, el proceso de contribución y las pautas de contenido.
 
@@ -61,7 +61,7 @@ Estándares que se mantienen en todo el wiki. Cubren el lenguaje sencillo, la ac
 [Bibliografía →](/es/glossary/bibliography)
 
 ### Quiero contribuir con contenido
-[Cómo contribuir →](/es/glossary/how-to-contribute)
+[Cómo contribuir →](/es/start/contribute)
 
 ### Quiero entender los estándares del wiki
 [Pautas editoriales →](/es/glossary/editorial-guidelines)

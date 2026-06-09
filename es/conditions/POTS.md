@@ -466,7 +466,7 @@ El **Aviso de Interés Especial de los NIH** para la investigación del POTS (ha
 
 ---
 
-*Esta página pone en el centro los conocimientos de las personas con discapacidad y se basa en la organización liderada por personas con discapacidad a nivel global. Para preguntas o para sugerir agregados, consulta [Cómo contribuir](/es/glossary/how-to-contribute).*
+*Esta página pone en el centro los conocimientos de las personas con discapacidad y se basa en la organización liderada por personas con discapacidad a nivel global. Para preguntas o para sugerir agregados, consulta [Cómo contribuir](/es/start/contribute).*
 
 ---
 

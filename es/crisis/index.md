@@ -99,7 +99,7 @@ Hemos trabajado para identificar cuáles líneas de crisis ofrecen:
 - **Personal consciente de la discapacidad** capacitado en la cultura de la discapacidad
 - **Línea accesible con dispositivos de movilidad** (áreas de espera accesibles)
 
-Si una línea de crisis en tu región no es accesible, por favor repórtalo a través de [nuestro formulario de contribución →](/es/glossary/how-to-contribute). Las barreras de accesibilidad también son un asunto de crisis.
+Si una línea de crisis en tu región no es accesible, por favor repórtalo a través de [nuestro formulario de contribución →](/es/start/contribute). Las barreras de accesibilidad también son un asunto de crisis.
 
 ---
 
@@ -148,7 +148,7 @@ Apoyar a una persona con discapacidad en crisis es distinto. Es posible que nece
 
 ## Contribuir con recursos de crisis
 
-Si conoces un recurso de crisis que atiende a personas con discapacidad y no está en la lista aquí, en especial recursos del Sur Global, de comunidades indígenas o de personas con discapacidad múltiplemente marginadas, [queremos saber de ti →](/es/glossary/how-to-contribute).
+Si conoces un recurso de crisis que atiende a personas con discapacidad y no está en la lista aquí, en especial recursos del Sur Global, de comunidades indígenas o de personas con discapacidad múltiplemente marginadas, [queremos saber de ti →](/es/start/contribute).
 
 La precisión y la accesibilidad de la información de crisis salvan vidas. Esta sección es mantenida por personas voluntarias con discapacidad de comunidades afectadas por crisis.
 

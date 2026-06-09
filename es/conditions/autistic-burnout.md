@@ -121,4 +121,4 @@ Si estás pensando en el suicidio o estás en crisis, por favor busca ayuda: en 
 
 ## Contribuye a esta página
 
-Esta página necesita especialmente los conocimientos de personas autistas que han vivido el agotamiento. Si puedes fortalecerla o corregirla —incluido cómo fue realmente la recuperación para ti—, consulta [Cómo contribuir](/es/glossary/how-to-contribute).
+Esta página necesita especialmente los conocimientos de personas autistas que han vivido el agotamiento. Si puedes fortalecerla o corregirla —incluido cómo fue realmente la recuperación para ti—, consulta [Cómo contribuir](/es/start/contribute).

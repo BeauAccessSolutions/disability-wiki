@@ -674,7 +674,7 @@ The concepts on this page draw from scholarship in social epistemology, philosop
 
 ---
 
-This page centers disabled people's expertise and is informed by disabled-led organizing globally. Disabled patients and disability studies scholars have developed these frameworks through lived experience and rigorous analysis. For questions or to suggest additions, see [How to Contribute](/glossary/how-to-contribute).
+This page centers disabled people's expertise and is informed by disabled-led organizing globally. Disabled patients and disability studies scholars have developed these frameworks through lived experience and rigorous analysis. For questions or to suggest additions, see [How to Contribute](/start/contribute).
 
 ---
 

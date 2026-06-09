@@ -208,7 +208,7 @@ Have experience filing a complaint? Know about a disability rights law that shou
 
 We welcome contributions, especially from disabled people, people of color, Mad people, and those navigating multiply-marginalized identities in disability rights systems.
 
-[Contribute →](/glossary/how-to-contribute)
+[Contribute →](/start/contribute)
 
 ---
 

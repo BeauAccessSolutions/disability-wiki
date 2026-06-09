@@ -55,4 +55,4 @@ Repeated enough, this becomes its own kind of harm—internalized doubt, and the
 
 ## Contribute to This Page
 
-If you've found language or framings that helped you name an experience you couldn't before, we'd value your help making this page more useful—especially from multiply-marginalized perspectives where these injustices compound. See [How to Contribute](/glossary/how-to-contribute).
+If you've found language or framings that helped you name an experience you couldn't before, we'd value your help making this page more useful—especially from multiply-marginalized perspectives where these injustices compound. See [How to Contribute](/start/contribute).

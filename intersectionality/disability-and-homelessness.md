@@ -58,4 +58,4 @@ And people are never only their hardship. Disabled people experiencing homelessn
 
 ## Contribute to This Page
 
-Have lived experience or expertise that could strengthen this page? We especially welcome perspectives from people who have experienced homelessness and disability firsthand. See [How to Contribute](/glossary/how-to-contribute).
+Have lived experience or expertise that could strengthen this page? We especially welcome perspectives from people who have experienced homelessness and disability firsthand. See [How to Contribute](/start/contribute).

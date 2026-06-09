@@ -365,7 +365,7 @@ El cambio sistémico requiere incidencia colectiva.
 
 Damos la bienvenida a las contribuciones de personas con discapacidad que viajan, de personas defensoras de los derechos de la discapacidad y de profesionales del transporte.
 
-[Contribuye →](/es/glossary/how-to-contribute)
+[Contribuye →](/es/start/contribute)
 
 ---
 

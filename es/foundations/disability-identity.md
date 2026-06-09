@@ -382,7 +382,7 @@ Palabras como "cripple", "crip", "mad" (loco/a), "crazy" (demente) han sido reiv
 
 ---
 
-*Esta página pone en el centro los conocimientos de las personas con discapacidad y se basa en la organización liderada por personas con discapacidad a nivel global. La identidad de la discapacidad es tuya para reclamarla, cuestionarla o entenderla a tu manera. No necesitas el permiso de nadie. Para preguntas o para sugerir agregados, consulta [Cómo Contribuir](/es/glossary/how-to-contribute).*
+*Esta página pone en el centro los conocimientos de las personas con discapacidad y se basa en la organización liderada por personas con discapacidad a nivel global. La identidad de la discapacidad es tuya para reclamarla, cuestionarla o entenderla a tu manera. No necesitas el permiso de nadie. Para preguntas o para sugerir agregados, consulta [Cómo Contribuir](/es/start/contribute).*
 
 ---
 

@@ -172,7 +172,7 @@ Este archivo crece gracias a las contribuciones de la comunidad. Si conoces estu
 - Investigación liderada por personas investigadoras con discapacidad
 - Investigación interseccional (discapacidad + raza, género, clase, etc.)
 
-Para sugerir agregados, consulta [Cómo Contribuir](/es/glossary/how-to-contribute).
+Para sugerir agregados, consulta [Cómo Contribuir](/es/start/contribute).
 
 ---
 
@@ -224,7 +224,7 @@ Al usar investigación de este archivo, cita adecuadamente a los autores origina
 
 ---
 
-*Este archivo pone en el centro los conocimientos de las personas con discapacidad y busca que la investigación sobre discapacidad sea accesible para las comunidades que puedan aprovecharla. Para preguntas o para sugerir agregados, consulta [Cómo Contribuir](/es/glossary/how-to-contribute).*
+*Este archivo pone en el centro los conocimientos de las personas con discapacidad y busca que la investigación sobre discapacidad sea accesible para las comunidades que puedan aprovecharla. Para preguntas o para sugerir agregados, consulta [Cómo Contribuir](/es/start/contribute).*
 
 ---
 

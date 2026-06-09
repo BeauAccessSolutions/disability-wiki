@@ -60,4 +60,4 @@ None of these are about you. They're about a culture that hasn't caught up to ho
 
 ## Contribute to This Page
 
-If you use a mobility aid—full-time, part-time, or sometimes—your experience and your comebacks could help someone newer to it. Tell us what you wish people understood. See [How to Contribute](/glossary/how-to-contribute).
+If you use a mobility aid—full-time, part-time, or sometimes—your experience and your comebacks could help someone newer to it. Tell us what you wish people understood. See [How to Contribute](/start/contribute).

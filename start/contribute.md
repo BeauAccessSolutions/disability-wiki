@@ -46,6 +46,8 @@ We want to work with disabled community members to build this wiki together.
 
 Tell us what you'd like to contribute — content, feedback, corrections, translation, accessibility testing, or anything else listed above. You don't need any technical skills, and you can write in whatever language you're most comfortable in.
 
+Comfortable with Git and want to edit pages directly? See the **[Technical Contribution Guide](/glossary/how-to-contribute)**.
+
 ## What to Expect
 
 - We'll read every submission

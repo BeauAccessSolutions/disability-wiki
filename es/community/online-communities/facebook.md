@@ -577,7 +577,7 @@ Consulta también:
 
 ---
 
-*Esta página pone en el centro los conocimientos de las personas con discapacidad y se basa en la organización liderada por personas con discapacidad a nivel global. Los grupos de Facebook son creados por una mezcla de personas con discapacidad, familiares, personas cuidadoras y profesionales, y esta página busca ayudar a las personas con discapacidad a moverse por estos espacios de forma segura mientras honra el valioso apoyo entre pares que muchos grupos brindan. Para preguntas o para sugerir agregados, consulta [Cómo Contribuir](/es/glossary/how-to-contribute).*
+*Esta página pone en el centro los conocimientos de las personas con discapacidad y se basa en la organización liderada por personas con discapacidad a nivel global. Los grupos de Facebook son creados por una mezcla de personas con discapacidad, familiares, personas cuidadoras y profesionales, y esta página busca ayudar a las personas con discapacidad a moverse por estos espacios de forma segura mientras honra el valioso apoyo entre pares que muchos grupos brindan. Para preguntas o para sugerir agregados, consulta [Cómo Contribuir](/es/start/contribute).*
 
 ---
 

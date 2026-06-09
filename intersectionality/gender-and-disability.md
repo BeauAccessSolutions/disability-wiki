@@ -69,4 +69,4 @@ A core disability-justice idea is **interdependence**: the recognition that all 
 
 ## Contribute to This Page
 
-This page especially needs the expertise and stories of disabled women, trans, and nonbinary people — including the leadership and joy, not only the struggle. If you can strengthen or correct it, see [How to Contribute](/glossary/how-to-contribute).
+This page especially needs the expertise and stories of disabled women, trans, and nonbinary people — including the leadership and joy, not only the struggle. If you can strengthen or correct it, see [How to Contribute](/start/contribute).

@@ -80,7 +80,7 @@ Research involving disabled people should:
 
 ---
 
-*This section centers disabled people's expertise and is informed by the principle that research should involve and benefit disabled communities. For questions or to suggest additions, see [How to Contribute](/glossary/how-to-contribute).*
+*This section centers disabled people's expertise and is informed by the principle that research should involve and benefit disabled communities. For questions or to suggest additions, see [How to Contribute](/start/contribute).*
 
 ---
 

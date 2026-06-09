@@ -465,7 +465,7 @@ Ver también:
 
 ---
 
-*Esta página pone en el centro los conocimientos de las personas con discapacidad y se basa en la organización liderada por personas con discapacidad a nivel global. Las comunidades de Reddit son creadas y mantenidas por personas con discapacidad, y esta página busca ayudar a las personas con discapacidad a desenvolverse en estos espacios de forma segura mientras honra el apoyo entre pares y la comunidad que brindan. Para preguntas o para sugerir agregados, consulta [Cómo Contribuir](/es/glossary/how-to-contribute).*
+*Esta página pone en el centro los conocimientos de las personas con discapacidad y se basa en la organización liderada por personas con discapacidad a nivel global. Las comunidades de Reddit son creadas y mantenidas por personas con discapacidad, y esta página busca ayudar a las personas con discapacidad a desenvolverse en estos espacios de forma segura mientras honra el apoyo entre pares y la comunidad que brindan. Para preguntas o para sugerir agregados, consulta [Cómo Contribuir](/es/start/contribute).*
 
 ---
 

@@ -422,7 +422,7 @@ Para sugerir agregados:
 3. **Recursos académicos** sobre análisis de medios
 4. **Enlaces a análisis de la comunidad**
 
-Consulta [Cómo Contribuir](/es/glossary/how-to-contribute)
+Consulta [Cómo Contribuir](/es/start/contribute)
 
 ---
 

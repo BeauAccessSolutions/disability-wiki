@@ -319,7 +319,7 @@ Have you successfully navigated disability employment? Know about a disability-f
 
 We welcome contributions from disabled workers, job coaches, HR professionals, and others involved in disability employment.
 
-[Contribute →](/glossary/how-to-contribute)
+[Contribute →](/start/contribute)
 
 ---
 

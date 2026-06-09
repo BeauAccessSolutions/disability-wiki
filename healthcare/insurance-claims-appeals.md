@@ -408,7 +408,7 @@ Insurance barriers compound other forms of discrimination:
 
 ---
 
-*This page centers disabled people's expertise and is informed by disabled-led organizing globally. Insurance systems are designed to be difficult—surviving them is not a personal achievement, but a collective struggle. For questions or to suggest additions, see [How to Contribute](/glossary/how-to-contribute).*
+*This page centers disabled people's expertise and is informed by disabled-led organizing globally. Insurance systems are designed to be difficult—surviving them is not a personal achievement, but a collective struggle. For questions or to suggest additions, see [How to Contribute](/start/contribute).*
 
 ---
 

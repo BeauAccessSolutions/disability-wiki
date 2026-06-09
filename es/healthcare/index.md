@@ -233,7 +233,7 @@ Los servicios de salud mental deberían:
 
 Damos la bienvenida a las contribuciones, en especial de personas con discapacidad con distintas discapacidades y de comunidades que experimentan desigualdades en la atención médica.
 
-[Contribuir →](/es/glossary/how-to-contribute)
+[Contribuir →](/es/start/contribute)
 
 ---
 

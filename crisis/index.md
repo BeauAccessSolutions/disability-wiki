@@ -99,7 +99,7 @@ We've worked to identify which crisis lines offer:
 - **Disability-aware staff** trained in disability culture
 - **Line-accessible with mobility devices** (accessible waiting areas)
 
-If a crisis line in your region is not accessible, please report this via [our contribution form →](/glossary/how-to-contribute). Accessibility barriers are a crisis issue too.
+If a crisis line in your region is not accessible, please report this via [our contribution form →](/start/contribute). Accessibility barriers are a crisis issue too.
 
 ---
 
@@ -148,7 +148,7 @@ Supporting a disabled person in crisis is different. They may need you to:
 
 ## Contributing Crisis Resources
 
-If you know of a crisis resource that serves disabled people and isn't listed here, especially resources from the Global South, Indigenous communities, or multiply-marginalized disabled people, [we want to hear from you →](/glossary/how-to-contribute).
+If you know of a crisis resource that serves disabled people and isn't listed here, especially resources from the Global South, Indigenous communities, or multiply-marginalized disabled people, [we want to hear from you →](/start/contribute).
 
 Accuracy and accessibility of crisis information saves lives. This section is maintained by disabled volunteers from crisis-affected communities.
 

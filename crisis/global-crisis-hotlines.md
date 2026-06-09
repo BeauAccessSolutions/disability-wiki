@@ -160,7 +160,7 @@ Some countries have comprehensive crisis resource pages with local context, disa
 - **[Nigeria Crisis Help](/crisis/crisis-hotlines/africa/nigeria)** - Comprehensive Nigerian crisis services
 - **[South Africa Crisis Help](/crisis/crisis-hotlines/africa/south-africa)** - Complete South African resources
 
-*More detailed country pages coming soon. If you'd like to contribute a detailed page for your country, see [How to Contribute](/glossary/how-to-contribute).*
+*More detailed country pages coming soon. If you'd like to contribute a detailed page for your country, see [How to Contribute](/start/contribute).*
 
 ---
 
@@ -405,7 +405,7 @@ Reasons services may be harmful:
 
 **Know of a crisis resource that should be listed?**
 
-This wiki is community-driven. See [How to Contribute](/glossary/how-to-contribute) for information on:
+This wiki is community-driven. See [How to Contribute](/start/contribute) for information on:
 - Suggesting new resources
 - Updating outdated information
 - Adding detail for specific countries or languages

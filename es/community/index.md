@@ -164,7 +164,7 @@ Si no ves a tu gente en el liderazgo, es un problema de acceso, no un reflejo de
 
 ¿Conoces un espacio comunitario que debería aparecer en la lista? ¿Tienes comentarios sobre la accesibilidad de las comunidades listadas? ¿Quieres compartir tu historia sobre el apoyo entre pares?
 
-[Contribuye aquí →](/es/glossary/how-to-contribute)
+[Contribuye aquí →](/es/start/contribute)
 
 ---
 

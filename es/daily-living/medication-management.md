@@ -313,7 +313,7 @@ Los farmacéuticos suelen ser más accesibles que los médicos y pueden:
 
 ---
 
-*Esta página pone en el centro los conocimientos de las personas con discapacidad y se basa en la organización liderada por personas con discapacidad a nivel global. Las fallas en el manejo de la medicación son fallas del sistema, no personales. Para preguntas o para sugerir agregados, consulta [Cómo Contribuir](/es/glossary/how-to-contribute).*
+*Esta página pone en el centro los conocimientos de las personas con discapacidad y se basa en la organización liderada por personas con discapacidad a nivel global. Las fallas en el manejo de la medicación son fallas del sistema, no personales. Para preguntas o para sugerir agregados, consulta [Cómo Contribuir](/es/start/contribute).*
 
 ---
 

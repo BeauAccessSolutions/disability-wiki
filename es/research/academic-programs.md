@@ -181,7 +181,7 @@ Muchos programas ofrecen opciones en línea, lo que amplía el acceso para las p
 
 ---
 
-*Esta página pone en el centro los conocimientos de las personas con discapacidad y destaca programas que utilizan marcos sociales y basados en derechos. Para preguntas o para sugerir agregados, consulta [Cómo Contribuir](/es/glossary/how-to-contribute).*
+*Esta página pone en el centro los conocimientos de las personas con discapacidad y destaca programas que utilizan marcos sociales y basados en derechos. Para preguntas o para sugerir agregados, consulta [Cómo Contribuir](/es/start/contribute).*
 
 ---
 

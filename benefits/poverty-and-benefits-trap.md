@@ -413,7 +413,7 @@ These aren't bugs—they're features:
 
 ---
 
-*This page centers disabled people's expertise and is informed by disabled-led organizing globally. Disabled people are poor because policy makes them poor. Poverty is not an inevitable consequence of disability—it is a political choice that can be changed. For questions or to suggest additions, see [How to Contribute](/glossary/how-to-contribute).*
+*This page centers disabled people's expertise and is informed by disabled-led organizing globally. Disabled people are poor because policy makes them poor. Poverty is not an inevitable consequence of disability—it is a political choice that can be changed. For questions or to suggest additions, see [How to Contribute](/start/contribute).*
 
 ---
 

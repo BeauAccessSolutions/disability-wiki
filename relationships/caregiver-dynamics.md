@@ -465,7 +465,7 @@ Navigate cultural context while protecting yourself.
 
 ---
 
-*This page centers disabled people's expertise and is informed by disabled-led organizing globally. Care relationships are complicated. Naming the complexity is the first step to navigating it. For questions or to suggest additions, see [How to Contribute](/glossary/how-to-contribute).*
+*This page centers disabled people's expertise and is informed by disabled-led organizing globally. Care relationships are complicated. Naming the complexity is the first step to navigating it. For questions or to suggest additions, see [How to Contribute](/start/contribute).*
 
 ---
 

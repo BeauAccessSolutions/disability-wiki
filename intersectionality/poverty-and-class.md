@@ -65,4 +65,4 @@ But poverty is a condition imposed, not an identity. Disabled people living on l
 
 ## Contribute to This Page
 
-Have lived experience or expertise that could strengthen this page? We especially welcome perspectives from disabled people who have lived in poverty and navigated these systems firsthand. See [How to Contribute](/glossary/how-to-contribute).
+Have lived experience or expertise that could strengthen this page? We especially welcome perspectives from disabled people who have lived in poverty and navigated these systems firsthand. See [How to Contribute](/start/contribute).

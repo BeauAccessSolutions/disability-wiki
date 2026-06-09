@@ -365,7 +365,7 @@ Have you navigated air travel with disability? Know about accessible transit in 
 
 We welcome contributions from disabled travelers, disability advocates, and transportation professionals.
 
-[Contribute →](/glossary/how-to-contribute)
+[Contribute →](/start/contribute)
 
 ---
 

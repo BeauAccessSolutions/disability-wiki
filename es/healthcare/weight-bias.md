@@ -388,7 +388,7 @@ Muchas personas con discapacidad tienen:
 
 ---
 
-*Esta página pone en el centro los conocimientos de las personas con discapacidad y se basa en la organización y la defensa de las personas gordas con discapacidad. Mereces atención de salud con cualquier talla. El sesgo de peso es discriminación médica. Para preguntas o para sugerir agregados, consulta [Cómo Contribuir](/es/glossary/how-to-contribute).*
+*Esta página pone en el centro los conocimientos de las personas con discapacidad y se basa en la organización y la defensa de las personas gordas con discapacidad. Mereces atención de salud con cualquier talla. El sesgo de peso es discriminación médica. Para preguntas o para sugerir agregados, consulta [Cómo Contribuir](/es/start/contribute).*
 
 ---
 

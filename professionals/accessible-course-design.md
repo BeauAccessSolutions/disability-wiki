@@ -63,4 +63,4 @@ The practical version of this: **accommodation letters are a floor, not a ceilin
 
 ## Contribute to This Page
 
-Disabled students, instructors, and disability-services staff: if a practice here misses the mark, or you've built access into a course in a way that worked, please add it — especially approaches for disciplines and class formats not well represented here. See [How to Contribute](/glossary/how-to-contribute).
+Disabled students, instructors, and disability-services staff: if a practice here misses the mark, or you've built access into a course in a way that worked, please add it — especially approaches for disciplines and class formats not well represented here. See [How to Contribute](/start/contribute).

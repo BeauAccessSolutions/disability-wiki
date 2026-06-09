@@ -411,7 +411,7 @@ Many disabled people experience ongoing system harm while trying to heal from pa
 
 ---
 
-*This page centers disabled people's expertise and is informed by disabled-led organizing globally. Disabled people are not traumatized by being disabled—they're traumatized by how they're treated. Healing requires both individual support and collective transformation of the systems that cause harm. For questions or to suggest additions, see [How to Contribute](/glossary/how-to-contribute).*
+*This page centers disabled people's expertise and is informed by disabled-led organizing globally. Disabled people are not traumatized by being disabled—they're traumatized by how they're treated. Healing requires both individual support and collective transformation of the systems that cause harm. For questions or to suggest additions, see [How to Contribute](/start/contribute).*
 
 ---
 

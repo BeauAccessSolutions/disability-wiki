@@ -483,7 +483,7 @@ Algunas personas usuarias necesitan tanto la ampliación como la lectura de pant
 
 ---
 
-*Esta página pone en el centro los conocimientos de las personas con discapacidad y se basa en el conocimiento de la comunidad ciega y con baja visión. El mejor lector de pantalla es el que funciona para tu vida. Para preguntas o para sugerir agregados, consulta [Cómo Contribuir](/es/glossary/how-to-contribute).*
+*Esta página pone en el centro los conocimientos de las personas con discapacidad y se basa en el conocimiento de la comunidad ciega y con baja visión. El mejor lector de pantalla es el que funciona para tu vida. Para preguntas o para sugerir agregados, consulta [Cómo Contribuir](/es/start/contribute).*
 
 ---
 

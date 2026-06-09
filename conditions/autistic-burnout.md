@@ -121,4 +121,4 @@ If you're thinking about suicide or are in crisis, please reach out: in the US, 
 
 ## Contribute to This Page
 
-This page especially needs the expertise of autistic people who've lived through burnout. If you can strengthen or correct it — including what recovery actually looked like for you — see [How to Contribute](/glossary/how-to-contribute).
+This page especially needs the expertise of autistic people who've lived through burnout. If you can strengthen or correct it — including what recovery actually looked like for you — see [How to Contribute](/start/contribute).

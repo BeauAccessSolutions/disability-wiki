@@ -172,7 +172,7 @@ This archive grows through community contributions. If you know of studies—esp
 - Research led by disabled researchers
 - Intersectional research (disability + race, gender, class, etc.)
 
-To suggest additions, see [How to Contribute](/glossary/how-to-contribute).
+To suggest additions, see [How to Contribute](/start/contribute).
 
 ---
 
@@ -224,7 +224,7 @@ When using research from this archive, cite original authors appropriately. Be e
 
 ---
 
-*This archive centers disabled people's expertise and aims to make disability research accessible to communities who can use it. For questions or to suggest additions, see [How to Contribute](/glossary/how-to-contribute).*
+*This archive centers disabled people's expertise and aims to make disability research accessible to communities who can use it. For questions or to suggest additions, see [How to Contribute](/start/contribute).*
 
 ---
 

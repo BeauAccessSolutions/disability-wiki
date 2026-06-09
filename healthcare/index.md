@@ -233,7 +233,7 @@ Have you found a disability-aware provider? Know about a healthcare barrier that
 
 We welcome contributions, especially from disabled people with different disabilities and from communities experiencing healthcare disparities.
 
-[Contribute →](/glossary/how-to-contribute)
+[Contribute →](/start/contribute)
 
 ---
 

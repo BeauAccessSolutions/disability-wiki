@@ -413,7 +413,7 @@ Esto no son errores: son características intencionadas:
 
 ---
 
-*Esta página pone en el centro los conocimientos de las personas con discapacidad y se basa en la organización liderada por personas con discapacidad a nivel global. Las personas con discapacidad son pobres porque las políticas las empobrecen. La pobreza no es una consecuencia inevitable de la discapacidad: es una decisión política que se puede cambiar. Para preguntas o para sugerir agregados, consulta [Cómo Contribuir](/es/glossary/how-to-contribute).*
+*Esta página pone en el centro los conocimientos de las personas con discapacidad y se basa en la organización liderada por personas con discapacidad a nivel global. Las personas con discapacidad son pobres porque las políticas las empobrecen. La pobreza no es una consecuencia inevitable de la discapacidad: es una decisión política que se puede cambiar. Para preguntas o para sugerir agregados, consulta [Cómo Contribuir](/es/start/contribute).*
 
 ---
 

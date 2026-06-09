@@ -16,7 +16,7 @@ Celebrating disabled athletes across sports, eras, and disability types—Paraly
 
 ## About This Directory
 
-This directory highlights disabled athletes who have competed at high levels and/or significantly influenced disability sports. It's always growing—suggest additions via [How to Contribute](/glossary/how-to-contribute).
+This directory highlights disabled athletes who have competed at high levels and/or significantly influenced disability sports. It's always growing—suggest additions via [How to Contribute](/start/contribute).
 
 **Note:** Not all athletes identify as disabled or with the disability community. We respect individual identity while documenting disability sports history.
 
@@ -344,7 +344,7 @@ To suggest additions:
 2. **Include:** Name, sport, country, disability (if public), achievements
 3. **Verify information** with reliable sources
 
-See [How to Contribute](/glossary/how-to-contribute)
+See [How to Contribute](/start/contribute)
 
 ---
 

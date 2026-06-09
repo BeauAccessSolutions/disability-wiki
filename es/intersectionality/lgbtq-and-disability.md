@@ -80,4 +80,4 @@ Un daño común es verse forzada a poner en primer plano una sola identidad para
 
 ## Contribuye a esta página
 
-Esta página necesita especialmente los conocimientos y las historias de las personas LGBTQ+ con discapacidad: la cultura y la alegría, no solo las barreras. Si puedes fortalecerla o corregirla, consulta [Cómo Contribuir](/es/glossary/how-to-contribute).
+Esta página necesita especialmente los conocimientos y las historias de las personas LGBTQ+ con discapacidad: la cultura y la alegría, no solo las barreras. Si puedes fortalecerla o corregirla, consulta [Cómo Contribuir](/es/start/contribute).

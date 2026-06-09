@@ -444,7 +444,7 @@ You never have to share:
 
 ---
 
-*This page centers disabled people's expertise and is informed by disabled-led organizing globally. You have rights in education. Disclosure is a tool you can use strategically. For questions or to suggest additions, see [How to Contribute](/glossary/how-to-contribute).*
+*This page centers disabled people's expertise and is informed by disabled-led organizing globally. You have rights in education. Disclosure is a tool you can use strategically. For questions or to suggest additions, see [How to Contribute](/start/contribute).*
 
 ---
 

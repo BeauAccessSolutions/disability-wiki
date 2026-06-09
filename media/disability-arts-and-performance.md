@@ -418,7 +418,7 @@ To suggest additions:
 3. **Include website/social media if available**
 4. **Note art form** (theater, dance, visual, etc.)
 
-See [How to Contribute](/glossary/how-to-contribute)
+See [How to Contribute](/start/contribute)
 
 ---
 

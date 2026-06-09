@@ -36,7 +36,7 @@ Key books, articles, and resources referenced throughout the wiki. Includes work
 
 How to cite pages from this wiki in academic work or formal writing. Includes MLA, APA, Chicago, and Harvard formats.
 
-### [How to Contribute](/glossary/how-to-contribute)
+### [How to Contribute](/start/contribute)
 
 Instructions for contributing to the wiki. Covers different ways to contribute, the contribution process, and guidelines for content.
 
@@ -61,7 +61,7 @@ Standards maintained across the wiki. Covers plain language, accessibility, voic
 [Bibliography →](/glossary/bibliography)
 
 ### I want to contribute content
-[How to Contribute →](/glossary/how-to-contribute)
+[How to Contribute →](/start/contribute)
 
 ### I want to understand wiki standards
 [Editorial Guidelines →](/glossary/editorial-guidelines)

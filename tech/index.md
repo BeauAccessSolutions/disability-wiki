@@ -311,7 +311,7 @@ Have you found accessible tech? Know about a website with barriers? Create acces
 
 We welcome contributions from disabled technologists, developers, content creators, and accessibility advocates.
 
-[Contribute →](/glossary/how-to-contribute)
+[Contribute →](/start/contribute)
 
 ---
 

@@ -16,7 +16,7 @@ Celebramos a las personas atletas con discapacidad de distintos deportes, época
 
 ## Sobre este directorio
 
-Este directorio destaca a atletas con discapacidad que han competido a alto nivel o que han influido significativamente en el deporte para personas con discapacidad. Está siempre creciendo; sugiere agregados a través de [Cómo Contribuir](/es/glossary/how-to-contribute).
+Este directorio destaca a atletas con discapacidad que han competido a alto nivel o que han influido significativamente en el deporte para personas con discapacidad. Está siempre creciendo; sugiere agregados a través de [Cómo Contribuir](/es/start/contribute).
 
 **Nota:** No todas las personas atletas se identifican como personas con discapacidad ni con la comunidad de personas con discapacidad. Respetamos la identidad individual mientras documentamos la historia del deporte para personas con discapacidad.
 
@@ -344,7 +344,7 @@ Para sugerir agregados:
 2. **Incluye:** nombre, deporte, país, discapacidad (si es pública), logros
 3. **Verifica la información** con fuentes confiables
 
-Consulta [Cómo Contribuir](/es/glossary/how-to-contribute)
+Consulta [Cómo Contribuir](/es/start/contribute)
 
 ---
 

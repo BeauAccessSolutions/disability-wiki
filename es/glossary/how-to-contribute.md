@@ -1,6 +1,6 @@
 ---
-title: Cómo contribuir
-description: ¡Gracias por ayudar a construir este recurso! Tu voz importa, especialmente si tienes experiencia vivida.
+title: Guía de contribución técnica
+description: Para quienes editan el wiki directamente con Git: el flujo de fork, rama, edición y pull request. Para contribuir por correo, consulta Cómo Contribuir.
 published: true
 date: 2026-06-05T20:35:05.786Z
 tags: 
@@ -8,9 +8,11 @@ editor: markdown
 dateCreated: 2026-01-11T19:41:38.594Z
 ---
 
-# Cómo contribuir
+# Guía de contribución técnica
 
-¡Nos alegra que te interese contribuir! Así funciona el proceso de contribución para este wiki:
+Esta guía es para quienes quieren **editar el wiki directamente con Git**: hacer fork, crear ramas y abrir pull requests. Si prefieres simplemente enviar contenido, comentarios o correcciones por correo (sin conocimientos técnicos), consulta **[Cómo Contribuir](/es/start/contribute)**.
+
+Así funciona el flujo de edición directa:
 
 ## Pasos para contribuir
 

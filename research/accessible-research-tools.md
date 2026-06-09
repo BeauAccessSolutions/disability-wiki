@@ -215,7 +215,7 @@ Making research accessible:
 
 ---
 
-*This page centers disabled people's expertise and supports research practices that include disabled people as full participants. For questions or to suggest additions, see [How to Contribute](/glossary/how-to-contribute).*
+*This page centers disabled people's expertise and supports research practices that include disabled people as full participants. For questions or to suggest additions, see [How to Contribute](/start/contribute).*
 
 ---
 

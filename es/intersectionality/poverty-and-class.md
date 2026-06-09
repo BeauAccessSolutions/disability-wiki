@@ -65,4 +65,4 @@ Pero la pobreza es una condición impuesta, no una identidad. Las personas con d
 
 ## Contribuye a esta página
 
-¿Tienes experiencia vivida o conocimientos que podrían fortalecer esta página? Damos especial bienvenida a las perspectivas de personas con discapacidad que han vivido en la pobreza y han sorteado estos sistemas en carne propia. Consulta [Cómo Contribuir](/es/glossary/how-to-contribute).
+¿Tienes experiencia vivida o conocimientos que podrían fortalecer esta página? Damos especial bienvenida a las perspectivas de personas con discapacidad que han vivido en la pobreza y han sorteado estos sistemas en carne propia. Consulta [Cómo Contribuir](/es/start/contribute).

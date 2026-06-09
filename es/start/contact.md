@@ -52,7 +52,7 @@ DisabilityWiki está hecho por y para personas con discapacidad. Damos la bienve
 
 ## Contribuye al wiki
 
-¿Quieres ayudar a construir este recurso? Consulta nuestra página [Cómo Contribuir](/es/glossary/how-to-contribute) para conocer:
+¿Quieres ayudar a construir este recurso? Consulta nuestra página [Cómo Contribuir](/es/start/contribute) para conocer:
 
 - Las pautas para contribuir con contenido
 - Cómo sugerir ediciones

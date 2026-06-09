@@ -408,7 +408,7 @@ Las barreras de los seguros agravan otras formas de discriminación:
 
 ---
 
-*Esta página pone en el centro los conocimientos de las personas con discapacidad y se basa en la organización liderada por personas con discapacidad a nivel global. Los sistemas de seguros están diseñados para ser difíciles; sobrevivirlos no es un logro personal, sino una lucha colectiva. Para preguntas o para sugerir agregados, consulta [Cómo Contribuir](/es/glossary/how-to-contribute).*
+*Esta página pone en el centro los conocimientos de las personas con discapacidad y se basa en la organización liderada por personas con discapacidad a nivel global. Los sistemas de seguros están diseñados para ser difíciles; sobrevivirlos no es un logro personal, sino una lucha colectiva. Para preguntas o para sugerir agregados, consulta [Cómo Contribuir](/es/start/contribute).*
 
 ---
 

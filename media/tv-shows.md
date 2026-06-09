@@ -302,7 +302,7 @@ To suggest additions:
 3. **Include streaming availability** if known
 4. **Flag representation concerns**
 
-See [How to Contribute](/glossary/how-to-contribute)
+See [How to Contribute](/start/contribute)
 
 ---
 

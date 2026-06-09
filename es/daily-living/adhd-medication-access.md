@@ -103,4 +103,4 @@ Es comprensible sentirse desesperado durante un período sin medicación. Pero c
 
 ## Contribuye a esta página
 
-¿Conoces una estrategia que funcione, un programa de asistencia al paciente o una corrección, especialmente algo sensible al tiempo sobre la escasez actual? Consulta [Cómo Contribuir](/es/glossary/how-to-contribute).
+¿Conoces una estrategia que funcione, un programa de asistencia al paciente o una corrección, especialmente algo sensible al tiempo sobre la escasez actual? Consulta [Cómo Contribuir](/es/start/contribute).

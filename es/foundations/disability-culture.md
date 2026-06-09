@@ -305,6 +305,6 @@ Damos especial bienvenida a historias personales sobre encontrar comunidad de di
 
 ---
 
-*Esta página pone en el centro los conocimientos de las personas con discapacidad y se basa en la organización liderada por personas con discapacidad a nivel global. La cultura de la discapacidad es nuestra: creada por nosotras y nosotros, para nosotras y nosotros, y en constante evolución. Para preguntas o para sugerir agregados, consulta [Cómo Contribuir](/es/glossary/how-to-contribute).*
+*Esta página pone en el centro los conocimientos de las personas con discapacidad y se basa en la organización liderada por personas con discapacidad a nivel global. La cultura de la discapacidad es nuestra: creada por nosotras y nosotros, para nosotras y nosotros, y en constante evolución. Para preguntas o para sugerir agregados, consulta [Cómo Contribuir](/es/start/contribute).*
 
 **Última actualización**: noviembre de 2025

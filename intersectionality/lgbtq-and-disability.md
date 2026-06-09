@@ -80,4 +80,4 @@ A common harm is being forced to foreground one identity to get help: LGBTQ+ spa
 
 ## Contribute to This Page
 
-This page especially needs the expertise and stories of LGBTQ+ disabled people — the culture and joy, not only the barriers. If you can strengthen or correct it, see [How to Contribute](/glossary/how-to-contribute).
+This page especially needs the expertise and stories of LGBTQ+ disabled people — the culture and joy, not only the barriers. If you can strengthen or correct it, see [How to Contribute](/start/contribute).

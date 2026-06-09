@@ -481,7 +481,7 @@ Los **distribuidores de equipo de movilidad** (no solo los proveedores de DME):
 
 ---
 
-*Esta página pone en el centro los conocimientos de las personas con discapacidad y se basa en la organización liderada por personas con discapacidad a nivel global. La movilidad es libertad. Los sistemas de reparación deberían servir a esa libertad, no obstruirla. Para preguntas o para sugerir agregados, consulta [Cómo Contribuir](/es/glossary/how-to-contribute).*
+*Esta página pone en el centro los conocimientos de las personas con discapacidad y se basa en la organización liderada por personas con discapacidad a nivel global. La movilidad es libertad. Los sistemas de reparación deberían servir a esa libertad, no obstruirla. Para preguntas o para sugerir agregados, consulta [Cómo Contribuir](/es/start/contribute).*
 
 ---
 

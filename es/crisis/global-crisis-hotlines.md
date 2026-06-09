@@ -160,7 +160,7 @@ Algunos países tienen páginas completas de recursos de crisis con contexto loc
 - **[Ayuda en crisis en Nigeria](/es/crisis/crisis-hotlines/africa/nigeria)** - Servicios de crisis completos de Nigeria
 - **[Ayuda en crisis en Sudáfrica](/es/crisis/crisis-hotlines/africa/south-africa)** - Recursos completos de Sudáfrica
 
-*Próximamente habrá más páginas detalladas por país. Si te gustaría contribuir con una página detallada para tu país, consulta [Cómo Contribuir](/es/glossary/how-to-contribute).*
+*Próximamente habrá más páginas detalladas por país. Si te gustaría contribuir con una página detallada para tu país, consulta [Cómo Contribuir](/es/start/contribute).*
 
 ---
 
@@ -405,7 +405,7 @@ Razones por las que los servicios pueden ser perjudiciales:
 
 **¿Conoces un recurso de crisis que debería estar en la lista?**
 
-Este wiki es impulsado por la comunidad. Consulta [Cómo Contribuir](/es/glossary/how-to-contribute) para información sobre:
+Este wiki es impulsado por la comunidad. Consulta [Cómo Contribuir](/es/start/contribute) para información sobre:
 - Sugerir nuevos recursos
 - Actualizar información desactualizada
 - Agregar detalles para países o idiomas específicos

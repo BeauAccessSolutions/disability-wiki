@@ -67,4 +67,4 @@ La versión práctica de esto: **las cartas de adaptación son un piso, no un te
 
 ## Contribuye a esta página
 
-Estudiantes con discapacidad, personal docente y personal de servicios para personas con discapacidad: si algo aquí no da en el blanco, o si has integrado el acceso en un curso de una forma que funcionó, por favor agrégalo — sobre todo enfoques para disciplinas y formatos de clase poco representados aquí. Consulta [Cómo contribuir](/es/glossary/how-to-contribute).
+Estudiantes con discapacidad, personal docente y personal de servicios para personas con discapacidad: si algo aquí no da en el blanco, o si has integrado el acceso en un curso de una forma que funcionó, por favor agrégalo — sobre todo enfoques para disciplinas y formatos de clase poco representados aquí. Consulta [Cómo contribuir](/es/start/contribute).

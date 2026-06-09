@@ -52,7 +52,7 @@ Use this for:
 
 ## Contribute to the Wiki
 
-Want to help build this resource? See our [How to Contribute](/glossary/how-to-contribute) page for:
+Want to help build this resource? See our [How to Contribute](/start/contribute) page for:
 
 - Content contribution guidelines
 - How to suggest edits

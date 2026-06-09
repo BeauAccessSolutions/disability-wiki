@@ -20,7 +20,7 @@ All disabled people deserve to see themselves reflected in literature—not as o
 
 ## About This List
 
-This list prioritizes **Own Voices** (disabled authors writing about disability), authentic representation, and diverse global perspectives. It's always growing—suggest additions via [How to Contribute](/glossary/how-to-contribute).
+This list prioritizes **Own Voices** (disabled authors writing about disability), authentic representation, and diverse global perspectives. It's always growing—suggest additions via [How to Contribute](/start/contribute).
 
 **Labels used below** (after an entry):
 - *Own voices* — the author has disclosed a disability
@@ -337,7 +337,7 @@ Start here. These are foundational texts for understanding disability rights, cu
 
 ### Mystery & Thriller
 
-*Section in development. Suggest additions via [How to Contribute](/glossary/how-to-contribute).*
+*Section in development. Suggest additions via [How to Contribute](/start/contribute).*
 
 ### Historical Fiction
 
@@ -528,7 +528,7 @@ Start here. These are foundational texts for understanding disability rights, cu
 
 ### Indigenous Authors
 
-*Section in development. Suggest additions via [How to Contribute](/glossary/how-to-contribute).*
+*Section in development. Suggest additions via [How to Contribute](/start/contribute).*
 
 ### Latinx Disabled Authors
 
@@ -634,7 +634,7 @@ This list is always growing. To suggest additions:
 3. **Explain why representation is positive/authentic**
 4. **Note any concerns** about problematic elements
 
-See [How to Contribute](/glossary/how-to-contribute)
+See [How to Contribute](/start/contribute)
 
 ---
 

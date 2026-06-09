@@ -443,7 +443,7 @@ Have you navigated disability + other identities? Know about communities, resour
 
 We particularly welcome contributions from multiply-marginalized disabled people, especially from Global South communities, disabled people of color, trans/nonbinary disabled people, and disabled people with lived experience of poverty, incarceration, or homelessness.
 
-[Contribute →](/glossary/how-to-contribute)
+[Contribute →](/start/contribute)
 
 ---
 

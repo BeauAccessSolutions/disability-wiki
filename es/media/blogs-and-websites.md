@@ -321,7 +321,7 @@ Para sugerir agregados:
 3. **Incluye la URL**
 4. **Indica el área de enfoque** (noticias, personal, académico, etc.)
 
-Consulta [Cómo Contribuir](/es/glossary/how-to-contribute)
+Consulta [Cómo Contribuir](/es/start/contribute)
 
 ---
 

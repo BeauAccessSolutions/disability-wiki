@@ -107,4 +107,4 @@ A note on what's missing: **Indigenous-authored, book-length** disability work r
 
 ## Contribute to This Page
 
-This list is incomplete by design, and the gaps (Indigenous-authored work, Global-South voices, recent self-advocacy writing) matter most. If you're a disabled, Mad, Deaf, or chronically ill reader or writer and know work that belongs here — especially own-voices work we've missed — please add it. See [How to Contribute](/glossary/how-to-contribute).
+This list is incomplete by design, and the gaps (Indigenous-authored work, Global-South voices, recent self-advocacy writing) matter most. If you're a disabled, Mad, Deaf, or chronically ill reader or writer and know work that belongs here — especially own-voices work we've missed — please add it. See [How to Contribute](/start/contribute).

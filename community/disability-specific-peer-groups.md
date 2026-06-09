@@ -104,4 +104,4 @@ People who use augmentative and alternative communication (AAC) have their own c
 
 ## Contribute to This Page
 
-If you help run or belong to a disability-led peer community—especially one led by multiply-marginalized people or based outside the US—we'd love your help making this map more accurate and more complete. Tell us what's missing or out of date. See [How to Contribute](/glossary/how-to-contribute).
+If you help run or belong to a disability-led peer community—especially one led by multiply-marginalized people or based outside the US—we'd love your help making this map more accurate and more complete. Tell us what's missing or out of date. See [How to Contribute](/start/contribute).

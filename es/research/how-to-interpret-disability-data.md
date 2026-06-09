@@ -169,7 +169,7 @@ Este marco apoya una interpretación que mira más allá del impedimento individ
 
 ---
 
-*Esta página pone en el centro los conocimientos de las personas con discapacidad y apoya una interpretación crítica y basada en derechos de los datos sobre discapacidad. Para preguntas o para sugerir agregados, consulta [Cómo Contribuir](/es/glossary/how-to-contribute).*
+*Esta página pone en el centro los conocimientos de las personas con discapacidad y apoya una interpretación crítica y basada en derechos de los datos sobre discapacidad. Para preguntas o para sugerir agregados, consulta [Cómo Contribuir](/es/start/contribute).*
 
 ---
 

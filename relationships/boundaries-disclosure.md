@@ -474,7 +474,7 @@ Multiple marginalized identities affect disclosure:
 
 ---
 
-*This page centers disabled people's expertise and is informed by disabled-led organizing globally. You get to decide what you share, with whom, and when. Your information is yours. For questions or to suggest additions, see [How to Contribute](/glossary/how-to-contribute).*
+*This page centers disabled people's expertise and is informed by disabled-led organizing globally. You get to decide what you share, with whom, and when. Your information is yours. For questions or to suggest additions, see [How to Contribute](/start/contribute).*
 
 ---
 

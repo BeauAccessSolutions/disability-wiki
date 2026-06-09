@@ -311,7 +311,7 @@ Tu privacidad y tu autonomía importan.
 
 Damos la bienvenida a las contribuciones de personas con discapacidad tecnólogas, desarrolladoras, creadoras de contenido y defensoras de la accesibilidad.
 
-[Contribuye →](/es/glossary/how-to-contribute)
+[Contribuye →](/es/start/contribute)
 
 ---
 

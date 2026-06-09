@@ -16,7 +16,7 @@ Podcasts by and for disabled people covering news, culture, storytelling, advoca
 
 ## About This List
 
-This list prioritizes podcasts **hosted by disabled people** about disability experiences. It's always growing—suggest additions via [How to Contribute](/glossary/how-to-contribute).
+This list prioritizes podcasts **hosted by disabled people** about disability experiences. It's always growing—suggest additions via [How to Contribute](/start/contribute).
 
 **Labels used below** (after an entry):
 - *Disabled host* — hosted by disabled person(s)
@@ -329,7 +329,7 @@ To suggest additions:
 3. **Include RSS feed or website** if possible
 4. **Note if transcripts available**
 
-See [How to Contribute](/glossary/how-to-contribute)
+See [How to Contribute](/start/contribute)
 
 ---
 

@@ -271,7 +271,7 @@ Estos son problemas de acceso que es necesario abordar.
 
 Damos la bienvenida a las contribuciones, en especial de personas con experiencia vivida de múltiples discapacidades, personas de bajos ingresos y comunidades que enfrentan barreras adicionales en los sistemas de prestaciones.
 
-[Contribuir →](/es/glossary/how-to-contribute)
+[Contribuir →](/es/start/contribute)
 
 ---
 

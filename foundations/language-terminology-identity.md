@@ -83,4 +83,4 @@ Language will keep changing. That's a sign the community is alive, not a problem
 
 ## Contribute to This Page
 
-Language is community-defined and regional—what's affirming in one community or country may differ in another. If a term here is out of date or misses how your community uses it, please tell us, especially if you're writing from outside the US or from a community whose language is underrepresented here. See [How to Contribute](/glossary/how-to-contribute).
+Language is community-defined and regional—what's affirming in one community or country may differ in another. If a term here is out of date or misses how your community uses it, please tell us, especially if you're writing from outside the US or from a community whose language is underrepresented here. See [How to Contribute](/start/contribute).

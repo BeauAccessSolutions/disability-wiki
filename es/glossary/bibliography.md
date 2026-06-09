@@ -15,7 +15,7 @@ dateCreated: 2026-01-07T20:05:13.279Z
 
 Esta bibliografía reúne las fuentes utilizadas en todo DisabilityWiki. Está organizada por tema e incluye marcos internacionales, organizaciones lideradas por personas con discapacidad, recursos gubernamentales, fuentes académicas y materiales comunitarios.
 
-Este es un documento vivo. Para orientación sobre cómo agregar fuentes, consulta [Cómo Contribuir](/es/glossary/how-to-contribute).
+Este es un documento vivo. Para orientación sobre cómo agregar fuentes, consulta [Cómo Contribuir](/es/start/contribute).
 
 ---
 
@@ -548,7 +548,7 @@ Para sugerir agregados a esta bibliografía:
 3. Incluye la información de citación completa
 4. Indica si la fuente es de acceso abierto o requiere suscripción o compra
 
-Consulta [Cómo Contribuir](/es/glossary/how-to-contribute) para conocer las pautas de envío.
+Consulta [Cómo Contribuir](/es/start/contribute) para conocer las pautas de envío.
 
 ---
 

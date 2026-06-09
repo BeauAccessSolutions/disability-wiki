@@ -208,7 +208,7 @@ Los marcos de derechos de las personas con discapacidad y las estrategias de def
 
 Damos la bienvenida a las contribuciones, especialmente de personas con discapacidad, personas racializadas, personas locas (Mad) y quienes navegan identidades múltiplemente marginadas en los sistemas de derechos de la discapacidad.
 
-[Contribuye →](/es/glossary/how-to-contribute)
+[Contribuye →](/es/start/contribute)
 
 ---
 

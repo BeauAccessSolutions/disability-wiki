@@ -443,7 +443,7 @@ Si los recursos sobre discapacidad no incluyen estas voces, están incompletos.
 
 Damos especial bienvenida a las contribuciones de personas con discapacidad con marginación múltiple, especialmente de comunidades del Sur Global, personas con discapacidad racializadas, personas con discapacidad trans/no binarias y personas con discapacidad con experiencia vivida de pobreza, encarcelamiento o falta de vivienda.
 
-[Contribuye →](/es/glossary/how-to-contribute)
+[Contribuye →](/es/start/contribute)
 
 ---
 

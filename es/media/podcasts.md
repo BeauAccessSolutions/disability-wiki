@@ -16,7 +16,7 @@ Pódcasts hechos por y para personas con discapacidad que abarcan noticias, cult
 
 ## Acerca de esta lista
 
-Esta lista da prioridad a los pódcasts **conducidos por personas con discapacidad** sobre las experiencias de la discapacidad. Está en constante crecimiento; sugiere agregados a través de [Cómo Contribuir](/es/glossary/how-to-contribute).
+Esta lista da prioridad a los pódcasts **conducidos por personas con discapacidad** sobre las experiencias de la discapacidad. Está en constante crecimiento; sugiere agregados a través de [Cómo Contribuir](/es/start/contribute).
 
 **Etiquetas usadas abajo** (después de cada entrada):
 - *Conducido por persona con discapacidad* — lo conduce una o varias personas con discapacidad
@@ -329,7 +329,7 @@ Para sugerir agregados:
 3. **Incluye el feed RSS o el sitio web** si es posible
 4. **Indica si hay transcripciones disponibles**
 
-Consulta [Cómo Contribuir](/es/glossary/how-to-contribute)
+Consulta [Cómo Contribuir](/es/start/contribute)
 
 ---
 

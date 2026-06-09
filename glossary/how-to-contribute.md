@@ -1,6 +1,6 @@
 ---
-title: How to Contribute
-description: Thank you for helping build this resource! Your voice—especially if you have lived experience—matters.
+title: Technical Contribution Guide
+description: For contributors editing the wiki directly via Git — the fork, branch, edit, and pull-request workflow. To contribute by email instead, see How to Contribute.
 published: true
 date: 2026-06-05T20:35:05.786Z
 tags: 
@@ -8,9 +8,11 @@ editor: markdown
 dateCreated: 2026-01-11T19:41:38.594Z
 ---
 
-# How to Contribute
+# Technical Contribution Guide
 
-We’re glad you’re interested in contributing! Here’s how the contribution process works for this wiki:
+This guide is for contributors who want to **edit the wiki directly via Git** — forking, branching, and opening pull requests. If you'd rather just send content, feedback, or corrections by email (no technical skills needed), see **[How to Contribute](/start/contribute)** instead.
+
+Here's how the direct-editing workflow works:
 
 ## Steps to Contribute
 

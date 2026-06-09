@@ -480,7 +480,7 @@ We welcome contributions from:
 - Global perspectives on healthcare and medical dismissal
 - Stories of healing from medical trauma
 
-Share through our [contribution form](/glossary/how-to-contribute).
+Share through our [contribution form](/start/contribute).
 
 ---
 
@@ -497,7 +497,7 @@ Share through our [contribution form](/glossary/how-to-contribute).
 
 ---
 
-*This page centers disabled people's expertise and is informed by disabled-led organizing globally. The strategies here come from disabled communities who have survived medical harm and built collective knowledge about navigating these systems. For questions or to suggest additions, see [How to Contribute](/glossary/how-to-contribute).*
+*This page centers disabled people's expertise and is informed by disabled-led organizing globally. The strategies here come from disabled communities who have survived medical harm and built collective knowledge about navigating these systems. For questions or to suggest additions, see [How to Contribute](/start/contribute).*
 
 ---
 

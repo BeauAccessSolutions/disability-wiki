@@ -181,7 +181,7 @@ Many programs offer online options, expanding access for disabled students and w
 
 ---
 
-*This page centers disabled people's expertise and highlights programs that use social and rights-based frameworks. For questions or to suggest additions, see [How to Contribute](/glossary/how-to-contribute).*
+*This page centers disabled people's expertise and highlights programs that use social and rights-based frameworks. For questions or to suggest additions, see [How to Contribute](/start/contribute).*
 
 ---
 

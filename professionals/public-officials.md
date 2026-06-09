@@ -425,7 +425,7 @@ Disability is diverse. One wheelchair user's approval doesn't mean the space wor
 
 ---
 
-*This page centers disabled people's expertise and is informed by disabled-led organizing globally. Good public service requires understanding that disabled constituents are full members of your community. For questions or to suggest additions, see [How to Contribute](/glossary/how-to-contribute).*
+*This page centers disabled people's expertise and is informed by disabled-led organizing globally. Good public service requires understanding that disabled constituents are full members of your community. For questions or to suggest additions, see [How to Contribute](/start/contribute).*
 
 ---
 

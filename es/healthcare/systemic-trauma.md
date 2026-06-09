@@ -411,7 +411,7 @@ Muchas personas con discapacidad viven daño sistémico continuo mientras intent
 
 ---
 
-*Esta página pone en el centro los conocimientos de las personas con discapacidad y se basa en la organización liderada por personas con discapacidad a nivel global. Las personas con discapacidad no viven trauma por tener una discapacidad: lo viven por cómo se las trata. Sanar requiere tanto el apoyo individual como la transformación colectiva de los sistemas que causan daño. Para preguntas o para sugerir agregados, consulta [Cómo Contribuir](/es/glossary/how-to-contribute).*
+*Esta página pone en el centro los conocimientos de las personas con discapacidad y se basa en la organización liderada por personas con discapacidad a nivel global. Las personas con discapacidad no viven trauma por tener una discapacidad: lo viven por cómo se las trata. Sanar requiere tanto el apoyo individual como la transformación colectiva de los sistemas que causan daño. Para preguntas o para sugerir agregados, consulta [Cómo Contribuir](/es/start/contribute).*
 
 ---
 

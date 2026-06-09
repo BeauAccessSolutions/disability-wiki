@@ -422,7 +422,7 @@ To suggest additions:
 3. **Academic resources** on media analysis
 4. **Community analysis** links
 
-See [How to Contribute](/glossary/how-to-contribute)
+See [How to Contribute](/start/contribute)
 
 ---
 

@@ -319,7 +319,7 @@ Al mismo tiempo, las personas con discapacidad no deberían sentirse obligadas a
 
 Damos la bienvenida a las contribuciones de personas trabajadoras con discapacidad, profesionales del acompañamiento laboral, profesionales de Recursos Humanos y otras personas vinculadas al empleo de personas con discapacidad.
 
-[Contribuir →](/es/glossary/how-to-contribute)
+[Contribuir →](/es/start/contribute)
 
 ---
 

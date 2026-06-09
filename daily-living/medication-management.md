@@ -313,7 +313,7 @@ Pharmacists are often more accessible than doctors and can:
 
 ---
 
-*This page centers disabled people's expertise and is informed by disabled-led organizing globally. Medication management failures are system failures, not personal ones. For questions or to suggest additions, see [How to Contribute](/glossary/how-to-contribute).*
+*This page centers disabled people's expertise and is informed by disabled-led organizing globally. Medication management failures are system failures, not personal ones. For questions or to suggest additions, see [How to Contribute](/start/contribute).*
 
 ---
 

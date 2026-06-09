@@ -72,4 +72,4 @@ Belonging in disability community is not conditional on belief. Leaving a religi
 
 ## Contribute to This Page
 
-This page especially needs disabled people of faith (across more than one tradition) and secular disabled readers. If you can strengthen or correct it, see [How to Contribute](/glossary/how-to-contribute).
+This page especially needs disabled people of faith (across more than one tradition) and secular disabled readers. If you can strengthen or correct it, see [How to Contribute](/start/contribute).

@@ -281,7 +281,7 @@ To suggest additions:
 3. **Include username** with @ symbol
 4. **Note approximate follower count** if very large (100K+)
 
-See [How to Contribute](/glossary/how-to-contribute)
+See [How to Contribute](/start/contribute)
 
 ---
 

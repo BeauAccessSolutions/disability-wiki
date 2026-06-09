@@ -441,7 +441,7 @@ Some privacy-focused browsers may have fewer accessibility features or testing:
 
 ---
 
-*This page centers disabled people's expertise and is informed by what AT users have learned through daily use. Browser choice matters. Test what works for you. For questions or to suggest additions, see [How to Contribute](/glossary/how-to-contribute).*
+*This page centers disabled people's expertise and is informed by what AT users have learned through daily use. Browser choice matters. Test what works for you. For questions or to suggest additions, see [How to Contribute](/start/contribute).*
 
 ---
 

@@ -436,7 +436,7 @@ Disabled people can assert rights under both federal and state law, and strategi
 
 ---
 
-*This page centers disabled people's expertise and is informed by disabled-led organizing globally. The ADA emerged from disabled people's activism and continues to be shaped by disabled-led advocacy, litigation, and organizing. For questions or to suggest additions, see [How to Contribute](/glossary/how-to-contribute).*
+*This page centers disabled people's expertise and is informed by disabled-led organizing globally. The ADA emerged from disabled people's activism and continues to be shaped by disabled-led advocacy, litigation, and organizing. For questions or to suggest additions, see [How to Contribute](/start/contribute).*
 
 ---
 

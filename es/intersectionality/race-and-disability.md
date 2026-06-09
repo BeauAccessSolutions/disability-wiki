@@ -79,4 +79,4 @@ La eugenesia y la esterilización forzada apuntaron a las comunidades racializad
 
 ## Contribuye a esta página
 
-Esta página necesita especialmente los conocimientos y las historias de las personas con discapacidad racializadas, incluida la alegría y la cultura, no solo la lucha. Si puedes fortalecerla o corregirla, consulta [Cómo Contribuir](/es/glossary/how-to-contribute).
+Esta página necesita especialmente los conocimientos y las historias de las personas con discapacidad racializadas, incluida la alegría y la cultura, no solo la lucha. Si puedes fortalecerla o corregirla, consulta [Cómo Contribuir](/es/start/contribute).

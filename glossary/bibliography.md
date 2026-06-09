@@ -15,7 +15,7 @@ dateCreated: 2026-01-07T20:05:13.279Z
 
 This bibliography compiles sources used throughout DisabilityWiki. It is organized by topic and includes international frameworks, disability-led organizations, government resources, academic sources, and community materials.
 
-This is a living document. For guidance on adding sources, see [How to Contribute](/glossary/how-to-contribute).
+This is a living document. For guidance on adding sources, see [How to Contribute](/start/contribute).
 
 ---
 
@@ -548,7 +548,7 @@ To suggest additions to this bibliography:
 3. Include complete citation information
 4. Note if the source is open-access or requires subscription/purchase
 
-See [How to Contribute](/glossary/how-to-contribute) for submission guidelines.
+See [How to Contribute](/start/contribute) for submission guidelines.
 
 ---
 

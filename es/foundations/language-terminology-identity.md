@@ -83,4 +83,4 @@ El lenguaje seguirá cambiando. Eso es señal de que la comunidad está viva, no
 
 ## Contribuye a esta página
 
-El lenguaje se define en comunidad y es regional: lo que es afirmativo en una comunidad o país puede diferir en otro. Si algún término aquí está desactualizado o no refleja cómo lo usa tu comunidad, por favor cuéntanos, sobre todo si escribes desde fuera de EE. UU. o desde una comunidad cuyo lenguaje está poco representado aquí. Consulta [Cómo contribuir](/es/glossary/how-to-contribute).
+El lenguaje se define en comunidad y es regional: lo que es afirmativo en una comunidad o país puede diferir en otro. Si algún término aquí está desactualizado o no refleja cómo lo usa tu comunidad, por favor cuéntanos, sobre todo si escribes desde fuera de EE. UU. o desde una comunidad cuyo lenguaje está poco representado aquí. Consulta [Cómo contribuir](/es/start/contribute).

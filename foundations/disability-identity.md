@@ -382,7 +382,7 @@ Words like "cripple," "crip," "mad," "crazy" have been reclaimed by some disable
 
 ---
 
-*This page centers disabled people's expertise and is informed by disabled-led organizing globally. Disability identity is yours to claim, question, or understand in your own way. You don't need anyone's permission. For questions or to suggest additions, see [How to Contribute](/glossary/how-to-contribute).*
+*This page centers disabled people's expertise and is informed by disabled-led organizing globally. Disability identity is yours to claim, question, or understand in your own way. You don't need anyone's permission. For questions or to suggest additions, see [How to Contribute](/start/contribute).*
 
 ---
 

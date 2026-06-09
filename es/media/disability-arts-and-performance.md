@@ -418,7 +418,7 @@ Para sugerir agregados:
 3. **Incluye el sitio web o las redes sociales si están disponibles**
 4. **Indica la forma de arte** (teatro, danza, visual, etc.)
 
-Consulta [Cómo Contribuir](/es/glossary/how-to-contribute)
+Consulta [Cómo Contribuir](/es/start/contribute)
 
 ---
 

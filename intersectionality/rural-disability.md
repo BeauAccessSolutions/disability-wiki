@@ -74,4 +74,4 @@ Honest context about closures and poverty belongs *next to*, not in place of, ru
 
 ## Contribute to This Page
 
-This page especially needs the expertise and stories of rural disabled people. If you can strengthen or correct it — including non-U.S. perspectives — see [How to Contribute](/glossary/how-to-contribute).
+This page especially needs the expertise and stories of rural disabled people. If you can strengthen or correct it — including non-U.S. perspectives — see [How to Contribute](/start/contribute).

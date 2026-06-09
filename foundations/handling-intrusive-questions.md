@@ -378,7 +378,7 @@ Questions cross into harassment when:
 
 ---
 
-*This page centers disabled people's expertise and is informed by disabled-led organizing globally. Your body is not public property. Your medical history is not public information. Your energy is not owed to anyone's curiosity. For questions or to suggest additions, see [How to Contribute](/glossary/how-to-contribute).*
+*This page centers disabled people's expertise and is informed by disabled-led organizing globally. Your body is not public property. Your medical history is not public information. Your energy is not owed to anyone's curiosity. For questions or to suggest additions, see [How to Contribute](/start/contribute).*
 
 ---
 

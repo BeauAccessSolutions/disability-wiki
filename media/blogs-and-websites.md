@@ -321,7 +321,7 @@ To suggest additions:
 3. **Include URL**
 4. **Note focus area** (news, personal, academic, etc.)
 
-See [How to Contribute](/glossary/how-to-contribute)
+See [How to Contribute](/start/contribute)
 
 ---
 

@@ -481,7 +481,7 @@ Disabled people have learned to:
 
 ---
 
-*This page centers disabled people's expertise and is informed by disabled-led organizing globally. Mobility is freedom. Repair systems should serve that freedom, not obstruct it. For questions or to suggest additions, see [How to Contribute](/glossary/how-to-contribute).*
+*This page centers disabled people's expertise and is informed by disabled-led organizing globally. Mobility is freedom. Repair systems should serve that freedom, not obstruct it. For questions or to suggest additions, see [How to Contribute](/start/contribute).*
 
 ---
 

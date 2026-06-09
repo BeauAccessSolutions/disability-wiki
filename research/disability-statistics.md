@@ -149,7 +149,7 @@ Disability data collection often faces significant problems:
 
 ---
 
-*This page centers disabled people's expertise and supports data collection that serves disabled communities. For questions or to suggest additions, see [How to Contribute](/glossary/how-to-contribute).*
+*This page centers disabled people's expertise and supports data collection that serves disabled communities. For questions or to suggest additions, see [How to Contribute](/start/contribute).*
 
 ---
 

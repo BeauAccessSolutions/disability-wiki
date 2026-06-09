@@ -18,7 +18,7 @@ Un directorio de personas con discapacidad que son artistas, escritoras, música
 
 Este directorio reúne en un solo lugar a personas creadoras con discapacidad para facilitar su descubrimiento. Todas las personas creadoras que figuran aquí son abiertamente personas con discapacidad y crean obra que puede estar o no centrada en la discapacidad.
 
-**Este directorio está en constante crecimiento.** Sugiere agregados a través de [Cómo Contribuir](/es/glossary/how-to-contribute).
+**Este directorio está en constante crecimiento.** Sugiere agregados a través de [Cómo Contribuir](/es/start/contribute).
 
 **Etiquetas usadas abajo**
 - *(fuera de EE. UU.)* — la persona creadora está radicada fuera de Estados Unidos
@@ -315,7 +315,7 @@ Para sugerir a otras personas creadoras:
 2. **Incluye la misma información anterior**
 3. **Verifica que estén cómodas con figurar en la lista**
 
-Consulta [Cómo Contribuir](/es/glossary/how-to-contribute)
+Consulta [Cómo Contribuir](/es/start/contribute)
 
 ---
 

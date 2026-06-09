@@ -465,7 +465,7 @@ See also:
 
 ---
 
-*This page centers disabled people's expertise and is informed by disabled-led organizing globally. Reddit communities are created and maintained by disabled people, and this page aims to help disabled people navigate these spaces safely while honoring the peer support and community they provide. For questions or to suggest additions, see [How to Contribute](/glossary/how-to-contribute).*
+*This page centers disabled people's expertise and is informed by disabled-led organizing globally. Reddit communities are created and maintained by disabled people, and this page aims to help disabled people navigate these spaces safely while honoring the peer support and community they provide. For questions or to suggest additions, see [How to Contribute](/start/contribute).*
 
 ---
 

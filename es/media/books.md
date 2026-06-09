@@ -20,7 +20,7 @@ Todas las personas con discapacidad merecen verse reflejadas en la literatura, n
 
 ## Sobre esta lista
 
-Esta lista prioriza las **voces propias (Own Voices)** (personas autoras con discapacidad que escriben sobre la discapacidad), la representación auténtica y diversas perspectivas globales. Está en constante crecimiento; sugiere agregados a través de [Cómo Contribuir](/es/glossary/how-to-contribute).
+Esta lista prioriza las **voces propias (Own Voices)** (personas autoras con discapacidad que escriben sobre la discapacidad), la representación auténtica y diversas perspectivas globales. Está en constante crecimiento; sugiere agregados a través de [Cómo Contribuir](/es/start/contribute).
 
 **Etiquetas usadas abajo** (después de cada entrada):
 - *Voz propia* — la persona autora ha revelado que tiene una discapacidad
@@ -337,7 +337,7 @@ Empieza aquí. Estos son textos fundamentales para comprender los derechos, la c
 
 ### Misterio y suspenso {#misterio-y-suspenso}
 
-*Sección en desarrollo. Sugiere agregados a través de [Cómo Contribuir](/es/glossary/how-to-contribute).*
+*Sección en desarrollo. Sugiere agregados a través de [Cómo Contribuir](/es/start/contribute).*
 
 ### Ficción histórica {#ficción-histórica}
 
@@ -528,7 +528,7 @@ Empieza aquí. Estos son textos fundamentales para comprender los derechos, la c
 
 ### Personas autoras indígenas {#personas-autoras-indígenas}
 
-*Sección en desarrollo. Sugiere agregados a través de [Cómo Contribuir](/es/glossary/how-to-contribute).*
+*Sección en desarrollo. Sugiere agregados a través de [Cómo Contribuir](/es/start/contribute).*
 
 ### Personas autoras latinas con discapacidad {#personas-autoras-latinas-con-discapacidad}
 
@@ -634,7 +634,7 @@ Esta lista está en constante crecimiento. Para sugerir agregados:
 3. **Explica por qué la representación es positiva/auténtica**
 4. **Indica cualquier preocupación** sobre elementos problemáticos
 
-Consulta [Cómo Contribuir](/es/glossary/how-to-contribute)
+Consulta [Cómo Contribuir](/es/start/contribute)
 
 ---
 

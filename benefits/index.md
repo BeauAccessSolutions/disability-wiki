@@ -271,7 +271,7 @@ Have you successfully navigated a benefits program? Know about a program that sh
 
 We welcome contributions, especially from people with lived experience of multiple disabilities, low-income people, and communities experiencing additional barriers in benefits systems.
 
-[Contribute →](/glossary/how-to-contribute)
+[Contribute →](/start/contribute)
 
 ---
 

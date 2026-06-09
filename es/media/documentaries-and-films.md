@@ -348,7 +348,7 @@ Para sugerir agregados:
 3. **Indica la disponibilidad en streaming** si la conoces
 4. **Señala las preocupaciones de representación** si son pertinentes
 
-Consulta [Cómo Contribuir](/es/glossary/how-to-contribute)
+Consulta [Cómo Contribuir](/es/start/contribute)
 
 ---
 

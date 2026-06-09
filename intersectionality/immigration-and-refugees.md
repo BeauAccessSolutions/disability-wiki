@@ -72,4 +72,4 @@ U.S. immigration law has excluded disabled people for well over a century:
 
 ## Contribute to This Page
 
-This page especially needs the expertise and stories of disabled immigrants, refugees, and asylum seekers. If you can strengthen or correct it — or help keep the fast-changing legal details current — see [How to Contribute](/glossary/how-to-contribute).
+This page especially needs the expertise and stories of disabled immigrants, refugees, and asylum seekers. If you can strengthen or correct it — or help keep the fast-changing legal details current — see [How to Contribute](/start/contribute).

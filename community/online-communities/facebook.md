@@ -577,7 +577,7 @@ See also:
 
 ---
 
-*This page centers disabled people's expertise and is informed by disabled-led organizing globally. Facebook groups are created by a mix of disabled people, family members, caregivers, and professionals, and this page aims to help disabled people navigate these spaces safely while honoring the valuable peer support many groups provide. For questions or to suggest additions, see [How to Contribute](/glossary/how-to-contribute).*
+*This page centers disabled people's expertise and is informed by disabled-led organizing globally. Facebook groups are created by a mix of disabled people, family members, caregivers, and professionals, and this page aims to help disabled people navigate these spaces safely while honoring the valuable peer support many groups provide. For questions or to suggest additions, see [How to Contribute](/start/contribute).*
 
 ---
 

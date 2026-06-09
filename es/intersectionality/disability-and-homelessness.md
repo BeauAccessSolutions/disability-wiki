@@ -58,4 +58,4 @@ Y las personas nunca se reducen a sus dificultades. Las personas con discapacida
 
 ## Contribuye a esta página
 
-¿Tienes experiencia vivida o conocimientos que podrían fortalecer esta página? Damos especial bienvenida a perspectivas de personas que han vivido la falta de vivienda y la discapacidad en carne propia. Consulta [Cómo Contribuir](/es/glossary/how-to-contribute).
+¿Tienes experiencia vivida o conocimientos que podrían fortalecer esta página? Damos especial bienvenida a perspectivas de personas que han vivido la falta de vivienda y la discapacidad en carne propia. Consulta [Cómo Contribuir](/es/start/contribute).

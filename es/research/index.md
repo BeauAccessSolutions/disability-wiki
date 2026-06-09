@@ -80,7 +80,7 @@ La investigación que involucra a personas con discapacidad debe:
 
 ---
 
-*Esta sección pone en el centro los conocimientos de las personas con discapacidad y se guía por el principio de que la investigación debe involucrar y beneficiar a las comunidades de personas con discapacidad. Para preguntas o para sugerir agregados, consulta [Cómo Contribuir](/es/glossary/how-to-contribute).*
+*Esta sección pone en el centro los conocimientos de las personas con discapacidad y se guía por el principio de que la investigación debe involucrar y beneficiar a las comunidades de personas con discapacidad. Para preguntas o para sugerir agregados, consulta [Cómo Contribuir](/es/start/contribute).*
 
 ---
 

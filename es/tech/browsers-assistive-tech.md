@@ -441,7 +441,7 @@ Algunos navegadores enfocados en la privacidad pueden tener menos funciones de a
 
 ---
 
-*Esta página pone en el centro los conocimientos de las personas con discapacidad y se basa en lo que las personas usuarias de tecnología de apoyo han aprendido con el uso diario. La elección del navegador importa. Prueba lo que te funcione. Para preguntas o para sugerir agregados, consulta [Cómo Contribuir](/es/glossary/how-to-contribute).*
+*Esta página pone en el centro los conocimientos de las personas con discapacidad y se basa en lo que las personas usuarias de tecnología de apoyo han aprendido con el uso diario. La elección del navegador importa. Prueba lo que te funcione. Para preguntas o para sugerir agregados, consulta [Cómo Contribuir](/es/start/contribute).*
 
 ---
 

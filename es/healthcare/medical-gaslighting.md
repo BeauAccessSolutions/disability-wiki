@@ -480,7 +480,7 @@ Damos la bienvenida a las contribuciones de:
 - Perspectivas globales sobre la atención de salud y el rechazo médico
 - Historias de sanación del trauma médico
 
-Comparte a través de nuestro [formulario de contribución](/es/glossary/how-to-contribute).
+Comparte a través de nuestro [formulario de contribución](/es/start/contribute).
 
 ---
 
@@ -497,7 +497,7 @@ Comparte a través de nuestro [formulario de contribución](/es/glossary/how-to-
 
 ---
 
-*Esta página pone en el centro los conocimientos de las personas con discapacidad y se basa en la organización liderada por personas con discapacidad a nivel global. Las estrategias aquí provienen de comunidades de personas con discapacidad que han sobrevivido al daño médico y construido conocimiento colectivo sobre cómo sortear estos sistemas. Para preguntas o para sugerir agregados, consulta [Cómo Contribuir](/es/glossary/how-to-contribute).*
+*Esta página pone en el centro los conocimientos de las personas con discapacidad y se basa en la organización liderada por personas con discapacidad a nivel global. Las estrategias aquí provienen de comunidades de personas con discapacidad que han sobrevivido al daño médico y construido conocimiento colectivo sobre cómo sortear estos sistemas. Para preguntas o para sugerir agregados, consulta [Cómo Contribuir](/es/start/contribute).*
 
 ---
 

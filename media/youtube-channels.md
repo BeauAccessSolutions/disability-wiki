@@ -319,7 +319,7 @@ To suggest additions:
 3. **Note subscriber count** approximately
 4. **Include channel URL** if possible
 
-See [How to Contribute](/glossary/how-to-contribute)
+See [How to Contribute](/start/contribute)
 
 ---
 

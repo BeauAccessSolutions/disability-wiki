@@ -343,7 +343,7 @@ A: No. For medical advice, consult your healthcare provider.
 A: Yes, under CC-BY-SA 4.0 license (you must credit us and share under the same license). [See About page →](/home)
 
 **Q: Can I contribute?**  
-A: Yes! We need community perspectives. [Learn how to contribute →](/glossary/how-to-contribute)
+A: Yes! We need community perspectives. [Learn how to contribute →](/start/contribute)
 
 **Q: Where's information about [specific topic]?**  
 A: Try searching or browse the relevant section. If you can't find it, [let us know →](https://forms.gle/YJFxFGrK3cZs1VKi8) and we'll add it to our roadmap.
@@ -362,7 +362,7 @@ A: Try searching or browse the relevant section. If you can't find it, [let us k
 → See [Accessibility Statement →](/accessibility-statement) or [Contact Us →](/start/contact)
 
 **Want to contribute your knowledge?**  
-→ [Learn how to contribute →](/glossary/how-to-contribute)
+→ [Learn how to contribute →](/start/contribute)
 
 **Have feedback on the wiki?**  
 → [Share your thoughts →](https://forms.gle/YJFxFGrK3cZs1VKi8)

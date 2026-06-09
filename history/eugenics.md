@@ -203,7 +203,7 @@ This era is not "past." Its structures continue to shape disabled people's lives
 
 ---
 
-*This page centers disabled people's expertise and is informed by disabled-led organizing globally. For questions or to suggest additions, see [How to Contribute](/glossary/how-to-contribute).*
+*This page centers disabled people's expertise and is informed by disabled-led organizing globally. For questions or to suggest additions, see [How to Contribute](/start/contribute).*
 
 ---
 

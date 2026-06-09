@@ -388,7 +388,7 @@ Many disabled people have:
 
 ---
 
-*This page centers disabled people's expertise and is informed by fat disabled people's organizing and advocacy. You deserve healthcare at any size. Weight bias is medical discrimination. For questions or to suggest additions, see [How to Contribute](/glossary/how-to-contribute).*
+*This page centers disabled people's expertise and is informed by fat disabled people's organizing and advocacy. You deserve healthcare at any size. Weight bias is medical discrimination. For questions or to suggest additions, see [How to Contribute](/start/contribute).*
 
 ---
 

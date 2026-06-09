@@ -111,4 +111,4 @@ Una nota sobre lo que falta: el trabajo **de autoría indígena y de extensión 
 
 ## Contribuye a esta página
 
-Esta lista está incompleta a propósito, y los vacíos (trabajo de autoría indígena, voces del Sur Global, autodefensa reciente) son los que más importan. Si eres una persona lectora o autora con discapacidad, loca (Mad), sorda o con una enfermedad crónica y conoces obras que pertenecen aquí — sobre todo voces propias que hayamos pasado por alto —, por favor agrégalas. Consulta [Cómo contribuir](/es/glossary/how-to-contribute).
+Esta lista está incompleta a propósito, y los vacíos (trabajo de autoría indígena, voces del Sur Global, autodefensa reciente) son los que más importan. Si eres una persona lectora o autora con discapacidad, loca (Mad), sorda o con una enfermedad crónica y conoces obras que pertenecen aquí — sobre todo voces propias que hayamos pasado por alto —, por favor agrégalas. Consulta [Cómo contribuir](/es/start/contribute).

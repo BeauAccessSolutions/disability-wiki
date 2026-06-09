@@ -85,10 +85,12 @@ person", "disabled people") per community preference.
 ## Contribute to This Page
 
 [Topic-specific invitation — especially welcome the most-impacted voices.] See
-[How to Contribute](/glossary/how-to-contribute).
+[How to Contribute](/start/contribute).
 ```
-Link to `/glossary/how-to-contribute` (the working contribute page) — **not** the
-old `/start/contribute` or `forms.gle` placeholders.
+Link to `/start/contribute` (the canonical community contribute page — leads with
+the email contact). The `/glossary/how-to-contribute` page is the separate technical/
+Git contribution guide; don't use it as the general "How to Contribute" link, and avoid
+`forms.gle` placeholders.
 
 ## Before publishing
 - **Verify every internal link** resolves to a real page (check the `.md` exists at

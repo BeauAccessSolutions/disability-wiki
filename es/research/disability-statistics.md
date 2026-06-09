@@ -149,7 +149,7 @@ La recopilación de datos sobre discapacidad suele enfrentar problemas important
 
 ---
 
-*Esta página pone en el centro los conocimientos de las personas con discapacidad y apoya la recopilación de datos que sirvan a las comunidades de personas con discapacidad. Para preguntas o para sugerir agregados, consulta [Cómo Contribuir](/es/glossary/how-to-contribute).*
+*Esta página pone en el centro los conocimientos de las personas con discapacidad y apoya la recopilación de datos que sirvan a las comunidades de personas con discapacidad. Para preguntas o para sugerir agregados, consulta [Cómo Contribuir](/es/start/contribute).*
 
 ---
 

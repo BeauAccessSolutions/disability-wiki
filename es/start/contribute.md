@@ -46,6 +46,8 @@ Queremos trabajar con las personas con discapacidad de la comunidad para constru
 
 Cuéntanos qué te gustaría aportar — contenido, comentarios, correcciones, traducción, pruebas de accesibilidad o cualquier otra cosa de la lista de arriba. No necesitas conocimientos técnicos y puedes escribir en el idioma con el que te sientas más cómodo.
 
+¿Te manejas con Git y quieres editar las páginas directamente? Consulta la **[Guía de contribución técnica](/es/glossary/how-to-contribute)**.
+
 ## Qué esperar
 
 - Leeremos cada propuesta

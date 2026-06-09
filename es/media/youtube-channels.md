@@ -319,7 +319,7 @@ Para sugerir agregados:
 3. **Indica el número aproximado de suscriptores**
 4. **Incluye la URL del canal** si es posible
 
-Consulta [Cómo Contribuir](/es/glossary/how-to-contribute)
+Consulta [Cómo Contribuir](/es/start/contribute)
 
 ---
 
