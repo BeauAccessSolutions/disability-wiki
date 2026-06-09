@@ -377,6 +377,7 @@ El mejor desarrollo profesional proviene de las propias personas con discapacida
 - [Sección de educación](/es/education)
 - [Educación K-12](/es/education/k12-education)
 - [Educación superior](/es/education/higher-education)
+- [Diseñar un curso accesible](/es/professionals/accessible-course-design)
 - [Derechos y defensa](/es/rights)
 - [Para personas aliadas](/es/foundations/for-allies)
 

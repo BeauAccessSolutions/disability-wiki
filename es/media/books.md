@@ -3,7 +3,11 @@ title: Libros
 description: Esta lista pone en el centro a personas autoras con discapacidad y la representación auténtica.
 published: true
 date: 2026-06-05T20:20:33.391Z
-tags: 
+tags:
+  - books
+  - reading-list
+  - own-voices
+  - disability-culture
 editor: markdown
 dateCreated: 2025-11-20T19:07:24.965Z
 ---
@@ -18,10 +22,10 @@ Todas las personas con discapacidad merecen verse reflejadas en la literatura, n
 
 Esta lista prioriza las **voces propias (Own Voices)** (personas autoras con discapacidad que escriben sobre la discapacidad), la representación auténtica y diversas perspectivas globales. Está en constante crecimiento; sugiere agregados a través de [Cómo Contribuir](/es/glossary/how-to-contribute).
 
-**Leyenda:**
-- 📘 Voz propia (persona autora con discapacidad)
-- 🌍 Sur Global / no occidental
-- ✦ Lectura esencial
+**Etiquetas usadas abajo** (después de cada entrada):
+- *Voz propia* — la persona autora ha revelado que tiene una discapacidad
+- *Sur Global* — autoría o ambientación fuera del entorno occidental/anglófono
+- *Esencial* — un buen punto de partida
 
 ---
 
@@ -97,25 +101,25 @@ Empieza aquí. Estos son textos fundamentales para comprender los derechos, la c
 
 ### No ficción esencial
 
-- ✦ 📘 **Disability Visibility: First-Person Stories from the Twenty-First Century** – Alice Wong, ed. (2020). 37 ensayos de personas con discapacidad que escriben sobre experiencias diversas. "Una colección movilizadora", publicada para el 30.º aniversario de la ADA. La mejor introducción a la experiencia contemporánea de la discapacidad.
+- **Disability Visibility: First-Person Stories from the Twenty-First Century** – Alice Wong, ed. (2020). 37 ensayos de personas con discapacidad que escriben sobre experiencias diversas. "Una colección movilizadora", publicada para el 30.º aniversario de la ADA. La mejor introducción a la experiencia contemporánea de la discapacidad. *Voz propia, Esencial.*
 
-- ✦ 📘 **Care Work: Dreaming Disability Justice** – Leah Lakshmi Piepzna-Samarasinha (2018). Ensayos que exploran la justicia para las personas con discapacidad como marco que pone en el centro a personas enfermas y con discapacidad que son queer, trans, negras y racializadas. Traza el "acceso como amor radical" y las prácticas de cuidado colectivo.
+- **Care Work: Dreaming Disability Justice** – Leah Lakshmi Piepzna-Samarasinha (2018). Ensayos que exploran la justicia para las personas con discapacidad como marco que pone en el centro a personas enfermas y con discapacidad que son queer, trans, negras y racializadas. Traza el "acceso como amor radical" y las prácticas de cuidado colectivo. *Voz propia, Esencial.*
 
-- ✦ **No Pity: People with Disabilities Forging a New Civil Rights Movement** – Joseph P. Shapiro (1993). El texto fundamental que ilustra "el nuevo pensamiento de las personas con discapacidad: que no hay lástima ni tragedia en la discapacidad, y que son los mitos, los miedos y los estereotipos de la sociedad los que hacen difícil tener una discapacidad".
+- **No Pity: People with Disabilities Forging a New Civil Rights Movement** – Joseph P. Shapiro (1993). El texto fundamental que ilustra "el nuevo pensamiento de las personas con discapacidad: que no hay lástima ni tragedia en la discapacidad, y que son los mitos, los miedos y los estereotipos de la sociedad los que hacen difícil tener una discapacidad". *Esencial.*
 
-- ✦ 📘 **Demystifying Disability: What to Know, What to Say, and How to Be an Ally** – Emily Ladau (2021). Guía accesible que cubre la etiqueta, el lenguaje y cómo evitar errores comunes. Excelente punto de entrada para personas aliadas y para personas con discapacidad reciente.
+- **Demystifying Disability: What to Know, What to Say, and How to Be an Ally** – Emily Ladau (2021). Guía accesible que cubre la etiqueta, el lenguaje y cómo evitar errores comunes. Excelente punto de entrada para personas aliadas y para personas con discapacidad reciente. *Voz propia, Esencial.*
 
 ### Memorias esenciales
 
-- ✦ 📘 **Being Heumann: An Unrepentant Memoir of a Disability Rights Activist** – Judith Heumann con Kristen Joiner. La historia de vida de la legendaria activista que tuvo polio, lideró la sentada de la Sección 504 e impulsó la ADA. Heumann dedicó su vida a "subvertir la presunción de que la discapacidad es una tragedia".
+- **Being Heumann: An Unrepentant Memoir of a Disability Rights Activist** – Judith Heumann con Kristen Joiner. La historia de vida de la legendaria activista que tuvo polio, lideró la sentada de la Sección 504 e impulsó la ADA. Heumann dedicó su vida a "subvertir la presunción de que la discapacidad es una tragedia". *Voz propia, Esencial.*
 
-- ✦ 📘 **Haben: The Deafblind Woman Who Conquered Harvard Law** – Haben Girma. La primera persona sordociega graduada de la Facultad de Derecho de Harvard comparte su trayectoria y sostiene que la discapacidad es una oportunidad para la innovación. Rechaza la lástima y destaca "la resiliencia y la defensa de derechos".
+- **Haben: The Deafblind Woman Who Conquered Harvard Law** – Haben Girma. La primera persona sordociega graduada de la Facultad de Derecho de Harvard comparte su trayectoria y sostiene que la discapacidad es una oportunidad para la innovación. Rechaza la lástima y destaca "la resiliencia y la defensa de derechos". *Voz propia, Esencial.*
 
 ### Ficción esencial
 
-- ✦ 📘 **Good Kings Bad Kings** – Susan Nussbaum. Novela ambientada en una institución de Chicago para jóvenes con discapacidad, narrada a través de las voces de múltiples adolescentes con discapacidad. Nussbaum, activista por los derechos de las personas con discapacidad y usuaria de silla de ruedas, escribe con "una autenticidad notable", capaz de "cambiar para siempre la conversación" sobre la discapacidad.
+- **Good Kings Bad Kings** – Susan Nussbaum. Novela ambientada en una institución de Chicago para jóvenes con discapacidad, narrada a través de las voces de múltiples adolescentes con discapacidad. Nussbaum, activista por los derechos de las personas con discapacidad y usuaria de silla de ruedas, escribe con "una autenticidad notable", capaz de "cambiar para siempre la conversación" sobre la discapacidad. *Voz propia, Esencial.*
 
-- ✦ 📘 **An Unkindness of Ghosts** – Rivers Solomon. Ópera espacial con protagonista negra y autista cuya neurodivergencia se teje "de forma fluida y no explotadora" en la trama. El personaje rechaza explícitamente la "cura".
+- **An Unkindness of Ghosts** – Rivers Solomon. Ópera espacial con protagonista negra y autista cuya neurodivergencia se teje "de forma fluida y no explotadora" en la trama. El personaje rechaza explícitamente la "cura". *Voz propia, Esencial.*
 
 ---
 
@@ -125,17 +129,17 @@ Empieza aquí. Estos son textos fundamentales para comprender los derechos, la c
 
 #### Panoramas generales
 
-- ✦ **No Pity: People with Disabilities Forging a New Civil Rights Movement** – Joseph P. Shapiro (1993). [Ver Lectura esencial]
+- **No Pity: People with Disabilities Forging a New Civil Rights Movement** – Joseph P. Shapiro (1993). [Ver Lectura esencial] *Esencial.*
 
 - **A Disability History of the United States** – Kim E. Nielsen. Recorrido amplio que ubica a las personas con discapacidad en el centro de la historia estadounidense, desde la época colonial hasta el presente. Cubre a los veteranos con discapacidad, los espectáculos de "rarezas" (freak shows), la eugenesia y el movimiento por los derechos de las personas con discapacidad. Saca a la luz relatos ocultos, incluidas las personas esclavizadas con discapacidad y las comunidades Sordas de Martha's Vineyard.
 
-- 📘 **The Disability Rights Movement: From Charity to Confrontation** – Doris Zames Fleischer y Frieda Zames. Historia exhaustiva escrita por activistas de la discapacidad que cubre la legislación clave y la organización de base.
+- **The Disability Rights Movement: From Charity to Confrontation** – Doris Zames Fleischer y Frieda Zames. Historia exhaustiva escrita por activistas de la discapacidad que cubre la legislación clave y la organización de base. *Voz propia.*
 
 #### Movimientos y hechos específicos
 
 - **Patient No More: People with Disabilities Securing Civil Rights** – Historia de la sentada de la 504.
 
-- 📘 **Deaf President Now!** – John B. Christiansen y Sharon N. Barnartt. Relato de la protesta de 1988 en la Universidad Gallaudet.
+- **Deaf President Now!** – John B. Christiansen y Sharon N. Barnartt. Relato de la protesta de 1988 en la Universidad Gallaudet. *Voz propia.*
 
 - **The Capitol Crawl and the Americans with Disabilities Act** – Documentación de la acción de 1990.
 
@@ -149,47 +153,47 @@ Empieza aquí. Estos son textos fundamentales para comprender los derechos, la c
 
 #### Historia global
 
-- 🌍 **Disability in the Global South** – Shaun Grech y Karen Soldatic (eds.). Perspectivas críticas sobre la discapacidad en los contextos de la mayoría del mundo.
+- **Disability in the Global South** – Shaun Grech y Karen Soldatic (eds.). Perspectivas críticas sobre la discapacidad en los contextos de la mayoría del mundo. *Sur Global.*
 
-- 🌍 **Disability and the Politics of Education: An International Reader** – Susan Gabel y Scot Danforth.
+- **Disability and the Politics of Education: An International Reader** – Susan Gabel y Scot Danforth. *Sur Global.*
 
 ---
 
 ### Justicia para las personas con discapacidad y teoría {#justicia-para-las-personas-con-discapacidad-y-teoría}
 
-- ✦ 📘 **Care Work: Dreaming Disability Justice** – Leah Lakshmi Piepzna-Samarasinha (2018). [Ver Lectura esencial]
+- **Care Work: Dreaming Disability Justice** – Leah Lakshmi Piepzna-Samarasinha (2018). [Ver Lectura esencial] *Voz propia, Esencial.*
 
-- 📘 **Skin, Tooth, and Bone: The Basis of Movement is Our People** – Sins Invalid. Manual introductorio sobre la justicia para las personas con discapacidad, del colectivo de performance que desarrolló el marco.
+- **Skin, Tooth, and Bone: The Basis of Movement is Our People** – Sins Invalid. Manual introductorio sobre la justicia para las personas con discapacidad, del colectivo de performance que desarrolló el marco. *Voz propia.*
 
-- 📘 **Brilliant Imperfection: Grappling with Cure** – Eli Clare. Explora la política de la cura, a partir de las experiencias de Clare como activista con discapacidad y genderqueer.
+- **Brilliant Imperfection: Grappling with Cure** – Eli Clare. Explora la política de la cura, a partir de las experiencias de Clare como activista con discapacidad y genderqueer. *Voz propia.*
 
 - **Crip Theory: Cultural Signs of Queerness and Disability** – Robert McRuer. Texto académico sobre las intersecciones de los estudios queer y de la discapacidad.
 
 - **The Minority Body: A Theory of Disability** – Elizabeth Barnes. Argumento filosófico de que la discapacidad es una diferencia neutral.
 
-- 📘 **Disability Rhetoric** – Jay Dolmage. Cómo la retórica y el lenguaje moldean la experiencia de la discapacidad.
+- **Disability Rhetoric** – Jay Dolmage. Cómo la retórica y el lenguaje moldean la experiencia de la discapacidad. *Voz propia.*
 
 ---
 
 ### Guías y práctico {#guías-y-práctico}
 
-- ✦ 📘 **Demystifying Disability** – Emily Ladau. [Ver Lectura esencial]
+- **Demystifying Disability** – Emily Ladau. [Ver Lectura esencial] *Voz propia, Esencial.*
 
 - **Disability Etiquette: Tips on Interacting with People with Disabilities** – United Spinal Association. Guía práctica gratuita.
 
-- 📘 **A Quick & Easy Guide to Sex & Disability** – A. Andrews. Guía ilustrada.
+- **A Quick & Easy Guide to Sex & Disability** – A. Andrews. Guía ilustrada. *Voz propia.*
 
 ---
 
 ### Antologías y ensayos {#antologías-y-ensayos}
 
-- ✦ 📘 **Disability Visibility** – Alice Wong, ed. [Ver Lectura esencial]
+- **Disability Visibility** – Alice Wong, ed. [Ver Lectura esencial] *Voz propia, Esencial.*
 
-- 📘 **Disability Visibility: 17 First-Person Stories for Today** – Alice Wong, ed. Adaptación para jóvenes adultos.
+- **Disability Visibility: 17 First-Person Stories for Today** – Alice Wong, ed. Adaptación para jóvenes adultos. *Voz propia.*
 
-- 📘 **Crippled: Austerity and the Demonization of Disabled People** – Frances Ryan. Ensayos centrados en el Reino Unido.
+- **Crippled: Austerity and the Demonization of Disabled People** – Frances Ryan. Ensayos centrados en el Reino Unido. *Voz propia.*
 
-- 🌍 **Nothing About Us Without Us: Disability Oppression and Empowerment** – James Charlton.
+- **Nothing About Us Without Us: Disability Oppression and Empowerment** – James Charlton. *Sur Global.*
 
 ---
 
@@ -197,67 +201,67 @@ Empieza aquí. Estos son textos fundamentales para comprender los derechos, la c
 
 ### Discapacidad física {#discapacidad-física}
 
-- ✦ 📘 **Being Heumann** – Judith Heumann. [Ver Lectura esencial]
+- **Being Heumann** – Judith Heumann. [Ver Lectura esencial] *Voz propia, Esencial.*
 
-- 📘 **The Diving Bell and the Butterfly** – Jean-Dominique Bauby (Francia). Memoria poética compuesta enteramente mediante parpadeos después de que un derrame cerebral dejara a Bauby con síndrome de enclaustramiento. Sus reflexiones, ricas en imágenes, ofrecen una mirada íntima de la discapacidad desde adentro, sin lástima.
+- **The Diving Bell and the Butterfly** – Jean-Dominique Bauby (Francia). Memoria poética compuesta enteramente mediante parpadeos después de que un derrame cerebral dejara a Bauby con síndrome de enclaustramiento. Sus reflexiones, ricas en imágenes, ofrecen una mirada íntima de la discapacidad desde adentro, sin lástima. *Voz propia.*
 
-- 📘 **I'm Walking as Straight as I Can** – Geri Jewell. Memoria de la actriz con parálisis cerebral, la primera persona con discapacidad en un papel recurrente de televisión.
+- **I'm Walking as Straight as I Can** – Geri Jewell. Memoria de la actriz con parálisis cerebral, la primera persona con discapacidad en un papel recurrente de televisión. *Voz propia.*
 
-- 📘 **My Body Politic** – Simi Linton. Memoria de la académica de estudios de la discapacidad.
+- **My Body Politic** – Simi Linton. Memoria de la académica de estudios de la discapacidad. *Voz propia.*
 
-- 📘 **Sitting Pretty: The View from My Ordinary Resilient Disabled Body** – Rebekah Taussig.
+- **Sitting Pretty: The View from My Ordinary Resilient Disabled Body** – Rebekah Taussig. *Voz propia.*
 
 ### Enfermedad crónica {#enfermedad-crónica}
 
-- 📘 **Mean Baby** – Selma Blair (2022). Memoria honesta y sin tapujos sobre la vida con esclerosis múltiple, la adicción y el autodescubrimiento. Blair llama a su diagnóstico de EM una "salvación sorprendente" y "aborda su EM de forma cruda y conmovedora".
+- **Mean Baby** – Selma Blair (2022). Memoria honesta y sin tapujos sobre la vida con esclerosis múltiple, la adicción y el autodescubrimiento. Blair llama a su diagnóstico de EM una "salvación sorprendente" y "aborda su EM de forma cruda y conmovedora". *Voz propia.*
 
-- 📘 **Brain on Fire: My Month of Madness** – Susannah Cahalan. Encefalitis autoinmune inicialmente mal diagnosticada como enfermedad psiquiátrica.
+- **Brain on Fire: My Month of Madness** – Susannah Cahalan. Encefalitis autoinmune inicialmente mal diagnosticada como enfermedad psiquiátrica. *Voz propia.*
 
-- 📘 **The Invisible Kingdom: Reimagining Chronic Illness** – Meghan O'Rourke.
+- **The Invisible Kingdom: Reimagining Chronic Illness** – Meghan O'Rourke. *Voz propia.*
 
 ### Personas Sordas y con dificultades auditivas {#personas-sordas-y-con-dificultades-auditivas}
 
-- ✦ 📘 **Haben** – Haben Girma. [Ver Lectura esencial]
+- **Haben** – Haben Girma. [Ver Lectura esencial] *Voz propia, Esencial.*
 
-- 📘 **The Story of My Life** – Helen Keller (1903). Autobiografía clásica de la autora y activista sordociega. Keller describe cómo aprendió el lenguaje mediante el tacto, desmontando mitos sobre la "incapacidad" de las personas sordociegas.
+- **The Story of My Life** – Helen Keller (1903). Autobiografía clásica de la autora y activista sordociega. Keller describe cómo aprendió el lenguaje mediante el tacto, desmontando mitos sobre la "incapacidad" de las personas sordociegas. *Voz propia.*
 
-- 📘 **Deaf Utopia: A Memoir—and a Love Letter to a Way of Life** – Nyle DiMarco. Celebración de la cultura Sorda.
+- **Deaf Utopia: A Memoir—and a Love Letter to a Way of Life** – Nyle DiMarco. Celebración de la cultura Sorda. *Voz propia.*
 
-- 📘 **Train Go Sorry: Inside a Deaf World** – Leah Hager Cohen.
+- **Train Go Sorry: Inside a Deaf World** – Leah Hager Cohen. *Voz propia.*
 
 ### Personas ciegas y con baja visión {#personas-ciegas-y-con-baja-visión}
 
-- 📘 **Blind Rage: Letters to Helen Keller** – Georgina Kleege.
+- **Blind Rage: Letters to Helen Keller** – Georgina Kleege. *Voz propia.*
 
-- 📘 **And There Was Light** – Jacques Lusseyran. Miembro de la Resistencia francesa.
+- **And There Was Light** – Jacques Lusseyran. Miembro de la Resistencia francesa. *Voz propia.*
 
-- 📘 **Touching the Rock** – John Hull.
+- **Touching the Rock** – John Hull. *Voz propia.*
 
 ### Neurodivergencia {#neurodivergencia}
 
-- 📘 **Thinking in Pictures** – Temple Grandin. Memoria clásica sobre el autismo.
+- **Thinking in Pictures** – Temple Grandin. Memoria clásica sobre el autismo. *Voz propia.*
 
-- 📘 **Look Me in the Eye** – John Elder Robison.
+- **Look Me in the Eye** – John Elder Robison. *Voz propia.*
 
-- 🌍 📘 **The Reason I Jump** – Naoki Higashida (Japón). Un adolescente autista no verbal explica su mundo interior.
+- **The Reason I Jump** – Naoki Higashida (Japón). Un adolescente autista no verbal explica su mundo interior. *Voz propia, Sur Global.*
 
-- 📘 **Loud Hands: Autistic People, Speaking** – Antología de ASAN.
+- **Loud Hands: Autistic People, Speaking** – Antología de ASAN. *Voz propia.*
 
-- 📘 **Driven to Distraction** / **ADHD 2.0** – Edward Hallowell y John Ratey.
+- **Driven to Distraction** / **ADHD 2.0** – Edward Hallowell y John Ratey. *Voz propia.*
 
 ### Discapacidad psiquiátrica {#discapacidad-psiquiátrica}
 
-- 📘 **An Unquiet Mind: A Memoir of Moods and Madness** – Kay Redfield Jamison. Relato de una psiquiatra sobre el trastorno bipolar.
+- **An Unquiet Mind: A Memoir of Moods and Madness** – Kay Redfield Jamison. Relato de una psiquiatra sobre el trastorno bipolar. *Voz propia.*
 
-- 📘 **The Collected Schizophrenias** – Esmé Weijun Wang.
+- **The Collected Schizophrenias** – Esmé Weijun Wang. *Voz propia.*
 
-- 📘 **Prozac Nation** – Elizabeth Wurtzel.
+- **Prozac Nation** – Elizabeth Wurtzel. *Voz propia.*
 
-- 📘 **Madness: A Bipolar Life** – Marya Hornbacher.
+- **Madness: A Bipolar Life** – Marya Hornbacher. *Voz propia.*
 
 ### Intelectual y del desarrollo {#intelectual-y-del-desarrollo}
 
-- 📘 **Count Us In: Growing Up with Down Syndrome** – Jason Kingsley y Mitchell Levitz.
+- **Count Us In: Growing Up with Down Syndrome** – Jason Kingsley y Mitchell Levitz. *Voz propia.*
 
 ---
 
@@ -265,47 +269,47 @@ Empieza aquí. Estos son textos fundamentales para comprender los derechos, la c
 
 ### Ficción literaria {#ficción-literaria}
 
-- ✦ 📘 **Good Kings Bad Kings** – Susan Nussbaum. [Ver Lectura esencial]
+- **Good Kings Bad Kings** – Susan Nussbaum. [Ver Lectura esencial] *Voz propia, Esencial.*
 
-- 📘 **Get a Life, Chloe Brown** – Talia Hibbert (Reino Unido). Romance contemporáneo con protagonista negra británica con fibromialgia. El dolor crónico se teje con naturalidad en la historia de amor: Chloe sigue siendo vibrante y deseable con su discapacidad. Hibbert se basó en su propia fibromialgia.
+- **Get a Life, Chloe Brown** – Talia Hibbert (Reino Unido). Romance contemporáneo con protagonista negra británica con fibromialgia. El dolor crónico se teje con naturalidad en la historia de amor: Chloe sigue siendo vibrante y deseable con su discapacidad. Hibbert se basó en su propia fibromialgia. *Voz propia.*
 
-- 📘 **So Lucky** – Nicola Griffith. Suspenso literario que sigue a una directora de organización sin fines de lucro diagnosticada con EM. Rechaza la lástima y explora el capacitismo internalizado y el empoderamiento. Griffith tiene EM.
+- **So Lucky** – Nicola Griffith. Suspenso literario que sigue a una directora de organización sin fines de lucro diagnosticada con EM. Rechaza la lástima y explora el capacitismo internalizado y el empoderamiento. Griffith tiene EM. *Voz propia.*
 
-- 🌍 **Things Fall Apart** – Chinua Achebe (Nigeria). Novela africana clásica que critica el estigma tradicional contra la discapacidad en la sociedad igbo, mostrando cómo se desterraba a los bebés con discapacidad. "Promueve la compasión hacia todas las personas".
+- **Things Fall Apart** – Chinua Achebe (Nigeria). Novela africana clásica que critica el estigma tradicional contra la discapacidad en la sociedad igbo, mostrando cómo se desterraba a los bebés con discapacidad. "Promueve la compasión hacia todas las personas". *Sur Global.*
 
-- 📘 **The Bell Jar** – Sylvia Plath. Novela semiautobiográfica que traza la enfermedad mental y el tratamiento psiquiátrico de la década de 1950. Su retrato franco y empático fue innovador: invita a las lectoras y los lectores a entrar en lugar de juzgar.
+- **The Bell Jar** – Sylvia Plath. Novela semiautobiográfica que traza la enfermedad mental y el tratamiento psiquiátrico de la década de 1950. Su retrato franco y empático fue innovador: invita a las lectoras y los lectores a entrar en lugar de juzgar. *Voz propia.*
 
 - **Flowers for Algernon** – Daniel Keyes. Clásico sobre la discapacidad intelectual. [Nota: a algunas personas les resulta problemático; se incluye por su importancia cultural]
 
 ### Ficción especulativa {#ficción-especulativa}
 
-- ✦ 📘 **An Unkindness of Ghosts** – Rivers Solomon. [Ver Lectura esencial]
+- **An Unkindness of Ghosts** – Rivers Solomon. [Ver Lectura esencial] *Voz propia, Esencial.*
 
-- 📘 **Six of Crows** – Leigh Bardugo. Fantasía de atracos con el protagonista Kaz Brekker, que tiene una lesión permanente en la pierna y usa bastón. Nunca es "curado": "su bastón se convirtió en una declaración" de resiliencia. Kaz rechaza explícitamente la cura mágica. Bardugo tiene osteonecrosis.
+- **Six of Crows** – Leigh Bardugo. Fantasía de atracos con el protagonista Kaz Brekker, que tiene una lesión permanente en la pierna y usa bastón. Nunca es "curado": "su bastón se convirtió en una declaración" de resiliencia. Kaz rechaza explícitamente la cura mágica. Bardugo tiene osteonecrosis. *Voz propia.*
 
-- 📘 **On the Edge of Gone** – Corinne Duyvis (Países Bajos). Ficción distópica para jóvenes adultos con heroína autista durante el impacto de un cometa. Duyvis (autista, fundadora de #OwnVoices) pone en el centro la perspectiva autista sin estereotipos: las habilidades de Denise desafían las bajas expectativas de las demás personas.
+- **On the Edge of Gone** – Corinne Duyvis (Países Bajos). Ficción distópica para jóvenes adultos con heroína autista durante el impacto de un cometa. Duyvis (autista, fundadora de #OwnVoices) pone en el centro la perspectiva autista sin estereotipos: las habilidades de Denise desafían las bajas expectativas de las demás personas. *Voz propia.*
 
-- 📘 **Unseelie** – Ivelisse Housman. Fantasía de hadas con una changeling latina autista. Housman (autora autista puertorriqueña) construye la neurodivergencia como identidad, no como problema.
+- **Unseelie** – Ivelisse Housman. Fantasía de hadas con una changeling latina autista. Housman (autora autista puertorriqueña) construye la neurodivergencia como identidad, no como problema. *Voz propia.*
 
-- 📘 **The Vela** – Yoon Ha Lee, Becky Chambers, Rivers Solomon, SL Huang.
+- **The Vela** – Yoon Ha Lee, Becky Chambers, Rivers Solomon, SL Huang. *Voz propia.*
 
-- 📘 **A Spindle Splintered** – Alix E. Harrow.
+- **A Spindle Splintered** – Alix E. Harrow. *Voz propia.*
 
-- 📘 **The Witch King** – Martha Wells.
+- **The Witch King** – Martha Wells. *Voz propia.*
 
 ### Romance {#romance}
 
-- 📘 **Get a Life, Chloe Brown** – Talia Hibbert. [Ver Ficción literaria]
+- **Get a Life, Chloe Brown** – Talia Hibbert. [Ver Ficción literaria] *Voz propia.*
 
-- 📘 **Act Your Age, Eve Brown** – Talia Hibbert. Heroína autista.
+- **Act Your Age, Eve Brown** – Talia Hibbert. Heroína autista. *Voz propia.*
 
-- 📘 **The Kiss Quotient** – Helen Hoang. Heroína autista de una autora autista.
+- **The Kiss Quotient** – Helen Hoang. Heroína autista de una autora autista. *Voz propia.*
 
-- 📘 **The Bride Test** – Helen Hoang.
+- **The Bride Test** – Helen Hoang. *Voz propia.*
 
-- 📘 **A Duke by Default** – Alyssa Cole. Héroe con dislexia.
+- **A Duke by Default** – Alyssa Cole. Héroe con dislexia. *Voz propia.*
 
-- 📘 **Not So Nice Guy** – R.S. Grey.
+- **Not So Nice Guy** – R.S. Grey. *Voz propia.*
 
 ### Misterio y suspenso {#misterio-y-suspenso}
 
@@ -313,9 +317,9 @@ Empieza aquí. Estos son textos fundamentales para comprender los derechos, la c
 
 ### Ficción histórica {#ficción-histórica}
 
-- 📘 **Show Me a Sign** – Ann Clare LeZotte. [Ver Lectores intermedios]
+- **Show Me a Sign** – Ann Clare LeZotte. [Ver Lectores intermedios] *Voz propia.*
 
-- 📘 **Accidents of Nature** – Harriet McBryde Johnson. [Ver Jóvenes adultos]
+- **Accidents of Nature** – Harriet McBryde Johnson. [Ver Jóvenes adultos] *Voz propia.*
 
 ---
 
@@ -323,41 +327,41 @@ Empieza aquí. Estos son textos fundamentales para comprender los derechos, la c
 
 ### Jóvenes adultos contemporáneo {#jóvenes-adultos-contemporáneo}
 
-- 📘 **Sick Kids in Love** – Hannah Moskowitz. Romance adolescente entre dos protagonistas con enfermedades crónicas. "En esta no se mueren". Subvierte deliberadamente la narrativa de la tragedia: adolescentes que manejan su enfermedad, encuentran el amor y bromean sobre las visitas al hospital.
+- **Sick Kids in Love** – Hannah Moskowitz. Romance adolescente entre dos protagonistas con enfermedades crónicas. "En esta no se mueren". Subvierte deliberadamente la narrativa de la tragedia: adolescentes que manejan su enfermedad, encuentran el amor y bromean sobre las visitas al hospital. *Voz propia.*
 
-- 📘 **Accidents of Nature** – Harriet McBryde Johnson. Ambientada en un campamento de 1970 para adolescentes con discapacidad. Johnson (abogada de derechos de las personas con discapacidad, con una discapacidad neuromuscular) usa la ficción para "revelar la necesidad de un movimiento por los derechos de las personas con discapacidad". Incluye un satírico "teletón para erradicar la normalidad". Diálogos agudos, que cuestionan el capacitismo internalizado.
+- **Accidents of Nature** – Harriet McBryde Johnson. Ambientada en un campamento de 1970 para adolescentes con discapacidad. Johnson (abogada de derechos de las personas con discapacidad, con una discapacidad neuromuscular) usa la ficción para "revelar la necesidad de un movimiento por los derechos de las personas con discapacidad". Incluye un satírico "teletón para erradicar la normalidad". Diálogos agudos, que cuestionan el capacitismo internalizado. *Voz propia.*
 
-- 📘 **Five Feet Apart** – Rachael Lippincott. Romance con FQ. [Nota: hay controversia sobre la exactitud]
+- **Five Feet Apart** – Rachael Lippincott. Romance con FQ. [Nota: hay controversia sobre la exactitud] *Voz propia.*
 
-- 📘 **Turtles All the Way Down** – John Green. Protagonista con TOC.
+- **Turtles All the Way Down** – John Green. Protagonista con TOC. *Voz propia.*
 
-- 📘 **History Is All You Left Me** – Adam Silvera.
+- **History Is All You Left Me** – Adam Silvera. *Voz propia.*
 
 ### Fantasía y ciencia ficción para jóvenes adultos {#fantasía-y-ciencia-ficción-para-jóvenes-adultos}
 
-- 📘 **On the Edge of Gone** – Corinne Duyvis. [Ver Ficción especulativa]
+- **On the Edge of Gone** – Corinne Duyvis. [Ver Ficción especulativa] *Voz propia.*
 
-- 📘 **Six of Crows** – Leigh Bardugo. [Ver Ficción especulativa]
+- **Six of Crows** – Leigh Bardugo. [Ver Ficción especulativa] *Voz propia.*
 
-- 📘 **Unseelie** – Ivelisse Housman. [Ver Ficción especulativa]
+- **Unseelie** – Ivelisse Housman. [Ver Ficción especulativa] *Voz propia.*
 
 ### Antologías para jóvenes adultos {#antologías-para-jóvenes-adultos}
 
-- 📘 **Unbroken: 13 Stories Starring Disabled Teens** – ed. Marieke Nijkamp. Relatos cortos de distintos géneros, todos de personas autoras con discapacidad y todos con protagonistas adolescentes con discapacidad. Fantasía, ciencia ficción, contemporáneo: desde una chica autista que entra a la secundaria hasta una esgrimista usuaria de silla de ruedas en la Francia de los mosqueteros.
+- **Unbroken: 13 Stories Starring Disabled Teens** – ed. Marieke Nijkamp. Relatos cortos de distintos géneros, todos de personas autoras con discapacidad y todos con protagonistas adolescentes con discapacidad. Fantasía, ciencia ficción, contemporáneo: desde una chica autista que entra a la secundaria hasta una esgrimista usuaria de silla de ruedas en la Francia de los mosqueteros. *Voz propia.*
 
 ---
 
 ## Lectores intermedios (middle grade) {#lectores-intermedios-middle-grade}
 
-- 📘 **A Kind of Spark** – Elle McNicoll (Escocia). Una niña autista de 11 años hace campaña por un monumento a los juicios por brujería. McNicoll (autista) dedica el libro a "todas las niñas y niños de manos felices que aletean". Retrato del autismo orgulloso y positivo: Addie se niega a cambiar quién es.
+- **A Kind of Spark** – Elle McNicoll (Escocia). Una niña autista de 11 años hace campaña por un monumento a los juicios por brujería. McNicoll (autista) dedica el libro a "todas las niñas y niños de manos felices que aletean". Retrato del autismo orgulloso y positivo: Addie se niega a cambiar quién es. *Voz propia.*
 
-- 📘 **Show Me a Sign** – Ann Clare LeZotte. Ficción histórica ambientada en la comunidad Sorda de Martha's Vineyard en 1805. Mary Lambert ha crecido donde casi todo el mundo usa señas: nunca se sintió aislada. "Te hace cuestionar para siempre tus propias ideas sobre lo que es normal". LeZotte es Sorda.
+- **Show Me a Sign** – Ann Clare LeZotte. Ficción histórica ambientada en la comunidad Sorda de Martha's Vineyard en 1805. Mary Lambert ha crecido donde casi todo el mundo usa señas: nunca se sintió aislada. "Te hace cuestionar para siempre tus propias ideas sobre lo que es normal". LeZotte es Sorda. *Voz propia.*
 
 - **Out of My Mind** – Sharon M. Draper. Melody, de 11 años, tiene parálisis cerebral y no puede hablar, pero tiene una mente brillante y memoria fotográfica. Muestra que la parálisis cerebral "limita su cuerpo, pero no su mente".
 
 - **Wonder** – R.J. Palacio. Auggie, de 10 años, tiene una diferencia craneofacial. El enfoque está en la humanidad más que en la condición. [Nota: la autora no tiene discapacidad; hay algunas críticas al casting de la película]
 
-- 📘 **Roll with It** – Erin Entrada Kelly.
+- **Roll with It** – Erin Entrada Kelly. *Voz propia.*
 
 ---
 
@@ -365,13 +369,13 @@ Empieza aquí. Estos son textos fundamentales para comprender los derechos, la c
 
 ### Libros ilustrados {#libros-ilustrados}
 
-- 📘 **I Am Not a Label** – Cerrie Burnell (Reino Unido). 34 breves biografías de personas notables con discapacidad: Frida Kahlo, Stevie Wonder, Judith Heumann, etc. "Con estilo" y empoderador, escrito para la infancia de forma libre de estigma. Burnell es una expresentadora de CBeebies con discapacidad.
+- **I Am Not a Label** – Cerrie Burnell (Reino Unido). 34 breves biografías de personas notables con discapacidad: Frida Kahlo, Stevie Wonder, Judith Heumann, etc. "Con estilo" y empoderador, escrito para la infancia de forma libre de estigma. Burnell es una expresentadora de CBeebies con discapacidad. *Voz propia.*
 
 - **Susan Laughs** – Jeanne Willis. La niña hace todo lo que hacen las demás niñas y niños; la silla de ruedas solo se revela al final.
 
 - **My Brother Charlie** – Holly Robinson Peete y Ryan Peete.
 
-- 🌍 **Emmanuel's Dream** – Laurie Ann Thompson. Ciclista ghanés nacido con una sola pierna.
+- **Emmanuel's Dream** – Laurie Ann Thompson. Ciclista ghanés nacido con una sola pierna. *Sur Global.*
 
 ### Primeros lectores {#primeros-lectores}
 
@@ -379,17 +383,17 @@ Empieza aquí. Estos son textos fundamentales para comprender los derechos, la c
 
 ### Novelas gráficas {#novelas-gráficas}
 
-- 📘 **El Deafo** – Cece Bell. Memoria gráfica con personajes de conejos. La pequeña Cece imagina su audífono "Phonic Ear" como un poder de superheroína. "Sumamente disfrutable para la infancia y para personas adultas": las lectoras y los lectores oyentes "se estremecen ante los errores" que cometen los personajes oyentes y aprenden de ellos. Bell es Sorda.
+- **El Deafo** – Cece Bell. Memoria gráfica con personajes de conejos. La pequeña Cece imagina su audífono "Phonic Ear" como un poder de superheroína. "Sumamente disfrutable para la infancia y para personas adultas": las lectoras y los lectores oyentes "se estremecen ante los errores" que cometen los personajes oyentes y aprenden de ellos. Bell es Sorda. *Voz propia.*
 
 ---
 
 ## Poesía {#poesía}
 
-- 📘 **Beauty is a Verb: The New Poetry of Disability** – ed. Sheila Black, Jennifer Bartlett, Michael Northen.
+- **Beauty is a Verb: The New Poetry of Disability** – ed. Sheila Black, Jennifer Bartlett, Michael Northen. *Voz propia.*
 
-- 📘 **Cripple Poetics** – Petra Kuppers y Neil Marcus.
+- **Cripple Poetics** – Petra Kuppers y Neil Marcus. *Voz propia.*
 
-- 📘 **The Collected Poems of Vassar Miller** – Vassar Miller.
+- **The Collected Poems of Vassar Miller** – Vassar Miller. *Voz propia.*
 
 ---
 
@@ -399,73 +403,73 @@ Empieza aquí. Estos son textos fundamentales para comprender los derechos, la c
 
 **Ficción:**
 
-- 📘 An Unkindness of Ghosts – Rivers Solomon
-- 📘 On the Edge of Gone – Corinne Duyvis
-- 📘 The Kiss Quotient – Helen Hoang
-- 📘 A Kind of Spark – Elle McNicoll
-- 📘 Unseelie – Ivelisse Housman
-- 📘 Act Your Age, Eve Brown – Talia Hibbert
+- An Unkindness of Ghosts – Rivers Solomon *Voz propia.*
+- On the Edge of Gone – Corinne Duyvis *Voz propia.*
+- The Kiss Quotient – Helen Hoang *Voz propia.*
+- A Kind of Spark – Elle McNicoll *Voz propia.*
+- Unseelie – Ivelisse Housman *Voz propia.*
+- Act Your Age, Eve Brown – Talia Hibbert *Voz propia.*
 
 **No ficción:**
 
-- 📘 Thinking in Pictures – Temple Grandin
-- 📘 Look Me in the Eye – John Elder Robison
-- 📘 Loud Hands: Autistic People, Speaking – ASAN
-- 🌍 📘 The Reason I Jump – Naoki Higashida
+- Thinking in Pictures – Temple Grandin *Voz propia.*
+- Look Me in the Eye – John Elder Robison *Voz propia.*
+- Loud Hands: Autistic People, Speaking – ASAN *Voz propia.*
+- The Reason I Jump – Naoki Higashida *Voz propia, Sur Global.*
 
 ### TDAH {#tdah}
 
-- 📘 Driven to Distraction – Hallowell y Ratey
-- 📘 ADHD 2.0 – Hallowell y Ratey
+- Driven to Distraction – Hallowell y Ratey *Voz propia.*
+- ADHD 2.0 – Hallowell y Ratey *Voz propia.*
 
 ### Personas Sordas y con dificultades auditivas {#personas-sordas-y-con-dificultades-auditivas-1}
 
-- 📘 Haben – Haben Girma
-- 📘 El Deafo – Cece Bell
-- 📘 Show Me a Sign – Ann Clare LeZotte
-- 📘 Deaf Utopia – Nyle DiMarco
-- 📘 The Story of My Life – Helen Keller
-- 📘 Deaf President Now! – Christiansen y Barnartt
+- Haben – Haben Girma *Voz propia.*
+- El Deafo – Cece Bell *Voz propia.*
+- Show Me a Sign – Ann Clare LeZotte *Voz propia.*
+- Deaf Utopia – Nyle DiMarco *Voz propia.*
+- The Story of My Life – Helen Keller *Voz propia.*
+- Deaf President Now! – Christiansen y Barnartt *Voz propia.*
 
 ### Personas ciegas y con baja visión {#personas-ciegas-y-con-baja-visión-1}
 
-- 📘 Haben – Haben Girma
-- 📘 The Story of My Life – Helen Keller
-- 📘 Blind Rage – Georgina Kleege
-- 📘 Touching the Rock – John Hull
+- Haben – Haben Girma *Voz propia.*
+- The Story of My Life – Helen Keller *Voz propia.*
+- Blind Rage – Georgina Kleege *Voz propia.*
+- Touching the Rock – John Hull *Voz propia.*
 
 ### Enfermedad crónica y dolor {#enfermedad-crónica-y-dolor}
 
-- 📘 Get a Life, Chloe Brown – Talia Hibbert
-- 📘 Mean Baby – Selma Blair
-- 📘 So Lucky – Nicola Griffith
-- 📘 Sick Kids in Love – Hannah Moskowitz
-- 📘 The Invisible Kingdom – Meghan O'Rourke
+- Get a Life, Chloe Brown – Talia Hibbert *Voz propia.*
+- Mean Baby – Selma Blair *Voz propia.*
+- So Lucky – Nicola Griffith *Voz propia.*
+- Sick Kids in Love – Hannah Moskowitz *Voz propia.*
+- The Invisible Kingdom – Meghan O'Rourke *Voz propia.*
 
 ### Discapacidad física y movilidad {#discapacidad-física-y-movilidad}
 
-- 📘 Being Heumann – Judith Heumann
-- 📘 Six of Crows – Leigh Bardugo
-- 📘 Good Kings Bad Kings – Susan Nussbaum
-- 📘 The Diving Bell and the Butterfly – Jean-Dominique Bauby
+- Being Heumann – Judith Heumann *Voz propia.*
+- Six of Crows – Leigh Bardugo *Voz propia.*
+- Good Kings Bad Kings – Susan Nussbaum *Voz propia.*
+- The Diving Bell and the Butterfly – Jean-Dominique Bauby *Voz propia.*
 - Out of My Mind – Sharon Draper
 
 ### Discapacidad psiquiátrica {#discapacidad-psiquiátrica-1}
 
-- 📘 The Bell Jar – Sylvia Plath
-- 📘 An Unquiet Mind – Kay Redfield Jamison
-- 📘 The Collected Schizophrenias – Esmé Weijun Wang
-- 📘 Madness – Marya Hornbacher
+- The Bell Jar – Sylvia Plath *Voz propia.*
+- An Unquiet Mind – Kay Redfield Jamison *Voz propia.*
+- The Collected Schizophrenias – Esmé Weijun Wang *Voz propia.*
+- Madness – Marya Hornbacher *Voz propia.*
 
 ### Intelectual y del desarrollo {#intelectual-y-del-desarrollo-1}
 
-- 📘 Count Us In – Kingsley y Levitz
+- Count Us In – Kingsley y Levitz *Voz propia.*
 - Flowers for Algernon – Daniel Keyes [histórico]
 
 ### Discapacidades múltiples {#discapacidades-múltiples}
 
-- 📘 Haben – Haben Girma (sordociega)
-- 📘 The Story of My Life – Helen Keller (sordociega)
+- Haben – Haben Girma (sordociega) *Voz propia.*
+- The Story of My Life – Helen Keller (sordociega) *Voz propia.*
 
 ---
 
@@ -473,10 +477,10 @@ Empieza aquí. Estos son textos fundamentales para comprender los derechos, la c
 
 ### Personas autoras negras con discapacidad {#personas-autoras-negras-con-discapacidad}
 
-- 📘 An Unkindness of Ghosts – Rivers Solomon
-- 📘 Haben – Haben Girma
-- 📘 Care Work – Leah Lakshmi Piepzna-Samarasinha
-- 📘 Get a Life, Chloe Brown – Talia Hibbert
+- An Unkindness of Ghosts – Rivers Solomon *Voz propia.*
+- Haben – Haben Girma *Voz propia.*
+- Care Work – Leah Lakshmi Piepzna-Samarasinha *Voz propia.*
+- Get a Life, Chloe Brown – Talia Hibbert *Voz propia.*
 
 ### Personas autoras indígenas {#personas-autoras-indígenas}
 
@@ -484,18 +488,18 @@ Empieza aquí. Estos son textos fundamentales para comprender los derechos, la c
 
 ### Personas autoras latinas con discapacidad {#personas-autoras-latinas-con-discapacidad}
 
-- 📘 Unseelie – Ivelisse Housman
+- Unseelie – Ivelisse Housman *Voz propia.*
 
 ### Personas autoras asiáticas con discapacidad {#personas-autoras-asiáticas-con-discapacidad}
 
-- 🌍 📘 The Reason I Jump – Naoki Higashida
-- 📘 The Collected Schizophrenias – Esmé Weijun Wang
+- The Reason I Jump – Naoki Higashida *Voz propia, Sur Global.*
+- The Collected Schizophrenias – Esmé Weijun Wang *Voz propia.*
 
 ### Personas autoras LGBTQ+ con discapacidad {#personas-autoras-lgbtq-con-discapacidad}
 
-- 📘 Care Work – Leah Lakshmi Piepzna-Samarasinha
-- 📘 An Unkindness of Ghosts – Rivers Solomon
-- 📘 Brilliant Imperfection – Eli Clare
+- Care Work – Leah Lakshmi Piepzna-Samarasinha *Voz propia.*
+- An Unkindness of Ghosts – Rivers Solomon *Voz propia.*
+- Brilliant Imperfection – Eli Clare *Voz propia.*
 
 ---
 
@@ -511,13 +515,13 @@ Empieza aquí. Estos son textos fundamentales para comprender los derechos, la c
 
 ### Reino Unido {#reino-unido}
 
-- 📘 Get a Life, Chloe Brown – Talia Hibbert
-- 📘 Crippled: Austerity and the Demonization of Disabled People – Frances Ryan
-- 📘 I Am Not a Label – Cerrie Burnell
+- Get a Life, Chloe Brown – Talia Hibbert *Voz propia.*
+- Crippled: Austerity and the Demonization of Disabled People – Frances Ryan *Voz propia.*
+- I Am Not a Label – Cerrie Burnell *Voz propia.*
 
 ### Canadá {#canadá}
 
-- 📘 Care Work – Leah Lakshmi Piepzna-Samarasinha
+- Care Work – Leah Lakshmi Piepzna-Samarasinha *Voz propia.*
 
 ### Australia y Nueva Zelanda {#australia-y-nueva-zelanda}
 
@@ -525,19 +529,19 @@ Empieza aquí. Estos son textos fundamentales para comprender los derechos, la c
 
 ### África {#áfrica}
 
-- 🌍 Things Fall Apart – Chinua Achebe (Nigeria)
-- 🌍 Emmanuel's Dream – Laurie Ann Thompson (Ghana)
-- 🌍 Disability in the Global South – Grech y Soldatic (eds.)
+- Things Fall Apart – Chinua Achebe (Nigeria) *Sur Global.*
+- Emmanuel's Dream – Laurie Ann Thompson (Ghana) *Sur Global.*
+- Disability in the Global South – Grech y Soldatic (eds.) *Sur Global.*
 
 ### Asia {#asia}
 
-- 🌍 📘 The Reason I Jump – Naoki Higashida (Japón)
+- The Reason I Jump – Naoki Higashida (Japón) *Voz propia, Sur Global.*
 
 ### Europa {#europa}
 
-- 📘 The Diving Bell and the Butterfly – Jean-Dominique Bauby (Francia)
-- 📘 On the Edge of Gone – Corinne Duyvis (Países Bajos)
-- 📘 A Kind of Spark – Elle McNicoll (Escocia)
+- The Diving Bell and the Butterfly – Jean-Dominique Bauby (Francia) *Voz propia.*
+- On the Edge of Gone – Corinne Duyvis (Países Bajos) *Voz propia.*
+- A Kind of Spark – Elle McNicoll (Escocia) *Voz propia.*
 
 ### América Latina y el Caribe {#américa-latina-y-el-caribe}
 

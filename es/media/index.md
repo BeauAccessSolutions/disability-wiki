@@ -19,6 +19,9 @@ La representación de la discapacidad en los medios moldea cómo la sociedad ve 
 ### [Libros](/es/media/books)
 Lista completa de libros organizada por género, tipo de discapacidad e identidad. Da prioridad a autores Own Voices (escritores con discapacidad). Incluye ficción, memorias, no ficción, libros infantiles, poesía y textos académicos.
 
+### [La política de la discapacidad — Una ruta de lectura](/es/media/politics-of-disability-reading-list)
+Una lista de lectura guiada y por etapas sobre la discapacidad como categoría política y cultural. Voces propias primero, con una lente para leer críticamente cualquier representación — y enlaces a las listas completas de Libros y Bibliografía.
+
 ### [Pódcasts](/es/media/podcasts)
 Pódcasts centrados en la discapacidad que abarcan noticias, cultura, narración, defensa de derechos y comunidades específicas de personas con discapacidad. Conducidos por creadores con discapacidad.
 
