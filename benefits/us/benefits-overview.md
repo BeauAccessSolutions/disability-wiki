@@ -31,7 +31,7 @@ This page gives a **big-picture map**. Each major program has its own page with 
 - Requires proof of disability under Social Security’s rules.  
 - Can lead to **Medicare eligibility** after a waiting period.
 
-See: [/benefits/us/ssdi](/benefits/us/ssdi)
+See: [SSDI](/benefits/us/ssdi)
 
 ---
 
@@ -41,7 +41,7 @@ See: [/benefits/us/ssdi](/benefits/us/ssdi)
 - Not tied to work history.  
 - Usually comes with **automatic Medicaid eligibility** in many states.  
 
-See: [/benefits/us/ssi](/benefits/us/ssi)
+See: [SSI](/benefits/us/ssi)
 
 ---
 
@@ -51,7 +51,7 @@ See: [/benefits/us/ssi](/benefits/us/ssi)
 - Rules vary by state, but often linked to SSI and certain income rules.  
 - May cover **home- and community-based services** (HCBS), personal care, and long-term supports.
 
-See: [/benefits/us/medicaid](/benefits/us/medicaid)
+See: [Medicaid](/benefits/us/medicaid)
 
 ---
 
@@ -60,7 +60,7 @@ See: [/benefits/us/medicaid](/benefits/us/medicaid)
 - Federal health insurance for people **65+** and many disabled people who qualify through SSDI or certain conditions.  
 - Has different “Parts” (A, B, C, D) for hospital, medical, private plans, and prescriptions.
 
-See: [/benefits/us/medicare](/benefits/us/medicare)
+See: [Medicare](/benefits/us/medicare)
 
 ---
 
@@ -72,10 +72,10 @@ See: [/benefits/us/medicare](/benefits/us/medicare)
 
 See:
 
-- [/benefits/us/snap](/benefits/us/snap)  
-- [/benefits/us/tanf](/benefits/us/tanf)  
-- [/benefits/us/state-benefits](/benefits/us/state-benefits)  
-- [/benefits/us/family-caregiver-pay](/benefits/us/family-caregiver-pay)
+- [SNAP](/benefits/us/snap)  
+- [TANF](/benefits/us/tanf)  
+- [State disability benefits](/benefits/us/state-benefits)  
+- [Family caregiver pay](/benefits/us/family-caregiver-pay)
 
 ---
 
@@ -87,7 +87,7 @@ Disabled veterans may be eligible for:
 - **VA pension** (for some low-income veterans)  
 - Health care and other supports through the Department of Veterans Affairs.
 
-See: [/benefits/us/veterans-benefits](/benefits/us/veterans-benefits)
+See: [Veterans benefits](/benefits/us/veterans-benefits)
 
 ---
 
@@ -95,7 +95,7 @@ See: [/benefits/us/veterans-benefits](/benefits/us/veterans-benefits)
 
 - Tax-advantaged savings accounts for certain disabled people, without counting all of that money against SSI/Medicaid limits (within legal caps).  
 
-See: [/benefits/us/able-accounts](/benefits/us/able-accounts)
+See: [ABLE accounts](/benefits/us/able-accounts)
 
 ---
 
@@ -124,8 +124,8 @@ If you are:
 
 For help with problems, see:
 
-- [/benefits/benefit-denials-and-appeals](/benefits/benefit-denials-and-appeals)  
-- [/benefits/debt-budgeting-financial-rights](/benefits/debt-budgeting-financial-rights)
+- [Benefit denials and appeals](/benefits/benefit-denials-and-appeals)  
+- [Debt, budgeting & financial rights](/benefits/debt-budgeting-financial-rights)
 
 ---
 

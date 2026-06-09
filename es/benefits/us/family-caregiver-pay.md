@@ -74,7 +74,7 @@ Si sabes cómo funciona el pago para personas cuidadoras en tu estado o país:
 - Incluye cualquier **consejo práctico** o advertencia (largas listas de espera, agencias más accesibles, etc.)
 
 Para un contexto más amplio sobre las prestaciones, consulta:  
-[/es/benefits/us-benefits-overview](/es/benefits/us/benefits-overview) y [/es/benefits/international-benefits-overview](/es/benefits/international/benefits-overview)
+[Resumen de prestaciones de EE. UU.](/es/benefits/us/benefits-overview) y [Resumen de prestaciones internacionales](/es/benefits/international/benefits-overview)
 
 ---
 

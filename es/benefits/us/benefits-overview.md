@@ -31,7 +31,7 @@ Esta página ofrece un **mapa general**. Cada programa importante tiene su propi
 - Requiere comprobante de discapacidad según las reglas del Seguro Social.  
 - Puede dar lugar a la **elegibilidad para Medicare** después de un período de espera.
 
-Ver: [/es/benefits/us/ssdi](/es/benefits/us/ssdi)
+Ver: [SSDI](/es/benefits/us/ssdi)
 
 ---
 
@@ -41,7 +41,7 @@ Ver: [/es/benefits/us/ssdi](/es/benefits/us/ssdi)
 - No está ligada al historial laboral.  
 - Por lo general viene con **elegibilidad automática para Medicaid** en muchos estados.  
 
-Ver: [/es/benefits/us/ssi](/es/benefits/us/ssi)
+Ver: [SSI](/es/benefits/us/ssi)
 
 ---
 
@@ -51,7 +51,7 @@ Ver: [/es/benefits/us/ssi](/es/benefits/us/ssi)
 - Las reglas varían según el estado, pero a menudo están vinculadas al SSI y a ciertas reglas de ingresos.  
 - Puede cubrir **servicios en el hogar y en la comunidad** (home- and community-based services, HCBS), cuidado personal y apoyos de largo plazo.
 
-Ver: [/es/benefits/us/medicaid](/es/benefits/us/medicaid)
+Ver: [Medicaid](/es/benefits/us/medicaid)
 
 ---
 
@@ -60,7 +60,7 @@ Ver: [/es/benefits/us/medicaid](/es/benefits/us/medicaid)
 - Seguro de salud federal para personas de **65 años o más** y muchas personas con discapacidad que califican a través del SSDI o de ciertas condiciones.  
 - Tiene distintas "Partes" (A, B, C, D) para hospitalización, atención médica, planes privados y medicamentos recetados.
 
-Ver: [/es/benefits/us/medicare](/es/benefits/us/medicare)
+Ver: [Medicare](/es/benefits/us/medicare)
 
 ---
 
@@ -72,10 +72,10 @@ Ver: [/es/benefits/us/medicare](/es/benefits/us/medicare)
 
 Ver:
 
-- [/es/benefits/us/snap](/es/benefits/us/snap)  
-- [/es/benefits/us/tanf](/es/benefits/us/tanf)  
-- [/es/benefits/us/state-benefits](/es/benefits/us/state-benefits)  
-- [/es/benefits/us/family-caregiver-pay](/es/benefits/us/family-caregiver-pay)
+- [SNAP](/es/benefits/us/snap)  
+- [TANF](/es/benefits/us/tanf)  
+- [Prestaciones estatales por discapacidad](/es/benefits/us/state-benefits)  
+- [Pago a cuidadores familiares](/es/benefits/us/family-caregiver-pay)
 
 ---
 
@@ -87,7 +87,7 @@ Los veteranos con discapacidad pueden ser elegibles para:
 - **Pensión del VA** (para algunos veteranos de bajos ingresos)  
 - Atención médica y otros apoyos a través del Departamento de Asuntos de Veteranos (Department of Veterans Affairs).
 
-Ver: [/es/benefits/us/veterans-benefits](/es/benefits/us/veterans-benefits)
+Ver: [Prestaciones para veteranos](/es/benefits/us/veterans-benefits)
 
 ---
 
@@ -95,7 +95,7 @@ Ver: [/es/benefits/us/veterans-benefits](/es/benefits/us/veterans-benefits)
 
 - Cuentas de ahorro con ventajas fiscales para ciertas personas con discapacidad, sin que todo ese dinero cuente para los límites del SSI/Medicaid (dentro de los topes legales).  
 
-Ver: [/es/benefits/us/able-accounts](/es/benefits/us/able-accounts)
+Ver: [Cuentas ABLE](/es/benefits/us/able-accounts)
 
 ---
 
@@ -124,8 +124,8 @@ Si eres:
 
 Para obtener ayuda con problemas, consulta:
 
-- [/es/benefits/benefit-denials-and-appeals](/es/benefits/benefit-denials-and-appeals)  
-- [/es/benefits/debt-budgeting-financial-rights](/es/benefits/debt-budgeting-financial-rights)
+- [Denegaciones y apelaciones de prestaciones](/es/benefits/benefit-denials-and-appeals)  
+- [Deudas, presupuesto y derechos financieros](/es/benefits/debt-budgeting-financial-rights)
 
 ---
 

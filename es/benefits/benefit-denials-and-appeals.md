@@ -82,7 +82,7 @@ A veces las agencias dicen que se te pagó de más y que debes devolver dinero. 
 - En algunos países puedes solicitar **exenciones (waivers)**, **reducciones** o **alivio por dificultad económica**.  
 - Puede valer la pena apelar tanto la **decisión sobre el pago en exceso** como cualquier **acción de cobro**.
 
-Consulta también: [/es/benefits/debt-budgeting-financial-rights](/es/benefits/debt-budgeting-financial-rights)
+Consulta también: [Deudas, presupuesto y derechos financieros](/es/benefits/debt-budgeting-financial-rights)
 
 ---
 

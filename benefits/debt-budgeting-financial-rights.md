@@ -102,7 +102,7 @@ When you contribute, consider adding:
 
 ## Related Pages
 
-- [/benefits/benefit-denials-and-appeals](/benefits/benefit-denials-and-appeals)  
+- [Benefit denials and appeals](/benefits/benefit-denials-and-appeals)  
 - Country/region benefits pages (U.S., Canada, UK, etc.)  
 - Housing and healthcare sections (because those costs are often what drive debt)
 

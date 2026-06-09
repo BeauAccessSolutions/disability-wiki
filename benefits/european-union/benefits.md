@@ -58,7 +58,7 @@ If you live in an EU member state:
 - Flag issues that are especially important for disabled migrants, asylum seekers, and cross-border workers.
 
 For global comparisons, see:  
-[/benefits/international-benefits-overview](/benefits/international/benefits-overview)
+[International benefits overview](/benefits/international/benefits-overview)
 
 ---
 

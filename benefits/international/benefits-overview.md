@@ -40,11 +40,11 @@ Depending on the country, disability-related support might include:
 
 We have starting pages for:
 
-- [/benefits/canada-benefits](/benefits/canada/benefits)  
-- [/benefits/uk-benefits](/benefits/united-kingdom/benefits)  
-- [/benefits/australia-benefits](/benefits/australia/benefits)  
-- [/benefits/eu-benefits](/benefits/european-union/benefits)  
-- [/benefits/other-countries-benefits](/benefits/other-countries-benefits)
+- [Canada benefits](/benefits/canada/benefits)  
+- [UK benefits](/benefits/united-kingdom/benefits)  
+- [Australia benefits](/benefits/australia/benefits)  
+- [EU benefits](/benefits/european-union/benefits)  
+- [Other countries' benefits](/benefits/other-countries-benefits)
 
 These are **not** meant to be exhaustive or centered only on wealthier countries; they are just the first structures to be filled in.
 
@@ -54,7 +54,7 @@ These are **not** meant to be exhaustive or centered only on wealthier countries
 
 If you live outside the U.S., you can help by:
 
-1. Finding the right regional page (Europe, Latin America, Africa, etc.), or using [/benefits/other-countries-benefits](/benefits/other-countries-benefits) as a starting point.  
+1. Finding the right regional page (Europe, Latin America, Africa, etc.), or using [Other countries' benefits](/benefits/other-countries-benefits) as a starting point.  
 2. Adding a heading for your **country or region**.  
 3. Describing, in clear terms:  
    - Main disability income supports  

@@ -82,7 +82,7 @@ Sometimes agencies say you were paid too much and must repay money. Important po
 - In some countries, you can request **waivers**, **reductions**, or **hardship relief**.  
 - It may be worth appealing both the **overpayment decision** and any **collection actions**.
 
-See also: [/benefits/debt-budgeting-financial-rights](/benefits/debt-budgeting-financial-rights)
+See also: [Debt, budgeting & financial rights](/benefits/debt-budgeting-financial-rights)
 
 ---
 

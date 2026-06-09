@@ -76,7 +76,7 @@ Because of this, it can be helpful to:
 - Document disability-related limitations, and  
 - See if other programs (SSI, SNAP, Medicaid, state disability benefits) might be more appropriate or sustainable.
 
-For broader overview, see: [/benefits/us-benefits-overview](/benefits/us/benefits-overview)
+For broader overview, see: [US benefits overview](/benefits/us/benefits-overview)
 
 ---
 

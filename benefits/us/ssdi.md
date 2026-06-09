@@ -62,7 +62,7 @@ Family members sometimes qualify on your record (for example, some spouses or ch
 - After you receive SSDI for a certain period, you usually qualify for **Medicare**, even if you are under 65.  
 - Some people have **both Medicare and Medicaid**.
 
-See: [/benefits/us-medicare](/benefits/us/medicare)
+See: [Medicare](/benefits/us/medicare)
 
 ---
 
@@ -89,7 +89,7 @@ Common steps:
 - **Confusing letters.** Notices may be hard to understand, especially around overpayments or work reviews.
 
 If you’re denied or get a confusing notice, see:  
-[/benefits/benefit-denials-and-appeals](/benefits/benefit-denials-and-appeals)
+[Benefit denials and appeals](/benefits/benefit-denials-and-appeals)
 
 ---
 
@@ -113,7 +113,7 @@ The details are complex and change over time. Before working more hours or earni
 - **SSDI** – Based on work history, can be larger benefit, not asset-tested.  
 - **SSI** – Needs-based, for people with low income and assets, with lower payment amounts.
 
-Some people receive **both** SSDI and SSI. See: [/benefits/us-ssi](/benefits/us/ssi)
+Some people receive **both** SSDI and SSI. See: [SSI](/benefits/us/ssi)
 
 ---
 

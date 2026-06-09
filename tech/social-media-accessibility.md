@@ -89,7 +89,7 @@ Tools that matter:
 - Privacy controls and locked accounts  
 - Community-level moderation policies that explicitly protect disabled users
 
-These topics intersect with digital disability justice (see [/tech/digital-disability-justice](/tech/digital-disability-justice)) and with legal rights in different countries.
+These topics intersect with digital disability justice (see [Digital disability justice](/tech/digital-disability-justice)) and with legal rights in different countries.
 
 ---
 

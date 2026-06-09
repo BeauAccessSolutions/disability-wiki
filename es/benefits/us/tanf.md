@@ -76,7 +76,7 @@ Por esto, puede ser útil:
 - Documentar las limitaciones relacionadas con la discapacidad, y  
 - Ver si otros programas (SSI, SNAP, Medicaid, prestaciones estatales por discapacidad) podrían ser más apropiados o sostenibles.
 
-Para una visión más amplia, consulta: [/benefits/us-benefits-overview](/es/benefits/us/benefits-overview)
+Para una visión más amplia, consulta: [Resumen de prestaciones de EE. UU.](/es/benefits/us/benefits-overview)
 
 ---
 
