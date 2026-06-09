@@ -16,7 +16,7 @@ dateCreated: 2026-01-11T19:42:25.469Z
 ---
 
 ## The Disability Pride Flag
-![visually_safe_disability_pride_flag.svg.png](/visually_safe_disability_pride_flag.svg.png)
+![The Disability Pride Flag: a charcoal-grey field crossed by a diagonal band of five parallel stripes — red, gold, white, blue, and green.](/visually_safe_disability_pride_flag.svg.png)
 The Disability Pride Flag was designed by Ann Magill and revised in 2021. Each color represents part of the disability community:
 
 - **Charcoal Grey:** Mourning and remembrance for people lost to ableist violence, abuse, suicide, and illness.

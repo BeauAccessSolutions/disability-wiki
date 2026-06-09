@@ -386,20 +386,20 @@ Registra cómo te afectó la discriminación:
 ## ESTRATEGIAS PARA EL ÉXITO
 
 ### Las quejas sólidas tienen:
-- ✓ Una descripción clara de lo que ocurrió
-- ✓ Fechas específicas y personas involucradas
-- ✓ Referencia a la ley específica que se violó
-- ✓ Evidencia (correos, documentación, testigos)
-- ✓ Una descripción clara de la reparación solicitada
-- ✓ Presentación antes del plazo
+- Una descripción clara de lo que ocurrió
+- Fechas específicas y personas involucradas
+- Referencia a la ley específica que se violó
+- Evidencia (correos, documentación, testigos)
+- Una descripción clara de la reparación solicitada
+- Presentación antes del plazo
 
 ### Las quejas débiles tienen:
-- ✗ Descripciones vagas ("fueron groseros")
-- ✗ Sin fechas ni personas específicas
-- ✗ Sin documentación de respaldo
-- ✗ Presentación después del plazo
-- ✗ Falta de claridad sobre qué ley se violó
-- ✗ Sin una reparación clara solicitada
+- Descripciones vagas ("fueron groseros")
+- Sin fechas ni personas específicas
+- Sin documentación de respaldo
+- Presentación después del plazo
+- Falta de claridad sobre qué ley se violó
+- Sin una reparación clara solicitada
 
 ---
 

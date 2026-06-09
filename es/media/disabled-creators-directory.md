@@ -20,8 +20,8 @@ Este directorio reúne en un solo lugar a personas creadoras con discapacidad pa
 
 **Este directorio está en constante crecimiento.** Sugiere agregados a través de [Cómo Contribuir](/es/glossary/how-to-contribute).
 
-**Leyenda:**
-- 🌍 No radicada en Estados Unidos
+**Etiquetas usadas abajo**
+- *(fuera de EE. UU.)* — la persona creadora está radicada fuera de Estados Unidos
 
 ---
 
@@ -56,7 +56,7 @@ Este directorio reúne en un solo lugar a personas creadoras con discapacidad pa
 | Helen Hoang | Autista | Romance | The Kiss Quotient |
 | Leigh Bardugo | Osteonecrosis | Fantasía | Six of Crows |
 | Corinne Duyvis | Autista | Ciencia ficción para jóvenes adultos | On the Edge of Gone |
-| Elle McNicoll | Autista | Lectores intermedios | A Kind of Spark 🌍 |
+| Elle McNicoll | Autista | Lectores intermedios | A Kind of Spark *(fuera de EE. UU.)* |
 | Sara Nović | Sorda | Ficción literaria | True Biz |
 | Ann Clare LeZotte | Sorda | Lectores intermedios | Show Me a Sign |
 | Harriet McBryde Johnson | Discapacidad neuromuscular | Jóvenes adultos/ensayos | Accidents of Nature |
@@ -99,10 +99,10 @@ Este directorio reúne en un solo lugar a personas creadoras con discapacidad pa
 | Christine Sun Kim | Sorda | Arte sonoro, dibujo | Explorar el sonido y el silencio |
 | Joseph Grigely | Sordo | Arte conceptual | Conversation pieces |
 | Katherine Sherwood | Sobreviviente de derrame cerebral | Pintura | Obra posterior al derrame |
-| Yinka Shonibare | Discapacidad física | Instalación | Obra sobre identidad cultural 🌍 |
+| Yinka Shonibare | Discapacidad física | Instalación | Obra sobre identidad cultural *(fuera de EE. UU.)* |
 | Sandie Yi | Discapacidad física | Escultura | Arte de instalación |
 | Chun-Shan (Sandie) Yi | Usuaria de silla de ruedas | Escultura | Artes de la discapacidad |
-| Tony Heaton | Usuario de silla de ruedas | Escultura | Artes de la discapacidad 🌍 |
+| Tony Heaton | Usuario de silla de ruedas | Escultura | Artes de la discapacidad *(fuera de EE. UU.)* |
 
 ---
 
@@ -112,13 +112,13 @@ Este directorio reúne en un solo lugar a personas creadoras con discapacidad pa
 |------|------------|-------|-------------|
 | Stevie Wonder | Ciego | Soul/R&B | Carrera legendaria |
 | Ray Charles (1930-2004) | Ciego | R&B/soul | Pionero |
-| Evelyn Glennie | Sorda | Percusión clásica | Solista internacional 🌍 |
+| Evelyn Glennie | Sorda | Percusión clásica | Solista internacional *(fuera de EE. UU.)* |
 | Sean Forbes | Sordo | Hip-hop | Fundador de D-PAN |
 | Mandy Harvey | Sordera tardía | Cantautora | Finalista de AGT |
 | Itzhak Perlman | Polio | Violín clásico | Violinista de renombre mundial |
 | Teddy Pendergrass (1950-2010) | Paralizado | Soul | Continuó actuando tras su lesión |
 | Django Reinhardt (1910-1953) | Parálisis parcial de la mano | Guitarra de jazz | Desarrolló una técnica única |
-| Viktoria Modesta | Amputada | Pop/performance | Artista biónica 🌍 |
+| Viktoria Modesta | Amputada | Pop/performance | Artista biónica *(fuera de EE. UU.)* |
 | Gaelynn Lea | Osteogénesis imperfecta | Folk indie | Ganadora del NPR Tiny Desk |
 
 ---
@@ -132,7 +132,7 @@ Este directorio reúne en un solo lugar a personas creadoras con discapacidad pa
 | Jenni Gold | Usuaria de silla de ruedas | Documental | CinemAbility |
 | Rodney Evans | Pérdida de visión | Documental | Vision Portraits |
 | Billy Golfus | Lesión cerebral | Documental | When Billy Broke His Head |
-| Shoshannah Stern | Sorda | Creadora de TV | This Close 🎬 |
+| Shoshannah Stern | Sorda | Creadora de TV | This Close |
 | Josh Feldman | Sordo | Creador de TV | This Close |
 | Ryan O'Connell | Parálisis cerebral, gay | Creador/actor de TV | Special |
 
@@ -154,12 +154,12 @@ Este directorio reúne en un solo lugar a personas creadoras con discapacidad pa
 | Jamie Brewer | Síndrome de Down | American Horror Story |
 | Danny Woodburn | Persona de talla baja | Seinfeld, varios |
 | Peter Dinklage | Acondroplasia | Game of Thrones |
-| Warwick Davis | Displasia espondiloepifisaria | Harry Potter, Willow 🌍 |
+| Warwick Davis | Displasia espondiloepifisaria | Harry Potter, Willow *(fuera de EE. UU.)* |
 | Ali Stroker | Usuaria de silla de ruedas | Oklahoma! (ganadora del Tony) |
 | Madison Ferris | Distrofia muscular | The Glass Menagerie (Broadway) |
 | Kiera Allen | Usuaria de silla de ruedas | Run |
 | Alaqua Cox | Sorda, amputada | Echo (Marvel) |
-| Mat Fraser | Focomelia | American Horror Story 🌍 |
+| Mat Fraser | Focomelia | American Horror Story *(fuera de EE. UU.)* |
 
 ### Performers de teatro
 
@@ -181,10 +181,10 @@ Este directorio reúne en un solo lugar a personas creadoras con discapacidad pa
 | Josh Blue | Parálisis cerebral | Stand-up | Ganador de Last Comic Standing |
 | Zach Anner | Parálisis cerebral | Stand-up, YouTube | Ganador del programa de Oprah |
 | Drew Lynch | Tartamudez | Stand-up | Finalista de AGT |
-| Lee Ridley (Lost Voice Guy) | Usuario de CAA | Stand-up | Ganador de BGT 🌍 |
-| Adam Hills | Amputado | Conductor de TV | The Last Leg 🌍 |
-| Francesca Martinez | Parálisis cerebral | Stand-up | Comediante británica 🌍 |
-| Alex Brooker | Diferencia en una extremidad | Conductor de TV | The Last Leg 🌍 |
+| Lee Ridley (Lost Voice Guy) | Usuario de CAA | Stand-up | Ganador de BGT *(fuera de EE. UU.)* |
+| Adam Hills | Amputado | Conductor de TV | The Last Leg *(fuera de EE. UU.)* |
+| Francesca Martinez | Parálisis cerebral | Stand-up | Comediante británica *(fuera de EE. UU.)* |
+| Alex Brooker | Diferencia en una extremidad | Conductor de TV | The Last Leg *(fuera de EE. UU.)* |
 | Nina G | Tartamudez, dislexia | Stand-up | Comediante con tartamudez |
 
 ---
@@ -196,7 +196,7 @@ Este directorio reúne en un solo lugar a personas creadoras con discapacidad pa
 | Alice Sheppard | Usuaria de silla de ruedas | Kinetic Light | Coreógrafa, performer |
 | Judith Smith | Discapacidad física | AXIS Dance | Cofundadora |
 | Laurel Lawson | Usuaria de silla de ruedas | Kinetic Light | Performer |
-| Marc Brew | Discapacidad física | Coreógrafo | Trabajo internacional 🌍 |
+| Marc Brew | Discapacidad física | Coreógrafo | Trabajo internacional *(fuera de EE. UU.)* |
 | Alito Alessi | Discapacidad física | DanceAbility | Fundador de la metodología |
 | Chelsie Hill | Paralizada | Rollettes | Equipo de danza en silla de ruedas |
 | Bill Shannon | Discapacidad física | Bailarín con muletas | Performance callejera |
@@ -224,7 +224,7 @@ Consulta [Canales de YouTube](/es/media/youtube-channels) para ver la lista deta
 | Nombre | Discapacidad | Contenido |
 |------|------------|---------|
 | Squirmy and Grubs (Shane Burcaw) | AME | Relación entre una persona con discapacidad y una sin discapacidad |
-| Jessica Kellgren-Fozard | Sorda, enfermedad crónica | Moda vintage, educación 🌍 |
+| Jessica Kellgren-Fozard | Sorda, enfermedad crónica | Moda vintage, educación *(fuera de EE. UU.)* |
 | Molly Burke | Ciega | Estilo de vida, maquillaje |
 | Zach Anner | Parálisis cerebral | Comedia, viajes |
 | Rikki Poynter | Sorda | Defensa de la accesibilidad |
@@ -236,7 +236,7 @@ Consulta [Canales de YouTube](/es/media/youtube-channels) para ver la lista deta
 
 | Nombre | Discapacidad | Publicación/Enfoque |
 |------|------------|-------------------|
-| John Pring | Discapacidad física | Disability News Service 🌍 |
+| John Pring | Discapacidad física | Disability News Service *(fuera de EE. UU.)* |
 | Imani Barbarin | Parálisis cerebral | Forbes, varios |
 | s.e. smith | Enfermedad crónica, salud mental | Varias publicaciones |
 | Vilissa Thompson | Usuaria de silla de ruedas | Ramp Your Voice |
@@ -251,7 +251,7 @@ Consulta [Canales de YouTube](/es/media/youtube-channels) para ver la lista deta
 |------|------------|-------|-------------|
 | Simi Linton | Usuaria de silla de ruedas | Estudios de la discapacidad | CUNY (emérita) |
 | Rosemarie Garland-Thomson | Discapacidad física | Estudios de la discapacidad | Emory |
-| Jay Dolmage | Discapacidad física | Retórica | University of Waterloo 🌍 |
+| Jay Dolmage | Discapacidad física | Retórica | University of Waterloo *(fuera de EE. UU.)* |
 | Eli Clare | Discapacidad física | Estudios de la discapacidad/lo trans | Independiente |
 | Lennard Davis | (Hijo de padres Sordos) | Estudios de la discapacidad | University of Illinois Chicago |
 | Robert McRuer | Enfermedad crónica | Estudios queer/de la discapacidad | George Washington |
@@ -269,7 +269,7 @@ Muchas personas activistas de la discapacidad también son creadoras: escritoras
 | Alice Wong | AME | Escritura, pódcast, edición |
 | Judy Heumann (1947-2023) | Polio | Memoria, conferencias |
 | Haben Girma | Sordociega | Escritura, conferencias |
-| Stella Young (1982-2014) | Osteogénesis imperfecta | Comedia, escritura 🌍 |
+| Stella Young (1982-2014) | Osteogénesis imperfecta | Comedia, escritura *(fuera de EE. UU.)* |
 | Imani Barbarin | Parálisis cerebral | Escritura, redes sociales |
 | Vilissa Thompson | Usuaria de silla de ruedas | Escritura, consultoría |
 | Leah Lakshmi Piepzna-Samarasinha | Enfermedad crónica | Escritura, performance |

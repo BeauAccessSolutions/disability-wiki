@@ -20,8 +20,8 @@ This directory collects disabled creators in one place for easy discovery. All c
 
 **This directory is always growing.** Suggest additions via [How to Contribute](/glossary/how-to-contribute).
 
-**Legend:**
-- 🌍 Non-US based
+**Labels used below**
+- *(non-US)* — creator is based outside the US
 
 ---
 
@@ -56,7 +56,7 @@ This directory collects disabled creators in one place for easy discovery. All c
 | Helen Hoang | Autistic | Romance | The Kiss Quotient |
 | Leigh Bardugo | Osteonecrosis | Fantasy | Six of Crows |
 | Corinne Duyvis | Autistic | YA sci-fi | On the Edge of Gone |
-| Elle McNicoll | Autistic | Middle grade | A Kind of Spark 🌍 |
+| Elle McNicoll | Autistic | Middle grade | A Kind of Spark *(non-US)* |
 | Sara Nović | Deaf | Literary fiction | True Biz |
 | Ann Clare LeZotte | Deaf | Middle grade | Show Me a Sign |
 | Harriet McBryde Johnson | Neuromuscular disability | YA/essays | Accidents of Nature |
@@ -99,10 +99,10 @@ This directory collects disabled creators in one place for easy discovery. All c
 | Christine Sun Kim | Deaf | Sound art, drawing | Exploring sound and silence |
 | Joseph Grigely | Deaf | Conceptual art | Conversation pieces |
 | Katherine Sherwood | Stroke survivor | Painting | Post-stroke work |
-| Yinka Shonibare | Physical disability | Installation | Cultural identity work 🌍 |
+| Yinka Shonibare | Physical disability | Installation | Cultural identity work *(non-US)* |
 | Sandie Yi | Physical disability | Sculpture | Installation art |
 | Chun-Shan (Sandie) Yi | Wheelchair user | Sculpture | Disability arts |
-| Tony Heaton | Wheelchair user | Sculpture | Disability arts 🌍 |
+| Tony Heaton | Wheelchair user | Sculpture | Disability arts *(non-US)* |
 
 ---
 
@@ -112,13 +112,13 @@ This directory collects disabled creators in one place for easy discovery. All c
 |------|------------|-------|-------------|
 | Stevie Wonder | Blind | Soul/R&B | Legendary career |
 | Ray Charles (1930-2004) | Blind | R&B/soul | Pioneer |
-| Evelyn Glennie | Deaf | Classical percussion | International soloist 🌍 |
+| Evelyn Glennie | Deaf | Classical percussion | International soloist *(non-US)* |
 | Sean Forbes | Deaf | Hip-hop | D-PAN founder |
 | Mandy Harvey | Late-deafened | Singer-songwriter | AGT finalist |
 | Itzhak Perlman | Polio | Classical violin | World-renowned violinist |
 | Teddy Pendergrass (1950-2010) | Paralyzed | Soul | Continued performing post-injury |
 | Django Reinhardt (1910-1953) | Partial hand paralysis | Jazz guitar | Developed unique technique |
-| Viktoria Modesta | Amputee | Pop/performance | Bionic artist 🌍 |
+| Viktoria Modesta | Amputee | Pop/performance | Bionic artist *(non-US)* |
 | Gaelynn Lea | Osteogenesis imperfecta | Indie folk | NPR Tiny Desk winner |
 
 ---
@@ -132,7 +132,7 @@ This directory collects disabled creators in one place for easy discovery. All c
 | Jenni Gold | Wheelchair user | Documentary | CinemAbility |
 | Rodney Evans | Vision loss | Documentary | Vision Portraits |
 | Billy Golfus | Brain injury | Documentary | When Billy Broke His Head |
-| Shoshannah Stern | Deaf | TV creator | This Close 🎬 |
+| Shoshannah Stern | Deaf | TV creator | This Close |
 | Josh Feldman | Deaf | TV creator | This Close |
 | Ryan O'Connell | Cerebral palsy, gay | TV creator/actor | Special |
 
@@ -154,12 +154,12 @@ This directory collects disabled creators in one place for easy discovery. All c
 | Jamie Brewer | Down syndrome | American Horror Story |
 | Danny Woodburn | Little person | Seinfeld, various |
 | Peter Dinklage | Achondroplasia | Game of Thrones |
-| Warwick Davis | Spondyloepiphyseal dysplasia | Harry Potter, Willow 🌍 |
+| Warwick Davis | Spondyloepiphyseal dysplasia | Harry Potter, Willow *(non-US)* |
 | Ali Stroker | Wheelchair user | Oklahoma! (Tony winner) |
 | Madison Ferris | Muscular dystrophy | The Glass Menagerie (Broadway) |
 | Kiera Allen | Wheelchair user | Run |
 | Alaqua Cox | Deaf, amputee | Echo (Marvel) |
-| Mat Fraser | Phocomelia | American Horror Story 🌍 |
+| Mat Fraser | Phocomelia | American Horror Story *(non-US)* |
 
 ### Theater Performers
 
@@ -181,10 +181,10 @@ This directory collects disabled creators in one place for easy discovery. All c
 | Josh Blue | Cerebral palsy | Stand-up | Last Comic Standing winner |
 | Zach Anner | Cerebral palsy | Stand-up, YouTube | Oprah show winner |
 | Drew Lynch | Stutter | Stand-up | AGT finalist |
-| Lee Ridley (Lost Voice Guy) | AAC user | Stand-up | BGT winner 🌍 |
-| Adam Hills | Amputee | TV host | The Last Leg 🌍 |
-| Francesca Martinez | Cerebral palsy | Stand-up | UK comedian 🌍 |
-| Alex Brooker | Limb difference | TV host | The Last Leg 🌍 |
+| Lee Ridley (Lost Voice Guy) | AAC user | Stand-up | BGT winner *(non-US)* |
+| Adam Hills | Amputee | TV host | The Last Leg *(non-US)* |
+| Francesca Martinez | Cerebral palsy | Stand-up | UK comedian *(non-US)* |
+| Alex Brooker | Limb difference | TV host | The Last Leg *(non-US)* |
 | Nina G | Stutter, dyslexia | Stand-up | Stuttering comedian |
 
 ---
@@ -196,7 +196,7 @@ This directory collects disabled creators in one place for easy discovery. All c
 | Alice Sheppard | Wheelchair user | Kinetic Light | Choreographer, performer |
 | Judith Smith | Physical disability | AXIS Dance | Co-founder |
 | Laurel Lawson | Wheelchair user | Kinetic Light | Performer |
-| Marc Brew | Physical disability | Choreographer | International work 🌍 |
+| Marc Brew | Physical disability | Choreographer | International work *(non-US)* |
 | Alito Alessi | Physical disability | DanceAbility | Methodology founder |
 | Chelsie Hill | Paralyzed | Rollettes | Wheelchair dance team |
 | Bill Shannon | Physical disability | Crutch dancer | Street performance |
@@ -224,7 +224,7 @@ See [YouTube Channels](/media/youtube-channels) for detailed list.
 | Name | Disability | Content |
 |------|------------|---------|
 | Squirmy and Grubs (Shane Burcaw) | SMA | Interabled relationship |
-| Jessica Kellgren-Fozard | Deaf, chronic illness | Vintage fashion, education 🌍 |
+| Jessica Kellgren-Fozard | Deaf, chronic illness | Vintage fashion, education *(non-US)* |
 | Molly Burke | Blind | Lifestyle, makeup |
 | Zach Anner | Cerebral palsy | Comedy, travel |
 | Rikki Poynter | Deaf | Accessibility advocacy |
@@ -236,7 +236,7 @@ See [YouTube Channels](/media/youtube-channels) for detailed list.
 
 | Name | Disability | Publication/Focus |
 |------|------------|-------------------|
-| John Pring | Physical disability | Disability News Service 🌍 |
+| John Pring | Physical disability | Disability News Service *(non-US)* |
 | Imani Barbarin | Cerebral palsy | Forbes, various |
 | s.e. smith | Chronic illness, mental health | Various publications |
 | Vilissa Thompson | Wheelchair user | Ramp Your Voice |
@@ -251,7 +251,7 @@ See [YouTube Channels](/media/youtube-channels) for detailed list.
 |------|------------|-------|-------------|
 | Simi Linton | Wheelchair user | Disability studies | CUNY (emerita) |
 | Rosemarie Garland-Thomson | Physical disability | Disability studies | Emory |
-| Jay Dolmage | Physical disability | Rhetoric | University of Waterloo 🌍 |
+| Jay Dolmage | Physical disability | Rhetoric | University of Waterloo *(non-US)* |
 | Eli Clare | Physical disability | Disability/trans studies | Independent |
 | Lennard Davis | (Son of Deaf parents) | Disability studies | University of Illinois Chicago |
 | Robert McRuer | Chronic illness | Queer/disability studies | George Washington |
@@ -269,7 +269,7 @@ Many disability activists are also creators—writers, artists, speakers, media 
 | Alice Wong | SMA | Writing, podcasting, editing |
 | Judy Heumann (1947-2023) | Polio | Memoir, speaking |
 | Haben Girma | Deafblind | Writing, speaking |
-| Stella Young (1982-2014) | Osteogenesis imperfecta | Comedy, writing 🌍 |
+| Stella Young (1982-2014) | Osteogenesis imperfecta | Comedy, writing *(non-US)* |
 | Imani Barbarin | Cerebral palsy | Writing, social media |
 | Vilissa Thompson | Wheelchair user | Writing, consulting |
 | Leah Lakshmi Piepzna-Samarasinha | Chronic illness | Writing, performance |

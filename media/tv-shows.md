@@ -18,11 +18,11 @@ Television series featuring disabled characters and creators. This list highligh
 
 This list prioritizes shows with **authentic casting** (disabled actors playing disabled characters) and **disabled creators** behind the scenes. We note representation quality and flag concerns.
 
-**Legend:**
-- 🎭 Authentic casting (disabled actors)
-- 🎬 Disabled creator/writer/showrunner
-- 🌍 Non-US / International
-- ✦ Essential viewing
+**Labels used below** (after an entry):
+- *Authentic casting* — disabled actors play disabled characters
+- *Disabled creator* — disabled creator/writer/showrunner
+- *International* — non-US / international
+- *Essential* — essential viewing
 
 ---
 
@@ -52,13 +52,13 @@ This list prioritizes shows with **authentic casting** (disabled actors playing 
 
 ### Groundbreaking Representation
 
-- ✦ 🎭 **Switched at Birth** (2011-2017) – ABC Family/Freeform. Drama centering two families, one with a Deaf daughter. Features extensive ASL, Deaf actors (Katie Leclerc, Marlee Matlin, Sean Berdy), and storylines about Deaf culture, cochlear implant debates, and Deaf education. Landmark for Deaf representation on mainstream TV.
+- **Switched at Birth** (2011-2017) – ABC Family/Freeform. Drama centering two families, one with a Deaf daughter. Features extensive ASL, Deaf actors (Katie Leclerc, Marlee Matlin, Sean Berdy), and storylines about Deaf culture, cochlear implant debates, and Deaf education. Landmark for Deaf representation on mainstream TV. *Authentic casting, Essential.*
 
-- ✦ 🎭 **Deaf U** (2020) – Netflix. Reality series following Deaf and hard of hearing students at Gallaudet University. All Deaf cast. Explores dating, identity, Deaf culture, and the diversity within Deaf community.
+- **Deaf U** (2020) – Netflix. Reality series following Deaf and hard of hearing students at Gallaudet University. All Deaf cast. Explores dating, identity, Deaf culture, and the diversity within Deaf community. *Authentic casting, Essential.*
 
-- ✦ 🎭 🎬 **Special** (2019-2021) – Netflix. Ryan O'Connell (gay man with cerebral palsy) created, wrote, and stars in this comedy about a gay man with CP navigating life, work, and relationships. Groundbreaking for authentic disabled creator telling own story.
+- **Special** (2019-2021) – Netflix. Ryan O'Connell (gay man with cerebral palsy) created, wrote, and stars in this comedy about a gay man with CP navigating life, work, and relationships. Groundbreaking for authentic disabled creator telling own story. *Authentic casting, Disabled creator, Essential.*
 
-- ✦ 🎭 **Speechless** (2016-2019) – ABC. Comedy about family with teenager (Micah Fowler, who has CP) who uses AAC device. Fowler is authentically cast; show consulted disability community. Rare positive portrayal of AAC user as full character.
+- **Speechless** (2016-2019) – ABC. Comedy about family with teenager (Micah Fowler, who has CP) who uses AAC device. Fowler is authentically cast; show consulted disability community. Rare positive portrayal of AAC user as full character. *Authentic casting, Essential.*
 
 ---
 
@@ -66,33 +66,33 @@ This list prioritizes shows with **authentic casting** (disabled actors playing 
 
 *As of December 2025. Check streaming services for current availability.*
 
-- 🎭 **All American** (2018-present) – CW. Kayla Smith plays character with limb difference.
+- **All American** (2018-present) – CW. Kayla Smith plays character with limb difference. *Authentic casting.*
 
-- 🎭 **The Good Doctor** (2017-present) – ABC. Freddie Highmore as autistic surgeon. [Note: Non-autistic actor; mixed reception from autistic community. Some praise visibility, others critique portrayal.]
+- **The Good Doctor** (2017-present) – ABC. Freddie Highmore as autistic surgeon. [Note: Non-autistic actor; mixed reception from autistic community. Some praise visibility, others critique portrayal.] *Authentic casting.*
 
-- 🎭 **Extraordinary** (2023-present) – Hulu. UK comedy where everyone has superpowers except the main character. Features disabled actor Sofia Sheridan (wheelchair user).
+- **Extraordinary** (2023-present) – Hulu. UK comedy where everyone has superpowers except the main character. Features disabled actor Sofia Sheridan (wheelchair user). *Authentic casting.*
 
-- 🎭 **Echo** (2024) – Disney+. Marvel series with Alaqua Cox as deaf, amputee Indigenous superhero. Authentically cast.
+- **Echo** (2024) – Disney+. Marvel series with Alaqua Cox as deaf, amputee Indigenous superhero. Authentically cast. *Authentic casting.*
 
 ---
 
 ## Recent Series (2020-Present)
 
-- ✦ 🎭 **Deaf U** (2020) – Netflix. [See Essential Viewing]
+- **Deaf U** (2020) – Netflix. [See Essential Viewing] *Authentic casting, Essential.*
 
-- 🎭 **Only Murders in the Building** (2021-present) – Hulu. James Caverly (Deaf actor) plays Deaf character Theo in multiple episodes with ASL storylines.
+- **Only Murders in the Building** (2021-present) – Hulu. James Caverly (Deaf actor) plays Deaf character Theo in multiple episodes with ASL storylines. *Authentic casting.*
 
-- 🎭 **This Close** (2018-2019) – Sundance. Two Deaf best friends navigate Los Angeles. Created by and starring Shoshannah Stern and Josh Feldman, both Deaf. 🎬
+- **This Close** (2018-2019) – Sundance. Two Deaf best friends navigate Los Angeles. Created by and starring Shoshannah Stern and Josh Feldman, both Deaf. *Authentic casting, Disabled creator.*
 
-- 🎭 **As We See It** (2022) – Amazon Prime. Three autistic roommates. Cast includes autistic actors (Rick Glassman, Albert Rutecki, Sue Ann Pien). Created by Jason Katims.
+- **As We See It** (2022) – Amazon Prime. Three autistic roommates. Cast includes autistic actors (Rick Glassman, Albert Rutecki, Sue Ann Pien). Created by Jason Katims. *Authentic casting.*
 
-- 🎭 **Sex Education** (2019-2023) – Netflix. George Robinson plays Isaac, wheelchair user and love interest, in later seasons. Robinson is a wheelchair user. 🌍
+- **Sex Education** (2019-2023) – Netflix. George Robinson plays Isaac, wheelchair user and love interest, in later seasons. Robinson is a wheelchair user. *Authentic casting, International.*
 
-- 🎭 **Undone** (2019-2022) – Amazon Prime. Animated series addressing mental health and possible psychiatric disability through multiverse narrative.
+- **Undone** (2019-2022) – Amazon Prime. Animated series addressing mental health and possible psychiatric disability through multiverse narrative. *Authentic casting.*
 
 - **Dopesick** (2021) – Hulu. Opioid crisis miniseries addressing chronic pain and addiction.
 
-- 🎭 **Station Eleven** (2021-2022) – HBO Max. Features Deaf character (Matilda Lawler) and ASL.
+- **Station Eleven** (2021-2022) – HBO Max. Features Deaf character (Matilda Lawler) and ASL. *Authentic casting.*
 
 ---
 
@@ -104,7 +104,7 @@ This list prioritizes shows with **authentic casting** (disabled actors playing 
 
 - **Reasonable Doubts** (1991-1993) – NBC. Marlee Matlin as Deaf assistant DA. Early mainstream Deaf representation.
 
-- 🎭 **Facts of Life** (1979-1988) – Geri Jewell, actress with cerebral palsy, had recurring role as Cousin Geri. First actor with CP in recurring primetime role.
+- **Facts of Life** (1979-1988) – Geri Jewell, actress with cerebral palsy, had recurring role as Cousin Geri. First actor with CP in recurring primetime role. *Authentic casting.*
 
 ### 2000s
 
@@ -116,9 +116,9 @@ This list prioritizes shows with **authentic casting** (disabled actors playing 
 
 ### 2010s
 
-- ✦ 🎭 **Switched at Birth** (2011-2017) – [See Essential Viewing]
+- **Switched at Birth** (2011-2017) – [See Essential Viewing] *Authentic casting, Essential.*
 
-- ✦ 🎭 **Speechless** (2016-2019) – [See Essential Viewing]
+- **Speechless** (2016-2019) – [See Essential Viewing] *Authentic casting, Essential.*
 
 - **Glee** (2009-2015) – Fox. Kevin McHale played wheelchair-using Artie. [Note: Non-disabled actor in wheelchair; criticized. But also: featured Ali Stroker, disabled actress, and Lauren Potter, actress with Down syndrome]
 
@@ -130,35 +130,35 @@ This list prioritizes shows with **authentic casting** (disabled actors playing 
 
 ## Reality & Documentary Series
 
-- ✦ 🎭 **Deaf U** (2020) – [See Essential Viewing]
+- **Deaf U** (2020) – [See Essential Viewing] *Authentic casting, Essential.*
 
-- 🎭 **Born This Way** (2015-2019) – A&E. Reality series following adults with Down syndrome. Cast are real people with Down syndrome living their lives.
+- **Born This Way** (2015-2019) – A&E. Reality series following adults with Down syndrome. Cast are real people with Down syndrome living their lives. *Authentic casting.*
 
-- 🎭 **The Employables** (2019) – A&E. Autistic and Tourette's adults seeking employment.
+- **The Employables** (2019) – A&E. Autistic and Tourette's adults seeking employment. *Authentic casting.*
 
 - **Queer Eye** (2018-present) – Netflix. Multiple episodes feature disabled participants; also features chronic illness openly.
 
-- 🎭 **Love on the Spectrum** (2019-present) – Netflix. Dating show featuring autistic adults. Australian original, US version followed. 🌍
+- **Love on the Spectrum** (2019-present) – Netflix. Dating show featuring autistic adults. Australian original, US version followed. *Authentic casting, International.*
 
 - **Too Large** / **My 600-lb Life** – TLC. [Note: Controversial. Some see as exploitative; others value visibility of fat disabled experiences]
 
-- **The Last Leg** (2012-present) – UK Channel 4. Comedy talk show hosted by Adam Hills, Josh Widdicombe, and Alex Brooker (disabled). 🌍
+- **The Last Leg** (2012-present) – UK Channel 4. Comedy talk show hosted by Adam Hills, Josh Widdicombe, and Alex Brooker (disabled). *International.*
 
 ---
 
 ## Children's Programming
 
-- 🎭 **Sesame Street** – Julia, autistic Muppet introduced 2017. Ameera, character who uses wheelchair (2022). Long history of disability inclusion.
+- **Sesame Street** – Julia, autistic Muppet introduced 2017. Ameera, character who uses wheelchair (2022). Long history of disability inclusion. *Authentic casting.*
 
 - **Daniel Tiger's Neighborhood** – Chrissie, character who uses leg braces and crutches.
 
-- 🎭 **Paw Patrol** (2023) – Added character who uses wheelchair.
+- **Paw Patrol** (2023) – Added character who uses wheelchair. *Authentic casting.*
 
-- 🌍 **Pablo** (2017-present) – CBeebies (UK). Animated series created by autistic writer, featuring autistic characters voiced by autistic actors. 🎬 🎭 🌍
+- **Pablo** (2017-present) – CBeebies (UK). Animated series created by autistic writer, featuring autistic characters voiced by autistic actors. *Authentic casting, Disabled creator, International.*
 
 - **Blue's Clues & You** – Features diverse representation including disability.
 
-- 🎭 **Dino Dana** (2017-2020) – Amazon. Saara Chaudry plays Dana; show includes disabled characters and accessibility.
+- **Dino Dana** (2017-2020) – Amazon. Saara Chaudry plays Dana; show includes disabled characters and accessibility. *Authentic casting.*
 
 ---
 
@@ -166,12 +166,12 @@ This list prioritizes shows with **authentic casting** (disabled actors playing 
 
 ### Deaf & Hard of Hearing
 
-- ✦ 🎭 Switched at Birth (2011-2017)
-- ✦ 🎭 Deaf U (2020)
-- 🎭 This Close (2018-2019)
-- 🎭 Only Murders in the Building – Theo character
-- 🎭 The Last Leg (UK) 🌍
-- 🎭 Echo (2024)
+- Switched at Birth (2011-2017) *Authentic casting, Essential.*
+- Deaf U (2020) *Authentic casting, Essential.*
+- This Close (2018-2019) *Authentic casting.*
+- Only Murders in the Building – Theo character *Authentic casting.*
+- The Last Leg (UK) *Authentic casting, International.*
+- Echo (2024) *Authentic casting.*
 - Reasonable Doubts (1991-1993)
 
 ### Blind & Low Vision
@@ -184,20 +184,20 @@ This list prioritizes shows with **authentic casting** (disabled actors playing 
 
 ### Physical Disability & Mobility
 
-- ✦ 🎭 Special (2019-2021)
-- ✦ 🎭 Speechless (2016-2019)
-- 🎭 Sex Education – Isaac character 🌍
-- 🎭 Breaking Bad – Walter Jr.
-- 🎭 Facts of Life – Geri Jewell
-- 🎭 Echo (2024)
+- Special (2019-2021) *Authentic casting, Essential.*
+- Speechless (2016-2019) *Authentic casting, Essential.*
+- Sex Education – Isaac character *Authentic casting, International.*
+- Breaking Bad – Walter Jr. *Authentic casting.*
+- Facts of Life – Geri Jewell *Authentic casting.*
+- Echo (2024) *Authentic casting.*
 
 ### Neurodivergence
 
 #### Autism
 
-- 🎭 As We See It (2022)
-- 🎭 Love on the Spectrum (2019-present) 🌍
-- 🎭 🎬 Pablo (children's) 🌍
+- As We See It (2022) *Authentic casting.*
+- Love on the Spectrum (2019-present) *Authentic casting, International.*
+- Pablo (children's) *Authentic casting, Disabled creator, International.*
 - The Good Doctor (2017-present) [non-autistic actor]
 - Parenthood – Max Braverman [non-autistic actor]
 - Atypical (2017-2021) [non-autistic lead; added autistic writers later]
@@ -223,10 +223,10 @@ This list prioritizes shows with **authentic casting** (disabled actors playing 
 
 ### Intellectual & Developmental Disabilities
 
-- 🎭 Life Goes On (1989-1993) – Chris Burke
-- 🎭 Born This Way (2015-2019)
-- 🎭 Glee – Becky Jackson (Lauren Potter)
-- 🎭 Sesame Street – Various characters
+- Life Goes On (1989-1993) – Chris Burke *Authentic casting.*
+- Born This Way (2015-2019) *Authentic casting.*
+- Glee – Becky Jackson (Lauren Potter) *Authentic casting.*
+- Sesame Street – Various characters *Authentic casting.*
 
 ---
 
@@ -234,25 +234,25 @@ This list prioritizes shows with **authentic casting** (disabled actors playing 
 
 ### United Kingdom
 
-- 🌍 🎭 **The Last Leg** (2012-present) – Channel 4 comedy panel show.
-- 🌍 🎭 🎬 **Pablo** (2017-present) – CBeebies animated series.
-- 🌍 **Years and Years** (2019) – BBC. Features disabled character.
-- 🌍 🎭 **Sex Education** (2019-2023) – Netflix UK. Isaac character.
-- 🌍 **Derek** (2012-2014) – Ricky Gervais. [Note: Controversial—disability coded character]
+- **The Last Leg** (2012-present) – Channel 4 comedy panel show. *Authentic casting, International.*
+- **Pablo** (2017-present) – CBeebies animated series. *Authentic casting, Disabled creator, International.*
+- **Years and Years** (2019) – BBC. Features disabled character. *International.*
+- **Sex Education** (2019-2023) – Netflix UK. Isaac character. *Authentic casting, International.*
+- **Derek** (2012-2014) – Ricky Gervais. [Note: Controversial—disability coded character] *International.*
 
 ### Australia
 
-- 🌍 🎭 **Love on the Spectrum** (2019-2021) – Original Australian version.
-- 🌍 **You Can't Ask That** – ABC. Episode on disability.
+- **Love on the Spectrum** (2019-2021) – Original Australian version. *Authentic casting, International.*
+- **You Can't Ask That** – ABC. Episode on disability. *International.*
 
 ### Canada
 
-- 🌍 **Workin' Moms** (2017-present) – Features characters with disabilities.
+- **Workin' Moms** (2017-present) – Features characters with disabilities. *International.*
 
 ### Other
 
-- 🌍 **Deaf-Mute Samurai** (Japan) – Classic series featuring Deaf protagonist.
-- 🌍 **Various Korean dramas** – Increasing disability representation.
+- **Deaf-Mute Samurai** (Japan) – Classic series featuring Deaf protagonist. *International.*
+- **Various Korean dramas** – Increasing disability representation. *International.*
 
 ---
 
@@ -276,10 +276,10 @@ Shows that achieved visibility but have significant representation issues.
 
 ### Disabled Showrunners & Writers
 
-- 🎬 **Ryan O'Connell** – Special (creator, writer, star)
-- 🎬 **Shoshannah Stern** – This Close (co-creator, star) – Deaf
-- 🎬 **Josh Feldman** – This Close (co-creator, star) – Deaf
-- 🎬 **Grainne McGuinness** – Pablo (creator) – autistic
+- **Ryan O'Connell** – Special (creator, writer, star) *Disabled creator.*
+- **Shoshannah Stern** – This Close (co-creator, star) – Deaf *Disabled creator.*
+- **Josh Feldman** – This Close (co-creator, star) – Deaf *Disabled creator.*
+- **Grainne McGuinness** – Pablo (creator) – autistic *Disabled creator.*
 
 ### Writers' Rooms with Disabled Writers
 

@@ -18,11 +18,11 @@ Blogs, sitios de noticias y publicaciones en línea centrados en la discapacidad
 
 Esta lista prioriza los sitios web y blogs **escritos por personas con discapacidad** o **administrados por organizaciones lideradas por personas con discapacidad**. Incluimos sitios de noticias, blogs personales, centros de encuentro comunitario y recursos educativos.
 
-**Leyenda:**
-- 📝 Persona con discapacidad que escribe/crea
-- 🏛️ Organización liderada por personas con discapacidad
-- 🌍 No radicada en Estados Unidos
-- ✦ Recurso esencial
+**Etiquetas usadas abajo** (después de cada entrada):
+- *Escritor con discapacidad* — escritor/creador con discapacidad
+- *Organización liderada por personas con discapacidad* — organización dirigida por personas con discapacidad
+- *Internacional* — radicado fuera de Estados Unidos
+- *Esencial* — recurso esencial
 
 ---
 
@@ -50,15 +50,15 @@ Esta lista prioriza los sitios web y blogs **escritos por personas con discapaci
 
 Empieza aquí para conocer sitios web fundamentales sobre discapacidad.
 
-- ✦ 📝 🏛️ **Disability Visibility Project** (disabilityvisibilityproject.com) – El proyecto emblemático de Alice Wong que crea, amplifica y comparte historias de la discapacidad. Alianza de historia oral con StoryCorps, pódcast, antologías y amplios recursos. Centro esencial para la cultura y la comunidad de la discapacidad.
+- **Disability Visibility Project** (disabilityvisibilityproject.com) – El proyecto emblemático de Alice Wong que crea, amplifica y comparte historias de la discapacidad. Alianza de historia oral con StoryCorps, pódcast, antologías y amplios recursos. Centro esencial para la cultura y la comunidad de la discapacidad. *Escritor con discapacidad, Organización liderada por personas con discapacidad, Esencial.*
 
-- ✦ 🏛️ **Autistic Self Advocacy Network (ASAN)** (autisticadvocacy.org) – Organización liderada por personas autistas. Defensa de políticas, recursos, kits de herramientas y declaraciones de postura sobre temas del autismo. "Nada sobre nosotros sin nosotros" en la práctica.
+- **Autistic Self Advocacy Network (ASAN)** (autisticadvocacy.org) – Organización liderada por personas autistas. Defensa de políticas, recursos, kits de herramientas y declaraciones de postura sobre temas del autismo. "Nada sobre nosotros sin nosotros" en la práctica. *Organización liderada por personas con discapacidad, Esencial.*
 
-- ✦ 🏛️ **National Council on Independent Living (NCIL)** (ncil.org) – Organización de defensa de derechos transversal a las discapacidades, liderada por personas con discapacidad. Información sobre políticas, recursos de defensa de derechos y directorio de centros de vida independiente.
+- **National Council on Independent Living (NCIL)** (ncil.org) – Organización de defensa de derechos transversal a las discapacidades, liderada por personas con discapacidad. Información sobre políticas, recursos de defensa de derechos y directorio de centros de vida independiente. *Organización liderada por personas con discapacidad, Esencial.*
 
-- ✦ 📝 **Crutches and Spice** (crutchesandspice.com) – Imani Barbarin (mujer negra con discapacidad). Justicia para las personas con discapacidad, interseccionalidad y análisis de la cultura pop. Voz influyente, también en redes sociales @caboray.
+- **Crutches and Spice** (crutchesandspice.com) – Imani Barbarin (mujer negra con discapacidad). Justicia para las personas con discapacidad, interseccionalidad y análisis de la cultura pop. Voz influyente, también en redes sociales @caboray. *Escritor con discapacidad, Esencial.*
 
-- ✦ 🏛️ **ADAPT** (adapt.org) – Organización de acción directa por los derechos de las personas con discapacidad. Noticias, campañas e historia de los derechos de las personas con discapacidad.
+- **ADAPT** (adapt.org) – Organización de acción directa por los derechos de las personas con discapacidad. Noticias, campañas e historia de los derechos de las personas con discapacidad. *Organización liderada por personas con discapacidad, Esencial.*
 
 ---
 
@@ -66,25 +66,25 @@ Empieza aquí para conocer sitios web fundamentales sobre discapacidad.
 
 ### Radicados en Estados Unidos
 
-- 🏛️ **Disability Scoop** (disabilityscoop.com) – Noticias sobre discapacidad del desarrollo. Actualizaciones diarias sobre políticas, investigación y noticias comunitarias.
+- **Disability Scoop** (disabilityscoop.com) – Noticias sobre discapacidad del desarrollo. Actualizaciones diarias sobre políticas, investigación y noticias comunitarias. *Organización liderada por personas con discapacidad.*
 
-- 📝 **Rooted in Rights** (rootedinrights.org) – Proyecto de Disability Rights Washington. Contenido en video, blogs y noticias sobre los derechos de las personas con discapacidad.
+- **Rooted in Rights** (rootedinrights.org) – Proyecto de Disability Rights Washington. Contenido en video, blogs y noticias sobre los derechos de las personas con discapacidad. *Escritor con discapacidad.*
 
-- 🏛️ **American Association of People with Disabilities (AAPD)** (aapd.com) – Noticias de políticas, actualizaciones de defensa de derechos y programas de liderazgo.
+- **American Association of People with Disabilities (AAPD)** (aapd.com) – Noticias de políticas, actualizaciones de defensa de derechos y programas de liderazgo. *Organización liderada por personas con discapacidad.*
 
 - **Disability Rights Education & Defense Fund (DREDF)** (dredf.org) – Defensa legal, análisis de políticas y noticias de derechos civiles.
 
 ### Radicados en el Reino Unido
 
-- 🌍 📝 **Disability News Service** (disabilitynewsservice.com) – John Pring. Noticias independientes sobre discapacidad en el Reino Unido. Periodismo de investigación sobre los derechos de las personas con discapacidad. 🌍
+- **Disability News Service** (disabilitynewsservice.com) – John Pring. Noticias independientes sobre discapacidad en el Reino Unido. Periodismo de investigación sobre los derechos de las personas con discapacidad. *Escritor con discapacidad, Internacional.*
 
-- 🌍 🏛️ **Disability Rights UK** (disabilityrightsuk.org) – Noticias, políticas y recursos. 🌍
+- **Disability Rights UK** (disabilityrightsuk.org) – Noticias, políticas y recursos. *Organización liderada por personas con discapacidad, Internacional.*
 
-- 🌍 **The Limping Chicken** (limpingchicken.com) – Blog británico de noticias y cultura Sorda. 🌍
+- **The Limping Chicken** (limpingchicken.com) – Blog británico de noticias y cultura Sorda. *Internacional.*
 
 ### Internacional
 
-- 🌍 **Disability Debrief** (disabilitydebrief.substack.com) – Peter Torres Fremlin. Noticias y análisis globales sobre los derechos de las personas con discapacidad. 🌍
+- **Disability Debrief** (disabilitydebrief.substack.com) – Peter Torres Fremlin. Noticias y análisis globales sobre los derechos de las personas con discapacidad. *Internacional.*
 
 ---
 
@@ -92,37 +92,37 @@ Empieza aquí para conocer sitios web fundamentales sobre discapacidad.
 
 ### Actualmente activos
 
-- ✦ 📝 **Crutches and Spice** (crutchesandspice.com) – Imani Barbarin. [Ver Recursos esenciales]
+- **Crutches and Spice** (crutchesandspice.com) – Imani Barbarin. [Ver Recursos esenciales] *Escritor con discapacidad, Esencial.*
 
-- 📝 **Claiming Crip** (claimingcrip.com) – Blog académico sobre discapacidad, ensayos personales.
+- **Claiming Crip** (claimingcrip.com) – Blog académico sobre discapacidad, ensayos personales. *Escritor con discapacidad.*
 
-- 📝 **The Squeaky Wheelchair** (thesqueakywheelchairblog.com) – Estilo de vida con discapacidad, defensa de derechos y ensayos personales.
+- **The Squeaky Wheelchair** (thesqueakywheelchairblog.com) – Estilo de vida con discapacidad, defensa de derechos y ensayos personales. *Escritor con discapacidad.*
 
-- 📝 **Diary of a Disabled Person** – Blog personal sobre discapacidad.
+- **Diary of a Disabled Person** – Blog personal sobre discapacidad. *Escritor con discapacidad.*
 
-- 📝 **The Wheelchair Teen** – Blog de una joven usuaria de silla de ruedas.
+- **The Wheelchair Teen** – Blog de una joven usuaria de silla de ruedas. *Escritor con discapacidad.*
 
-- 📝 🌍 **Stim Your Heart Out** – Persona autista que escribe en su blog. 🌍
+- **Stim Your Heart Out** – Persona autista que escribe en su blog. *Escritor con discapacidad, Internacional.*
 
 ### Blogs con varios autores
 
-- 📝 **The Mighty** (themighty.com) – Gran plataforma de historias sobre salud y discapacidad. [Nota: no está liderada por personas con discapacidad; recepción mixta en la comunidad. Útil para encontrar voces, pero verifica a cada autor]
+- **The Mighty** (themighty.com) – Gran plataforma de historias sobre salud y discapacidad. [Nota: no está liderada por personas con discapacidad; recepción mixta en la comunidad. Útil para encontrar voces, pero verifica a cada autor] *Escritor con discapacidad.*
 
-- 📝 **Disability Intersectionality Summit Blog** – Perspectivas interseccionales sobre la discapacidad.
+- **Disability Intersectionality Summit Blog** – Perspectivas interseccionales sobre la discapacidad. *Escritor con discapacidad.*
 
 ---
 
 ## Comunidad y cultura {#comunidad-y-cultura}
 
-- ✦ 📝 🏛️ **Disability Visibility Project** (disabilityvisibilityproject.com) – [Ver Recursos esenciales]
+- **Disability Visibility Project** (disabilityvisibilityproject.com) – [Ver Recursos esenciales] *Escritor con discapacidad, Organización liderada por personas con discapacidad, Esencial.*
 
-- 🏛️ **Sins Invalid** (sinsinvalid.org) – Proyecto de performance de justicia para las personas con discapacidad. Ensayos, recursos y el marco de la justicia para las personas con discapacidad.
+- **Sins Invalid** (sinsinvalid.org) – Proyecto de performance de justicia para las personas con discapacidad. Ensayos, recursos y el marco de la justicia para las personas con discapacidad. *Organización liderada por personas con discapacidad.*
 
-- 📝 **Disability Arts Online** (disabilityarts.online) – Cultura de las artes de la discapacidad radicada en el Reino Unido, reseñas y reportajes. 🌍
+- **Disability Arts Online** (disabilityarts.online) – Cultura de las artes de la discapacidad radicada en el Reino Unido, reseñas y reportajes. *Escritor con discapacidad, Internacional.*
 
-- 🏛️ **National Disability Theatre** (nationaldisabilitytheatre.org) – Teatro Sordo y de la discapacidad.
+- **National Disability Theatre** (nationaldisabilitytheatre.org) – Teatro Sordo y de la discapacidad. *Organización liderada por personas con discapacidad.*
 
-- 📝 **Crip Camp Legacy** – Comunidad que continúa las conversaciones del documental Crip Camp.
+- **Crip Camp Legacy** – Comunidad que continúa las conversaciones del documental Crip Camp. *Escritor con discapacidad.*
 
 ---
 
@@ -130,29 +130,29 @@ Empieza aquí para conocer sitios web fundamentales sobre discapacidad.
 
 ### Transversales a las discapacidades
 
-- ✦ 🏛️ **NCIL** (ncil.org) – [Ver Recursos esenciales]
+- **NCIL** (ncil.org) – [Ver Recursos esenciales] *Organización liderada por personas con discapacidad, Esencial.*
 
-- ✦ 🏛️ **ADAPT** (adapt.org) – [Ver Recursos esenciales]
+- **ADAPT** (adapt.org) – [Ver Recursos esenciales] *Organización liderada por personas con discapacidad, Esencial.*
 
-- 🏛️ **AAPD** (aapd.com) – American Association of People with Disabilities.
+- **AAPD** (aapd.com) – American Association of People with Disabilities. *Organización liderada por personas con discapacidad.*
 
-- 🏛️ **Disability Rights Advocates** (dralegal.org) – Defensa legal.
+- **Disability Rights Advocates** (dralegal.org) – Defensa legal. *Organización liderada por personas con discapacidad.*
 
-- 🏛️ **RespectAbility** (respectability.org) – Inclusión en el empleo y el entretenimiento. [Nota: hay cierto debate en la comunidad sobre sus posturas]
+- **RespectAbility** (respectability.org) – Inclusión en el empleo y el entretenimiento. [Nota: hay cierto debate en la comunidad sobre sus posturas] *Organización liderada por personas con discapacidad.*
 
 ### Enfoque específico
 
-- ✦ 🏛️ **ASAN** (autisticadvocacy.org) – Autismo. [Ver Recursos esenciales]
+- **ASAN** (autisticadvocacy.org) – Autismo. [Ver Recursos esenciales] *Organización liderada por personas con discapacidad, Esencial.*
 
-- 🏛️ **National Association of the Deaf (NAD)** (nad.org) – Defensa de los derechos de las personas Sordas.
+- **National Association of the Deaf (NAD)** (nad.org) – Defensa de los derechos de las personas Sordas. *Organización liderada por personas con discapacidad.*
 
-- 🏛️ **National Federation of the Blind (NFB)** (nfb.org) – Defensa de derechos y comunidad de personas ciegas.
+- **National Federation of the Blind (NFB)** (nfb.org) – Defensa de derechos y comunidad de personas ciegas. *Organización liderada por personas con discapacidad.*
 
-- 🏛️ **Little People of America** (lpaonline.org) – Comunidad de personas de talla baja.
+- **Little People of America** (lpaonline.org) – Comunidad de personas de talla baja. *Organización liderada por personas con discapacidad.*
 
-- 🏛️ **United Spinal Association** (unitedspinal.org) – Lesión y enfermedad de la médula espinal.
+- **United Spinal Association** (unitedspinal.org) – Lesión y enfermedad de la médula espinal. *Organización liderada por personas con discapacidad.*
 
-- 🏛️ **Self-Advocates Becoming Empowered (SABE)** (sabeusa.org) – Autodefensa de las personas con discapacidad intelectual.
+- **Self-Advocates Becoming Empowered (SABE)** (sabeusa.org) – Autodefensa de las personas con discapacidad intelectual. *Organización liderada por personas con discapacidad.*
 
 ---
 
@@ -164,7 +164,7 @@ Empieza aquí para conocer sitios web fundamentales sobre discapacidad.
 
 - **Disability and Society** – Revista académica (Taylor & Francis).
 
-- 📝 **Disability Thinking** – Blog académico/personal sobre temas de discapacidad.
+- **Disability Thinking** – Blog académico/personal sobre temas de discapacidad. *Escritor con discapacidad.*
 
 - **Paul K. Longmore Institute on Disability** (longmoreinstitute.sfsu.edu) – Instituto de investigación de San Francisco State.
 
@@ -174,69 +174,69 @@ Empieza aquí para conocer sitios web fundamentales sobre discapacidad.
 
 ### Enfermedad crónica {#enfermedad-crónica}
 
-- 📝 **The Mighty** (themighty.com) – Plataforma de historias sobre salud. [Ver nota arriba]
+- **The Mighty** (themighty.com) – Plataforma de historias sobre salud. [Ver nota arriba] *Escritor con discapacidad.*
 
-- 📝 **Chronic Illness Bloggers** – Directorio de blogs sobre enfermedad crónica.
+- **Chronic Illness Bloggers** – Directorio de blogs sobre enfermedad crónica. *Escritor con discapacidad.*
 
-- 📝 **But You Don't Look Sick** (www.butyoudontlooksick.com) – Sitio de origen de la Teoría de las Cucharas (Spoon Theory), comunidad de enfermedad crónica.
+- **But You Don't Look Sick** (www.butyoudontlooksick.com) – Sitio de origen de la Teoría de las Cucharas (Spoon Theory), comunidad de enfermedad crónica. *Escritor con discapacidad.*
 
-- 📝 **Rest Room** – Blog sobre enfermedad crónica.
+- **Rest Room** – Blog sobre enfermedad crónica. *Escritor con discapacidad.*
 
-- 📝 **#MEAction** (meaction.net) – Defensa de derechos y noticias sobre EM/SFC.
+- **#MEAction** (meaction.net) – Defensa de derechos y noticias sobre EM/SFC. *Escritor con discapacidad.*
 
 ### Neurodivergencia {#neurodivergencia}
 
 #### Autismo
 
-- ✦ 🏛️ **ASAN** (autisticadvocacy.org) – [Ver Recursos esenciales]
+- **ASAN** (autisticadvocacy.org) – [Ver Recursos esenciales] *Organización liderada por personas con discapacidad, Esencial.*
 
-- 📝 **Thinking Person's Guide to Autism** (thinkingautismguide.com) – Perspectivas de personas autistas y recursos para familiares aliados.
+- **Thinking Person's Guide to Autism** (thinkingautismguide.com) – Perspectivas de personas autistas y recursos para familiares aliados. *Escritor con discapacidad.*
 
-- 📝 **NeuroClastic** (neuroclastic.com) – Artículos sobre el autismo escritos por personas autistas.
+- **NeuroClastic** (neuroclastic.com) – Artículos sobre el autismo escritos por personas autistas. *Escritor con discapacidad.*
 
-- 📝 **Actually Autistic Blogs List** – Directorio de blogueros autistas.
+- **Actually Autistic Blogs List** – Directorio de blogueros autistas. *Escritor con discapacidad.*
 
-- 📝 **Autistic Hoya** (autistichoya.com) – Lydia X. Z. Brown. Justicia para las personas con discapacidad, autismo e interseccionalidad.
+- **Autistic Hoya** (autistichoya.com) – Lydia X. Z. Brown. Justicia para las personas con discapacidad, autismo e interseccionalidad. *Escritor con discapacidad.*
 
-- 📝 **Musings of an Aspie** – Blog de una mujer autista. [Nota: usa terminología más antigua]
+- **Musings of an Aspie** – Blog de una mujer autista. [Nota: usa terminología más antigua] *Escritor con discapacidad.*
 
 #### TDAH
 
-- 📝 **ADHD Alien** – Blog ilustrado sobre el TDAH.
+- **ADHD Alien** – Blog ilustrado sobre el TDAH. *Escritor con discapacidad.*
 
 - **CHADD** (chadd.org) – Información y defensa de derechos sobre el TDAH.
 
-- 📝 **How to ADHD** (howtoadhd.com) – Sitio web de Jessica McCabe.
+- **How to ADHD** (howtoadhd.com) – Sitio web de Jessica McCabe. *Escritor con discapacidad.*
 
 ### Comunidad Sorda {#comunidad-sorda}
 
-- 🏛️ **NAD** (nad.org) – National Association of the Deaf.
+- **NAD** (nad.org) – National Association of the Deaf. *Organización liderada por personas con discapacidad.*
 
-- 📝 🌍 **The Limping Chicken** (limpingchicken.com) – Noticias Sordas del Reino Unido. 🌍
+- **The Limping Chicken** (limpingchicken.com) – Noticias Sordas del Reino Unido. *Escritor con discapacidad, Internacional.*
 
 - **Gallaudet University** (gallaudet.edu) – Recursos universitarios, historia Sorda.
 
-- 📝 **Deaf Echo** – Blog de la comunidad Sorda.
+- **Deaf Echo** – Blog de la comunidad Sorda. *Escritor con discapacidad.*
 
 ### Comunidad de personas ciegas {#comunidad-de-personas-ciegas}
 
-- 🏛️ **NFB** (nfb.org) – National Federation of the Blind.
+- **NFB** (nfb.org) – National Federation of the Blind. *Organización liderada por personas con discapacidad.*
 
-- 🏛️ **American Council of the Blind** (acb.org) – Defensa de derechos de las personas ciegas.
+- **American Council of the Blind** (acb.org) – Defensa de derechos de las personas ciegas. *Organización liderada por personas con discapacidad.*
 
-- 📝 **BlindNewWorld** – Blog de la comunidad de personas ciegas.
+- **BlindNewWorld** – Blog de la comunidad de personas ciegas. *Escritor con discapacidad.*
 
 - **AFB (American Foundation for the Blind)** (afb.org) – Recursos y defensa de derechos.
 
 ### Discapacidad física {#discapacidad-física}
 
-- 🏛️ **United Spinal Association** (unitedspinal.org) – Recursos sobre lesión medular.
+- **United Spinal Association** (unitedspinal.org) – Recursos sobre lesión medular. *Organización liderada por personas con discapacidad.*
 
-- 📝 **Wheelchair Travel** (wheelchairtravel.org) – John Morris. Viajes accesibles.
+- **Wheelchair Travel** (wheelchairtravel.org) – John Morris. Viajes accesibles. *Escritor con discapacidad.*
 
-- 📝 **Curb Free with Cory Lee** (curbfreewithcorylee.com) – Blog de viajes en silla de ruedas.
+- **Curb Free with Cory Lee** (curbfreewithcorylee.com) – Blog de viajes en silla de ruedas. *Escritor con discapacidad.*
 
-- 🏛️ **United Cerebral Palsy** (ucp.org) – Recursos sobre parálisis cerebral.
+- **United Cerebral Palsy** (ucp.org) – Recursos sobre parálisis cerebral. *Organización liderada por personas con discapacidad.*
 
 ### Madres, padres y familias {#madres-padres-y-familias}
 
@@ -252,33 +252,33 @@ Empieza aquí para conocer sitios web fundamentales sobre discapacidad.
 
 ### Reino Unido
 
-- 🌍 🏛️ **Disability Rights UK** (disabilityrightsuk.org) – Noticias, políticas y recursos. 🌍
+- **Disability Rights UK** (disabilityrightsuk.org) – Noticias, políticas y recursos. *Organización liderada por personas con discapacidad, Internacional.*
 
-- 🌍 📝 **Disability News Service** (disabilitynewsservice.com) 🌍
+- **Disability News Service** (disabilitynewsservice.com) *Escritor con discapacidad, Internacional.*
 
-- 🌍 **Scope UK** (scope.org.uk) – Organización benéfica y recursos sobre discapacidad. 🌍
+- **Scope UK** (scope.org.uk) – Organización benéfica y recursos sobre discapacidad. *Internacional.*
 
-- 🌍 📝 **The Limping Chicken** (limpingchicken.com) 🌍
+- **The Limping Chicken** (limpingchicken.com) *Escritor con discapacidad, Internacional.*
 
-- 🌍 📝 **Disability Arts Online** (disabilityarts.online) 🌍
+- **Disability Arts Online** (disabilityarts.online) *Escritor con discapacidad, Internacional.*
 
 ### Canadá
 
-- 🌍 **DisAbled Women's Network Canada (DAWN)** (dawncanada.net) 🌍
+- **DisAbled Women's Network Canada (DAWN)** (dawncanada.net) *Internacional.*
 
-- 🌍 **Council of Canadians with Disabilities** (ccdonline.ca) 🌍
+- **Council of Canadians with Disabilities** (ccdonline.ca) *Internacional.*
 
 ### Australia
 
-- 🌍 **People with Disability Australia (PWDA)** (pwd.org.au) 🌍
+- **People with Disability Australia (PWDA)** (pwd.org.au) *Internacional.*
 
-- 🌍 **Disability Advocacy Network Australia** (dana.org.au) 🌍
+- **Disability Advocacy Network Australia** (dana.org.au) *Internacional.*
 
 ### Internacional/global
 
-- 🌍 **International Disability Alliance** (internationaldisabilityalliance.org) 🌍
+- **International Disability Alliance** (internationaldisabilityalliance.org) *Internacional.*
 
-- 🌍 **Disability Debrief** (disabilitydebrief.substack.com) 🌍
+- **Disability Debrief** (disabilitydebrief.substack.com) *Internacional.*
 
 ---
 

@@ -490,25 +490,25 @@ Systemic abuse is the foundation that makes individual abuse possible. When the 
 
 ## What Abuse Is NOT (Common Misconceptions)
 
-❌ "Real abuse involves physical violence"  
+"Real abuse involves physical violence"  
 → Emotional, financial, medical, and other abuse are absolutely real and serious
 
-❌ "If they apologize, it's not abuse"  
+"If they apologize, it's not abuse"  
 → Abuse cycles include apologies; apologies don't prevent next incident
 
-❌ "If they love me, they wouldn't abuse me"  
+"If they love me, they wouldn't abuse me"  
 → Abusers can love people and abuse them; love doesn't prevent abuse
 
-❌ "Abuse only happens in certain types of relationships"  
+"Abuse only happens in certain types of relationships"  
 → Abuse happens in intimate relationships, care relationships, institutions, systemic policies
 
-❌ "If you were really being abused, you'd leave"  
+"If you were really being abused, you'd leave"  
 → Leaving is dangerous, complex, and sometimes impossible; staying is often the safer choice
 
-❌ "Disabled people are naturally more vulnerable, so some control is necessary"  
+"Disabled people are naturally more vulnerable, so some control is necessary"  
 → Abuse is never necessary. Genuine care respects autonomy and consent
 
-❌ "It's abuse only if it leaves physical marks"  
+"It's abuse only if it leaves physical marks"  
 → Emotional, financial, and medical abuse leave scars you can't see
 
 ---

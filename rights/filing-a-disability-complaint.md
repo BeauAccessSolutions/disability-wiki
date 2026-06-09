@@ -386,20 +386,20 @@ Record how discrimination affected you:
 ## STRATEGIES FOR SUCCESS
 
 ### Strong Complaints Have:
-- ✓ Clear description of what happened
-- ✓ Specific dates and people involved
-- ✓ Reference to specific law violated
-- ✓ Evidence (emails, documentation, witnesses)
-- ✓ Clear description of remedy sought
-- ✓ Submitted before deadline
+- Clear description of what happened
+- Specific dates and people involved
+- Reference to specific law violated
+- Evidence (emails, documentation, witnesses)
+- Clear description of remedy sought
+- Submitted before deadline
 
 ### Weak Complaints Have:
-- ✗ Vague descriptions ("they were mean")
-- ✗ No specific dates or people
-- ✗ No supporting documentation
-- ✗ Submitted after deadline
-- ✗ Unclear what law was violated
-- ✗ No clear remedy requested
+- Vague descriptions ("they were mean")
+- No specific dates or people
+- No supporting documentation
+- Submitted after deadline
+- Unclear what law was violated
+- No clear remedy requested
 
 ---
 

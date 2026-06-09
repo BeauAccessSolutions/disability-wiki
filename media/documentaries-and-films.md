@@ -18,11 +18,11 @@ Documentaries about disability history, culture, and lived experience, plus feat
 
 This list prioritizes films **made by or significantly involving disabled people**—as directors, writers, subjects, or performers. We note authentic casting (disabled actors playing disabled characters) and flag concerns about representation.
 
-**Legend:**
-- 🎬 Disabled filmmaker/director
-- 🎭 Authentic casting (disabled actors)
-- 🌍 Non-US / International
-- ✦ Essential viewing
+**Labels used below** (after an entry):
+- *Disabled filmmaker* — disabled filmmaker/director
+- *Authentic casting* — disabled actors
+- *International* — non-US / international
+- *Essential* — essential viewing
 
 **Streaming availability changes frequently. Check JustWatch.com for current options.**
 
@@ -58,19 +58,19 @@ Start here for foundational disability films.
 
 ### Documentaries
 
-- ✦ 🎬 **Crip Camp: A Disability Revolution** (2020) – Directors Jim LeBrecht (disabled) and Nicole Newnham. Netflix. The essential disability rights documentary. Follows disabled teens at Camp Jened in the 1970s who became leaders of the disability rights movement, including the 504 sit-in. Executive produced by the Obamas. Oscar-nominated.
+- **Crip Camp: A Disability Revolution** (2020) – Directors Jim LeBrecht (disabled) and Nicole Newnham. Netflix. The essential disability rights documentary. Follows disabled teens at Camp Jened in the 1970s who became leaders of the disability rights movement, including the 504 sit-in. Executive produced by the Obamas. Oscar-nominated. *Disabled filmmaker, Essential.*
 
-- ✦ **When Billy Broke His Head... and Other Tales of Wonder** (1994) – Billy Golfus (disabled director/subject). Groundbreaking documentary by a brain injury survivor exploring disability rights movement. Raw, political, foundational.
+- **When Billy Broke His Head... and Other Tales of Wonder** (1994) – Billy Golfus (disabled director/subject). Groundbreaking documentary by a brain injury survivor exploring disability rights movement. Raw, political, foundational. *Essential.*
 
-- ✦ **Lives Worth Living** (2011) – Eric Neudel. PBS documentary on the disability rights movement featuring key activists. Excellent historical overview.
+- **Lives Worth Living** (2011) – Eric Neudel. PBS documentary on the disability rights movement featuring key activists. Excellent historical overview. *Essential.*
 
 ### Feature Films
 
-- ✦ 🎭 **CODA** (2021) – Sian Heder. Apple TV+. Child of Deaf adults navigating hearing and Deaf worlds. Features Deaf actors Marlee Matlin, Troy Kotsur, and Daniel Durant. Kotsur won Oscar for Best Supporting Actor—second Deaf actor to win after Matlin. Authentic ASL throughout.
+- **CODA** (2021) – Sian Heder. Apple TV+. Child of Deaf adults navigating hearing and Deaf worlds. Features Deaf actors Marlee Matlin, Troy Kotsur, and Daniel Durant. Kotsur won Oscar for Best Supporting Actor—second Deaf actor to win after Matlin. Authentic ASL throughout. *Authentic casting, Essential.*
 
-- ✦ 🎭 **Sound of Metal** (2020) – Darius Marder. Amazon Prime. Drummer loses hearing and enters Deaf community. Riz Ahmed learned ASL for role; supporting cast includes Deaf actors. Nuanced portrayal of Deaf culture without "cure" narrative.
+- **Sound of Metal** (2020) – Darius Marder. Amazon Prime. Drummer loses hearing and enters Deaf community. Riz Ahmed learned ASL for role; supporting cast includes Deaf actors. Nuanced portrayal of Deaf culture without "cure" narrative. *Authentic casting, Essential.*
 
-- ✦ 🎭 **The Peanut Butter Falcon** (2019) – Tyler Nilson and Michael Schwartz. Zack Gottsagen, an actor with Down syndrome, stars in this adventure film. Authentic casting, dignity-centered story.
+- **The Peanut Butter Falcon** (2019) – Tyler Nilson and Michael Schwartz. Zack Gottsagen, an actor with Down syndrome, stars in this adventure film. Authentic casting, dignity-centered story. *Authentic casting, Essential.*
 
 ---
 
@@ -78,11 +78,11 @@ Start here for foundational disability films.
 
 ### Disability Rights History
 
-- ✦ 🎬 **Crip Camp: A Disability Revolution** (2020) – [See Essential Viewing]
+- **Crip Camp: A Disability Revolution** (2020) – [See Essential Viewing] *Disabled filmmaker, Essential.*
 
-- ✦ **Lives Worth Living** (2011) – [See Essential Viewing]
+- **Lives Worth Living** (2011) – [See Essential Viewing] *Essential.*
 
-- ✦ **When Billy Broke His Head** (1994) – [See Essential Viewing]
+- **When Billy Broke His Head** (1994) – [See Essential Viewing] *Essential.*
 
 - **The Disability Rights Movement** (2015) – Overview documentary covering ADA passage and key moments.
 
@@ -94,7 +94,7 @@ Start here for foundational disability films.
 
 ### Disability Culture & Community
 
-- 🎬 **Murderball** (2005) – Henry Alex Rubin and Dana Adam Shapiro. Oscar-nominated documentary following US wheelchair rugby team. Changed perceptions of disabled athletes. Raw, competitive, anti-inspirational.
+- **Murderball** (2005) – Henry Alex Rubin and Dana Adam Shapiro. Oscar-nominated documentary following US wheelchair rugby team. Changed perceptions of disabled athletes. Raw, competitive, anti-inspirational. *Disabled filmmaker.*
 
 - **Fixed: The Science/Fiction of Human Enhancement** (2013) – Regan Brashear. Explores enhancement technologies through disability lens.
 
@@ -102,7 +102,7 @@ Start here for foundational disability films.
 
 - **Code of the Freaks** (2020) – Disabled filmmakers analyze disability representation in Hollywood. Essential media literacy.
 
-- 🎬 **CinemAbility** (2018) – Jenni Gold (disabled director). Documentary examining disability representation in film and TV.
+- **CinemAbility** (2018) – Jenni Gold (disabled director). Documentary examining disability representation in film and TV. *Disabled filmmaker.*
 
 ### Specific Disabilities
 
@@ -110,7 +110,7 @@ Start here for foundational disability films.
 
 - **Life, Animated** (2016) – Roger Ross Williams. Oscar-nominated documentary about autistic young man who learned to communicate through Disney films. [Note: Some in autistic community have critiqued the framing]
 
-- 🎬 **Loving Lampposts** (2010) – Todd Drezner. Father of autistic son explores neurodiversity movement vs. cure-focused approaches.
+- **Loving Lampposts** (2010) – Todd Drezner. Father of autistic son explores neurodiversity movement vs. cure-focused approaches. *Disabled filmmaker.*
 
 - **In a Different Key** (2020) – Based on the book, explores autism history.
 
@@ -122,7 +122,7 @@ Start here for foundational disability films.
 
 - **See What I'm Saying: The Deaf Entertainers Documentary** (2010) – Profiles of Deaf performers.
 
-- 🌍 **The Tribe** (2014) – Ukrainian film performed entirely in sign language with no subtitles. Intense, controversial. 🌍
+- **The Tribe** (2014) – Ukrainian film performed entirely in sign language with no subtitles. Intense, controversial. *International.*
 
 #### Blind & Low Vision
 
@@ -140,7 +140,7 @@ Start here for foundational disability films.
 
 #### Chronic Illness
 
-- 🎬 **Unrest** (2017) – Jennifer Brea. [See Disability Culture section]
+- **Unrest** (2017) – Jennifer Brea. [See Disability Culture section] *Disabled filmmaker.*
 
 - **Forgotten Plague** (2015) – ME/CFS documentary.
 
@@ -164,7 +164,7 @@ Start here for foundational disability films.
 
 - **Willowbrook: The Last Great Disgrace** (1972) – Geraldo Rivera's exposé that helped end institutional warehousing.
 
-- **Sentenced to Life** – Australia's institutional abuse history. 🌍
+- **Sentenced to Life** – Australia's institutional abuse history. *International.*
 
 ### Sports & Athletics
 
@@ -172,13 +172,13 @@ Start here for foundational disability films.
 
 - **Rising Phoenix** (2020) – Netflix documentary on Paralympic movement history and athletes.
 
-- **The Last Goldfish** (2017) – Australian Paralympic swimmer's story. 🌍
+- **The Last Goldfish** (2017) – Australian Paralympic swimmer's story. *International.*
 
 - **Mind/Game: The Unquiet Journey of Chamique Holdsclaw** (2015) – WNBA star's mental health journey.
 
 ### Arts & Performance
 
-- 🎬 **CinemAbility** (2018) – [See Disability Culture section]
+- **CinemAbility** (2018) – [See Disability Culture section] *Disabled filmmaker.*
 
 - **Code of the Freaks** (2020) – [See Disability Culture section]
 
@@ -190,15 +190,15 @@ Start here for foundational disability films.
 
 ### International Documentaries
 
-- 🌍 **How to Dance in Ohio** (2015) – Autistic young adults preparing for prom. (US but good international distribution)
+- **How to Dance in Ohio** (2015) – Autistic young adults preparing for prom. (US but good international distribution) *International.*
 
-- 🌍 **Notes on Blindness** (2016) – UK. Based on theologian John Hull's audio diaries after losing sight. 🌍
+- **Notes on Blindness** (2016) – UK. Based on theologian John Hull's audio diaries after losing sight. *International.*
 
-- 🌍 **Margarita with a Straw** (2014) – India. Young woman with cerebral palsy exploring sexuality and identity. Directed by Shonali Bose. 🌍
+- **Margarita with a Straw** (2014) – India. Young woman with cerebral palsy exploring sexuality and identity. Directed by Shonali Bose. *International.*
 
-- 🌍 **The Specials** (2019) – France. Documentary about organization supporting autistic adults. 🌍
+- **The Specials** (2019) – France. Documentary about organization supporting autistic adults. *International.*
 
-- 🌍 **Maudie** (2016) – Canada/Ireland. Folk artist Maud Lewis, who had juvenile rheumatoid arthritis. Ethan Hawke, Sally Hawkins.
+- **Maudie** (2016) – Canada/Ireland. Folk artist Maud Lewis, who had juvenile rheumatoid arthritis. Ethan Hawke, Sally Hawkins. *International.*
 
 ---
 
@@ -208,21 +208,21 @@ Start here for foundational disability films.
 
 Films with disabled actors playing disabled characters.
 
-- ✦ 🎭 **CODA** (2021) – [See Essential Viewing]
+- **CODA** (2021) – [See Essential Viewing] *Authentic casting, Essential.*
 
-- ✦ 🎭 **Sound of Metal** (2020) – [See Essential Viewing]
+- **Sound of Metal** (2020) – [See Essential Viewing] *Authentic casting, Essential.*
 
-- ✦ 🎭 **The Peanut Butter Falcon** (2019) – [See Essential Viewing]
+- **The Peanut Butter Falcon** (2019) – [See Essential Viewing] *Authentic casting, Essential.*
 
-- 🎭 **Children of a Lesser God** (1986) – Marlee Matlin's Oscar-winning debut as Deaf woman. Groundbreaking at release, some dated elements.
+- **Children of a Lesser God** (1986) – Marlee Matlin's Oscar-winning debut as Deaf woman. Groundbreaking at release, some dated elements. *Authentic casting.*
 
-- 🎭 **Hush** (2016) – Kate Siegel. Home invasion thriller with Deaf protagonist. Siegel is hearing but film features Deaf actors and some Deaf crew.
+- **Hush** (2016) – Kate Siegel. Home invasion thriller with Deaf protagonist. Siegel is hearing but film features Deaf actors and some Deaf crew. *Authentic casting.*
 
-- 🎭 **A Quiet Place** (2018) – John Krasinski. Millicent Simmonds, a Deaf actress, plays deaf daughter. Sign language integral to plot.
+- **A Quiet Place** (2018) – John Krasinski. Millicent Simmonds, a Deaf actress, plays deaf daughter. Sign language integral to plot. *Authentic casting.*
 
-- 🎭 **Eternals** (2021) – Marvel. Lauren Ridloff (Deaf actress) plays Makkari, a Deaf superhero.
+- **Eternals** (2021) – Marvel. Lauren Ridloff (Deaf actress) plays Makkari, a Deaf superhero. *Authentic casting.*
 
-- 🎭 **Best Summer Ever** (2020) – Musical with cast including actors with disabilities. Integration-focused production.
+- **Best Summer Ever** (2020) – Musical with cast including actors with disabilities. Integration-focused production. *Authentic casting.*
 
 ### Classic Films
 
@@ -244,35 +244,35 @@ Important films in disability representation history—some with dated or proble
 
 - **Rust and Bone** (2012) – Marion Cotillard as woman who loses legs. French film. Note: non-disabled actress, CGI legs.
 
-- 🌍 **Margarita with a Straw** (2014) – [See International Documentaries]
+- **Margarita with a Straw** (2014) – [See International Documentaries] *International.*
 
 - **Breathe** (2017) – Andy Serkis directs; Andrew Garfield as Robin Cavendish, paralyzed by polio. Note: non-disabled actor.
 
 ### Comedies
 
-- 🎭 **The Peanut Butter Falcon** (2019) – [See Essential Viewing]
+- **The Peanut Butter Falcon** (2019) – [See Essential Viewing] *Authentic casting.*
 
 - **Pumpkin** (2002) – Dark comedy about sorority girl falling for man with intellectual disability. [Note: Controversial representation]
 
 - **The Upside** (2017) – US remake of Intouchables. Kevin Hart, Bryan Cranston. Note: Non-disabled actor in wheelchair.
 
-- 🌍 **The Intouchables** (2011) – French comedy about quadriplegic man and caregiver. Enormous box office success. Note: Some critique as white savior/inspiration porn tropes despite disabled subject's endorsement. 🌍
+- **The Intouchables** (2011) – French comedy about quadriplegic man and caregiver. Enormous box office success. Note: Some critique as white savior/inspiration porn tropes despite disabled subject's endorsement. *International.*
 
 ### International Films
 
-- 🌍 **The Intouchables** (2011) – France. [See Comedies]
+- **The Intouchables** (2011) – France. [See Comedies] *International.*
 
-- 🌍 **The Tribe** (2014) – Ukraine. All sign language, no subtitles. 🌍
+- **The Tribe** (2014) – Ukraine. All sign language, no subtitles. *International.*
 
-- 🌍 **Margarita with a Straw** (2014) – India. 🌍
+- **Margarita with a Straw** (2014) – India. *International.*
 
-- 🌍 **Maudie** (2016) – Canada/Ireland.
+- **Maudie** (2016) – Canada/Ireland. *International.*
 
-- 🌍 **Capernaum** (2018) – Lebanon. Features disabilities and marginalization. 🌍
+- **Capernaum** (2018) – Lebanon. Features disabilities and marginalization. *International.*
 
-- 🌍 **Amour** (2012) – Michael Haneke. Austria. Aging, disability, end of life. Palme d'Or winner. 🌍
+- **Amour** (2012) – Michael Haneke. Austria. Aging, disability, end of life. Palme d'Or winner. *International.*
 
-- 🌍 **37 Seconds** (2019) – Japan. Woman with cerebral palsy exploring sexuality. Directed by Hikari. 🌍
+- **37 Seconds** (2019) – Japan. Woman with cerebral palsy exploring sexuality. Directed by Hikari. *International.*
 
 ---
 
@@ -296,7 +296,7 @@ These films are widely known but contain significant representation problems. In
 
 ## Short Films
 
-- 🎬 **Audible** (2021) – Matt Ogens. Netflix. Oscar-nominated short about Maryland School for the Deaf football team.
+- **Audible** (2021) – Matt Ogens. Netflix. Oscar-nominated short about Maryland School for the Deaf football team. *Disabled filmmaker.*
 
 - **The Silent Child** (2017) – Oscar-winning short about deaf girl and her sign language tutor.
 

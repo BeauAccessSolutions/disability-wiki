@@ -531,36 +531,36 @@ Community:
 
 ### Basic Emergency Kit
 
-☐ Water (1 gallon/person/day, 3+ days)  
-☐ Non-perishable food (3+ days)  
-☐ Flashlight + batteries  
-☐ Battery-powered radio  
-☐ First aid kit  
-☐ Phone charger (portable battery)  
-☐ Medications (full supply)  
-☐ Important documents (copies)  
-☐ Cash (small bills)  
-☐ Sturdy shoes  
-☐ Change of clothes  
-☐ Blanket/sleeping bag  
+- Water (1 gallon/person/day, 3+ days)  
+- Non-perishable food (3+ days)  
+- Flashlight + batteries  
+- Battery-powered radio  
+- First aid kit  
+- Phone charger (portable battery)  
+- Medications (full supply)  
+- Important documents (copies)  
+- Cash (small bills)  
+- Sturdy shoes  
+- Change of clothes  
+- Blanket/sleeping bag  
 
 ### Disability-Specific Additions
 
-☐ Mobility aids (backup cane, crutches, walker)  
-☐ Backup wheelchair (if possible)  
-☐ Hearing aid batteries  
-☐ Backup glasses/contacts  
-☐ Medical alert ID  
-☐ Prescription copies  
-☐ Doctor contact info  
-☐ Insulin/auto-injector (if diabetic)  
-☐ EpiPen (if severe allergies)  
-☐ Incontinence/catheter supplies  
-☐ CPAP supplies or oxygen  
-☐ Pain medication  
-☐ Mental health medication  
-☐ Specialty food (gluten-free, texture-modified)  
-☐ Service animal supplies  
+- Mobility aids (backup cane, crutches, walker)  
+- Backup wheelchair (if possible)  
+- Hearing aid batteries  
+- Backup glasses/contacts  
+- Medical alert ID  
+- Prescription copies  
+- Doctor contact info  
+- Insulin/auto-injector (if diabetic)  
+- EpiPen (if severe allergies)  
+- Incontinence/catheter supplies  
+- CPAP supplies or oxygen  
+- Pain medication  
+- Mental health medication  
+- Specialty food (gluten-free, texture-modified)  
+- Service animal supplies  
 
 ### Keep Kit
 

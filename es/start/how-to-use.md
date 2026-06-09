@@ -427,15 +427,17 @@ Considera guardar en marcadores:
 
 ## Notas sobre el contenido del wiki
 
-**Este wiki:**
-- ✓ Pone en el centro el conocimiento y la experiencia vivida de las personas con discapacidad
-- ✓ Incluye perspectivas globales y de personas múltiplemente marginadas
-- ✓ Respeta todas las identidades y enfoques de la discapacidad
-- ✓ Usa lenguaje de identidad primero (sordo, autista, persona con discapacidad)
-- ✓ Está impulsado por la comunidad y da la bienvenida a las contribuciones
-- ✓ Está diseñado para la accesibilidad desde el principio
-- ✗ No es un sustituto del consejo legal, el consejo médico ni los servicios de crisis
-- ✗ No puede reemplazar la toma de decisiones personales con seres queridos y personas expertas
+**Lo que este wiki sí hace:**
+- Pone en el centro el conocimiento y la experiencia vivida de las personas con discapacidad
+- Incluye perspectivas globales y de personas múltiplemente marginadas
+- Respeta todas las identidades y enfoques de la discapacidad
+- Usa lenguaje de identidad primero (sordo, autista, persona con discapacidad)
+- Está impulsado por la comunidad y da la bienvenida a las contribuciones
+- Está diseñado para la accesibilidad desde el principio
+
+**Lo que este wiki no hace:**
+- No sustituye el consejo legal, el consejo médico ni los servicios de crisis
+- No reemplaza la toma de decisiones personales con seres queridos y personas expertas
 
 ---
 

@@ -18,11 +18,11 @@ Documentales sobre la historia, la cultura y la experiencia vivida de la discapa
 
 Esta lista da prioridad a películas **hechas por personas con discapacidad o con una participación significativa de ellas**, ya sea como directores, guionistas, protagonistas o intérpretes. Señalamos el casting auténtico (actores con discapacidad que interpretan personajes con discapacidad) y advertimos sobre problemas de representación.
 
-**Leyenda:**
-- 🎬 Cineasta/director con discapacidad
-- 🎭 Casting auténtico (actores con discapacidad)
-- 🌍 No estadounidense / Internacional
-- ✦ Visionado esencial
+**Etiquetas usadas abajo** (después de cada entrada):
+- *Cineasta con discapacidad* — cineasta/director con discapacidad
+- *Elenco auténtico* — actores con discapacidad
+- *Internacional* — no estadounidense / internacional
+- *Esencial* — visionado esencial
 
 **La disponibilidad en streaming cambia con frecuencia. Consulta JustWatch.com para ver las opciones actuales.**
 
@@ -58,19 +58,19 @@ Empieza aquí para ver las películas fundamentales sobre discapacidad.
 
 ### Documentales {#documentales}
 
-- ✦ 🎬 **Crip Camp: A Disability Revolution** (2020) – Directores Jim LeBrecht (con discapacidad) y Nicole Newnham. Netflix. El documental esencial sobre los derechos de las personas con discapacidad. Sigue a adolescentes con discapacidad en el Camp Jened en la década de 1970, quienes se convirtieron en líderes del movimiento por los derechos de las personas con discapacidad, incluida la sentada de la Sección 504. Producido ejecutivamente por los Obama. Nominado al Óscar.
+- **Crip Camp: A Disability Revolution** (2020) – Directores Jim LeBrecht (con discapacidad) y Nicole Newnham. Netflix. El documental esencial sobre los derechos de las personas con discapacidad. Sigue a adolescentes con discapacidad en el Camp Jened en la década de 1970, quienes se convirtieron en líderes del movimiento por los derechos de las personas con discapacidad, incluida la sentada de la Sección 504. Producido ejecutivamente por los Obama. Nominado al Óscar. *Cineasta con discapacidad, Esencial.*
 
-- ✦ **When Billy Broke His Head... and Other Tales of Wonder** (1994) – Billy Golfus (director/protagonista con discapacidad). Documental innovador de un sobreviviente de una lesión cerebral que explora el movimiento por los derechos de las personas con discapacidad. Crudo, político, fundacional.
+- **When Billy Broke His Head... and Other Tales of Wonder** (1994) – Billy Golfus (director/protagonista con discapacidad). Documental innovador de un sobreviviente de una lesión cerebral que explora el movimiento por los derechos de las personas con discapacidad. Crudo, político, fundacional. *Esencial.*
 
-- ✦ **Lives Worth Living** (2011) – Eric Neudel. Documental de PBS sobre el movimiento por los derechos de las personas con discapacidad, con la participación de activistas clave. Excelente panorama histórico.
+- **Lives Worth Living** (2011) – Eric Neudel. Documental de PBS sobre el movimiento por los derechos de las personas con discapacidad, con la participación de activistas clave. Excelente panorama histórico. *Esencial.*
 
 ### Largometrajes {#largometrajes}
 
-- ✦ 🎭 **CODA** (2021) – Sian Heder. Apple TV+. Hija de adultos sordos que transita entre los mundos oyente y sordo. Cuenta con los actores sordos Marlee Matlin, Troy Kotsur y Daniel Durant. Kotsur ganó el Óscar a Mejor Actor de Reparto, el segundo actor sordo en ganarlo después de Matlin. Lengua de señas estadounidense (ASL) auténtica de principio a fin.
+- **CODA** (2021) – Sian Heder. Apple TV+. Hija de adultos sordos que transita entre los mundos oyente y sordo. Cuenta con los actores sordos Marlee Matlin, Troy Kotsur y Daniel Durant. Kotsur ganó el Óscar a Mejor Actor de Reparto, el segundo actor sordo en ganarlo después de Matlin. Lengua de señas estadounidense (ASL) auténtica de principio a fin. *Elenco auténtico, Esencial.*
 
-- ✦ 🎭 **Sound of Metal** (2020) – Darius Marder. Amazon Prime. Un baterista pierde la audición e ingresa a la comunidad sorda. Riz Ahmed aprendió ASL para el papel; el elenco de reparto incluye actores sordos. Retrato matizado de la cultura sorda sin un relato de "cura".
+- **Sound of Metal** (2020) – Darius Marder. Amazon Prime. Un baterista pierde la audición e ingresa a la comunidad sorda. Riz Ahmed aprendió ASL para el papel; el elenco de reparto incluye actores sordos. Retrato matizado de la cultura sorda sin un relato de "cura". *Elenco auténtico, Esencial.*
 
-- ✦ 🎭 **The Peanut Butter Falcon** (2019) – Tyler Nilson y Michael Schwartz. Zack Gottsagen, un actor con síndrome de Down, protagoniza esta película de aventuras. Casting auténtico, historia centrada en la dignidad.
+- **The Peanut Butter Falcon** (2019) – Tyler Nilson y Michael Schwartz. Zack Gottsagen, un actor con síndrome de Down, protagoniza esta película de aventuras. Casting auténtico, historia centrada en la dignidad. *Elenco auténtico, Esencial.*
 
 ---
 
@@ -78,11 +78,11 @@ Empieza aquí para ver las películas fundamentales sobre discapacidad.
 
 ### Historia de los derechos de las personas con discapacidad {#historia-de-los-derechos-de-las-personas-con-discapacidad}
 
-- ✦ 🎬 **Crip Camp: A Disability Revolution** (2020) – [Ver Visionado esencial]
+- **Crip Camp: A Disability Revolution** (2020) – [Ver Visionado esencial] *Cineasta con discapacidad, Esencial.*
 
-- ✦ **Lives Worth Living** (2011) – [Ver Visionado esencial]
+- **Lives Worth Living** (2011) – [Ver Visionado esencial] *Esencial.*
 
-- ✦ **When Billy Broke His Head** (1994) – [Ver Visionado esencial]
+- **When Billy Broke His Head** (1994) – [Ver Visionado esencial] *Esencial.*
 
 - **The Disability Rights Movement** (2015) – Documental panorámico que abarca la aprobación de la ADA y momentos clave.
 
@@ -94,7 +94,7 @@ Empieza aquí para ver las películas fundamentales sobre discapacidad.
 
 ### Cultura y comunidad de la discapacidad {#cultura-y-comunidad-de-la-discapacidad}
 
-- 🎬 **Murderball** (2005) – Henry Alex Rubin y Dana Adam Shapiro. Documental nominado al Óscar que sigue al equipo estadounidense de rugby en silla de ruedas. Cambió la percepción sobre los atletas con discapacidad. Crudo, competitivo, antiinspiracional.
+- **Murderball** (2005) – Henry Alex Rubin y Dana Adam Shapiro. Documental nominado al Óscar que sigue al equipo estadounidense de rugby en silla de ruedas. Cambió la percepción sobre los atletas con discapacidad. Crudo, competitivo, antiinspiracional. *Cineasta con discapacidad.*
 
 - **Fixed: The Science/Fiction of Human Enhancement** (2013) – Regan Brashear. Explora las tecnologías de mejora humana desde la perspectiva de la discapacidad.
 
@@ -102,7 +102,7 @@ Empieza aquí para ver las películas fundamentales sobre discapacidad.
 
 - **Code of the Freaks** (2020) – Cineastas con discapacidad analizan la representación de la discapacidad en Hollywood. Alfabetización mediática esencial.
 
-- 🎬 **CinemAbility** (2018) – Jenni Gold (directora con discapacidad). Documental que examina la representación de la discapacidad en el cine y la televisión.
+- **CinemAbility** (2018) – Jenni Gold (directora con discapacidad). Documental que examina la representación de la discapacidad en el cine y la televisión. *Cineasta con discapacidad.*
 
 ### Discapacidades específicas {#discapacidades-específicas}
 
@@ -110,7 +110,7 @@ Empieza aquí para ver las películas fundamentales sobre discapacidad.
 
 - **Life, Animated** (2016) – Roger Ross Williams. Documental nominado al Óscar sobre un joven autista que aprendió a comunicarse a través de películas de Disney. [Nota: Algunas personas de la comunidad autista han criticado el enfoque]
 
-- 🎬 **Loving Lampposts** (2010) – Todd Drezner. El padre de un hijo autista explora el movimiento de la neurodiversidad frente a los enfoques centrados en la cura.
+- **Loving Lampposts** (2010) – Todd Drezner. El padre de un hijo autista explora el movimiento de la neurodiversidad frente a los enfoques centrados en la cura. *Cineasta con discapacidad.*
 
 - **In a Different Key** (2020) – Basado en el libro, explora la historia del autismo.
 
@@ -122,7 +122,7 @@ Empieza aquí para ver las películas fundamentales sobre discapacidad.
 
 - **See What I'm Saying: The Deaf Entertainers Documentary** (2010) – Perfiles de artistas sordos.
 
-- 🌍 **The Tribe** (2014) – Película ucraniana interpretada por completo en lengua de señas sin subtítulos. Intensa, controvertida. 🌍
+- **The Tribe** (2014) – Película ucraniana interpretada por completo en lengua de señas sin subtítulos. Intensa, controvertida. *Internacional.*
 
 #### Personas ciegas y con baja visión
 
@@ -140,7 +140,7 @@ Empieza aquí para ver las películas fundamentales sobre discapacidad.
 
 #### Enfermedad crónica
 
-- 🎬 **Unrest** (2017) – Jennifer Brea. [Ver la sección Cultura y comunidad de la discapacidad]
+- **Unrest** (2017) – Jennifer Brea. [Ver la sección Cultura y comunidad de la discapacidad] *Cineasta con discapacidad.*
 
 - **Forgotten Plague** (2015) – Documental sobre la EM/SFC.
 
@@ -164,7 +164,7 @@ Empieza aquí para ver las películas fundamentales sobre discapacidad.
 
 - **Willowbrook: The Last Great Disgrace** (1972) – La denuncia de Geraldo Rivera que ayudó a poner fin al confinamiento institucional.
 
-- **Sentenced to Life** – La historia del abuso institucional en Australia. 🌍
+- **Sentenced to Life** – La historia del abuso institucional en Australia. *Internacional.*
 
 ### Deportes y atletismo {#deportes-y-atletismo}
 
@@ -172,13 +172,13 @@ Empieza aquí para ver las películas fundamentales sobre discapacidad.
 
 - **Rising Phoenix** (2020) – Documental de Netflix sobre la historia del movimiento paralímpico y sus atletas.
 
-- **The Last Goldfish** (2017) – La historia de un nadador paralímpico australiano. 🌍
+- **The Last Goldfish** (2017) – La historia de un nadador paralímpico australiano. *Internacional.*
 
 - **Mind/Game: The Unquiet Journey of Chamique Holdsclaw** (2015) – El recorrido por la salud mental de una estrella de la WNBA.
 
 ### Artes y artes escénicas {#artes-y-artes-escénicas}
 
-- 🎬 **CinemAbility** (2018) – [Ver la sección Cultura y comunidad de la discapacidad]
+- **CinemAbility** (2018) – [Ver la sección Cultura y comunidad de la discapacidad] *Cineasta con discapacidad.*
 
 - **Code of the Freaks** (2020) – [Ver la sección Cultura y comunidad de la discapacidad]
 
@@ -190,15 +190,15 @@ Empieza aquí para ver las películas fundamentales sobre discapacidad.
 
 ### Documentales internacionales {#documentales-internacionales}
 
-- 🌍 **How to Dance in Ohio** (2015) – Jóvenes adultos autistas que se preparan para el baile de graduación. (Estadounidense, pero con buena distribución internacional)
+- **How to Dance in Ohio** (2015) – Jóvenes adultos autistas que se preparan para el baile de graduación. (Estadounidense, pero con buena distribución internacional) *Internacional.*
 
-- 🌍 **Notes on Blindness** (2016) – Reino Unido. Basado en los diarios de audio del teólogo John Hull tras perder la vista. 🌍
+- **Notes on Blindness** (2016) – Reino Unido. Basado en los diarios de audio del teólogo John Hull tras perder la vista. *Internacional.*
 
-- 🌍 **Margarita with a Straw** (2014) – India. Una joven con parálisis cerebral que explora su sexualidad e identidad. Dirigida por Shonali Bose. 🌍
+- **Margarita with a Straw** (2014) – India. Una joven con parálisis cerebral que explora su sexualidad e identidad. Dirigida por Shonali Bose. *Internacional.*
 
-- 🌍 **The Specials** (2019) – Francia. Documental sobre una organización que apoya a adultos autistas. 🌍
+- **The Specials** (2019) – Francia. Documental sobre una organización que apoya a adultos autistas. *Internacional.*
 
-- 🌍 **Maudie** (2016) – Canadá/Irlanda. La artista folk Maud Lewis, que tenía artritis reumatoide juvenil. Ethan Hawke, Sally Hawkins.
+- **Maudie** (2016) – Canadá/Irlanda. La artista folk Maud Lewis, que tenía artritis reumatoide juvenil. Ethan Hawke, Sally Hawkins. *Internacional.*
 
 ---
 
@@ -208,21 +208,21 @@ Empieza aquí para ver las películas fundamentales sobre discapacidad.
 
 Películas con actores con discapacidad que interpretan personajes con discapacidad.
 
-- ✦ 🎭 **CODA** (2021) – [Ver Visionado esencial]
+- **CODA** (2021) – [Ver Visionado esencial] *Elenco auténtico, Esencial.*
 
-- ✦ 🎭 **Sound of Metal** (2020) – [Ver Visionado esencial]
+- **Sound of Metal** (2020) – [Ver Visionado esencial] *Elenco auténtico, Esencial.*
 
-- ✦ 🎭 **The Peanut Butter Falcon** (2019) – [Ver Visionado esencial]
+- **The Peanut Butter Falcon** (2019) – [Ver Visionado esencial] *Elenco auténtico, Esencial.*
 
-- 🎭 **Children of a Lesser God** (1986) – El debut de Marlee Matlin como mujer sorda, por el que ganó el Óscar. Innovadora en su estreno, con algunos elementos anticuados.
+- **Children of a Lesser God** (1986) – El debut de Marlee Matlin como mujer sorda, por el que ganó el Óscar. Innovadora en su estreno, con algunos elementos anticuados. *Elenco auténtico.*
 
-- 🎭 **Hush** (2016) – Kate Siegel. Thriller de invasión domiciliaria con una protagonista sorda. Siegel es oyente, pero la película cuenta con actores sordos y parte del equipo es sordo.
+- **Hush** (2016) – Kate Siegel. Thriller de invasión domiciliaria con una protagonista sorda. Siegel es oyente, pero la película cuenta con actores sordos y parte del equipo es sordo. *Elenco auténtico.*
 
-- 🎭 **A Quiet Place** (2018) – John Krasinski. Millicent Simmonds, una actriz sorda, interpreta a la hija sorda. La lengua de señas es esencial para la trama.
+- **A Quiet Place** (2018) – John Krasinski. Millicent Simmonds, una actriz sorda, interpreta a la hija sorda. La lengua de señas es esencial para la trama. *Elenco auténtico.*
 
-- 🎭 **Eternals** (2021) – Marvel. Lauren Ridloff (actriz sorda) interpreta a Makkari, una superheroína sorda.
+- **Eternals** (2021) – Marvel. Lauren Ridloff (actriz sorda) interpreta a Makkari, una superheroína sorda. *Elenco auténtico.*
 
-- 🎭 **Best Summer Ever** (2020) – Musical con un elenco que incluye actores con discapacidad. Una producción centrada en la integración.
+- **Best Summer Ever** (2020) – Musical con un elenco que incluye actores con discapacidad. Una producción centrada en la integración. *Elenco auténtico.*
 
 ### Películas clásicas {#películas-clásicas}
 
@@ -244,35 +244,35 @@ Películas importantes en la historia de la representación de la discapacidad, 
 
 - **Rust and Bone** (2012) – Marion Cotillard como una mujer que pierde las piernas. Película francesa. Nota: actriz sin discapacidad, piernas generadas por CGI.
 
-- 🌍 **Margarita with a Straw** (2014) – [Ver Documentales internacionales]
+- **Margarita with a Straw** (2014) – [Ver Documentales internacionales] *Internacional.*
 
 - **Breathe** (2017) – Dirigida por Andy Serkis; Andrew Garfield como Robin Cavendish, paralizado por la polio. Nota: actor sin discapacidad.
 
 ### Comedias {#comedias}
 
-- 🎭 **The Peanut Butter Falcon** (2019) – [Ver Visionado esencial]
+- **The Peanut Butter Falcon** (2019) – [Ver Visionado esencial] *Elenco auténtico.*
 
 - **Pumpkin** (2002) – Comedia negra sobre una chica de una fraternidad que se enamora de un hombre con discapacidad intelectual. [Nota: Representación controvertida]
 
 - **The Upside** (2017) – Remake estadounidense de Intouchables. Kevin Hart, Bryan Cranston. Nota: actor sin discapacidad en silla de ruedas.
 
-- 🌍 **The Intouchables** (2011) – Comedia francesa sobre un hombre con cuadriplejía y su persona cuidadora. Enorme éxito de taquilla. Nota: algunas críticas la señalan por clichés de salvador blanco y porno inspiracional, a pesar del respaldo de la persona con discapacidad en quien se basa. 🌍
+- **The Intouchables** (2011) – Comedia francesa sobre un hombre con cuadriplejía y su persona cuidadora. Enorme éxito de taquilla. Nota: algunas críticas la señalan por clichés de salvador blanco y porno inspiracional, a pesar del respaldo de la persona con discapacidad en quien se basa. *Internacional.*
 
 ### Películas internacionales {#películas-internacionales}
 
-- 🌍 **The Intouchables** (2011) – Francia. [Ver Comedias]
+- **The Intouchables** (2011) – Francia. [Ver Comedias] *Internacional.*
 
-- 🌍 **The Tribe** (2014) – Ucrania. Toda en lengua de señas, sin subtítulos. 🌍
+- **The Tribe** (2014) – Ucrania. Toda en lengua de señas, sin subtítulos. *Internacional.*
 
-- 🌍 **Margarita with a Straw** (2014) – India. 🌍
+- **Margarita with a Straw** (2014) – India. *Internacional.*
 
-- 🌍 **Maudie** (2016) – Canadá/Irlanda.
+- **Maudie** (2016) – Canadá/Irlanda. *Internacional.*
 
-- 🌍 **Capernaum** (2018) – Líbano. Aborda discapacidades y marginación. 🌍
+- **Capernaum** (2018) – Líbano. Aborda discapacidades y marginación. *Internacional.*
 
-- 🌍 **Amour** (2012) – Michael Haneke. Austria. Envejecimiento, discapacidad y final de la vida. Ganadora de la Palma de Oro. 🌍
+- **Amour** (2012) – Michael Haneke. Austria. Envejecimiento, discapacidad y final de la vida. Ganadora de la Palma de Oro. *Internacional.*
 
-- 🌍 **37 Seconds** (2019) – Japón. Una mujer con parálisis cerebral que explora su sexualidad. Dirigida por Hikari. 🌍
+- **37 Seconds** (2019) – Japón. Una mujer con parálisis cerebral que explora su sexualidad. Dirigida por Hikari. *Internacional.*
 
 ---
 
@@ -296,7 +296,7 @@ Estas películas son muy conocidas, pero contienen problemas significativos de r
 
 ## Cortometrajes {#cortometrajes}
 
-- 🎬 **Audible** (2021) – Matt Ogens. Netflix. Cortometraje nominado al Óscar sobre el equipo de fútbol americano de la Maryland School for the Deaf.
+- **Audible** (2021) – Matt Ogens. Netflix. Cortometraje nominado al Óscar sobre el equipo de fútbol americano de la Maryland School for the Deaf. *Cineasta con discapacidad.*
 
 - **The Silent Child** (2017) – Cortometraje ganador del Óscar sobre una niña sorda y su tutora de lengua de señas.
 

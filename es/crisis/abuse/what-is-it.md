@@ -490,25 +490,25 @@ El abuso sistémico es la base que hace posible el abuso individual. Cuando el *
 
 ## Lo que el abuso NO es (mitos comunes)
 
-❌ "El abuso real implica violencia física"  
+"El abuso real implica violencia física"  
 → El abuso emocional, financiero, médico y de otros tipos es absolutamente real y grave
 
-❌ "Si se disculpan, no es abuso"  
+"Si se disculpan, no es abuso"  
 → Los ciclos de abuso incluyen disculpas; las disculpas no impiden el siguiente incidente
 
-❌ "Si me amaran, no abusarían de mí"  
+"Si me amaran, no abusarían de mí"  
 → Quienes abusan pueden amar a las personas y abusar de ellas; el amor no impide el abuso
 
-❌ "El abuso solo ocurre en ciertos tipos de relaciones"  
+"El abuso solo ocurre en ciertos tipos de relaciones"  
 → El abuso ocurre en relaciones íntimas, relaciones de cuidado, instituciones y políticas sistémicas
 
-❌ "Si de verdad estuvieras sufriendo abuso, te irías"  
+"Si de verdad estuvieras sufriendo abuso, te irías"  
 → Irse es peligroso, complejo y a veces imposible; quedarse a menudo es la opción más segura
 
-❌ "Las personas con discapacidad son naturalmente más vulnerables, así que algo de control es necesario"  
+"Las personas con discapacidad son naturalmente más vulnerables, así que algo de control es necesario"  
 → El abuso nunca es necesario. El cuidado genuino respeta la autonomía y el consentimiento
 
-❌ "Solo es abuso si deja marcas físicas"  
+"Solo es abuso si deja marcas físicas"  
 → El abuso emocional, financiero y médico deja cicatrices que no se ven
 
 ---

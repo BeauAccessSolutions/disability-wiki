@@ -531,36 +531,36 @@ Comunidad:
 
 ### Kit de emergencia básico
 
-☐ Agua (1 galón/persona/día, 3 o más días)  
-☐ Alimentos no perecederos (3 o más días)  
-☐ Linterna + baterías  
-☐ Radio a pilas  
-☐ Botiquín de primeros auxilios  
-☐ Cargador de teléfono (batería portátil)  
-☐ Medicamentos (suministro completo)  
-☐ Documentos importantes (copias)  
-☐ Efectivo (billetes pequeños)  
-☐ Zapatos resistentes  
-☐ Muda de ropa  
-☐ Manta/bolsa de dormir  
+- Agua (1 galón/persona/día, 3 o más días)  
+- Alimentos no perecederos (3 o más días)  
+- Linterna + baterías  
+- Radio a pilas  
+- Botiquín de primeros auxilios  
+- Cargador de teléfono (batería portátil)  
+- Medicamentos (suministro completo)  
+- Documentos importantes (copias)  
+- Efectivo (billetes pequeños)  
+- Zapatos resistentes  
+- Muda de ropa  
+- Manta/bolsa de dormir  
 
 ### Adiciones específicas según discapacidad
 
-☐ Ayudas de movilidad (bastón, muletas, andador de respaldo)  
-☐ Silla de ruedas de respaldo (si es posible)  
-☐ Baterías para audífonos  
-☐ Anteojos/lentes de contacto de repuesto  
-☐ Identificación de alerta médica  
-☐ Copias de las recetas  
-☐ Información de contacto del médico  
-☐ Insulina/autoinyector (si tienes diabetes)  
-☐ EpiPen (si tienes alergias graves)  
-☐ Suministros para incontinencia/sondaje  
-☐ Suministros de CPAP u oxígeno  
-☐ Medicamentos para el dolor  
-☐ Medicamentos para la salud mental  
-☐ Alimentos especiales (sin gluten, de textura modificada)  
-☐ Suministros para el animal de servicio  
+- Ayudas de movilidad (bastón, muletas, andador de respaldo)  
+- Silla de ruedas de respaldo (si es posible)  
+- Baterías para audífonos  
+- Anteojos/lentes de contacto de repuesto  
+- Identificación de alerta médica  
+- Copias de las recetas  
+- Información de contacto del médico  
+- Insulina/autoinyector (si tienes diabetes)  
+- EpiPen (si tienes alergias graves)  
+- Suministros para incontinencia/sondaje  
+- Suministros de CPAP u oxígeno  
+- Medicamentos para el dolor  
+- Medicamentos para la salud mental  
+- Alimentos especiales (sin gluten, de textura modificada)  
+- Suministros para el animal de servicio  
 
 ### Guarda el kit
 

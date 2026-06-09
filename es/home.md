@@ -16,7 +16,7 @@ dateCreated: 2026-01-11T19:42:25.469Z
 ---
 
 ## La bandera del orgullo de la discapacidad
-![visually_safe_disability_pride_flag.svg.png](/visually_safe_disability_pride_flag.svg.png)
+![La Bandera del Orgullo de la Discapacidad: un fondo gris carbón cruzado por una banda diagonal de cinco franjas paralelas — roja, dorada, blanca, azul y verde.](/visually_safe_disability_pride_flag.svg.png)
 La Bandera del Orgullo de la Discapacidad fue diseñada por Ann Magill y revisada en 2021. Cada color representa una parte de la comunidad con discapacidad:
 
 - **Gris carbón:** Duelo y memoria por las personas perdidas a causa de la violencia capacitista, el abuso, el suicidio y la enfermedad.

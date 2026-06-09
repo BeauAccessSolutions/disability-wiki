@@ -376,7 +376,7 @@ When evaluating disability representation:
 ### Organizations
 
 - **RespectAbility** – Hollywood inclusion advocacy, consultation
-- **Disability Rights UK Media** – UK resources 🌍
+- **Disability Rights UK Media** – UK resources
 - **Ruderman Family Foundation** – Employment in entertainment research
 
 ### Guidelines

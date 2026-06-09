@@ -428,15 +428,17 @@ Consider bookmarking:
 
 ## Notes on Wiki Content
 
-**This wiki:**
-- ✓ Centers disabled people's knowledge and lived experience
-- ✓ Includes global and multiply-marginalized perspectives
-- ✓ Respects all disability identities and approaches
-- ✓ Uses identity-first language (Deaf, Autistic, disabled)
-- ✓ Is community-driven and welcomes contributions
-- ✓ Designed for accessibility from the start
-- ✗ Is not a substitute for legal advice, medical advice, or crisis services
-- ✗ Cannot replace personal decision-making with loved ones and experts
+**This wiki does:**
+- Center disabled people's knowledge and lived experience
+- Include global and multiply-marginalized perspectives
+- Respect all disability identities and approaches
+- Use identity-first language (Deaf, Autistic, disabled)
+- Stay community-driven and welcome contributions
+- Get designed for accessibility from the start
+
+**This wiki does not:**
+- Substitute for legal advice, medical advice, or crisis services
+- Replace personal decision-making with loved ones and experts
 
 ---
 

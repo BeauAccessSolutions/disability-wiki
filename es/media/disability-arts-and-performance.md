@@ -18,11 +18,11 @@ La cultura de la discapacidad en el teatro, la danza, las artes visuales, la mú
 
 Las artes de la discapacidad son un movimiento cultural: arte hecho por personas con discapacidad que refleja la experiencia de la discapacidad, desafía el capacitismo y celebra la cultura de la discapacidad. Esto es distinto de la "arteterapia" o del arte sobre la discapacidad hecho por personas sin discapacidad.
 
-**Leyenda:**
-- 🎨 Persona artista/creadora con discapacidad
-- 🏛️ Organización liderada por personas con discapacidad
-- 🌍 No radicada en Estados Unidos
-- ✦ Muy influyente
+**Etiquetas usadas abajo** (después de cada entrada):
+- *Artista con discapacidad* — artista/creador con discapacidad
+- *Organización liderada por personas con discapacidad* — organización dirigida por personas con discapacidad
+- *Internacional* — radicado fuera de Estados Unidos
+- *Influyente* — muy influyente
 
 ---
 
@@ -63,39 +63,39 @@ Las artes de la discapacidad surgieron del movimiento por los derechos de las pe
 
 ### Estados Unidos
 
-- ✦ 🏛️ **Sins Invalid** (San Francisco) – Proyecto de performance que pone en el centro a personas con discapacidad racializadas y a personas queer/trans con discapacidad. Desarrolló el marco de la justicia para las personas con discapacidad. Esencial.
+- **Sins Invalid** (San Francisco) – Proyecto de performance que pone en el centro a personas con discapacidad racializadas y a personas queer/trans con discapacidad. Desarrolló el marco de la justicia para las personas con discapacidad. Esencial. *Organización liderada por personas con discapacidad, Influyente.*
 
-- 🏛️ **National Disability Theatre** – Actores Sordos y con discapacidad en el teatro profesional.
+- **National Disability Theatre** – Actores Sordos y con discapacidad en el teatro profesional. *Organización liderada por personas con discapacidad.*
 
-- 🏛️ **Phamaly Theatre Company** (Denver) – Producciones con elenco íntegramente formado por personas con discapacidad.
+- **Phamaly Theatre Company** (Denver) – Producciones con elenco íntegramente formado por personas con discapacidad. *Organización liderada por personas con discapacidad.*
 
-- 🏛️ **Theater Breaking Through Barriers** (Nueva York) – Actores con discapacidad en obras tradicionales y originales.
+- **Theater Breaking Through Barriers** (Nueva York) – Actores con discapacidad en obras tradicionales y originales. *Organización liderada por personas con discapacidad.*
 
-- 🏛️ **Dancing Wheels** (Cleveland) – Compañía de danza integrada con bailarines en silla de ruedas.
+- **Dancing Wheels** (Cleveland) – Compañía de danza integrada con bailarines en silla de ruedas. *Organización liderada por personas con discapacidad.*
 
-- 🏛️ **AXIS Dance Company** (Oakland) – Danza físicamente integrada de renombre mundial.
+- **AXIS Dance Company** (Oakland) – Danza físicamente integrada de renombre mundial. *Organización liderada por personas con discapacidad.*
 
-- 🏛️ **Full Radius Dance** (Atlanta) – Danza contemporánea físicamente integrada.
+- **Full Radius Dance** (Atlanta) – Danza contemporánea físicamente integrada. *Organización liderada por personas con discapacidad.*
 
 ### Reino Unido
 
-- 🌍 🏛️ **Graeae Theatre Company** (Londres) – Principal teatro británico liderado por personas con discapacidad. Producciones innovadoras y formación. 🌍
+- **Graeae Theatre Company** (Londres) – Principal teatro británico liderado por personas con discapacidad. Producciones innovadoras y formación. *Organización liderada por personas con discapacidad, Internacional.*
 
-- 🌍 🏛️ **Candoco Dance Company** (Londres) – Danza integrada aclamada internacionalmente. 🌍
+- **Candoco Dance Company** (Londres) – Danza integrada aclamada internacionalmente. *Organización liderada por personas con discapacidad, Internacional.*
 
-- 🌍 🏛️ **Stopgap Dance Company** – Danza contemporánea integrada. 🌍
+- **Stopgap Dance Company** – Danza contemporánea integrada. *Organización liderada por personas con discapacidad, Internacional.*
 
-- 🌍 🏛️ **Deaf Men Dancing** – Compañía de danza de hombres Sordos. 🌍
+- **Deaf Men Dancing** – Compañía de danza de hombres Sordos. *Organización liderada por personas con discapacidad, Internacional.*
 
-- 🌍 🏛️ **Birds of Paradise** (Escocia) – Teatro escocés liderado por personas con discapacidad. 🌍
+- **Birds of Paradise** (Escocia) – Teatro escocés liderado por personas con discapacidad. *Organización liderada por personas con discapacidad, Internacional.*
 
 ### Internacional
 
-- 🌍 🏛️ **Back to Back Theatre** (Australia) – Compañía de actores con discapacidad intelectual. Giras internacionales. 🌍
+- **Back to Back Theatre** (Australia) – Compañía de actores con discapacidad intelectual. Giras internacionales. *Organización liderada por personas con discapacidad, Internacional.*
 
-- 🌍 🏛️ **DanceAbility International** – Metodología y compañía de danza integrada. 🌍
+- **DanceAbility International** – Metodología y compañía de danza integrada. *Organización liderada por personas con discapacidad, Internacional.*
 
-- 🌍 🏛️ **Remix Dance Project** (Canadá) – Danza integrada. 🌍
+- **Remix Dance Project** (Canadá) – Danza integrada. *Organización liderada por personas con discapacidad, Internacional.*
 
 ---
 
@@ -103,23 +103,23 @@ Las artes de la discapacidad surgieron del movimiento por los derechos de las pe
 
 ### Teatro Sordo
 
-- 🏛️ **National Theatre of the Deaf** – Fundado en 1967. Teatro Sordo pionero en Estados Unidos.
+- **National Theatre of the Deaf** – Fundado en 1967. Teatro Sordo pionero en Estados Unidos. *Organización liderada por personas con discapacidad.*
 
-- 🏛️ **Deaf West Theatre** (Los Ángeles) – Conocido por sus producciones en ASL, incluida Spring Awakening de Broadway.
+- **Deaf West Theatre** (Los Ángeles) – Conocido por sus producciones en ASL, incluida Spring Awakening de Broadway. *Organización liderada por personas con discapacidad.*
 
-- 🏛️ **Cleveland Signstage Theatre** – Producciones integradas con personas Sordas y oyentes.
+- **Cleveland Signstage Theatre** – Producciones integradas con personas Sordas y oyentes. *Organización liderada por personas con discapacidad.*
 
 ### Compañías lideradas por personas con discapacidad
 
-- ✦ 🏛️ **Sins Invalid** – [Ver Compañías de performance]
+- **Sins Invalid** – [Ver Compañías de performance] *Organización liderada por personas con discapacidad, Influyente.*
 
-- 🏛️ **Phamaly Theatre Company** – Elencos íntegramente formados por personas con discapacidad.
+- **Phamaly Theatre Company** – Elencos íntegramente formados por personas con discapacidad. *Organización liderada por personas con discapacidad.*
 
-- 🏛️ **Theater Breaking Through Barriers** – Actores profesionales con discapacidad.
+- **Theater Breaking Through Barriers** – Actores profesionales con discapacidad. *Organización liderada por personas con discapacidad.*
 
-- 🌍 🏛️ **Graeae** – [Ver Compañías de performance] 🌍
+- **Graeae** – [Ver Compañías de performance] *Organización liderada por personas con discapacidad, Internacional.*
 
-- 🌍 🏛️ **Back to Back Theatre** 🌍
+- **Back to Back Theatre** *Organización liderada por personas con discapacidad, Internacional.*
 
 ### Producciones notables
 
@@ -137,41 +137,41 @@ Las artes de la discapacidad surgieron del movimiento por los derechos de las pe
 
 ### Danza integrada/inclusiva
 
-- ✦ 🏛️ **AXIS Dance Company** (Oakland) – Fundada en 1987. Bailarines en silla de ruedas y bailarines de pie. Giras internacionales, alta calidad artística.
+- **AXIS Dance Company** (Oakland) – Fundada en 1987. Bailarines en silla de ruedas y bailarines de pie. Giras internacionales, alta calidad artística. *Organización liderada por personas con discapacidad, Influyente.*
 
-- 🏛️ **Dancing Wheels** (Cleveland) – Fundada en 1980. Bailarines en silla de ruedas y de pie.
+- **Dancing Wheels** (Cleveland) – Fundada en 1980. Bailarines en silla de ruedas y de pie. *Organización liderada por personas con discapacidad.*
 
-- 🏛️ **Full Radius Dance** (Atlanta) – Compañía contemporánea integrada.
+- **Full Radius Dance** (Atlanta) – Compañía contemporánea integrada. *Organización liderada por personas con discapacidad.*
 
-- 🌍 🏛️ **Candoco Dance Company** (Londres) – Giras internacionales, colaboraciones con grandes coreógrafos. 🌍
+- **Candoco Dance Company** (Londres) – Giras internacionales, colaboraciones con grandes coreógrafos. *Organización liderada por personas con discapacidad, Internacional.*
 
-- 🌍 🏛️ **Stopgap Dance Company** (Reino Unido) 🌍
+- **Stopgap Dance Company** (Reino Unido) *Organización liderada por personas con discapacidad, Internacional.*
 
-- 🌍 🏛️ **DanceAbility International** – La metodología de Alito Alessi para la danza de capacidades mixtas. 🌍
+- **DanceAbility International** – La metodología de Alito Alessi para la danza de capacidades mixtas. *Organización liderada por personas con discapacidad, Internacional.*
 
 ### Danza Sorda
 
-- 🏛️ **Gallaudet Dance Company** – Compañía universitaria.
+- **Gallaudet Dance Company** – Compañía universitaria. *Organización liderada por personas con discapacidad.*
 
-- 🌍 🏛️ **Deaf Men Dancing** (Reino Unido) 🌍
+- **Deaf Men Dancing** (Reino Unido) *Organización liderada por personas con discapacidad, Internacional.*
 
 - Diversas personas artistas de danza Sordas que trabajan con el ritmo visual y el movimiento espacial.
 
 ### Danza en silla de ruedas
 
-- 🏛️ **USA Dance Wheelchair Program** – Danza competitiva en silla de ruedas.
+- **USA Dance Wheelchair Program** – Danza competitiva en silla de ruedas. *Organización liderada por personas con discapacidad.*
 
-- 🎨 **Chelsie Hill's Rollettes** – Equipo de danza en silla de ruedas (fundado por una bailarina con parálisis).
+- **Chelsie Hill's Rollettes** – Equipo de danza en silla de ruedas (fundado por una bailarina con parálisis). *Artista con discapacidad.*
 
 ### Coreógrafos notables
 
-- 🎨 **Judith Smith** – Cofundadora de AXIS Dance Company.
+- **Judith Smith** – Cofundadora de AXIS Dance Company. *Artista con discapacidad.*
 
-- 🎨 **Alice Sheppard** – Fundadora de Kinetic Light, bailarina y coreógrafa en silla de ruedas.
+- **Alice Sheppard** – Fundadora de Kinetic Light, bailarina y coreógrafa en silla de ruedas. *Artista con discapacidad.*
 
-- 🎨 **Alito Alessi** – Fundador de DanceAbility.
+- **Alito Alessi** – Fundador de DanceAbility. *Artista con discapacidad.*
 
-- 🌍 🎨 **Marc Brew** – Coreógrafo escocés con discapacidad. 🌍
+- **Marc Brew** – Coreógrafo escocés con discapacidad. *Artista con discapacidad, Internacional.*
 
 ---
 
@@ -179,29 +179,29 @@ Las artes de la discapacidad surgieron del movimiento por los derechos de las pe
 
 ### Personas destacadas de las artes visuales con discapacidad
 
-- ✦ 🎨 **Frida Kahlo** (1907-1954) – Pintora mexicana, ícono de la discapacidad. Dolor crónico, daño en la columna por un accidente. Autorretratos surrealistas que ponen en el centro el cuerpo y el dolor.
+- **Frida Kahlo** (1907-1954) – Pintora mexicana, ícono de la discapacidad. Dolor crónico, daño en la columna por un accidente. Autorretratos surrealistas que ponen en el centro el cuerpo y el dolor. *Artista con discapacidad, Influyente.*
 
-- 🎨 **Riva Lehrer** – Pintora y escritora. Retratos de personas con discapacidad. Serie "Circle Stories".
+- **Riva Lehrer** – Pintora y escritora. Retratos de personas con discapacidad. Serie "Circle Stories". *Artista con discapacidad.*
 
-- 🎨 **Sunaura Taylor** – Pintora, escritora y académica de estudios de la discapacidad. Intersección de los derechos de los animales y de la discapacidad.
+- **Sunaura Taylor** – Pintora, escritora y académica de estudios de la discapacidad. Intersección de los derechos de los animales y de la discapacidad. *Artista con discapacidad.*
 
-- 🌍 🎨 **Yinka Shonibare** – Artista británico-nigeriano con discapacidad física. 🌍
+- **Yinka Shonibare** – Artista británico-nigeriano con discapacidad física. *Artista con discapacidad, Internacional.*
 
-- 🎨 **Christine Sun Kim** – Artista Sorda que trabaja con el sonido, el dibujo y la performance.
+- **Christine Sun Kim** – Artista Sorda que trabaja con el sonido, el dibujo y la performance. *Artista con discapacidad.*
 
-- 🎨 **Joseph Grigely** – Artista conceptual Sordo.
+- **Joseph Grigely** – Artista conceptual Sordo. *Artista con discapacidad.*
 
-- 🎨 **Katherine Sherwood** – Pintora, después de un derrame cerebral.
+- **Katherine Sherwood** – Pintora, después de un derrame cerebral. *Artista con discapacidad.*
 
-- 🎨 **Sandie Yi** – Escultora y artista de instalaciones coreana-estadounidense con discapacidad.
+- **Sandie Yi** – Escultora y artista de instalaciones coreana-estadounidense con discapacidad. *Artista con discapacidad.*
 
 ### Organizaciones y galerías
 
 - **VSA (Very Special Arts)** – Afiliada al Kennedy Center. [Nota: nombre y enfoque debatidos]
 
-- 🌍 **Shape Arts** (Reino Unido) – Organización de desarrollo de las artes liderada por personas con discapacidad. 🌍
+- **Shape Arts** (Reino Unido) – Organización de desarrollo de las artes liderada por personas con discapacidad. *Internacional.*
 
-- Galería de **Disability Arts Online** – Galería virtual que muestra arte de la discapacidad. 🌍
+- Galería de **Disability Arts Online** – Galería virtual que muestra arte de la discapacidad. *Internacional.*
 
 ### Estéticas crip
 
@@ -217,43 +217,43 @@ Las "estéticas crip" describen enfoques visuales y artísticos que surgen de la
 
 ### Músicos Sordos
 
-- 🎨 **Sean Forbes** – Rapero y artista de hip-hop Sordo. Fundador de D-PAN.
+- **Sean Forbes** – Rapero y artista de hip-hop Sordo. Fundador de D-PAN. *Artista con discapacidad.*
 
-- 🎨 **Mandy Harvey** – Cantante que perdió la audición de adulta. America's Got Talent.
+- **Mandy Harvey** – Cantante que perdió la audición de adulta. America's Got Talent. *Artista con discapacidad.*
 
-- 🎨 **Evelyn Glennie** – Percusionista Sorda, clásica/experimental.
+- **Evelyn Glennie** – Percusionista Sorda, clásica/experimental. *Artista con discapacidad.*
 
-- 🎨 **Signmark** – Rapero Sordo finlandés. 🌍
+- **Signmark** – Rapero Sordo finlandés. *Artista con discapacidad, Internacional.*
 
 ### Músicos con discapacidad
 
-- 🎨 **Stevie Wonder** – Leyenda ciega del soul y el R&B.
+- **Stevie Wonder** – Leyenda ciega del soul y el R&B. *Artista con discapacidad.*
 
-- 🎨 **Ray Charles** – Pionero ciego del R&B.
+- **Ray Charles** – Pionero ciego del R&B. *Artista con discapacidad.*
 
-- 🎨 **Teddy Pendergrass** – Cantante de soul, paralizado en 1982, continuó actuando.
+- **Teddy Pendergrass** – Cantante de soul, paralizado en 1982, continuó actuando. *Artista con discapacidad.*
 
-- 🎨 **Itzhak Perlman** – Violinista, sobreviviente de polio, usuario de silla de ruedas.
+- **Itzhak Perlman** – Violinista, sobreviviente de polio, usuario de silla de ruedas. *Artista con discapacidad.*
 
-- 🎨 **Django Reinhardt** – Guitarrista de jazz con una mano parcialmente paralizada.
+- **Django Reinhardt** – Guitarrista de jazz con una mano parcialmente paralizada. *Artista con discapacidad.*
 
-- 🎨 **Joni Mitchell** – Enfermedad crónica, polio en la infancia.
+- **Joni Mitchell** – Enfermedad crónica, polio en la infancia. *Artista con discapacidad.*
 
-- 🎨 **Lamar Hill** – Rapero, sobreviviente de un derrame cerebral.
+- **Lamar Hill** – Rapero, sobreviviente de un derrame cerebral. *Artista con discapacidad.*
 
-- 🎨 **Viktoria Modesta** – Cantante y artista de performance amputada.
+- **Viktoria Modesta** – Cantante y artista de performance amputada. *Artista con discapacidad.*
 
 ### Bandas/grupos
 
-- 🎨 **The Kids of Widney High** – Banda de músicos con discapacidad del desarrollo.
+- **The Kids of Widney High** – Banda de músicos con discapacidad del desarrollo. *Artista con discapacidad.*
 
-- 🎨 **Yo Tremendo** – Banda de Portland con músicos con discapacidad del desarrollo.
+- **Yo Tremendo** – Banda de Portland con músicos con discapacidad del desarrollo. *Artista con discapacidad.*
 
 ### Organizaciones
 
-- 🏛️ **D-PAN (Deaf Professional Arts Network)** – Videos musicales en ASL, acceso de las personas Sordas a la música.
+- **D-PAN (Deaf Professional Arts Network)** – Videos musicales en ASL, acceso de las personas Sordas a la música. *Organización liderada por personas con discapacidad.*
 
-- 🏛️ **OpenAir Circus** – Personas artistas aéreas con discapacidad.
+- **OpenAir Circus** – Personas artistas aéreas con discapacidad. *Organización liderada por personas con discapacidad.*
 
 ---
 
@@ -261,25 +261,25 @@ Las "estéticas crip" describen enfoques visuales y artísticos que surgen de la
 
 ### Comediantes de stand-up
 
-- 🎨 **Maysoon Zayid** – Comediante palestina-estadounidense con parálisis cerebral. Charla TED viral. "No soy tu inspiración".
+- **Maysoon Zayid** – Comediante palestina-estadounidense con parálisis cerebral. Charla TED viral. "No soy tu inspiración". *Artista con discapacidad.*
 
-- 🎨 **Josh Blue** – Comediante con parálisis cerebral. Ganador de Last Comic Standing.
+- **Josh Blue** – Comediante con parálisis cerebral. Ganador de Last Comic Standing. *Artista con discapacidad.*
 
-- 🎨 **Zach Anner** – Comediante con parálisis cerebral. YouTube, programas de TV.
+- **Zach Anner** – Comediante con parálisis cerebral. YouTube, programas de TV. *Artista con discapacidad.*
 
-- 🎨 **Drew Lynch** – Comediante con tartamudez. America's Got Talent.
+- **Drew Lynch** – Comediante con tartamudez. America's Got Talent. *Artista con discapacidad.*
 
-- 🌍 🎨 **Lost Voice Guy (Lee Ridley)** – Comediante británico que usa CAA (comunicación aumentativa y alternativa). Ganador de Britain's Got Talent. 🌍
+- **Lost Voice Guy (Lee Ridley)** – Comediante británico que usa CAA (comunicación aumentativa y alternativa). Ganador de Britain's Got Talent. *Artista con discapacidad, Internacional.*
 
-- 🌍 🎨 **Adam Hills** – Comediante australiano, amputado. Conductor de The Last Leg. 🌍
+- **Adam Hills** – Comediante australiano, amputado. Conductor de The Last Leg. *Artista con discapacidad, Internacional.*
 
-- 🌍 🎨 **Francesca Martinez** – Comediante británica con parálisis cerebral. 🌍
+- **Francesca Martinez** – Comediante británica con parálisis cerebral. *Artista con discapacidad, Internacional.*
 
-- 🎨 **Nina G** – Comediante con tartamudez y dislexia.
+- **Nina G** – Comediante con tartamudez y dislexia. *Artista con discapacidad.*
 
 ### Grupos y programas de comedia
 
-- 🌍 **The Last Leg** – Programa del Channel 4 británico con conductores con discapacidad. 🌍
+- **The Last Leg** – Programa del Channel 4 británico con conductores con discapacidad. *Internacional.*
 
 - **Comedians with Disabilities Act** – Espectáculo itinerante de comedia.
 
@@ -291,19 +291,19 @@ Consulta [Documentales y películas](/es/media/documentaries-and-films) para ver
 
 ### Películas de las artes de la discapacidad
 
-- 🎬 **Code of the Freaks** (2020) – Cineastas con discapacidad analizan la representación de Hollywood.
+- **Code of the Freaks** (2020) – Cineastas con discapacidad analizan la representación de Hollywood.
 
-- 🎬 **CinemAbility** (2018) – Documental de Jenni Gold sobre la discapacidad en el cine.
+- **CinemAbility** (2018) – Documental de Jenni Gold sobre la discapacidad en el cine.
 
-- 🎬 **Fixed** (2013) – Tecnologías de mejora y discapacidad.
+- **Fixed** (2013) – Tecnologías de mejora y discapacidad.
 
 ### Cineastas con discapacidad
 
-- 🎨 **Jim LeBrecht** – Codirector de Crip Camp, persona con discapacidad.
+- **Jim LeBrecht** – Codirector de Crip Camp, persona con discapacidad. *Artista con discapacidad.*
 
-- 🎨 **Jennifer Brea** – Directora de Unrest, EM/SFC.
+- **Jennifer Brea** – Directora de Unrest, EM/SFC. *Artista con discapacidad.*
 
-- 🎨 **Jenni Gold** – Directora de CinemAbility, usuaria de silla de ruedas.
+- **Jenni Gold** – Directora de CinemAbility, usuaria de silla de ruedas. *Artista con discapacidad.*
 
 ---
 
@@ -311,23 +311,23 @@ Consulta [Documentales y películas](/es/media/documentaries-and-films) para ver
 
 ### Multidisciplinarias
 
-- ✦ 🎨 **Alice Wong** – Escritora, activista y creadora de medios. Disability Visibility Project.
+- **Alice Wong** – Escritora, activista y creadora de medios. Disability Visibility Project. *Artista con discapacidad, Influyente.*
 
-- 🎨 **Eli Clare** – Escritor, performer, teórico de la discapacidad y lo trans.
+- **Eli Clare** – Escritor, performer, teórico de la discapacidad y lo trans. *Artista con discapacidad.*
 
-- 🎨 **Leah Lakshmi Piepzna-Samarasinha** – Escritora, performer, referente de la justicia para las personas con discapacidad.
+- **Leah Lakshmi Piepzna-Samarasinha** – Escritora, performer, referente de la justicia para las personas con discapacidad. *Artista con discapacidad.*
 
-- 🌍 🎨 **Mat Fraser** – Actor, performer y referente de las artes de la discapacidad del Reino Unido. 🌍
+- **Mat Fraser** – Actor, performer y referente de las artes de la discapacidad del Reino Unido. *Artista con discapacidad, Internacional.*
 
 ### Escritores (como artistas)
 
-- 🎨 **Kenny Fries** – Poeta, autor de memorias.
+- **Kenny Fries** – Poeta, autor de memorias. *Artista con discapacidad.*
 
-- 🎨 **Jim Ferris** – Fundador de la poesía crip.
+- **Jim Ferris** – Fundador de la poesía crip. *Artista con discapacidad.*
 
-- 🎨 **Petra Kuppers** – Artista de performance, académica de la cultura de la discapacidad.
+- **Petra Kuppers** – Artista de performance, académica de la cultura de la discapacidad. *Artista con discapacidad.*
 
-- 🎨 **Neil Marcus** – Artista de performance, escritor.
+- **Neil Marcus** – Artista de performance, escritor. *Artista con discapacidad.*
 
 ---
 
@@ -343,15 +343,15 @@ Consulta [Documentales y películas](/es/media/documentaries-and-films) para ver
 
 ### Reino Unido
 
-- 🌍 **Unlimited Festival** – El mayor programa de comisión de las artes de la discapacidad del Reino Unido (Southbank Centre). 🌍
+- **Unlimited Festival** – El mayor programa de comisión de las artes de la discapacidad del Reino Unido (Southbank Centre). *Internacional.*
 
-- 🌍 **DaDaFest** (Liverpool) – Importante festival de las artes de la discapacidad. 🌍
+- **DaDaFest** (Liverpool) – Importante festival de las artes de la discapacidad. *Internacional.*
 
-- 🌍 **Disability Film Festival UK** 🌍
+- **Disability Film Festival UK** *Internacional.*
 
 ### Internacional
 
-- 🌍 **Crip Fest** (Australia) 🌍
+- **Crip Fest** (Australia) *Internacional.*
 
 - Diversos festivales internacionales de cine de la discapacidad.
 
@@ -361,11 +361,11 @@ Consulta [Documentales y películas](/es/media/documentaries-and-films) para ver
 
 ### Programas de formación
 
-- 🌍 🏛️ **Graeae Theatre Company** – Formación profesional para actores con discapacidad. 🌍
+- **Graeae Theatre Company** – Formación profesional para actores con discapacidad. *Organización liderada por personas con discapacidad, Internacional.*
 
-- 🏛️ **National Theatre of the Deaf** – Programas de formación.
+- **National Theatre of the Deaf** – Programas de formación. *Organización liderada por personas con discapacidad.*
 
-- 🏛️ **Phamaly** – Formación y mentoría.
+- **Phamaly** – Formación y mentoría. *Organización liderada por personas con discapacidad.*
 
 ### Programas académicos
 

@@ -311,20 +311,20 @@ La ayuda legal suele estar disponible de forma gratuita o a bajo costo si buscas
 8. **¿Qué incluye?** ¿Qué servicios cubre el honorario?
 
 ### Señales de alerta
-- ✗ Promete una victoria garantizada
-- ✗ Te presiona para firmar de inmediato
-- ✗ No puede explicar los honorarios con claridad
-- ✗ Desestima tus preocupaciones
-- ✗ No tiene experiencia en derecho de la discapacidad
-- ✗ No es accesible para ti
+- Promete una victoria garantizada
+- Te presiona para firmar de inmediato
+- No puede explicar los honorarios con claridad
+- Desestima tus preocupaciones
+- No tiene experiencia en derecho de la discapacidad
+- No es accesible para ti
 
 ### Buenas señales
-- ✓ Tiene experiencia en derechos de las personas con discapacidad
-- ✓ Explicación clara de los honorarios y el proceso
-- ✓ Escucha tus preocupaciones
-- ✓ Es honesto sobre las fortalezas/debilidades del caso
-- ✓ Referencias/clientes anteriores (si es posible)
-- ✓ Es accesible para tus necesidades
+- Tiene experiencia en derechos de las personas con discapacidad
+- Explicación clara de los honorarios y el proceso
+- Escucha tus preocupaciones
+- Es honesto sobre las fortalezas/debilidades del caso
+- Referencias/clientes anteriores (si es posible)
+- Es accesible para tus necesidades
 
 ---
 
@@ -491,11 +491,11 @@ La ayuda legal suele estar disponible de forma gratuita o a bajo costo si buscas
 - Haz preguntas si no entiendes algo
 
 ### Señales de alerta al trabajar con un abogado
-- ✗ No se comunica contigo
-- ✗ No cumple con los plazos
-- ✗ No está preparado en las audiencias
-- ✗ No respeta tus necesidades de accesibilidad
-- ✗ Te presiona para aceptar un acuerdo desfavorable
+- No se comunica contigo
+- No cumple con los plazos
+- No está preparado en las audiencias
+- No respeta tus necesidades de accesibilidad
+- Te presiona para aceptar un acuerdo desfavorable
 - → Contacta al colegio de abogados o busca una segunda opinión
 
 ---

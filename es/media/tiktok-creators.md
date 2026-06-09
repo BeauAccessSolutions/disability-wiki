@@ -18,10 +18,10 @@ Creadores con discapacidad que construyen comunidad y conciencia en TikTok. Esta
 
 TikTok se ha convertido en una plataforma importante para la comunidad y la educación sobre la discapacidad. El video de formato corto permite a los creadores con discapacidad compartir experiencias, desmentir mitos y construir comunidad. Esta lista presenta a **creadores con discapacidad** que hacen contenido relacionado con la discapacidad.
 
-**Leyenda:**
-- 🎬 Creador con discapacidad
-- 🌍 Radicado fuera de Estados Unidos
-- ✦ Muy recomendado
+**Etiquetas usadas abajo** (después de cada entrada):
+- *Creador con discapacidad* — la persona creadora ha revelado que tiene una discapacidad
+- *Internacional* — radicado fuera de Estados Unidos
+- *Recomendado* — muy recomendado
 
 **Nota:** El número de seguidores y los nombres de usuario pueden cambiar. Busca por nombre si el usuario no funciona.
 
@@ -48,37 +48,37 @@ TikTok se ha convertido en una plataforma importante para la comunidad y la educ
 
 ## Muy recomendados {#muy-recomendados}
 
-- ✦ 🎬 **@impaige** (Paige Layle) – Creadora autista. Contenido educativo sobre el autismo, el desenmascaramiento y el diagnóstico tardío. Millones de seguidores. Una de las creadoras autistas más visibles de la plataforma.
+- **@impaige** (Paige Layle) – Creadora autista. Contenido educativo sobre el autismo, el desenmascaramiento y el diagnóstico tardío. Millones de seguidores. Una de las creadoras autistas más visibles de la plataforma. *Creador con discapacidad, Recomendado.*
 
-- ✦ 🎬 **@thejessicaoutofthecloset** (Jessica Kellgren-Fozard) – Sorda, con enfermedad crónica, LGBTQ+. Creadora multiplataforma, también muy presente en YouTube. Estética vintage, contenido educativo. 🌍
+- **@thejessicaoutofthecloset** (Jessica Kellgren-Fozard) – Sorda, con enfermedad crónica, LGBTQ+. Creadora multiplataforma, también muy presente en YouTube. Estética vintage, contenido educativo. *Creador con discapacidad, Internacional, Recomendado.*
 
-- ✦ 🎬 **@blindishlatina** (Catarina Rivera) – Creadora latina ciega. Vida diaria, accesibilidad, humor. Contenido interseccional sobre la discapacidad.
+- **@blindishlatina** (Catarina Rivera) – Creadora latina ciega. Vida diaria, accesibilidad, humor. Contenido interseccional sobre la discapacidad. *Creador con discapacidad, Recomendado.*
 
-- ✦ 🎬 **@chelsiehill** (Chelsie Hill) – Usuaria de silla de ruedas, bailarina, fundadora de un equipo de baile en silla de ruedas. Estilo de vida, baile, positividad.
+- **@chelsiehill** (Chelsie Hill) – Usuaria de silla de ruedas, bailarina, fundadora de un equipo de baile en silla de ruedas. Estilo de vida, baile, positividad. *Creador con discapacidad, Recomendado.*
 
-- ✦ 🎬 **@annieelainey** (Annie Elainey) – Latina con discapacidad. Justicia para las personas con discapacidad, enfermedad crónica, defensa de la accesibilidad. También en YouTube.
+- **@annieelainey** (Annie Elainey) – Latina con discapacidad. Justicia para las personas con discapacidad, enfermedad crónica, defensa de la accesibilidad. También en YouTube. *Creador con discapacidad, Recomendado.*
 
-- ✦ 🎬 **@scaraboroughandfriends** (Scarlet May) – Creadora autista con discapacidad intelectual. Contenido alegre sobre la vida diaria, muy popular.
+- **@scaraboroughandfriends** (Scarlet May) – Creadora autista con discapacidad intelectual. Contenido alegre sobre la vida diaria, muy popular. *Creador con discapacidad, Recomendado.*
 
 ---
 
 ## Educación y defensa de derechos {#educación-y-defensa-de-derechos}
 
-- 🎬 **@annieelainey** – [Ver Muy recomendados]
+- **@annieelainey** – [Ver Muy recomendados] *Creador con discapacidad.*
 
-- 🎬 **@thejessicaoutofthecloset** – [Ver Muy recomendados] 🌍
+- **@thejessicaoutofthecloset** – [Ver Muy recomendados] *Creador con discapacidad, Internacional.*
 
-- 🎬 **@wheel.life.becky** – Becky. Usuaria de silla de ruedas que educa sobre accesibilidad y capacitismo.
+- **@wheel.life.becky** – Becky. Usuaria de silla de ruedas que educa sobre accesibilidad y capacitismo. *Creador con discapacidad.*
 
-- 🎬 **@invalidwithastick** – Bethany. Defensa de los usuarios ambulatorios de silla de ruedas, educación sobre la discapacidad invisible.
+- **@invalidwithastick** – Bethany. Defensa de los usuarios ambulatorios de silla de ruedas, educación sobre la discapacidad invisible. *Creador con discapacidad.*
 
-- 🎬 **@the.chronic.couple** – Educación y defensa de derechos de una pareja interdiscapacitada.
+- **@the.chronic.couple** – Educación y defensa de derechos de una pareja interdiscapacitada. *Creador con discapacidad.*
 
-- 🎬 **@deaboriously** – Educación y conciencia sobre las personas sordas.
+- **@deaboriously** – Educación y conciencia sobre las personas sordas. *Creador con discapacidad.*
 
-- 🎬 **@blindgirldoes** – Cass. Creadora ciega, defensa de la accesibilidad.
+- **@blindgirldoes** – Cass. Creadora ciega, defensa de la accesibilidad. *Creador con discapacidad.*
 
-- 🎬 **@actually.autistic.teacher** – Docente autista, contenido educativo.
+- **@actually.autistic.teacher** – Docente autista, contenido educativo. *Creador con discapacidad.*
 
 ---
 
@@ -86,37 +86,37 @@ TikTok se ha convertido en una plataforma importante para la comunidad y la educ
 
 El humor sobre la discapacidad en TikTok va desde la educación amable hasta la sátira mordaz sobre el capacitismo.
 
-- 🎬 **@nojoe_** – Joe. Humor de usuario de silla de ruedas. Videos del tipo "¿por qué estás en silla de ruedas?" que satirizan las preguntas capacitistas.
+- **@nojoe_** – Joe. Humor de usuario de silla de ruedas. Videos del tipo "¿por qué estás en silla de ruedas?" que satirizan las preguntas capacitistas. *Creador con discapacidad.*
 
-- 🎬 **@itsryanvance** – Ryan Vance. Humor y estilo de vida de una persona amputada.
+- **@itsryanvance** – Ryan Vance. Humor y estilo de vida de una persona amputada. *Creador con discapacidad.*
 
-- 🎬 **@ashtoncreates** – Ashton. Humor sobre personas sordas y contenido en ASL.
+- **@ashtoncreates** – Ashton. Humor sobre personas sordas y contenido en ASL. *Creador con discapacidad.*
 
-- 🎬 **@the.hannahmonster** – Hannah. Humor y vida diaria con parálisis cerebral.
+- **@the.hannahmonster** – Hannah. Humor y vida diaria con parálisis cerebral. *Creador con discapacidad.*
 
-- 🎬 **@littlemisslauren93** – Lauren. Persona de talla baja, humor y estilo de vida.
+- **@littlemisslauren93** – Lauren. Persona de talla baja, humor y estilo de vida. *Creador con discapacidad.*
 
-- 🎬 **@disabledandfit** – Contenido de fitness con humor sobre la discapacidad.
+- **@disabledandfit** – Contenido de fitness con humor sobre la discapacidad. *Creador con discapacidad.*
 
-- 🎬 **@gloomykitten** – Humor negro sobre la enfermedad crónica.
+- **@gloomykitten** – Humor negro sobre la enfermedad crónica. *Creador con discapacidad.*
 
 ---
 
 ## Vida diaria y estilo de vida {#vida-diaria-y-estilo-de-vida}
 
-- 🎬 **@chelsiehill** – [Ver Muy recomendados]
+- **@chelsiehill** – [Ver Muy recomendados] *Creador con discapacidad.*
 
-- 🎬 **@squirmyandgrubs** – Shane y Hannah. Pareja interdiscapacitada, también en YouTube.
+- **@squirmyandgrubs** – Shane y Hannah. Pareja interdiscapacitada, también en YouTube. *Creador con discapacidad.*
 
-- 🎬 **@rollwithcole** – Cole. AME, relación interdiscapacitada, vida diaria.
+- **@rollwithcole** – Cole. AME, relación interdiscapacitada, vida diaria. *Creador con discapacidad.*
 
-- 🎬 **@pippa_pipsqueak** – Pippa. Estilo de vida y moda de una usuaria de silla de ruedas. 🌍
+- **@pippa_pipsqueak** – Pippa. Estilo de vida y moda de una usuaria de silla de ruedas. *Creador con discapacidad, Internacional.*
 
-- 🎬 **@footlessjo** – Jo. Estilo de vida de una persona amputada, prótesis.
+- **@footlessjo** – Jo. Estilo de vida de una persona amputada, prótesis. *Creador con discapacidad.*
 
-- 🎬 **@blindmomchronicles** – Contenido de crianza de una madre ciega.
+- **@blindmomchronicles** – Contenido de crianza de una madre ciega. *Creador con discapacidad.*
 
-- 🎬 **@iamshubham__ ** – Estilo de vida de un usuario de silla de ruedas indio. 🌍
+- **@iamshubham__ ** – Estilo de vida de un usuario de silla de ruedas indio. *Creador con discapacidad, Internacional.*
 
 ---
 
@@ -124,91 +124,91 @@ El humor sobre la discapacidad en TikTok va desde la educación amable hasta la 
 
 ### Usuarios de silla de ruedas y discapacidad física {#usuarios-de-silla-de-ruedas-y-discapacidad-física}
 
-- 🎬 @chelsiehill – Bailarina, estilo de vida
-- 🎬 @squirmyandgrubs – Pareja interdiscapacitada
-- 🎬 @rollwithcole – AME
-- 🎬 @nojoe_ – Humor
-- 🎬 @wheel.life.becky – Defensa de derechos
-- 🎬 @the.hannahmonster – Parálisis cerebral
-- 🎬 @pippa_pipsqueak 🌍
-- 🎬 @invalidwithastick – Usuaria ambulatoria de silla de ruedas
-- 🎬 @rikipoynter – Estilo de vida de una usuaria de silla de ruedas
+- @chelsiehill – Bailarina, estilo de vida *Creador con discapacidad.*
+- @squirmyandgrubs – Pareja interdiscapacitada *Creador con discapacidad.*
+- @rollwithcole – AME *Creador con discapacidad.*
+- @nojoe_ – Humor *Creador con discapacidad.*
+- @wheel.life.becky – Defensa de derechos *Creador con discapacidad.*
+- @the.hannahmonster – Parálisis cerebral *Creador con discapacidad.*
+- @pippa_pipsqueak *Creador con discapacidad, Internacional.*
+- @invalidwithastick – Usuaria ambulatoria de silla de ruedas *Creador con discapacidad.*
+- @rikipoynter – Estilo de vida de una usuaria de silla de ruedas *Creador con discapacidad.*
 
 ### Personas sordas y con problemas de audición {#personas-sordas-y-con-problemas-de-audición}
 
-- 🎬 @thejessicaoutofthecloset – Sorda y con enfermedad crónica 🌍
-- 🎬 @ashtoncreates – Humor en ASL
-- 🎬 @deaboriously – Educación
-- 🎬 @chellaman – Sordo, trans, artista
-- 🎬 @signed_dani – Contenido en ASL
-- 🎬 @thedeafmom – Crianza siendo sorda
+- @thejessicaoutofthecloset – Sorda y con enfermedad crónica *Creador con discapacidad, Internacional.*
+- @ashtoncreates – Humor en ASL *Creador con discapacidad.*
+- @deaboriously – Educación *Creador con discapacidad.*
+- @chellaman – Sordo, trans, artista *Creador con discapacidad.*
+- @signed_dani – Contenido en ASL *Creador con discapacidad.*
+- @thedeafmom – Crianza siendo sorda *Creador con discapacidad.*
 
 ### Personas ciegas y con baja visión {#personas-ciegas-y-con-baja-visión}
 
-- 🎬 @blindishlatina – [Ver Muy recomendados]
-- 🎬 @blindgirldoes – Defensa de la accesibilidad
-- 🎬 @blindmomchronicles – Crianza
-- 🎬 @mollyburkeofficial – También en YouTube
-- 🎬 @lucyedwardsofficial – Presentadora de la BBC 🌍
-- 🎬 @caboray – Estilo de vida de una usuaria de bastón
+- @blindishlatina – [Ver Muy recomendados] *Creador con discapacidad.*
+- @blindgirldoes – Defensa de la accesibilidad *Creador con discapacidad.*
+- @blindmomchronicles – Crianza *Creador con discapacidad.*
+- @mollyburkeofficial – También en YouTube *Creador con discapacidad.*
+- @lucyedwardsofficial – Presentadora de la BBC *Creador con discapacidad, Internacional.*
+- @caboray – Estilo de vida de una usuaria de bastón *Creador con discapacidad.*
 
 ### Enfermedad crónica {#enfermedad-crónica}
 
-- 🎬 @annieelainey – [Ver Muy recomendados]
-- 🎬 @thejessicaoutofthecloset 🌍
-- 🎬 @the.chronic.couple
-- 🎬 @gloomykitten – Humor negro
-- 🎬 @chronically.court – Courtney, estilo de vida con enfermedad crónica
-- 🎬 @spooniescout – Comunidad de enfermedad crónica
-- 🎬 @myehlersdanloslife – Contenido sobre el SED
-- 🎬 @chronically_jenni – Enfermedad crónica y salud mental
+- @annieelainey – [Ver Muy recomendados] *Creador con discapacidad.*
+- @thejessicaoutofthecloset *Creador con discapacidad, Internacional.*
+- @the.chronic.couple *Creador con discapacidad.*
+- @gloomykitten – Humor negro *Creador con discapacidad.*
+- @chronically.court – Courtney, estilo de vida con enfermedad crónica *Creador con discapacidad.*
+- @spooniescout – Comunidad de enfermedad crónica *Creador con discapacidad.*
+- @myehlersdanloslife – Contenido sobre el SED *Creador con discapacidad.*
+- @chronically_jenni – Enfermedad crónica y salud mental *Creador con discapacidad.*
 
 ### Neurodivergencia {#neurodivergencia}
 
 #### Autismo
 
-- ✦ 🎬 @impaige – [Ver Muy recomendados]
-- 🎬 @scaraboroughandfriends – [Ver Muy recomendados]
-- 🎬 @actually.autistic.teacher
-- 🎬 @theautisticats – Contenido de gatos + educación sobre el autismo
-- 🎬 @nd_mom_life – Madre neurodivergente
-- 🎬 @erikaheidewald – Autista con diagnóstico tardío
-- 🎬 @fidgets.and.fries – Madre autista/con TDAH
-- 🎬 @orionkelly – Creador autista australiano 🌍
+- @impaige – [Ver Muy recomendados] *Creador con discapacidad, Recomendado.*
+- @scaraboroughandfriends – [Ver Muy recomendados] *Creador con discapacidad.*
+- @actually.autistic.teacher *Creador con discapacidad.*
+- @theautisticats – Contenido de gatos + educación sobre el autismo *Creador con discapacidad.*
+- @nd_mom_life – Madre neurodivergente *Creador con discapacidad.*
+- @erikaheidewald – Autista con diagnóstico tardío *Creador con discapacidad.*
+- @fidgets.and.fries – Madre autista/con TDAH *Creador con discapacidad.*
+- @orionkelly – Creador autista australiano *Creador con discapacidad, Internacional.*
 
 #### TDAH
 
-- 🎬 @connordewolfe – Educación y humor sobre el TDAH
-- 🎬 @catieosaurus – Estilo de vida con TDAH
-- 🎬 @fidgets.and.fries – TDAH y autismo
-- 🎬 @adhd.alien – Contenido ilustrado sobre el TDAH
-- 🎬 @dusty.adhd – Educación sobre el TDAH
+- @connordewolfe – Educación y humor sobre el TDAH *Creador con discapacidad.*
+- @catieosaurus – Estilo de vida con TDAH *Creador con discapacidad.*
+- @fidgets.and.fries – TDAH y autismo *Creador con discapacidad.*
+- @adhd.alien – Contenido ilustrado sobre el TDAH *Creador con discapacidad.*
+- @dusty.adhd – Educación sobre el TDAH *Creador con discapacidad.*
 
 #### Síndrome de Tourette
 
-- 🎬 @thistrippyhippie – Evie Meg, conciencia y estilo de vida sobre el síndrome de Tourette. Millones de seguidores. 🌍
-- 🎬 @tourettes_life
-- 🎬 @lewisqball
+- @thistrippyhippie – Evie Meg, conciencia y estilo de vida sobre el síndrome de Tourette. Millones de seguidores. *Creador con discapacidad, Internacional.*
+- @tourettes_life *Creador con discapacidad.*
+- @lewisqball *Creador con discapacidad.*
 
 ### Personas amputadas y con diferencias en las extremidades {#personas-amputadas-y-con-diferencias-en-las-extremidades}
 
-- 🎬 @itsryanvance – Humor
-- 🎬 @footlessjo – Estilo de vida, prótesis
-- 🎬 @josh_sundquist – Autor y conferencista
-- 🎬 @amyamputee – Estilo de vida de una persona amputada
-- 🎬 @tillylockey – Adolescente con brazos biónicos 🌍
+- @itsryanvance – Humor *Creador con discapacidad.*
+- @footlessjo – Estilo de vida, prótesis *Creador con discapacidad.*
+- @josh_sundquist – Autor y conferencista *Creador con discapacidad.*
+- @amyamputee – Estilo de vida de una persona amputada *Creador con discapacidad.*
+- @tillylockey – Adolescente con brazos biónicos *Creador con discapacidad, Internacional.*
 
 ### Diferencias faciales {#diferencias-faciales}
 
-- 🎬 @cassandranaud – Neurofibromatosis, defensa de derechos
-- 🎬 @ariel_henley – Autora, diferencia craneofacial
-- 🎬 @facingdifference – Diversas diferencias faciales
+- @cassandranaud – Neurofibromatosis, defensa de derechos *Creador con discapacidad.*
+- @ariel_henley – Autora, diferencia craneofacial *Creador con discapacidad.*
+- @facingdifference – Diversas diferencias faciales *Creador con discapacidad.*
 
 ### Personas de talla baja {#personas-de-talla-baja}
 
-- 🎬 @littlemisslauren93 – Humor y estilo de vida
-- 🎬 @carleeemcgrath – Contenido de estilo de vida
-- 🎬 @beckycurran – Defensa de derechos
+- @littlemisslauren93 – Humor y estilo de vida *Creador con discapacidad.*
+- @carleeemcgrath – Contenido de estilo de vida *Creador con discapacidad.*
+- @beckycurran – Defensa de derechos *Creador con discapacidad.*
 
 ---
 

@@ -311,20 +311,20 @@ Legal help is often available for free or low cost if you're pursuing disability
 8. **What's included?** What services for the fee?
 
 ### Red Flags
-- ✗ Promises guaranteed victory
-- ✗ Pressures you to sign immediately
-- ✗ Can't explain fees clearly
-- ✗ Dismisses your concerns
-- ✗ Not experienced with disability law
-- ✗ Not accessible to you
+- Promises guaranteed victory
+- Pressures you to sign immediately
+- Can't explain fees clearly
+- Dismisses your concerns
+- Not experienced with disability law
+- Not accessible to you
 
 ### Good Signs
-- ✓ Experienced with disability rights
-- ✓ Clear explanation of fees and process
-- ✓ Listens to your concerns
-- ✓ Honest about case strengths/weaknesses
-- ✓ References/past clients (if possible)
-- ✓ Accessible to your needs
+- Experienced with disability rights
+- Clear explanation of fees and process
+- Listens to your concerns
+- Honest about case strengths/weaknesses
+- References/past clients (if possible)
+- Accessible to your needs
 
 ---
 
@@ -491,11 +491,11 @@ Legal help is often available for free or low cost if you're pursuing disability
 - Ask questions if you don't understand something
 
 ### Red Flags While Working with Lawyer
-- ✗ Not communicating with you
-- ✗ Missing deadlines
-- ✗ Not prepared at hearings
-- ✗ Violating your accessibility needs
-- ✗ Pressuring you into unfavorable settlement
+- Not communicating with you
+- Missing deadlines
+- Not prepared at hearings
+- Violating your accessibility needs
+- Pressuring you into unfavorable settlement
 - → Contact bar association or seek second opinion
 
 ---

@@ -18,10 +18,10 @@ Disabled creators building community and awareness on TikTok. This list centers 
 
 TikTok has become a major platform for disability community and education. Short-form video allows disabled creators to share experiences, debunk myths, and build community. This list features **disabled creators** making disability-related content.
 
-**Legend:**
-- 🎬 Disabled creator
-- 🌍 Non-US based
-- ✦ Highly recommended
+**Labels used below** (after an entry):
+- *Disabled creator* — the creator has disclosed a disability
+- *International* — based outside the US
+- *Recommended* — highly recommended
 
 **Note:** Follower counts and usernames can change. Search by name if handle doesn't work.
 
@@ -48,37 +48,37 @@ TikTok has become a major platform for disability community and education. Short
 
 ## Highly Recommended
 
-- ✦ 🎬 **@impaige** (Paige Layle) – Autistic creator. Educational content about autism, unmasking, late diagnosis. Millions of followers. One of the most visible autistic creators on the platform.
+- **@impaige** (Paige Layle) – Autistic creator. Educational content about autism, unmasking, late diagnosis. Millions of followers. One of the most visible autistic creators on the platform. *Disabled creator, Recommended.*
 
-- ✦ 🎬 **@thejessicaoutofthecloset** (Jessica Kellgren-Fozard) – Deaf, chronically ill, LGBTQ+. Cross-platform creator also huge on YouTube. Vintage aesthetic, educational content. 🌍
+- **@thejessicaoutofthecloset** (Jessica Kellgren-Fozard) – Deaf, chronically ill, LGBTQ+. Cross-platform creator also huge on YouTube. Vintage aesthetic, educational content. *Disabled creator, International, Recommended.*
 
-- ✦ 🎬 **@blindishlatina** (Catarina Rivera) – Blind Latina creator. Daily life, accessibility, humor. Intersectional disability content.
+- **@blindishlatina** (Catarina Rivera) – Blind Latina creator. Daily life, accessibility, humor. Intersectional disability content. *Disabled creator, Recommended.*
 
-- ✦ 🎬 **@chelsiehill** (Chelsie Hill) – Wheelchair user, dancer, founder of wheelchair dance team. Lifestyle, dance, positivity.
+- **@chelsiehill** (Chelsie Hill) – Wheelchair user, dancer, founder of wheelchair dance team. Lifestyle, dance, positivity. *Disabled creator, Recommended.*
 
-- ✦ 🎬 **@annieelainey** (Annie Elainey) – Disabled Latina. Disability justice, chronic illness, accessibility advocacy. Also on YouTube.
+- **@annieelainey** (Annie Elainey) – Disabled Latina. Disability justice, chronic illness, accessibility advocacy. Also on YouTube. *Disabled creator, Recommended.*
 
-- ✦ 🎬 **@scaraboroughandfriends** (Scarlet May) – Autistic creator with intellectual disability. Joyful daily life content, very popular.
+- **@scaraboroughandfriends** (Scarlet May) – Autistic creator with intellectual disability. Joyful daily life content, very popular. *Disabled creator, Recommended.*
 
 ---
 
 ## Education & Advocacy
 
-- 🎬 **@annieelainey** – [See Highly Recommended]
+- **@annieelainey** – [See Highly Recommended] *Disabled creator.*
 
-- 🎬 **@thejessicaoutofthecloset** – [See Highly Recommended] 🌍
+- **@thejessicaoutofthecloset** – [See Highly Recommended] *Disabled creator, International.*
 
-- 🎬 **@wheel.life.becky** – Becky. Wheelchair user education about accessibility and ableism.
+- **@wheel.life.becky** – Becky. Wheelchair user education about accessibility and ableism. *Disabled creator.*
 
-- 🎬 **@invalidwithastick** – Bethany. Ambulatory wheelchair user advocacy, invisible disability education.
+- **@invalidwithastick** – Bethany. Ambulatory wheelchair user advocacy, invisible disability education. *Disabled creator.*
 
-- 🎬 **@the.chronic.couple** – Interabled couple education and advocacy.
+- **@the.chronic.couple** – Interabled couple education and advocacy. *Disabled creator.*
 
-- 🎬 **@deaboriously** – Deaf education and awareness.
+- **@deaboriously** – Deaf education and awareness. *Disabled creator.*
 
-- 🎬 **@blindgirldoes** – Cass. Blind creator, accessibility advocacy.
+- **@blindgirldoes** – Cass. Blind creator, accessibility advocacy. *Disabled creator.*
 
-- 🎬 **@actually.autistic.teacher** – Teacher who is autistic, education content.
+- **@actually.autistic.teacher** – Teacher who is autistic, education content. *Disabled creator.*
 
 ---
 
@@ -86,37 +86,37 @@ TikTok has become a major platform for disability community and education. Short
 
 TikTok disability humor ranges from gentle education to sharp satire about ableism.
 
-- 🎬 **@nojoe_** – Joe. Wheelchair user humor. "Why are you in a wheelchair?" videos satirizing ableist questions.
+- **@nojoe_** – Joe. Wheelchair user humor. "Why are you in a wheelchair?" videos satirizing ableist questions. *Disabled creator.*
 
-- 🎬 **@itsryanvance** – Ryan Vance. Amputee humor and lifestyle.
+- **@itsryanvance** – Ryan Vance. Amputee humor and lifestyle. *Disabled creator.*
 
-- 🎬 **@ashtoncreates** – Ashton. Deaf humor and ASL content.
+- **@ashtoncreates** – Ashton. Deaf humor and ASL content. *Disabled creator.*
 
-- 🎬 **@the.hannahmonster** – Hannah. Cerebral palsy humor and daily life.
+- **@the.hannahmonster** – Hannah. Cerebral palsy humor and daily life. *Disabled creator.*
 
-- 🎬 **@littlemisslauren93** – Lauren. Little person, humor and lifestyle.
+- **@littlemisslauren93** – Lauren. Little person, humor and lifestyle. *Disabled creator.*
 
-- 🎬 **@disabledandfit** – Fitness content with disability humor.
+- **@disabledandfit** – Fitness content with disability humor. *Disabled creator.*
 
-- 🎬 **@gloomykitten** – Chronically ill dark humor.
+- **@gloomykitten** – Chronically ill dark humor. *Disabled creator.*
 
 ---
 
 ## Daily Life & Lifestyle
 
-- 🎬 **@chelsiehill** – [See Highly Recommended]
+- **@chelsiehill** – [See Highly Recommended] *Disabled creator.*
 
-- 🎬 **@squirmyandgrubs** – Shane & Hannah. Interabled couple, also on YouTube.
+- **@squirmyandgrubs** – Shane & Hannah. Interabled couple, also on YouTube. *Disabled creator.*
 
-- 🎬 **@rollwithcole** – Cole. SMA, interabled relationship, daily life.
+- **@rollwithcole** – Cole. SMA, interabled relationship, daily life. *Disabled creator.*
 
-- 🎬 **@pippa_pipsqueak** – Pippa. Wheelchair user lifestyle and fashion. 🌍
+- **@pippa_pipsqueak** – Pippa. Wheelchair user lifestyle and fashion. *Disabled creator, International.*
 
-- 🎬 **@footlessjo** – Jo. Amputee lifestyle, prosthetics.
+- **@footlessjo** – Jo. Amputee lifestyle, prosthetics. *Disabled creator.*
 
-- 🎬 **@blindmomchronicles** – Blind mom parenting content.
+- **@blindmomchronicles** – Blind mom parenting content. *Disabled creator.*
 
-- 🎬 **@iamshubham__ ** – Indian wheelchair user lifestyle. 🌍
+- **@iamshubham__ ** – Indian wheelchair user lifestyle. *Disabled creator, International.*
 
 ---
 
@@ -124,91 +124,91 @@ TikTok disability humor ranges from gentle education to sharp satire about ablei
 
 ### Wheelchair Users & Physical Disability
 
-- 🎬 @chelsiehill – Dancer, lifestyle
-- 🎬 @squirmyandgrubs – Interabled couple
-- 🎬 @rollwithcole – SMA
-- 🎬 @nojoe_ – Humor
-- 🎬 @wheel.life.becky – Advocacy
-- 🎬 @the.hannahmonster – Cerebral palsy
-- 🎬 @pippa_pipsqueak 🌍
-- 🎬 @invalidwithastick – Ambulatory wheelchair user
-- 🎬 @rikipoynter – Wheelchair user lifestyle
+- @chelsiehill – Dancer, lifestyle *Disabled creator.*
+- @squirmyandgrubs – Interabled couple *Disabled creator.*
+- @rollwithcole – SMA *Disabled creator.*
+- @nojoe_ – Humor *Disabled creator.*
+- @wheel.life.becky – Advocacy *Disabled creator.*
+- @the.hannahmonster – Cerebral palsy *Disabled creator.*
+- @pippa_pipsqueak *Disabled creator, International.*
+- @invalidwithastick – Ambulatory wheelchair user *Disabled creator.*
+- @rikipoynter – Wheelchair user lifestyle *Disabled creator.*
 
 ### Deaf & Hard of Hearing
 
-- 🎬 @thejessicaoutofthecloset – Deaf and chronically ill 🌍
-- 🎬 @ashtoncreates – ASL humor
-- 🎬 @deaboriously – Education
-- 🎬 @chellaman – Deaf, trans, artist
-- 🎬 @signed_dani – ASL content
-- 🎬 @thedeafmom – Deaf parenting
+- @thejessicaoutofthecloset – Deaf and chronically ill *Disabled creator, International.*
+- @ashtoncreates – ASL humor *Disabled creator.*
+- @deaboriously – Education *Disabled creator.*
+- @chellaman – Deaf, trans, artist *Disabled creator.*
+- @signed_dani – ASL content *Disabled creator.*
+- @thedeafmom – Deaf parenting *Disabled creator.*
 
 ### Blind & Low Vision
 
-- 🎬 @blindishlatina – [See Highly Recommended]
-- 🎬 @blindgirldoes – Accessibility advocacy
-- 🎬 @blindmomchronicles – Parenting
-- 🎬 @mollyburkeofficial – Also on YouTube
-- 🎬 @lucyedwardsofficial – BBC presenter 🌍
-- 🎬 @caboray – Cane user lifestyle
+- @blindishlatina – [See Highly Recommended] *Disabled creator.*
+- @blindgirldoes – Accessibility advocacy *Disabled creator.*
+- @blindmomchronicles – Parenting *Disabled creator.*
+- @mollyburkeofficial – Also on YouTube *Disabled creator.*
+- @lucyedwardsofficial – BBC presenter *Disabled creator, International.*
+- @caboray – Cane user lifestyle *Disabled creator.*
 
 ### Chronic Illness
 
-- 🎬 @annieelainey – [See Highly Recommended]
-- 🎬 @thejessicaoutofthecloset 🌍
-- 🎬 @the.chronic.couple
-- 🎬 @gloomykitten – Dark humor
-- 🎬 @chronically.court – Courtney, chronic illness lifestyle
-- 🎬 @spooniescout – Chronic illness community
-- 🎬 @myehlersdanloslife – EDS content
-- 🎬 @chronically_jenni – Chronic illness and mental health
+- @annieelainey – [See Highly Recommended] *Disabled creator.*
+- @thejessicaoutofthecloset *Disabled creator, International.*
+- @the.chronic.couple *Disabled creator.*
+- @gloomykitten – Dark humor *Disabled creator.*
+- @chronically.court – Courtney, chronic illness lifestyle *Disabled creator.*
+- @spooniescout – Chronic illness community *Disabled creator.*
+- @myehlersdanloslife – EDS content *Disabled creator.*
+- @chronically_jenni – Chronic illness and mental health *Disabled creator.*
 
 ### Neurodivergence
 
 #### Autism
 
-- ✦ 🎬 @impaige – [See Highly Recommended]
-- 🎬 @scaraboroughandfriends – [See Highly Recommended]
-- 🎬 @actually.autistic.teacher
-- 🎬 @theautisticats – Cat content + autism education
-- 🎬 @nd_mom_life – Neurodivergent mom
-- 🎬 @erikaheidewald – Late-diagnosed autistic
-- 🎬 @fidgets.and.fries – Autistic/ADHD mom
-- 🎬 @orionkelly – Autistic Australian creator 🌍
+- @impaige – [See Highly Recommended] *Disabled creator, Recommended.*
+- @scaraboroughandfriends – [See Highly Recommended] *Disabled creator.*
+- @actually.autistic.teacher *Disabled creator.*
+- @theautisticats – Cat content + autism education *Disabled creator.*
+- @nd_mom_life – Neurodivergent mom *Disabled creator.*
+- @erikaheidewald – Late-diagnosed autistic *Disabled creator.*
+- @fidgets.and.fries – Autistic/ADHD mom *Disabled creator.*
+- @orionkelly – Autistic Australian creator *Disabled creator, International.*
 
 #### ADHD
 
-- 🎬 @connordewolfe – ADHD education and humor
-- 🎬 @catieosaurus – ADHD lifestyle
-- 🎬 @fidgets.and.fries – ADHD and autism
-- 🎬 @adhd.alien – Illustrated ADHD content
-- 🎬 @dusty.adhd – ADHD education
+- @connordewolfe – ADHD education and humor *Disabled creator.*
+- @catieosaurus – ADHD lifestyle *Disabled creator.*
+- @fidgets.and.fries – ADHD and autism *Disabled creator.*
+- @adhd.alien – Illustrated ADHD content *Disabled creator.*
+- @dusty.adhd – ADHD education *Disabled creator.*
 
 #### Tourette's
 
-- 🎬 @thistrippyhippie – Evie Meg, Tourette's awareness and lifestyle. Millions of followers. 🌍
-- 🎬 @tourettes_life
-- 🎬 @lewisqball
+- @thistrippyhippie – Evie Meg, Tourette's awareness and lifestyle. Millions of followers. *Disabled creator, International.*
+- @tourettes_life *Disabled creator.*
+- @lewisqball *Disabled creator.*
 
 ### Amputees & Limb Difference
 
-- 🎬 @itsryanvance – Humor
-- 🎬 @footlessjo – Lifestyle, prosthetics
-- 🎬 @josh_sundquist – Author and speaker
-- 🎬 @amyamputee – Amputee lifestyle
-- 🎬 @tillylockey – Teen with bionic arms 🌍
+- @itsryanvance – Humor *Disabled creator.*
+- @footlessjo – Lifestyle, prosthetics *Disabled creator.*
+- @josh_sundquist – Author and speaker *Disabled creator.*
+- @amyamputee – Amputee lifestyle *Disabled creator.*
+- @tillylockey – Teen with bionic arms *Disabled creator, International.*
 
 ### Facial Difference
 
-- 🎬 @cassandranaud – Neurofibromatosis, advocacy
-- 🎬 @ariel_henley – Author, craniofacial difference
-- 🎬 @facingdifference – Various facial differences
+- @cassandranaud – Neurofibromatosis, advocacy *Disabled creator.*
+- @ariel_henley – Author, craniofacial difference *Disabled creator.*
+- @facingdifference – Various facial differences *Disabled creator.*
 
 ### Little People
 
-- 🎬 @littlemisslauren93 – Humor and lifestyle
-- 🎬 @carleeemcgrath – Lifestyle content
-- 🎬 @beckycurran – Advocacy
+- @littlemisslauren93 – Humor and lifestyle *Disabled creator.*
+- @carleeemcgrath – Lifestyle content *Disabled creator.*
+- @beckycurran – Advocacy *Disabled creator.*
 
 ---
 

@@ -18,11 +18,11 @@ Series de televisión con personajes y creadores con discapacidad. Esta lista de
 
 Esta lista da prioridad a las series con **casting auténtico** (actores con discapacidad que interpretan personajes con discapacidad) y con **creadores con discapacidad** detrás de cámaras. Señalamos la calidad de la representación y advertimos sobre posibles problemas.
 
-**Leyenda:**
-- 🎭 Casting auténtico (actores con discapacidad)
-- 🎬 Creador/guionista/showrunner con discapacidad
-- 🌍 No estadounidense / Internacional
-- ✦ Visionado esencial
+**Etiquetas usadas abajo** (después de cada entrada):
+- *Elenco auténtico* — actores con discapacidad interpretan personajes con discapacidad
+- *Creador con discapacidad* — creador/guionista/showrunner con discapacidad
+- *Internacional* — no estadounidense / internacional
+- *Esencial* — visionado esencial
 
 ---
 
@@ -52,13 +52,13 @@ Esta lista da prioridad a las series con **casting auténtico** (actores con dis
 
 ### Representación innovadora
 
-- ✦ 🎭 **Switched at Birth** (2011-2017) – ABC Family/Freeform. Drama centrado en dos familias, una con una hija sorda. Incluye un uso extenso de ASL, actores sordos (Katie Leclerc, Marlee Matlin, Sean Berdy) y tramas sobre la cultura sorda, los debates sobre el implante coclear y la educación de las personas sordas. Un hito para la representación sorda en la televisión generalista.
+- **Switched at Birth** (2011-2017) – ABC Family/Freeform. Drama centrado en dos familias, una con una hija sorda. Incluye un uso extenso de ASL, actores sordos (Katie Leclerc, Marlee Matlin, Sean Berdy) y tramas sobre la cultura sorda, los debates sobre el implante coclear y la educación de las personas sordas. Un hito para la representación sorda en la televisión generalista. *Elenco auténtico, Esencial.*
 
-- ✦ 🎭 **Deaf U** (2020) – Netflix. Serie de telerrealidad que sigue a estudiantes sordos y con problemas de audición de la Universidad Gallaudet. Elenco completamente sordo. Explora las citas, la identidad, la cultura sorda y la diversidad dentro de la comunidad sorda.
+- **Deaf U** (2020) – Netflix. Serie de telerrealidad que sigue a estudiantes sordos y con problemas de audición de la Universidad Gallaudet. Elenco completamente sordo. Explora las citas, la identidad, la cultura sorda y la diversidad dentro de la comunidad sorda. *Elenco auténtico, Esencial.*
 
-- ✦ 🎭 🎬 **Special** (2019-2021) – Netflix. Ryan O'Connell (hombre gay con parálisis cerebral) creó, escribió y protagoniza esta comedia sobre un hombre gay con parálisis cerebral que transita la vida, el trabajo y las relaciones. Innovadora por ser un creador con discapacidad auténtico que cuenta su propia historia.
+- **Special** (2019-2021) – Netflix. Ryan O'Connell (hombre gay con parálisis cerebral) creó, escribió y protagoniza esta comedia sobre un hombre gay con parálisis cerebral que transita la vida, el trabajo y las relaciones. Innovadora por ser un creador con discapacidad auténtico que cuenta su propia historia. *Elenco auténtico, Creador con discapacidad, Esencial.*
 
-- ✦ 🎭 **Speechless** (2016-2019) – ABC. Comedia sobre una familia con un adolescente (Micah Fowler, que tiene parálisis cerebral) que usa un dispositivo de CAA. Fowler tiene un casting auténtico; la serie consultó a la comunidad de personas con discapacidad. Un raro retrato positivo de una persona usuaria de CAA como personaje completo.
+- **Speechless** (2016-2019) – ABC. Comedia sobre una familia con un adolescente (Micah Fowler, que tiene parálisis cerebral) que usa un dispositivo de CAA. Fowler tiene un casting auténtico; la serie consultó a la comunidad de personas con discapacidad. Un raro retrato positivo de una persona usuaria de CAA como personaje completo. *Elenco auténtico, Esencial.*
 
 ---
 
@@ -66,33 +66,33 @@ Esta lista da prioridad a las series con **casting auténtico** (actores con dis
 
 *A diciembre de 2025. Consulta los servicios de streaming para conocer la disponibilidad actual.*
 
-- 🎭 **All American** (2018 a la actualidad) – CW. Kayla Smith interpreta a un personaje con diferencia en una extremidad.
+- **All American** (2018 a la actualidad) – CW. Kayla Smith interpreta a un personaje con diferencia en una extremidad. *Elenco auténtico.*
 
-- 🎭 **The Good Doctor** (2017 a la actualidad) – ABC. Freddie Highmore como un cirujano autista. [Nota: actor no autista; recepción dispar por parte de la comunidad autista. Algunas personas valoran la visibilidad, otras critican el retrato.]
+- **The Good Doctor** (2017 a la actualidad) – ABC. Freddie Highmore como un cirujano autista. [Nota: actor no autista; recepción dispar por parte de la comunidad autista. Algunas personas valoran la visibilidad, otras critican el retrato.] *Elenco auténtico.*
 
-- 🎭 **Extraordinary** (2023 a la actualidad) – Hulu. Comedia británica en la que todos tienen superpoderes excepto la protagonista. Cuenta con la actriz con discapacidad Sofia Sheridan (usuaria de silla de ruedas).
+- **Extraordinary** (2023 a la actualidad) – Hulu. Comedia británica en la que todos tienen superpoderes excepto la protagonista. Cuenta con la actriz con discapacidad Sofia Sheridan (usuaria de silla de ruedas). *Elenco auténtico.*
 
-- 🎭 **Echo** (2024) – Disney+. Serie de Marvel con Alaqua Cox como una superheroína indígena sorda y amputada. Casting auténtico.
+- **Echo** (2024) – Disney+. Serie de Marvel con Alaqua Cox como una superheroína indígena sorda y amputada. Casting auténtico. *Elenco auténtico.*
 
 ---
 
 ## Series recientes (2020 a la actualidad) {#series-recientes-2020-a-la-actualidad}
 
-- ✦ 🎭 **Deaf U** (2020) – Netflix. [Ver Visionado esencial]
+- **Deaf U** (2020) – Netflix. [Ver Visionado esencial] *Elenco auténtico, Esencial.*
 
-- 🎭 **Only Murders in the Building** (2021 a la actualidad) – Hulu. James Caverly (actor sordo) interpreta al personaje sordo Theo en varios episodios con tramas en ASL.
+- **Only Murders in the Building** (2021 a la actualidad) – Hulu. James Caverly (actor sordo) interpreta al personaje sordo Theo en varios episodios con tramas en ASL. *Elenco auténtico.*
 
-- 🎭 **This Close** (2018-2019) – Sundance. Dos mejores amigos sordos transitan la vida en Los Ángeles. Creada y protagonizada por Shoshannah Stern y Josh Feldman, ambos sordos. 🎬
+- **This Close** (2018-2019) – Sundance. Dos mejores amigos sordos transitan la vida en Los Ángeles. Creada y protagonizada por Shoshannah Stern y Josh Feldman, ambos sordos. *Elenco auténtico, Creador con discapacidad.*
 
-- 🎭 **As We See It** (2022) – Amazon Prime. Tres compañeros de piso autistas. El elenco incluye actores autistas (Rick Glassman, Albert Rutecki, Sue Ann Pien). Creada por Jason Katims.
+- **As We See It** (2022) – Amazon Prime. Tres compañeros de piso autistas. El elenco incluye actores autistas (Rick Glassman, Albert Rutecki, Sue Ann Pien). Creada por Jason Katims. *Elenco auténtico.*
 
-- 🎭 **Sex Education** (2019-2023) – Netflix. George Robinson interpreta a Isaac, usuario de silla de ruedas e interés amoroso, en las últimas temporadas. Robinson es usuario de silla de ruedas. 🌍
+- **Sex Education** (2019-2023) – Netflix. George Robinson interpreta a Isaac, usuario de silla de ruedas e interés amoroso, en las últimas temporadas. Robinson es usuario de silla de ruedas. *Elenco auténtico, Internacional.*
 
-- 🎭 **Undone** (2019-2022) – Amazon Prime. Serie animada que aborda la salud mental y una posible discapacidad psiquiátrica a través de una narrativa de multiverso.
+- **Undone** (2019-2022) – Amazon Prime. Serie animada que aborda la salud mental y una posible discapacidad psiquiátrica a través de una narrativa de multiverso. *Elenco auténtico.*
 
 - **Dopesick** (2021) – Hulu. Miniserie sobre la crisis de los opioides que aborda el dolor crónico y la adicción.
 
-- 🎭 **Station Eleven** (2021-2022) – HBO Max. Cuenta con un personaje sordo (Matilda Lawler) y con ASL.
+- **Station Eleven** (2021-2022) – HBO Max. Cuenta con un personaje sordo (Matilda Lawler) y con ASL. *Elenco auténtico.*
 
 ---
 
@@ -104,7 +104,7 @@ Esta lista da prioridad a las series con **casting auténtico** (actores con dis
 
 - **Reasonable Doubts** (1991-1993) – NBC. Marlee Matlin como una fiscal auxiliar sorda. Una de las primeras representaciones sordas en la televisión generalista.
 
-- 🎭 **Facts of Life** (1979-1988) – Geri Jewell, actriz con parálisis cerebral, tuvo un papel recurrente como la prima Geri. Primera actriz con parálisis cerebral en un papel recurrente en horario estelar.
+- **Facts of Life** (1979-1988) – Geri Jewell, actriz con parálisis cerebral, tuvo un papel recurrente como la prima Geri. Primera actriz con parálisis cerebral en un papel recurrente en horario estelar. *Elenco auténtico.*
 
 ### Década de 2000
 
@@ -116,9 +116,9 @@ Esta lista da prioridad a las series con **casting auténtico** (actores con dis
 
 ### Década de 2010
 
-- ✦ 🎭 **Switched at Birth** (2011-2017) – [Ver Visionado esencial]
+- **Switched at Birth** (2011-2017) – [Ver Visionado esencial] *Elenco auténtico, Esencial.*
 
-- ✦ 🎭 **Speechless** (2016-2019) – [Ver Visionado esencial]
+- **Speechless** (2016-2019) – [Ver Visionado esencial] *Elenco auténtico, Esencial.*
 
 - **Glee** (2009-2015) – Fox. Kevin McHale interpretó a Artie, usuario de silla de ruedas. [Nota: actor sin discapacidad en silla de ruedas; criticado. Pero también: contó con Ali Stroker, actriz con discapacidad, y Lauren Potter, actriz con síndrome de Down]
 
@@ -130,35 +130,35 @@ Esta lista da prioridad a las series con **casting auténtico** (actores con dis
 
 ## Series de telerrealidad y documentales {#series-de-telerrealidad-y-documentales}
 
-- ✦ 🎭 **Deaf U** (2020) – [Ver Visionado esencial]
+- **Deaf U** (2020) – [Ver Visionado esencial] *Elenco auténtico, Esencial.*
 
-- 🎭 **Born This Way** (2015-2019) – A&E. Serie de telerrealidad que sigue a adultos con síndrome de Down. El elenco son personas reales con síndrome de Down que viven sus vidas.
+- **Born This Way** (2015-2019) – A&E. Serie de telerrealidad que sigue a adultos con síndrome de Down. El elenco son personas reales con síndrome de Down que viven sus vidas. *Elenco auténtico.*
 
-- 🎭 **The Employables** (2019) – A&E. Adultos autistas y con síndrome de Tourette que buscan empleo.
+- **The Employables** (2019) – A&E. Adultos autistas y con síndrome de Tourette que buscan empleo. *Elenco auténtico.*
 
 - **Queer Eye** (2018 a la actualidad) – Netflix. Varios episodios incluyen participantes con discapacidad; también aborda abiertamente la enfermedad crónica.
 
-- 🎭 **Love on the Spectrum** (2019 a la actualidad) – Netflix. Programa de citas con adultos autistas. Original australiano, seguido por una versión estadounidense. 🌍
+- **Love on the Spectrum** (2019 a la actualidad) – Netflix. Programa de citas con adultos autistas. Original australiano, seguido por una versión estadounidense. *Elenco auténtico, Internacional.*
 
 - **Too Large** / **My 600-lb Life** – TLC. [Nota: Controvertidas. Algunas personas las ven como explotadoras; otras valoran la visibilidad de las experiencias de las personas gordas con discapacidad]
 
-- **The Last Leg** (2012 a la actualidad) – Channel 4 del Reino Unido. Programa de entrevistas humorístico conducido por Adam Hills, Josh Widdicombe y Alex Brooker (con discapacidad). 🌍
+- **The Last Leg** (2012 a la actualidad) – Channel 4 del Reino Unido. Programa de entrevistas humorístico conducido por Adam Hills, Josh Widdicombe y Alex Brooker (con discapacidad). *Internacional.*
 
 ---
 
 ## Programación infantil {#programación-infantil}
 
-- 🎭 **Sesame Street** – Julia, un títere autista presentado en 2017. Ameera, un personaje que usa silla de ruedas (2022). Una larga trayectoria de inclusión de la discapacidad.
+- **Sesame Street** – Julia, un títere autista presentado en 2017. Ameera, un personaje que usa silla de ruedas (2022). Una larga trayectoria de inclusión de la discapacidad. *Elenco auténtico.*
 
 - **Daniel Tiger's Neighborhood** – Chrissie, un personaje que usa ortesis en las piernas y muletas.
 
-- 🎭 **Paw Patrol** (2023) – Sumó un personaje que usa silla de ruedas.
+- **Paw Patrol** (2023) – Sumó un personaje que usa silla de ruedas. *Elenco auténtico.*
 
-- 🌍 **Pablo** (2017 a la actualidad) – CBeebies (Reino Unido). Serie animada creada por un guionista autista, con personajes autistas a los que ponen voz actores autistas. 🎬 🎭 🌍
+- **Pablo** (2017 a la actualidad) – CBeebies (Reino Unido). Serie animada creada por un guionista autista, con personajes autistas a los que ponen voz actores autistas. *Elenco auténtico, Creador con discapacidad, Internacional.*
 
 - **Blue's Clues & You** – Incluye representación diversa, incluida la discapacidad.
 
-- 🎭 **Dino Dana** (2017-2020) – Amazon. Saara Chaudry interpreta a Dana; la serie incluye personajes con discapacidad y accesibilidad.
+- **Dino Dana** (2017-2020) – Amazon. Saara Chaudry interpreta a Dana; la serie incluye personajes con discapacidad y accesibilidad. *Elenco auténtico.*
 
 ---
 
@@ -166,12 +166,12 @@ Esta lista da prioridad a las series con **casting auténtico** (actores con dis
 
 ### Personas sordas y con problemas de audición {#personas-sordas-y-con-problemas-de-audición}
 
-- ✦ 🎭 Switched at Birth (2011-2017)
-- ✦ 🎭 Deaf U (2020)
-- 🎭 This Close (2018-2019)
-- 🎭 Only Murders in the Building – Personaje Theo
-- 🎭 The Last Leg (Reino Unido) 🌍
-- 🎭 Echo (2024)
+- Switched at Birth (2011-2017) *Elenco auténtico, Esencial.*
+- Deaf U (2020) *Elenco auténtico, Esencial.*
+- This Close (2018-2019) *Elenco auténtico.*
+- Only Murders in the Building – Personaje Theo *Elenco auténtico.*
+- The Last Leg (Reino Unido) *Elenco auténtico, Internacional.*
+- Echo (2024) *Elenco auténtico.*
 - Reasonable Doubts (1991-1993)
 
 ### Personas ciegas y con baja visión {#personas-ciegas-y-con-baja-visión}
@@ -184,20 +184,20 @@ Esta lista da prioridad a las series con **casting auténtico** (actores con dis
 
 ### Discapacidad física y movilidad {#discapacidad-física-y-movilidad}
 
-- ✦ 🎭 Special (2019-2021)
-- ✦ 🎭 Speechless (2016-2019)
-- 🎭 Sex Education – Personaje Isaac 🌍
-- 🎭 Breaking Bad – Walter Jr.
-- 🎭 Facts of Life – Geri Jewell
-- 🎭 Echo (2024)
+- Special (2019-2021) *Elenco auténtico, Esencial.*
+- Speechless (2016-2019) *Elenco auténtico, Esencial.*
+- Sex Education – Personaje Isaac *Elenco auténtico, Internacional.*
+- Breaking Bad – Walter Jr. *Elenco auténtico.*
+- Facts of Life – Geri Jewell *Elenco auténtico.*
+- Echo (2024) *Elenco auténtico.*
 
 ### Neurodivergencia {#neurodivergencia}
 
 #### Autismo
 
-- 🎭 As We See It (2022)
-- 🎭 Love on the Spectrum (2019 a la actualidad) 🌍
-- 🎭 🎬 Pablo (infantil) 🌍
+- As We See It (2022) *Elenco auténtico.*
+- Love on the Spectrum (2019 a la actualidad) *Elenco auténtico, Internacional.*
+- Pablo (infantil) *Elenco auténtico, Creador con discapacidad, Internacional.*
 - The Good Doctor (2017 a la actualidad) [actor no autista]
 - Parenthood – Max Braverman [actor no autista]
 - Atypical (2017-2021) [protagonista no autista; sumó guionistas autistas más adelante]
@@ -223,10 +223,10 @@ Esta lista da prioridad a las series con **casting auténtico** (actores con dis
 
 ### Discapacidades intelectuales y del desarrollo {#discapacidades-intelectuales-y-del-desarrollo}
 
-- 🎭 Life Goes On (1989-1993) – Chris Burke
-- 🎭 Born This Way (2015-2019)
-- 🎭 Glee – Becky Jackson (Lauren Potter)
-- 🎭 Sesame Street – Varios personajes
+- Life Goes On (1989-1993) – Chris Burke *Elenco auténtico.*
+- Born This Way (2015-2019) *Elenco auténtico.*
+- Glee – Becky Jackson (Lauren Potter) *Elenco auténtico.*
+- Sesame Street – Varios personajes *Elenco auténtico.*
 
 ---
 
@@ -234,25 +234,25 @@ Esta lista da prioridad a las series con **casting auténtico** (actores con dis
 
 ### Reino Unido
 
-- 🌍 🎭 **The Last Leg** (2012 a la actualidad) – Programa de panel humorístico de Channel 4.
-- 🌍 🎭 🎬 **Pablo** (2017 a la actualidad) – Serie animada de CBeebies.
-- 🌍 **Years and Years** (2019) – BBC. Cuenta con un personaje con discapacidad.
-- 🌍 🎭 **Sex Education** (2019-2023) – Netflix Reino Unido. Personaje Isaac.
-- 🌍 **Derek** (2012-2014) – Ricky Gervais. [Nota: Controvertida; personaje codificado con discapacidad]
+- **The Last Leg** (2012 a la actualidad) – Programa de panel humorístico de Channel 4. *Elenco auténtico, Internacional.*
+- **Pablo** (2017 a la actualidad) – Serie animada de CBeebies. *Elenco auténtico, Creador con discapacidad, Internacional.*
+- **Years and Years** (2019) – BBC. Cuenta con un personaje con discapacidad. *Internacional.*
+- **Sex Education** (2019-2023) – Netflix Reino Unido. Personaje Isaac. *Elenco auténtico, Internacional.*
+- **Derek** (2012-2014) – Ricky Gervais. [Nota: Controvertida; personaje codificado con discapacidad] *Internacional.*
 
 ### Australia
 
-- 🌍 🎭 **Love on the Spectrum** (2019-2021) – Versión australiana original.
-- 🌍 **You Can't Ask That** – ABC. Episodio sobre la discapacidad.
+- **Love on the Spectrum** (2019-2021) – Versión australiana original. *Elenco auténtico, Internacional.*
+- **You Can't Ask That** – ABC. Episodio sobre la discapacidad. *Internacional.*
 
 ### Canadá
 
-- 🌍 **Workin' Moms** (2017 a la actualidad) – Cuenta con personajes con discapacidad.
+- **Workin' Moms** (2017 a la actualidad) – Cuenta con personajes con discapacidad. *Internacional.*
 
 ### Otras
 
-- 🌍 **Deaf-Mute Samurai** (Japón) – Serie clásica con un protagonista sordo.
-- 🌍 **Diversos dramas coreanos** – Representación creciente de la discapacidad.
+- **Deaf-Mute Samurai** (Japón) – Serie clásica con un protagonista sordo. *Internacional.*
+- **Diversos dramas coreanos** – Representación creciente de la discapacidad. *Internacional.*
 
 ---
 
@@ -276,10 +276,10 @@ Series que lograron visibilidad pero tienen problemas significativos de represen
 
 ### Showrunners y guionistas con discapacidad
 
-- 🎬 **Ryan O'Connell** – Special (creador, guionista, protagonista)
-- 🎬 **Shoshannah Stern** – This Close (cocreadora, protagonista) – Sorda
-- 🎬 **Josh Feldman** – This Close (cocreador, protagonista) – Sordo
-- 🎬 **Grainne McGuinness** – Pablo (creadora) – autista
+- **Ryan O'Connell** – Special (creador, guionista, protagonista) *Creador con discapacidad.*
+- **Shoshannah Stern** – This Close (cocreadora, protagonista) – Sorda *Creador con discapacidad.*
+- **Josh Feldman** – This Close (cocreador, protagonista) – Sordo *Creador con discapacidad.*
+- **Grainne McGuinness** – Pablo (creadora) – autista *Creador con discapacidad.*
 
 ### Salas de guionistas con guionistas con discapacidad
 
