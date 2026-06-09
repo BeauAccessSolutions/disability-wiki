@@ -42,11 +42,9 @@ Queremos trabajar con las personas con discapacidad de la comunidad para constru
 
 ## Cómo participar
 
-### Opción 1: formulario rápido de comentarios
-https://forms.gle/tzxPJquu9UU1Erqg6
+**Escríbenos:** [contribute2disabilitywiki@gmail.com](mailto:contribute2disabilitywiki@gmail.com)
 
-### Opción 2: escríbenos por correo
-contribute2disabilitywiki@gmail.com
+Cuéntanos qué te gustaría aportar — contenido, comentarios, correcciones, traducción, pruebas de accesibilidad o cualquier otra cosa de la lista de arriba. No necesitas conocimientos técnicos y puedes escribir en el idioma con el que te sientas más cómodo.
 
 ## Qué esperar
 

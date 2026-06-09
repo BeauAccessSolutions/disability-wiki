@@ -42,11 +42,9 @@ We want to work with disabled community members to build this wiki together.
 
 ## How to Get Involved
 
-### Option 1: Quick Feedback Form
-https://forms.gle/tzxPJquu9UU1Erqg6
+**Email us:** [contribute2disabilitywiki@gmail.com](mailto:contribute2disabilitywiki@gmail.com)
 
-### Option 2: Email Us
-contribute2disabilitywiki@gmail.com
+Tell us what you'd like to contribute — content, feedback, corrections, translation, accessibility testing, or anything else listed above. You don't need any technical skills, and you can write in whatever language you're most comfortable in.
 
 ## What to Expect
 
