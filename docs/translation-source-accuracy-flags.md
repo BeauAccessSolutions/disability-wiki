@@ -76,14 +76,18 @@ These English pages were corrected this session (commits `8fa5f04`, `1f98057`) a
   occurrences across `benefits/` + `tech/` (e.g. `[/benefits/us-ssi](/benefits/us/ssi)`)
   relabeled with readable names (SSI, Medicare, …). Was a repo-wide pattern, not just
   the two files first flagged — fixed every copy. 64 links (32 EN + 32 es). Hrefs unchanged.
-- ⬜ **DECISION NEEDED (not cosmetic — site architecture):** there are **two real
-  contribute pages** — `/start/contribute` (used ~460× site-wide) and
-  `/glossary/how-to-contribute` (~226×, which the `disability-wiki-page` skill declares
-  canonical and calls `/start/contribute` "old"). Both are full, working pages, so links
-  are "not broken," but the site is split between them (incl. `benefits/index.md` &
-  `benefits/poverty-and-benefits-trap.md`, which use both; the latter also has a
-  duplicated centering footer). Maintainer should pick one canonical page, redirect the
-  other, and standardize references repo-wide. Left untouched pending that call.
+- ✅ **DECISION MADE 2026-06-09: `/start/contribute` is canonical** (the community page).
+  Done: site nav "How to Contribute" repointed `/en/glossary/how-to-contribute` →
+  `/en/start/contribute` (via `navigation.updateTree`; 182 items intact); the dead
+  Google Form (`forms.gle/…`, returned an error shell) dropped in favor of the email
+  CTA `contribute2disabilitywiki@gmail.com` (PR #17, EN + es); title typo + placeholder
+  + circular footer fixed earlier (PR #15); the email was also added to
+  `/glossary/how-to-contribute` (PR #16). `disability-wiki-page` SKILL still says to
+  link `/glossary/how-to-contribute` — **update the skill** to point at `/start/contribute`.
+  - ⬜ **Still deferred (not blocking):** repoint the ~226 inbound `/glossary/how-to-contribute`
+    links to `/start/contribute` and retitle `/glossary/how-to-contribute` (still "How to
+    Contribute") to something like "Technical/Editorial Contribution Guide" so the two
+    pages don't share a title. `/glossary` stays as the git-workflow guide.
 
 ### Checked — not an issue
 - ⏭️ `benefits/international/benefits-overview.md` links to
