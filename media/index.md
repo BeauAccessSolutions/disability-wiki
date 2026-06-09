@@ -19,6 +19,9 @@ Disability representation in media shapes how society views disabled people—an
 ### [Books](/media/books)
 Comprehensive book list organized by genre, disability type, and identity. Prioritizes Own Voices authors (disabled writers). Includes fiction, memoir, nonfiction, children's books, poetry, and academic texts.
 
+### [The Politics of Disability — A Reading Pathway](/media/politics-of-disability-reading-list)
+A guided, staged reading list on disability as a political and cultural category. Own-voices first, with a framing lens for reading any portrayal critically — and pointers into the full Books and Bibliography lists.
+
 ### [Podcasts](/media/podcasts)
 Disability-focused podcasts covering news, culture, storytelling, advocacy, and specific disability communities. Hosted by disabled creators.
 

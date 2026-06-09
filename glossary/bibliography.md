@@ -3,7 +3,10 @@ title: Bibliography
 description: This bibliography compiles sources used throughout DisabilityWiki.
 published: true
 date: 2026-06-05T20:34:51.163Z
-tags: 
+tags:
+  - bibliography
+  - disability-studies
+  - reading-list
 editor: markdown
 dateCreated: 2026-01-07T20:05:13.279Z
 ---
@@ -154,6 +157,14 @@ This is a living document. For guidance on adding sources, see [How to Contribut
 
 - Shapiro, J.P. (1993). *No Pity: People with Disabilities Forging a New Civil Rights Movement*. New York: Times Books.
 
+- Burch, S. (2021). *Committed: Remembering Native Kinship in and beyond Institutions*. Chapel Hill: University of North Carolina Press. (Winner, Disability History Association Outstanding Book Award, 2022.)
+
+- Cohen, A. (2016). *Imbeciles: The Supreme Court, American Eugenics, and the Sterilization of Carrie Buck*. New York: Penguin Press.
+
+- Gerber, D.A. (Ed.). (2012). *Disabled Veterans in History* (enlarged & rev. ed.). Ann Arbor: University of Michigan Press.
+
+- Metzler, I. (2006). *Disability in Medieval Europe: Thinking about Physical Impairment during the High Middle Ages, c.1100–c.1400*. London: Routledge.
+
 ### Key Events
 
 - National Park Service. "Disability History: The Disability Rights Movement."
@@ -178,6 +189,20 @@ This is a living document. For guidance on adding sources, see [How to Contribut
 
 - Union of the Physically Impaired Against Segregation (UPIAS). (1976). *Fundamental Principles of Disability*. London: UPIAS.
 
+- Stone, D.A. (1984). *The Disabled State*. Philadelphia: Temple University Press. (The orienting text on disability as an administrative category states use to distribute aid.)
+
+- Campbell, F.K. (2009). *Contours of Ableism: The Production of Disability and Abledness*. Basingstoke: Palgrave Macmillan.
+
+- McRuer, R. (2006). *Crip Theory: Cultural Signs of Queerness and Disability*. New York: NYU Press.
+
+- Kafer, A. (2013). *Feminist, Queer, Crip*. Bloomington: Indiana University Press.
+
+- Mitchell, D.T., & Snyder, S.L. (2000). *Narrative Prosthesis: Disability and the Dependencies of Discourse*. Ann Arbor: University of Michigan Press. (Names "narrative prosthesis" — the essential lens for evaluating fictional portrayals of disability.)
+
+- Garland-Thomson, R. (1997). *Extraordinary Bodies: Figuring Physical Disability in American Culture and Literature*. New York: Columbia University Press.
+
+- Linton, S. (1998). *Claiming Disability: Knowledge and Identity*. New York: NYU Press.
+
 ### Disability Justice
 
 - Sins Invalid. (2019). *Skin, Tooth, and Bone: The Basis of Movement is Our People* (2nd ed.). 
@@ -187,11 +212,51 @@ This is a living document. For guidance on adding sources, see [How to Contribut
 
 - Piepzna-Samarasinha, L.L. (2018). *Care Work: Dreaming Disability Justice*. Vancouver: Arsenal Pulp Press.
 
+- Russell, M. (2019). *Capitalism and Disability: Selected Writings by Marta Russell* (K. Rosenthal, Ed.). Chicago: Haymarket Books. (Political economy of disability; a Marxist critique of the limits of a civil-rights-only approach, including the ADA.)
+
 ### Intersectionality and Disability
 
 - Annamma, S.A., Connor, D., & Ferri, B. (2013). "Dis/ability critical race studies (DisCrit): Theorizing at the intersections of race and dis/ability." *Race Ethnicity and Education*, 16(1), 1-31.
 
+- Connor, D.J., Ferri, B.A., & Annamma, S.A. (Eds.). (2016). *DisCrit: Disability Studies and Critical Race Theory in Education*. New York: Teachers College Press.
+
+- Erevelles, N. (2011). *Disability and Difference in Global Contexts: Enabling a Transformative Body Politic*. New York: Palgrave Macmillan.
+
 - Schalk, S. (2018). *Bodyminds Reimagined: (Dis)ability, Race, and Gender in Black Women's Speculative Fiction*. Durham: Duke University Press.
+
+### Mad Studies and Psychiatric Disability
+
+- LeFrançois, B.A., Menzies, R., & Reaume, G. (Eds.). (2013). *Mad Matters: A Critical Reader in Canadian Mad Studies*. Toronto: Canadian Scholars' Press.
+
+- Price, M. (2011). *Mad at School: Rhetorics of Mental Disability and Academic Life*. Ann Arbor: University of Michigan Press.
+
+- Pickens, T.A. (2019). *Black Madness :: Mad Blackness*. Durham: Duke University Press.
+
+### Colonialism and the Global South
+
+- Meekosha, H. (2011). "Decolonising disability: thinking and acting globally." *Disability & Society*, 26(6), 667-682.
+
+- Imada, A.L. (2017). "A decolonial disability studies?" *Disability Studies Quarterly*, 37(3).
+
+- Puar, J.K. (2017). *The Right to Maim: Debility, Capacity, Disability*. Durham: Duke University Press. (Introduces "debility"; influential but contested — its analysis of Israel/Palestine has drawn substantial criticism, which readers should weigh.)
+
+### Cure, Care, Access, and Crip Technoscience
+
+- Clare, E. (2017). *Brilliant Imperfection: Grappling with Cure*. Durham: Duke University Press.
+
+- Taylor, S. (2017). *Beasts of Burden: Animal and Disability Liberation*. New York: The New Press.
+
+- Hamraie, A. (2017). *Building Access: Universal Design and the Politics of Disability*. Minneapolis: University of Minnesota Press.
+
+- Hamraie, A., & Fritsch, K. (2019). "Crip technoscience manifesto." *Catalyst: Feminism, Theory, Technoscience*, 5(1).
+
+- Nishida, A. (2022). *Just Care: Messy Entanglements of Disability, Dependency, and Desire*. Philadelphia: Temple University Press.
+
+### Epistemic Injustice (borrowed-lens pairings)
+
+- Fricker, M. (2007). *Epistemic Injustice: Power and the Ethics of Knowing*. Oxford: Oxford University Press. (A philosophy text, not disability-specific — pair with disability and Mad-studies work on being disbelieved by doctors, courts, and welfare offices.)
+
+- Samuels, E. (2017). "Six ways of looking at crip time." *Disability Studies Quarterly*, 37(3).
 
 ---
 

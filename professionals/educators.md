@@ -377,6 +377,7 @@ The best professional development comes from disabled people themselves—disabl
 - [Education Section](/education)
 - [K-12 Education](/education/k12-education)
 - [Higher Education](/education/higher-education)
+- [Designing an Accessible Course](/professionals/accessible-course-design)
 - [Rights & Advocacy](/rights)
 - [For Allies](/foundations/for-allies)
 
