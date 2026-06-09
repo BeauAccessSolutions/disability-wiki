@@ -15,21 +15,6 @@ dateCreated: 2026-01-11T19:42:25.469Z
 
 ---
 
-## La bandera del orgullo de la discapacidad
-![La Bandera del Orgullo de la Discapacidad: un fondo gris carbón cruzado por una banda diagonal de cinco franjas paralelas — roja, dorada, blanca, azul y verde.](/visually_safe_disability_pride_flag.svg.png)
-La Bandera del Orgullo de la Discapacidad fue diseñada por Ann Magill y revisada en 2021. Cada color representa una parte de la comunidad con discapacidad:
-
-- **Gris carbón:** Duelo y memoria por las personas perdidas a causa de la violencia capacitista, el abuso, el suicidio y la enfermedad.
-- **Rojo:** Discapacidades físicas.
-- **Dorado:** Neurodiversidad y discapacidades cognitivas.
-- **Azul:** Discapacidades emocionales y psiquiátricas.
-- **Verde:** Discapacidades sensoriales (personas sordas, ciegas y con otras discapacidades sensoriales).
-- **Blanco:** Discapacidades invisibles y sin diagnosticar.
-
-**Nuestra diversidad es nuestra fuerza; nuestro orgullo es nuestra resistencia.**
-
----
-
 ## Acerca de este wiki
 
 DisabilityWiki existe para centralizar recursos sobre discapacidad, promover la accesibilidad y la justicia para las personas con discapacidad, y empoderar a las personas con discapacidad para liderar sus propias vidas y comunidades. Este proyecto centra el principio: **"Nada Sobre Nosotros Sin Nosotros."**
@@ -184,6 +169,21 @@ DisabilityWiki existe para:
 - Hacer que la información confiable sea accesible y gratuita
 - Desafiar el capacitismo mediante el conocimiento liderado por la comunidad
 - Fomentar el apoyo mutuo y el poder colectivo
+
+---
+
+## La bandera del orgullo de la discapacidad
+![La Bandera del Orgullo de la Discapacidad: un fondo gris carbón cruzado por una banda diagonal de cinco franjas paralelas — roja, dorada, blanca, azul y verde.](/visually_safe_disability_pride_flag.svg.png)
+La Bandera del Orgullo de la Discapacidad fue diseñada por Ann Magill y revisada en 2021. Cada color representa una parte de la comunidad con discapacidad:
+
+- **Gris carbón:** Duelo y memoria por las personas perdidas a causa de la violencia capacitista, el abuso, el suicidio y la enfermedad.
+- **Rojo:** Discapacidades físicas.
+- **Dorado:** Neurodiversidad y discapacidades cognitivas.
+- **Azul:** Discapacidades emocionales y psiquiátricas.
+- **Verde:** Discapacidades sensoriales (personas sordas, ciegas y con otras discapacidades sensoriales).
+- **Blanco:** Discapacidades invisibles y sin diagnosticar.
+
+**Nuestra diversidad es nuestra fuerza; nuestro orgullo es nuestra resistencia.**
 
 ---
 

@@ -15,21 +15,6 @@ dateCreated: 2026-01-11T19:42:25.469Z
 
 ---
 
-## The Disability Pride Flag
-![The Disability Pride Flag: a charcoal-grey field crossed by a diagonal band of five parallel stripes — red, gold, white, blue, and green.](/visually_safe_disability_pride_flag.svg.png)
-The Disability Pride Flag was designed by Ann Magill and revised in 2021. Each color represents part of the disability community:
-
-- **Charcoal Grey:** Mourning and remembrance for people lost to ableist violence, abuse, suicide, and illness.
-- **Red:** Physical disabilities.
-- **Gold:** Neurodiversity and cognitive disabilities.
-- **Blue:** Emotional and psychiatric disabilities.
-- **Green:** Sensory disabilities (Deaf, Blind, and other sensory disabilities).
-- **White:** Invisible and undiagnosed disabilities.
-
-**Our diversity is our strength — our pride is our resistance.**
-
----
-
 ## About This Wiki
 
 DisabilityWiki exists to centralize disability resources, promote accessibility and disability justice, and empower disabled people to lead their own lives and communities. This project centers the principle: **"Nothing About Us Without Us."**
@@ -184,6 +169,21 @@ DisabilityWiki exists to:
 - Make reliable information accessible & free
 - Challenge ableism through community-led knowledge
 - Support mutual aid and collective power
+
+---
+
+## The Disability Pride Flag
+![The Disability Pride Flag: a charcoal-grey field crossed by a diagonal band of five parallel stripes — red, gold, white, blue, and green.](/visually_safe_disability_pride_flag.svg.png)
+The Disability Pride Flag was designed by Ann Magill and revised in 2021. Each color represents part of the disability community:
+
+- **Charcoal Grey:** Mourning and remembrance for people lost to ableist violence, abuse, suicide, and illness.
+- **Red:** Physical disabilities.
+- **Gold:** Neurodiversity and cognitive disabilities.
+- **Blue:** Emotional and psychiatric disabilities.
+- **Green:** Sensory disabilities (Deaf, Blind, and other sensory disabilities).
+- **White:** Invisible and undiagnosed disabilities.
+
+**Our diversity is our strength — our pride is our resistance.**
 
 ---
 
