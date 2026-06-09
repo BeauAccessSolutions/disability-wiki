@@ -43,7 +43,7 @@ We’re glad you’re interested in contributing! Here’s how the contribution 
 
 ## How to Get Support
 
-- Join our contributor mailing list or forum if available  
+- **Email us:** [contribute2disabilitywiki@gmail.com](mailto:contribute2disabilitywiki@gmail.com) — questions, feedback, or contributions of any kind are welcome, and you don't need any technical skills to reach out.
 - Look up these pages for help:  
   - [Terminology](/glossary/terminology) — for term definitions  
   - [Editorial Guidelines](/glossary/editorial-guidelines) — for style and process  

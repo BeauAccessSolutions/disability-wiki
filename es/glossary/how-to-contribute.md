@@ -43,7 +43,7 @@ dateCreated: 2026-01-11T19:41:38.594Z
 
 ## Cómo obtener apoyo
 
-- Únete a nuestra lista de correo o foro para personas colaboradoras, si está disponible.  
+- **Escríbenos:** [contribute2disabilitywiki@gmail.com](mailto:contribute2disabilitywiki@gmail.com) — son bienvenidas tus preguntas, comentarios o contribuciones de cualquier tipo, y no necesitas conocimientos técnicos para escribirnos.
 - Consulta estas páginas para obtener ayuda:  
   - [Terminología](/es/glossary/terminology) — para definiciones de términos.  
   - [Pautas editoriales](/es/glossary/editorial-guidelines) — para el estilo y el proceso.  
