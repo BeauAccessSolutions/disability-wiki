@@ -72,13 +72,18 @@ These English pages were corrected this session (commits `8fa5f04`, `1f98057`) a
 - ✅ `benefits/us/ssi.md` — "taxed as federal income assistance" → corrected to "SSI is **not** taxable income" this session. *(EN fixed; ES needs sync.)*
 
 ### Cosmetic link-text/href mismatches (href is correct; only displayed text is wrong)
-- ⬜ `benefits/us/family-caregiver-pay.md` — link text shows `/benefits/us-benefits-overview`
-  (hyphenated, not a real path); href is correct.
-- ⬜ `benefits/us/medicaid.md` — link text shows `/benefits/us-ssi` and
-  `/benefits/us-medicare` (hyphenated); hrefs are correct.
-- ⬜ `benefits/index.md` & `benefits/poverty-and-benefits-trap.md` — mixed
-  "Contribute" targets: some `/start/contribute`, some `/glossary/how-to-contribute`.
-  Inconsistent but not broken.
+- ✅✅ **RESOLVED 2026-06-09 (PR #14, EN + es in DB).** All 32 bare-path link-text
+  occurrences across `benefits/` + `tech/` (e.g. `[/benefits/us-ssi](/benefits/us/ssi)`)
+  relabeled with readable names (SSI, Medicare, …). Was a repo-wide pattern, not just
+  the two files first flagged — fixed every copy. 64 links (32 EN + 32 es). Hrefs unchanged.
+- ⬜ **DECISION NEEDED (not cosmetic — site architecture):** there are **two real
+  contribute pages** — `/start/contribute` (used ~460× site-wide) and
+  `/glossary/how-to-contribute` (~226×, which the `disability-wiki-page` skill declares
+  canonical and calls `/start/contribute` "old"). Both are full, working pages, so links
+  are "not broken," but the site is split between them (incl. `benefits/index.md` &
+  `benefits/poverty-and-benefits-trap.md`, which use both; the latter also has a
+  duplicated centering footer). Maintainer should pick one canonical page, redirect the
+  other, and standardize references repo-wide. Left untouched pending that call.
 
 ### Checked — not an issue
 - ⏭️ `benefits/international/benefits-overview.md` links to
