@@ -1,6 +1,6 @@
 ---
 title: Pobreza y clase
-description: La discapacidad y la pobreza se alimentan mutuamente: la pobreza causa discapacidad, la discapacidad causa pobreza, y los sistemas de prestaciones están diseñados para mantener pobres a las personas con discapacidad.
+description: La discapacidad y la pobreza se alimentan mutuamente: la pobreza causa discapacidad, la discapacidad causa pobreza, y los sistemas de prestaciones están estructurados de maneras que mantienen pobres a las personas con discapacidad.
 published: true
 date: 2026-06-05T20:20:07.658Z
 tags: 
@@ -26,9 +26,9 @@ El resultado es un círculo vicioso difícil de romper, sobre todo sin riqueza o
 
 ---
 
-## El sistema está diseñado para mantener pobres a las personas
+## Cómo el sistema de prestaciones mantiene pobres a las personas
 
-Esto no es un accidente de mala suerte. Muchos programas de prestaciones por discapacidad están construidos en torno a **límites estrictos de ingresos y bienes** que impiden activamente que las personas construyan cualquier estabilidad financiera:
+Esto no es un accidente de mala suerte. Muchos programas de prestaciones por discapacidad están construidos en torno a **límites estrictos de ingresos y bienes** que dificultan construir cualquier estabilidad financiera:
 
 - Los **límites de bienes** (en EE. UU., tan bajos como $2,000 para el SSI) hacen ilegal tener ahorros significativos.
 - Los **límites de ingresos** recortan las prestaciones a medida que ganas más, de modo que trabajar más puede no dejarte mejor que antes, o incluso peor.

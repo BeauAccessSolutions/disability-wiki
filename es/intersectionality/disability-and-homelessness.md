@@ -18,7 +18,7 @@ Las personas con discapacidad experimentan la falta de vivienda en proporciones 
 
 ## Por qué las tasas son más altas
 
-Las investigaciones estiman de manera constante que **alrededor de la mitad de las personas que viven sin hogar tienen una discapacidad**, lo que equivale a entre dos y tres veces la tasa de discapacidad en la población general. Las razones son estructurales, no personales:
+Las estimaciones varían según a quién se cuente: los datos nacionales de HUD encuentran que alrededor del **40 % de las personas adultas sin hogar en albergues** reportan una condición discapacitante, mientras que los estudios de personas sin hogar no albergadas y en situación crónica suelen encontrar **la mitad o más** —y, según la propia definición de HUD, todas las personas contadas como "sin hogar crónicas" tienen una condición discapacitante—. En cualquier caso, la discapacidad es varias veces más común entre las personas sin hogar que en la población general. Las razones son estructurales, no personales:
 
 - **Vivienda inaccesible e inasequible.** La mayoría de las viviendas no son físicamente accesibles, y las personas con discapacidad que viven con prestaciones fijas por discapacidad quedan excluidas por los precios de un mercado de vivienda en alza.
 - **Discriminación.** Quienes arriendan rechazan a personas con discapacidad, con afecciones de salud mental o con antecedentes de consumo de sustancias, y la propia falta de vivienda se convierte en algo que juega en tu contra.
@@ -40,7 +40,7 @@ La falta de vivienda no afecta a todas las personas con discapacidad por igual. 
 
 ## El punto central
 
-La falta de vivienda es un **problema de vivienda y de políticas**, no un problema de discapacidad. La solución no es "arreglar" a las personas con discapacidad, sino una vivienda accesible y asequible combinada con los servicios de apoyo que las personas realmente necesitan. La Convención sobre los Derechos de las Personas con Discapacidad de la ONU (**CDPD, Artículo 19**) afirma el derecho de todas las personas con discapacidad a vivir en la comunidad con apoyo; la falta de vivienda es una de las violaciones más graves de ese derecho.
+La falta de vivienda es un **problema de vivienda y de políticas**, no un problema de discapacidad. La solución no es "arreglar" a las personas con discapacidad, sino una vivienda accesible y asequible combinada con los servicios de apoyo que las personas realmente necesitan. La Convención sobre los Derechos de las Personas con Discapacidad de la ONU (**CDPD, Artículo 19**) afirma el derecho de todas las personas con discapacidad a vivir en la comunidad con apoyo; las organizaciones de defensa de los derechos de las personas con discapacidad describen la falta de vivienda como uno de los fracasos más graves a la hora de garantizar ese derecho.
 
 Y las personas nunca se reducen a sus dificultades. Las personas con discapacidad que viven sin hogar construyen redes de apoyo mutuo, apoyo entre pares (peer) y conocimientos de supervivencia, y la organización liderada por personas con discapacidad ha logrado cambios reales, desde los programas de vivienda primero (housing-first) hasta las luchas por la desinstitucionalización que insistieron en la comunidad por encima del encierro. La dignidad, la creatividad y la comunidad persisten incluso donde se niega la vivienda.
 

@@ -41,7 +41,7 @@ Beyond struggle, there is richness — language, art, humor, ritual, mutual aid,
 
 None of that erases what people organize against. Structural racism *produces* disability and *deepens* its harms:
 
-- **Uneven distribution.** American Indian/Alaska Native adults report the highest disability rates of any racial group (~31%; CDC BRFSS, 2018–2019), and Black and Indigenous disabled people have the highest poverty rates of any group (National Disability Institute, 2019) — driven by environmental racism (e.g., lead exposure, Flint), medical neglect, and disinvestment, not by anything inherent.
+- **Uneven distribution.** American Indian/Alaska Native adults report the highest disability rate of any racial group (~39%; CDC Disability and Health Data System, 2022 BRFSS data released 2024), and Black and Indigenous disabled people have the highest poverty rates of any group (National Disability Institute, 2019) — driven by environmental racism (e.g., lead exposure, Flint), medical neglect, and disinvestment, not by anything inherent.
 - **Medical racism.** Providers who hold false beliefs about "biological race differences" undertreat Black patients' pain (PNAS, 2016); Black children are diagnosed with autism later and less often (research summaries, 2022).
 - **Maternal health.** Black women die of pregnancy-related causes at roughly 2.6–3.5× the rate of white women (KFF; CDC).
 - **State violence.** Researchers estimate up to half of people killed by police are disabled (Ruderman Foundation, 2016) — *an estimate from media-reported cases, not a complete dataset* — and organizers like the **Harriet Tubman Collective** stress that disabled people of color bear its sharpest edge, while disability is erased from the story.
@@ -53,7 +53,7 @@ These are conditions to change — and disabled people of color have always been
 
 ## A history of harm — and resistance
 
-Eugenics and forced sterilization targeted communities of color (*Buck v. Bell*, 1927; an estimated quarter of Native women of childbearing age sterilized by the Indian Health Service by the 1970s; coerced sterilizations of Black and Latina women). Institutions like Willowbrook warehoused disabled children. But each of these systems was met with organizing, lawsuits, exposés, and survivors who refused to disappear — and that resistance is as much the history as the harm.
+Eugenics and forced sterilization targeted communities of color (*Buck v. Bell*, 1927; a 1976 GAO investigation documented thousands of Indian Health Service sterilizations with widespread consent violations, and historians — notably Jane Lawrence, 2000 — estimate that roughly a quarter, by some accounts up to half, of Native women of childbearing age were sterilized in this period; coerced sterilizations of Black and Latina women). Institutions like Willowbrook warehoused disabled children. But each of these systems was met with organizing, lawsuits, exposés, and survivors who refused to disappear — and that resistance is as much the history as the harm.
 
 ---
 

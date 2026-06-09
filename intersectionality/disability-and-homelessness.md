@@ -18,7 +18,7 @@ Disabled people experience homelessness at far higher rates than non-disabled pe
 
 ## Why the rates are higher
 
-Researchers consistently estimate that **around half of people experiencing homelessness are disabled** — roughly two to three times the disability rate in the general population. The reasons are structural, not personal:
+Estimates vary by who is counted: HUD's national data finds roughly **40% of sheltered homeless adults** report a disabling condition, while studies of unsheltered and chronically homeless people often find **half or more** — and by HUD's own definition, everyone counted as "chronically homeless" has a disabling condition. Either way, disability is several times more common among people experiencing homelessness than in the general population. The reasons are structural, not personal:
 
 - **Inaccessible, unaffordable housing.** Most housing isn't physically accessible, and disabled people living on fixed disability benefits are priced out of rising housing markets.
 - **Discrimination.** Landlords turn away people with disabilities, mental-health conditions, or substance-use histories — and homelessness itself becomes a mark against you.
@@ -40,7 +40,7 @@ Homelessness doesn't hit all disabled people equally. It stacks with other forms
 
 ## The core point
 
-Homelessness is a **housing and policy problem**, not a disability problem. The solution isn't to "fix" disabled people — it's accessible, affordable housing paired with the support services people actually need. The UN Convention on the Rights of Persons with Disabilities (**CRPD Article 19**) affirms the right of all disabled people to live in the community with support; homelessness is one of the most severe violations of that right.
+Homelessness is a **housing and policy problem**, not a disability problem. The solution isn't to "fix" disabled people — it's accessible, affordable housing paired with the support services people actually need. The UN Convention on the Rights of Persons with Disabilities (**CRPD Article 19**) affirms the right of all disabled people to live in the community with support; disability advocates describe homelessness as one of the most severe failures to uphold that right.
 
 And people are never only their hardship. Disabled people experiencing homelessness build mutual-aid networks, peer support, and survival knowledge, and disabled-led organizing has won real change — from housing-first programs to the deinstitutionalization fights that insisted on community over confinement. Dignity, creativity, and community persist even where housing is denied.
 

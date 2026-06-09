@@ -46,7 +46,7 @@ Centering joy doesn't mean ignoring barriers — it means refusing to let barrie
 - **Higher reported disability.** Studies consistently find LGBTQ+ people report disability at roughly **1.5–2× the rate** of others, highest among bisexual and transgender people (Williams Institute / BRFSS gives the most conservative numbers; community surveys like CAP's 2024 study run higher). The Trevor Project found ~30% of LGBTQ+ youth report a disability, about double the youth average.
 - **Disparities come from systems, not identity.** Worse mental-health outcomes are explained by **minority stress** — the strain of stigma and discrimination — not by being LGBTQ+ or disabled.
 - **Compounded discrimination.** In CAP's 2024 survey, 51% of disabled LGBTQI+ adults reported discrimination in the past year, about double the rate for non-disabled LGBTQI+ adults; many delay care due to cost or provider hostility.
-- **Conversion therapy** — condemned by every major medical association — is linked to more than double the suicide-attempt risk among LGBTQ+ youth. *(Its legal status is changing; check current law in your area.)*
+- **Conversion therapy** — rejected by every major U.S. medical and mental-health association, including the American Medical Association, the American Psychological and American Psychiatric Associations, and the American Academy of Pediatrics — is linked to more than double the suicide-attempt risk among LGBTQ+ youth (The Trevor Project, *American Journal of Public Health*, 2020). *(Its legal status is changing; check current law in your area.)*
 
 ---
 
@@ -60,7 +60,7 @@ A common harm is being forced to foreground one identity to get help: LGBTQ+ spa
 
 - **[Sins Invalid](https://sinsinvalid.org/)** — disability-justice project centering queer/trans disabled people of color.
 - **[Deaf Queer Resource Center](http://dqrc.org/)** — uplifting Deaf Queer and Trans lives.
-- **[Rainbow Alliance of the Deaf](https://rad.org/)** — community and advocacy for Deaf LGBTQIA+ people.
+- **[Rainbow Alliance of the Deaf](https://www.deafrad.org/)** — community and advocacy for Deaf LGBTQIA+ people.
 - **[The Trevor Project](https://www.thetrevorproject.org/)** — crisis support and research for LGBTQ+ young people.
 - **[Trans Lifeline](https://translifeline.org/)** — peer-support crisis line by and for trans people (US: 1-877-565-8860).
 - **[LGBT National Help Center](https://lgbthotline.org/)** — free, confidential peer support.

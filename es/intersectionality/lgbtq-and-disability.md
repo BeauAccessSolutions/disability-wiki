@@ -46,7 +46,7 @@ Poner la alegría en el centro no significa ignorar las barreras; significa nega
 - **Mayor discapacidad reportada.** Los estudios encuentran de manera consistente que las personas LGBTQ+ reportan discapacidad a una tasa de aproximadamente **1.5 a 2 veces** la de otras personas, siendo más alta entre las personas bisexuales y transgénero (el Williams Institute / BRFSS da las cifras más conservadoras; encuestas comunitarias como el estudio de 2024 del CAP arrojan cifras más altas). The Trevor Project halló que ~30 % de la juventud LGBTQ+ reporta una discapacidad, alrededor del doble del promedio juvenil.
 - **Las disparidades provienen de los sistemas, no de la identidad.** Los peores resultados de salud mental se explican por el **estrés de minorías** —la tensión del estigma y la discriminación—, no por ser LGBTQ+ o tener una discapacidad.
 - **Discriminación agravada.** En la encuesta de 2024 del CAP, el 51 % de las personas adultas LGBTQI+ con discapacidad reportó discriminación en el último año, alrededor del doble de la tasa de las personas adultas LGBTQI+ sin discapacidad; muchas posponen la atención por el costo o la hostilidad del personal de salud.
-- **La terapia de conversión** —condenada por todas las asociaciones médicas principales— está asociada con más del doble del riesgo de intento de suicidio entre la juventud LGBTQ+. *(Su situación legal está cambiando; consulta la ley vigente en tu zona.)*
+- **La terapia de conversión** —rechazada por todas las principales asociaciones médicas y de salud mental de EE. UU., incluidas la American Medical Association, las asociaciones estadounidenses de psicología y de psiquiatría, y la American Academy of Pediatrics— está asociada con más del doble del riesgo de intento de suicidio entre la juventud LGBTQ+ (The Trevor Project, *American Journal of Public Health*, 2020). *(Su situación legal está cambiando; consulta la ley vigente en tu zona.)*
 
 ---
 
@@ -60,7 +60,7 @@ Un daño común es verse forzada a poner en primer plano una sola identidad para
 
 - **[Sins Invalid](https://sinsinvalid.org/)**: proyecto de justicia para las personas con discapacidad que pone en el centro a personas queer/trans con discapacidad y racializadas.
 - **[Deaf Queer Resource Center](http://dqrc.org/)**: visibiliza las vidas Sordas, Queer y Trans.
-- **[Rainbow Alliance of the Deaf](https://rad.org/)**: comunidad y defensa para personas Sordas LGBTQIA+.
+- **[Rainbow Alliance of the Deaf](https://www.deafrad.org/)**: comunidad y defensa para personas Sordas LGBTQIA+.
 - **[The Trevor Project](https://www.thetrevorproject.org/)**: apoyo en crisis e investigación para personas jóvenes LGBTQ+.
 - **[Trans Lifeline](https://translifeline.org/)**: línea de crisis de apoyo entre pares (peer) por y para personas trans (EE. UU.: 1-877-565-8860).
 - **[LGBT National Help Center](https://lgbthotline.org/)**: apoyo entre pares gratuito y confidencial.
