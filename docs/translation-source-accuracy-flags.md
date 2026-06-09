@@ -82,12 +82,15 @@ These English pages were corrected this session (commits `8fa5f04`, `1f98057`) a
   Google Form (`forms.gle/…`, returned an error shell) dropped in favor of the email
   CTA `contribute2disabilitywiki@gmail.com` (PR #17, EN + es); title typo + placeholder
   + circular footer fixed earlier (PR #15); the email was also added to
-  `/glossary/how-to-contribute` (PR #16). `disability-wiki-page` SKILL still says to
-  link `/glossary/how-to-contribute` — **update the skill** to point at `/start/contribute`.
-  - ⬜ **Still deferred (not blocking):** repoint the ~226 inbound `/glossary/how-to-contribute`
-    links to `/start/contribute` and retitle `/glossary/how-to-contribute` (still "How to
-    Contribute") to something like "Technical/Editorial Contribution Guide" so the two
-    pages don't share a title. `/glossary` stays as the git-workflow guide.
+  `/glossary/how-to-contribute` (PR #16).
+  - ✅ **Follow-through COMPLETE 2026-06-09 (PR #18, verified in DB):** `disability-wiki-page`
+    SKILL updated to link `/start/contribute` as canonical; all inbound links repointed
+    `/glossary/how-to-contribute` → `/start/contribute` (244 links / 218 files, EN + es;
+    0 broken links after); `/glossary/how-to-contribute` retitled **"Technical Contribution
+    Guide"** / **"Guía de contribución técnica"** and reframed as the Git/PR workflow;
+    reciprocal pointer added from `/start/contribute` → the Technical Contribution Guide.
+    Force-sync didn't import the modified pages (the known quirk) — pushed all 222 via
+    `publish_page.py` and verified each in the DB. The two pages no longer share a title.
 
 ### Checked — not an issue
 - ⏭️ `benefits/international/benefits-overview.md` links to
