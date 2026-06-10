@@ -1,6 +1,6 @@
 ---
 title: Crisis Hotlines in Nigeria
-description: Crisis and mental-health support lines for Nigeria, including Lifeline Nigeria. If you're in crisis right now, you're not alone.
+description: Crisis and mental-health support lines for Nigeria, including SURPIN and She Writes Woman. If you're in crisis right now, you're not alone.
 published: true
 date: 2026-06-05T20:30:25.819Z
 tags: 
@@ -21,20 +21,20 @@ to read everything.
 
 ## 🚨 RIGHT NOW: Call This Number
 
-### Lifeline Nigeria
+### SURPIN (Suicide Research and Prevention Initiative)
 
-**Phone:** +234-809-063-0000 (24/7)  
-**Mobile:** Available on all networks  
-**Email:** support@lifelinenigeria.org  
-**Hours:** 24/7, 365 days a year  
-**Cost:** Free  
-**Languages:** English, Yoruba, Igbo, Hausa  
+**Phone:** 0800 078 7746 (toll-free)  
+**Other lines:** 0908 021 7555 (9mobile) • 0903 440 0009 (MTN) • 0814 224 1007 (Hausa line)  
+**Hours:** 24 hours  
+**Cost:** Free on the toll-free line; network rates may apply on mobile lines  
+**Website:** [surpinng.com](https://www.surpinng.com/)  
 
 **What happens:**
-- 24/7 emotional support
-- Suicide prevention
-- Trained counselors
+- Emotional support and suicide prevention
+- Trained responders (LifeLine International member)
 - Confidential and judgment-free
+
+*(Numbers verified against SURPIN and LifeLine International, June 2026.)*
 
 ---
 
@@ -42,7 +42,7 @@ to read everything.
 
 ### Mental Health Crisis
 
-**Lifeline Nigeria:** +234-809-063-0000 (24/7)  
+**SURPIN:** 0800 078 7746 (toll-free, 24-hour)  
 - Emotional support for any crisis
 
 **SERAP (Socio-Economic Rights and Accountability Project):** 01-493-0000  
@@ -50,7 +50,7 @@ to read everything.
 
 ### Suicidal Thoughts
 
-**Lifeline Nigeria:** +234-809-063-0000 (24/7)  
+**SURPIN:** 0800 078 7746 (toll-free, 24-hour)  
 - Suicide prevention and support
 
 **Mental Health Foundation:** Lagos office  
@@ -74,14 +74,14 @@ to read everything.
 
 ### Youth Crisis
 
-**Lifeline Nigeria:** +234-809-063-0000 (24/7)  
+**SURPIN:** 0800 078 7746 (toll-free, 24-hour)  
 - Support for young people
 
 **Youth-focused NGOs:** Search in your state
 
 ### LGBTQ+ Crisis
 
-**Lifeline Nigeria:** +234-809-063-0000  
+**SURPIN:** 0800 078 7746 (toll-free)  
 - Support for LGBTQ+ people (confidential)
 
 **Note:** Same-sex relationships are illegal in Nigeria. Crisis services provide confidential support.
@@ -95,7 +95,7 @@ to read everything.
 
 ### Substance Use Crisis
 
-**Lifeline Nigeria:** +234-809-063-0000  
+**SURPIN:** 0800 078 7746 (toll-free)  
 - Substance use information and support
 
 **NARC (Narcotics Anonymous):** Local meetings  
@@ -109,11 +109,11 @@ to read everything.
 
 ### Lagos
 - Mirabel Centre (sexual assault): 01-493-5633
-- Lifeline Nigeria: +234-809-063-0000
+- SURPIN: 0800 078 7746
 
 ### Abuja
 - National Hospital: 09-413-2588
-- Lifeline Nigeria: +234-809-063-0000
+- SURPIN: 0800 078 7746
 
 ### Kano, Kaduna, and Northern Nigeria
 - Use national numbers
@@ -152,7 +152,7 @@ Counselors are trained to help.
 ### For Those Without Phone Access
 
 - **SMS/Text:** Some services available via text
-- **Email:** support@lifelinenigeria.org
+- **Email/contact forms:** via SURPIN at surpinng.com
 - **In-person:** Some NGOs have physical offices
 
 ### For Multiple Languages
@@ -233,7 +233,7 @@ LGBTQ+ support is confidential. Your safety is protected.
 
 *Confirm each number with the service before calling; details can change.*
 
-**In crisis right now?** Call +234-809-063-0000. Everything else can wait.
+**In crisis right now?** Call 0800 078 7746 (SURPIN, toll-free). Everything else can wait.
 
 *Cost, confidentiality, and hours vary by service — check each listing.*
 

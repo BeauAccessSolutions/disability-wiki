@@ -72,16 +72,18 @@ This page connects you to crisis resources across Africa.
 
 ### Egypt
 
-**⚠️ Important:** Egypt currently has **no functioning suicide prevention hotline**. Befrienders Cairo closed approximately 2005.
+**Ministry of Health Mental Health Hotline**
+- Phone: 16328 (General Secretariat of Mental Health and Addiction Treatment)
+- Round-the-clock psychological support (verified June 2026; call costs not confirmed)
+
+**Note:** Egypt has no independent suicide-prevention NGO line in the Befrienders model — Befrienders Cairo closed around 2005. The Ministry of Health line above is the national option.
 
 **National Council for Childhood and Motherhood Hotline**
 - Phone: 16000
 - Child protection and abuse reporting only
 
 **For mental health crisis:**
-- Contact emergency services: 122
-- Go to nearest hospital emergency department
-- Contact: Sourire de Reda +212 (5) 22 87 47 40 (Morocco-based, limited hours)
+- Call 16328, contact emergency services (122), or go to the nearest hospital emergency department
 
 **Emergency Services**
 - Emergency: 122
@@ -134,13 +136,10 @@ This page connects you to crisis resources across Africa.
 
 ### Ghana
 
-**Mental Health Authority Crisis Line**
-- Phone: 0800-900-909 (free)
-- Website: https://www.mhaghana.org
-
-**Lifeline Ghana**
-- Phone: 0244-846-701
-- Email: info@lifelineghana.org
+**Mental Health Authority Helpline**
+- Phone: 0800-678-678 (toll-free)
+- Website: https://mha-ghana.com
+- (Number verified against the Mental Health Authority's site, June 2026; hours not published — confirm when you call)
 
 **Domestic Violence & Victim Support Unit (DOVVSU)**
 - Phone: 0800-800-900 (toll-free, 24/7)
@@ -158,8 +157,8 @@ This page connects you to crisis resources across Africa.
 **For complete crisis resources in Nigeria, see [Crisis Help: Nigeria](/crisis/crisis-hotlines/africa/nigeria)**
 
 **Quick Numbers:**
-- **Mentally Aware Nigeria Initiative (MANI):** 0806-210-6493 or 0809-210-0009 (8am-10pm daily)
-- **She Writes Woman (Women's Mental Health):** 0800 800 2000 (toll-free, 24/7, launched 2024)
+- **SURPIN (Suicide Research and Prevention Initiative):** 0800 078 7746 (toll-free, 24-hour)
+- **She Writes Woman (Women's Mental Health):** 0800 800 2000 (toll-free, 24/7, operating since 2020)
 - **National Human Rights Commission:** 0700-2255-6472
 - **Emergency:** 112 or 767
 
@@ -200,7 +199,8 @@ This page connects you to crisis resources across Africa.
 - Website: https://www.redcross.or.ke
 
 **Befrienders Kenya**
-- Phone: (020) 3000-378 or 0722-178-177
+- Phone: 0722-178-177
+- Hours: 9am–5pm daily (not 24/7)
 - Email: befrienderskenya@gmail.com
 
 **Gender Violence Recovery Centre (GVRC)**
@@ -304,10 +304,15 @@ This page connects you to crisis resources across Africa.
 
 ### Zimbabwe
 
-**Lifeline Zimbabwe**
-- Phone: (04) 706-055 or 0800-350-00
-- Hours: 7am-9pm daily
-- Website: http://www.lifelinezim.com
+**Samaritans Bulawayo**
+- Phone: +263 9 65000
+- Hours: 24/7 (per Befrienders Worldwide, June 2026)
+
+**Friendship Bench National Helpline**
+- Phone: 0808 4116 (Mon–Fri 8am–5pm)
+
+**Childline Zimbabwe**
+- Phone: 116 (free, 24/7)
 
 **Adult Rape Clinic (ARC)**
 - Phone: (024) 2-773-388

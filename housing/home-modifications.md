@@ -91,7 +91,7 @@ The U.S. has multiple funding sources for home modifications, though most reach 
 
 **Medicaid Home and Community-Based Services (HCBS) Waivers** provide modifications funding through state-administered programs. Funding varies by state ($10,000-15,000 typical maximum, some states higher). Eligibility criteria vary. Contact your state Medicaid office or disability rights organization for your state's HCBS waiver information. Waitlists exist in most states.
 
-**Veterans Affairs (VA) Specially Adapted Housing (SAH) Grants** provide substantial funding for eligible disabled veterans. Maximum grant **$121,812 (FY 2025, adjusted annually)** for veterans with permanent total service-connected disabilities including loss of limbs, loss of sight, loss of hearing combined with loss of speech. Covers construction, purchase, or modifications. Contact VA.gov or Veterans Crisis Line 988 then press 1. See [Veterans Benefits](/benefits/us/veterans-benefits).
+**Veterans Affairs (VA) Specially Adapted Housing (SAH) Grants** provide substantial funding for eligible disabled veterans. Maximum grant **$126,526 (FY 2026, adjusted each October — [check current amount at VA.gov](https://www.va.gov/housing-assistance/disability-housing-grants/))** for veterans with permanent total service-connected disabilities including loss of limbs, loss of sight, loss of hearing combined with loss of speech. Covers construction, purchase, or modifications. Contact VA.gov or Veterans Crisis Line 988 then press 1. See [Veterans Benefits](/benefits/us/veterans-benefits).
 
 **VA Home Improvement and Structural Alteration (HISA) Grants** provide up to **$2,000** for minor modifications for eligible veterans. Less restrictive eligibility than SAH. Contact VA.gov.
 

@@ -429,13 +429,12 @@ This page connects you to crisis resources across Europe.
 
 ### Hungary
 
-**Kék Vonal (Blue Line Crisis Helpline)**
-- Phone: 116-123 (18:00-06:00)
-- Website: http://www.kek-vonal.hu
+**LESZ — Magyar Lelki Elsősegély Szolgálatok (Crisis Helpline)**
+- Phone: 116-123 (free, 24/7)
 
-**OKIT (Child Crisis Helpline)**
-- Phone: 116-111 (24/7)
-- Website: https://www.kek-vonal.hu/okit
+**Kék Vonal (Children & Youth Helpline, up to age 24)**
+- Phone: 116-111 (free, 24/7)
+- Website: https://kek-vonal.hu
 
 **Emergency:** 112
 

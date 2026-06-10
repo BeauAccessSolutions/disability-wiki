@@ -118,7 +118,7 @@ Eugenics reached its most extreme violence under the Nazi regime.
 
 ### What Happened
 
-Between 1939 and 1941, the Nazi state murdered over 70,000 disabled children and adults under the T4 euthanasia program, claiming it was "mercy killing" or "relieving burden."
+Between 1940 and 1941, the Nazi state murdered over 70,000 disabled children and adults (70,273 by the program's own records) under the centralized T4 "euthanasia" program, claiming it was "mercy killing" or "relieving burden." Decentralized killings continued covertly until 1945; historians estimate around 250,000 disabled people were murdered in total ([USHMM](https://encyclopedia.ushmm.org/content/en/article/euthanasia-program)).
 
 Methods included gas chambers, lethal injection, starvation, and medical neglect. Doctors and nurses were directly involved. Institutionalized people were used as testing subjects for killing technologies later used in concentration camps.
 

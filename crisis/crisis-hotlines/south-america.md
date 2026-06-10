@@ -258,9 +258,13 @@ Select your country for local crisis resources:
 
 ### Crisis and Support Services
 
-**0800-PSICÓLOGO (0800-774-2656)**
-- Phone: 0800-774-2656 (free)
-- Hours: Monday-Friday, 8am-4pm
+**Línea de Ayuda Psicológica (LAPSI) — Federación de Psicólogos de Venezuela**
+- Phone: (0212) 416-31-16 or (0424) 290-73-38
+- Hours: Friday–Sunday, 8am–8pm
+- Free psychological support (verified June 2026)
+
+**Psicólogos Sin Fronteras Venezuela**
+- Phone: (0424) 927-03-04
 - Psychological support
 
 **Línea de Ayuda para la Mujer**

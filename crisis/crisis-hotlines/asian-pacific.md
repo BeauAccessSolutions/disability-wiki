@@ -170,8 +170,8 @@ This page connects you to crisis resources across Asia and the Pacific region.
 **For complete crisis resources in Indonesia, see [Crisis Help: Indonesia](/crisis/crisis-hotlines/asian-pacific/indonesia)**
 
 **Quick Numbers:**
-- **Yayasan Pulih:** (021) 788-42580
-- **LSM Jangan Bunuh Diri:** (021) 9696-9293 or 0818-0140-1754 (8am-10pm)
+- **Healing119 (Kemenkes, national):** call 119 ext 8 (24 hours, free) or WhatsApp +62 813-8007-3120
+- **Yayasan Pulih (counseling):** (021) 788-42580
 - **Komnas Perempuan (Violence Against Women):** (021) 3903-963
 - **Emergency:** 112 or 119
 
@@ -246,9 +246,8 @@ This page connects you to crisis resources across Asia and the Pacific region.
 - Mental health counseling and crisis support
 
 **Samaritans of Thailand**
-- Phone: (02) 713-6793 (10am-10pm daily)
-- English support available
-- Email: jo@samaritans.or.th
+- Phone: 02-113-6789 (12pm–10pm daily; press 1 for Thai, 2 for English callback)
+- (Number changed in December 2021 — the old (02) 713-6793 line is no longer current)
 
 **Baan Kredtrakarn (Child Abuse)**
 - Phone: 1300 (24/7)
@@ -261,9 +260,12 @@ This page connects you to crisis resources across Asia and the Pacific region.
 
 ### Vietnam
 
-**Mental Health Hotline**
-- Phone: 1800-599-999 (free)
-- Hours: 7am-10pm daily
+**Đường dây nóng Ngày Mai (psychological first aid)**
+- Phone: 096 306 1414 (free)
+- Hours: 1pm–8:30pm Wed/Fri/Sat/Sun (limited hours)
+- Website: duongdaynongngaymai.vn
+
+**Note:** Vietnam has no national 24/7 mental-health crisis line as of June 2026. For children and teens, the national child helpline **111** is free and 24/7.
 
 **Center for Creative Initiatives in Health and Population**
 - Phone: (024) 3974-3841
@@ -350,9 +352,8 @@ This page connects you to crisis resources across Asia and the Pacific region.
 ### Pakistan
 
 **Umang (Mental Health Support)**
-- Phone: 0311-7786264
-- WhatsApp support available
-- Website: https://umang.com.pk
+- Phone: 0311-7786264 (+92 311 7786264)
+- Website: https://umang.com.pk (check site for current WhatsApp options)
 
 **Rozan (Psychosocial Support)**
 - Phone: 0800-22-444 or 042-3532-8177

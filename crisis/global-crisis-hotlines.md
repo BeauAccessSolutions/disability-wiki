@@ -437,7 +437,7 @@ This wiki is community-driven. See [How to Contribute](/start/contribute) for in
 ---
 
 
-*Verified December 4, 2025 - 60+ corrections implemented*
+*Verified December 4, 2025 — 62 corrections implemented*
 
 **In crisis right now?**
 - **US/Canada:** 988 (call or text, 24/7)

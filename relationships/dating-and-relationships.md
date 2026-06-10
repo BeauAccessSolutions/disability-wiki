@@ -12,6 +12,8 @@ dateCreated: 2025-11-20T19:11:27.641Z
 
 Disabled people have the same desires for connection, intimacy, and partnership as anyone else. This page centers disabled people's experiences navigating dating and relationships, addresses unique considerations, and provides practical guidance.
 
+> **If you're in an abusive relationship or feel unsafe right now (US):** National Domestic Violence Hotline — call **1-800-799-7233** (1-800-799-SAFE), text **START to 88788**, TTY **1-800-787-3224**, or chat at [thehotline.org](https://www.thehotline.org/). Free, confidential, 24/7. See also [Abuse, Safety, and Consent](/relationships/abuse-safety-and-consent).
+
 ---
 
 ## Breaking Down Stigma
