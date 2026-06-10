@@ -23,12 +23,14 @@ que leer todo.
 
 ### Kenya Red Cross Society
 
-**Teléfono:** 0800 721 100 (24/7, gratuito)  
-**También:** 020-7128100 (oficina principal, horario laboral)  
-**Sitio web:** kenyaredcross.org  
+**Teléfono:** 1199 (gratuito, 24/7)  
+**Línea de respaldo:** +254 703 037 000 (conmutador principal, si el 1199 no conecta)  
+**Sitio web:** redcross.or.ke  
 **Horario:** 24/7, los 365 días del año  
-**Costo:** Gratuito  
+**Costo:** Línea gratuita (marcación gratuita confirmada en Safaricom; puede variar con otros operadores)  
 **Idiomas:** Inglés, suajili  
+
+*(Número verificado contra Kenya Red Cross y LifeLine International, junio de 2026.)*
 
 **Qué sucede:**
 - Apoyo en crisis 24/7
@@ -42,20 +44,20 @@ que leer todo.
 
 ### Crisis de salud mental
 
-**Kenya Red Cross:** 0800 721 100 (24/7)  
+**Kenya Red Cross:** 1199 (gratuito, 24/7)  
 - Apoyo emocional
 
-**Befrienders Kenya:** 0722 178 177 (24/7)  
+**Befrienders Kenya:** 0722 178 177 (de 9 a. m. a 5 p. m. todos los días)  
 - Apoyo en crisis y prevención del suicidio
 
 **Organizaciones de apoyo psicosocial:** ONG locales en las principales ciudades
 
 ### Pensamientos suicidas
 
-**Kenya Red Cross:** 0800 721 100 (24/7)  
+**Kenya Red Cross:** 1199 (gratuito, 24/7)  
 - Prevención del suicidio
 
-**Befrienders Kenya:** 0722 178 177 (24/7)
+**Befrienders Kenya:** 0722 178 177 (de 9 a. m. a 5 p. m. todos los días)
 
 ### Abuso o violencia
 
@@ -69,20 +71,20 @@ que leer todo.
 - Hospitales generales provinciales (consulta en tu zona)
 
 **Abuso infantil:**  
-- Kenya Red Cross: 0800 721 100
+- Kenya Red Cross: 1199
 - National Police Service (unidad de protección infantil)
 - ChildFund Kenya: oficinas locales
 
 ### Crisis juvenil
 
-**Kenya Red Cross:** 0800 721 100 (24/7)  
+**Kenya Red Cross:** 1199 (gratuito, 24/7)  
 - Apoyo para personas jóvenes
 
 **ONG enfocadas en la juventud:** busca en tu ciudad
 
 ### Crisis LGBTQ+
 
-**Kenya Red Cross:** 0800 721 100  
+**Kenya Red Cross:** 1199  
 - Apoyo para personas LGBTQ+ (confidencial)
 
 **Nota:** Las relaciones entre personas del mismo sexo están legalmente restringidas en Kenia. Los servicios de crisis brindan apoyo confidencial.
@@ -96,7 +98,7 @@ que leer todo.
 
 ### Crisis por uso de sustancias
 
-**Kenya Red Cross:** 0800 721 100  
+**Kenya Red Cross:** 1199  
 - Información y apoyo sobre el uso de sustancias
 
 **Narcotics Anonymous:** reuniones locales  
@@ -109,12 +111,12 @@ que leer todo.
 **Los números nacionales funcionan en todo el país:**
 
 ### Nairobi
-- Kenya Red Cross: 0800 721 100
+- Kenya Red Cross: 1199
 - Hospitales privados: varias opciones
 - Befrienders: 0722 178 177
 
 ### Mombasa, Kisumu y otras ciudades importantes
-- Kenya Red Cross: 0800 721 100
+- Kenya Red Cross: 1199
 - Hospitales generales provinciales
 
 ### Zonas rurales o remotas
@@ -228,7 +230,7 @@ La discriminación por discapacidad es ilegal. Si un servicio discrimina, alza l
 
 *Confirma cada número con el servicio antes de llamar; los datos pueden cambiar.*
 
-**¿En crisis en este momento?** Llama al 0800 721 100. Todo lo demás puede esperar.
+**¿En crisis en este momento?** Llama al 1199. Todo lo demás puede esperar.
 
 *El costo, la confidencialidad y el horario varían según el servicio; consulta cada uno.*
 

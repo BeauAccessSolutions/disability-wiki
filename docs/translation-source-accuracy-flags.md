@@ -12,6 +12,28 @@ Status legend: ⬜ open · ✅ fixed in EN (⚠️ ES still needs sync) · ✅�
 
 ---
 
+## ✅✅ 2026-06-10 audit fixes synced to es/ (2026-06-10, branch `fix/audit-2026-06-10-accuracy`)
+
+All 18 `es/` counterparts of the English files corrected in commits `78b2ed3` (crisis
+hotlines) and `7328e33` (content facts) are synced; every file passes `check_translation.py`.
+
+**Life-safety (crisis) — fabricated/wrong numbers replaced, mirroring EN:**
+- `es/crisis/crisis-hotlines/africa/nigeria.md` — fabricated "Lifeline Nigeria" +234-809-063-0000 removed sitewide → **SURPIN 0800 078 7746** lead (incl. footer CTA); also repaired the broken frontmatter `description` (it carried the canonical Costo sentence instead of a real description — now mirrors the new EN description).
+- `es/crisis/crisis-hotlines/africa/kenya.md` — untraceable Red Cross 0800 721 100 → **1199** (9 occurrences incl. footer CTA); Befrienders Kenya 24/7 → 9 a.m.–5 p.m.
+- `es/crisis/crisis-hotlines/africa.md` — Egypt MoH 16328 (replaces "no functioning hotline"); Ghana MHA 0800-678-678 (Lifeline Ghana + wrong MHA number removed); Nigeria quick numbers → SURPIN, She Writes Woman 2024→2020; Befrienders Kenya hours; Zimbabwe → Samaritans Bulawayo +263 9 65000 / Friendship Bench 0808 4116 / Childline 116.
+- `es/crisis/crisis-hotlines/asian-pacific.md` — Vietnam bank line 1800-599-999 → Ngày Mai 096 306 1414 + "no national 24/7 line" note + child line 111; Indonesia → Healing119 (119 ext 8) lead; Thailand Samaritans → 02-113-6789 (12 p.m.–10 p.m.); Pakistan Umang hedged.
+- `es/crisis/crisis-hotlines/europe.md` — Hungary: 116-123 = LESZ 24/7 (was mislabeled Kék Vonal 18:00–06:00); Kék Vonal 116-111 = youth ≤24, 24/7.
+- `es/crisis/crisis-hotlines/north-america.md`, `es/crisis/index.md`, `es/healthcare/mental-health.md` — retired Talk Suicide Canada 1-833-456-4566 → 988; Trans Lifeline hours (M–F 10–6 PT, not 24/7); Trevor 24/7.
+- `es/crisis/global-crisis-hotlines.md` — "más de 60" → "62 correcciones".
+
+**Content facts:** `es/foundations/disability-culture.md` + `es/history/eugenics.md` (T4: ~70,000/70 273 in the 1940–41 centralized phase, ~250,000 total to 1945, USHMM link); `es/history/global-timelines.md` + `es/housing/housing-rights.md` (CRPD 193 parties/164 signatories June 2026 + enforceability hedge); `es/housing/home-modifications.md` (SAH $126,526 FY2026); `es/professionals/healthcare-providers.md` (LeDeR mortality gap); `es/professionals/public-safety-officers.md` (Ruderman 2016 + McCauley AJPH 2017 attribution); `es/tech/screen-reader-comparison.md` (JAWS ~$105/yr, ~$1,570 perpetual, June 2026).
+
+### ✅✅ New EN-source flags surfaced during this sync (RESOLVED 2026-06-10, EN + es)
+- ✅✅ `crisis/crisis-hotlines/africa/nigeria.md:123` (EN) — leftover "**Lifeline works nationwide**" under "Other states" (referred to the removed fabricated Lifeline Nigeria) → now "**SURPIN (0800 078 7746) works nationwide**". es mirrored ("SURPIN (0800 078 7746) funciona en todo el país"). Repo-wide grep: remaining "LifeLine" hits are the legitimate LifeLine International membership notes + Lifeline South Africa.
+- ✅✅ `crisis/crisis-hotlines/asian-pacific/thailand.md` (EN leaf) — all 8 obsolete **Samaritans 02-713-6791** occurrences (+ the 02-713-6793 Thai line and the 24/7 claims) replaced with **02-113-6789 (12 p.m.–10 p.m. daily; press 1 Thai, 2 English callback)**, with a "number changed December 2021" note; website fixed `samaritansthailand.org` → **samaritansthai.com**; footer crisis CTA now leads with the confirmed 24/7 line **1323 (Department of Mental Health)**, Samaritans as the English fallback with hours. Re-verified 2026-06-10 against two independent primary sources: samaritansthai.com (incl. its own number-change announcement page) and Befrienders Worldwide (befrienders.org Bangkok Centre listing) — both confirm 02-113-6789, 12:00–22:00 daily, press 1/2. es leaf mirrored throughout; both es files pass `check_translation.py`.
+
+---
+
 ## ⚠️ ES SYNC REQUIRED (added 2026-06-07)
 
 The Codex audit remediation (see `AUDIT_REMEDIATION_STATUS.md`) edited many **English** pages
@@ -186,3 +208,14 @@ Verified each against the primary source, fixed English, confirmed `es/` parity.
 - ✅✅ `crisis/.../mexico` — **CONADIC 01-800-911-2000** was the same number as Línea de la Vida with an outdated operator → relabeled **Línea de la Vida (CONASAMA)**, noting it's the same national line.
 - ✅✅ `crisis/.../argentina` — **ANDIS** name fixed to **Agencia Nacional de Discapacidad (now Secretaría Nacional de Discapacidad)**; unverifiable **4303-9088 → official 0800-555-3472** (+ Deaf/HoH video-call line). es had the wrong "Asociación Nacional de Discapacitados".
 - ✅✅ `crisis/.../argentina` — emergency block corrected: **100 = Bomberos (firefighters)**, with 911 (integrated) and 107 (SAME medical). The es page literally said "Llama al 100 para la policía" — fixed.
+
+---
+
+## ✅✅ discord.md Spanish rewrite + online-communities index sync (2026-06-10, English commit `8a83d6e`)
+
+The 2026-06-10 audit flagged that `community/online-communities/discord.md` was 480 lines of duplicated reddit.md content under a Discord title; the English was rewritten as a genuine Discord page in `8a83d6e`. `es/community/online-communities/discord.md` had the same defect (Spanish Reddit content under a Discord title).
+
+- **`es/community/online-communities/discord.md`** — replaced wholesale with a fresh translation of the rewritten English page (accessibility features per discord.com/accessibility + support docs + AFB AccessWorld review; directory-based server discovery via Disboard/Discord Me/top.gg instead of named servers; evaluation guidance; DM/scam safety). Frontmatter `dateCreated` preserved; `date` set to match the English (2026-06-10). All internal links `/es/`-prefixed; external directory/support URLs untouched.
+- **`es/community/online-communities/index.md`** — synced the two `8a83d6e` index hunks: the new **"Actividad"** bullet (check recent activity before investing in a group/server) and the **"Una nota sobre estafas y depredación"** blockquote (scam/predation + cold-DM warning).
+
+Both pass `check_translation.py`. No EN-source accuracy issues spotted during translation.

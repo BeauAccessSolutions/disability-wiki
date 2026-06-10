@@ -14,7 +14,7 @@ Las personas con discapacidad tienen protecciones legales en materia de vivienda
 
 ## Marco de derechos universal
 
-Todas las personas con discapacidad del mundo comparten el mismo derecho fundamental: **vivir de forma independiente en la comunidad con apoyo si es necesario**. Esto lo establece el **artículo 19 de la Convención de la ONU sobre los Derechos de las Personas con Discapacidad (Convention on the Rights of Persons with Disabilities, CDPD)**, ratificada por 186 países.
+Todas las personas con discapacidad del mundo comparten el mismo derecho fundamental: **vivir de forma independiente en la comunidad con apoyo si es necesario**. Este estándar lo establece el **artículo 19 de la Convención de la ONU sobre los Derechos de las Personas con Discapacidad (Convention on the Rights of Persons with Disabilities, CDPD)**, que cuenta con 193 partes a junio de 2026 ([Colección de Tratados de la ONU](https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=IV-15&chapter=4)). La ratificación por sí sola no crea un recurso individual exigible: lo que puedes reclamar depende de la implementación en tu país (ver más abajo).
 
 Para una explicación detallada de cómo funciona el artículo 19 de la CDPD, cómo lo interpretan los distintos sistemas legales y los marcos internacionales que protegen los derechos de vivienda de las personas con discapacidad, consulta [Derechos internacionales de vivienda](/es/housing/international-housing-rights.md).
 

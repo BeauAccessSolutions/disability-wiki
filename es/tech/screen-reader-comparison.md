@@ -33,7 +33,7 @@ Esta página pone en el centro la experiencia de las personas usuarias reales de
 | Lector de pantalla | Plataforma | Costo | Mejor para |
 |---------------|----------|------|----------|
 | **NVDA** | Windows | Gratis | Uso versátil, presupuesto ajustado |
-| **JAWS** | Windows | $90/año o $1,000+ | Empleos que exigen JAWS, funciones avanzadas |
+| **JAWS** | Windows | ~$105/año o ~$1,570 licencia perpetua | Empleos que exigen JAWS, funciones avanzadas |
 | **Narrator** | Windows | Gratis (integrado) | Uso básico, para empezar |
 | **VoiceOver** | Mac/iOS | Gratis (integrado) | Ecosistema de Apple |
 | **TalkBack** | Android | Gratis (integrado) | Teléfonos y tabletas Android |
@@ -85,9 +85,10 @@ Esta página pone en el centro la experiencia de las personas usuarias reales de
 
 **Costo**: 
 
-- $90/año para la edición doméstica
-- $1,000+ para la licencia profesional
-- $200/año para la suscripción profesional
+- Alrededor de $105/año para la licencia anual de la edición doméstica (solo EE. UU.)
+- Alrededor de $1,570 para una licencia doméstica perpetua
+- Las licencias profesionales cuestan más (~$2,300 la perpetua)
+- Precios a junio de 2026 — consulta [store.vispero.com](https://store.vispero.com/collections/jaws) para ver las tarifas actuales
 
 **Desarrollado por**: Freedom Scientific (Vispero)
 

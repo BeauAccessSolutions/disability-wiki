@@ -119,10 +119,10 @@ La mayoría de los estados tienen líneas de crisis locales. Busca: "[tu estado]
 - Teléfono: 988 (24/7, lanzada en noviembre de 2023)
 - Servicio nacional de prevención de suicidio
 
-**Crisis Services Canada**
-- Teléfono: 1-833-456-4566 (24/7)
-- Mensaje de texto: 45645 (de 4 p. m. a medianoche, hora del Este)
-- Sitio web: https://www.crisisservicescanada.ca
+**9-8-8 Suicide Crisis Helpline (Canadá)**
+- Teléfono o mensaje de texto: 988 (24/7, gratuito)
+- Sitio web: https://988.ca
+- (La antigua línea Talk Suicide Canada 1-833-456-4566 fue retirada; el 988 la reemplazó)
 
 **Kids Help Phone**
 - Teléfono: 1-800-668-6868 (24/7)
