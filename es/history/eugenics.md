@@ -118,7 +118,7 @@ La eugenesia alcanzó su violencia más extrema bajo el régimen nazi.
 
 ### Qué ocurrió
 
-Entre 1939 y 1941, el Estado nazi asesinó a más de 70 000 niñas, niños y personas adultas con discapacidad bajo el programa de eutanasia T4, alegando que era una "muerte por piedad" o un "alivio de la carga".
+Entre 1940 y 1941, el Estado nazi asesinó a más de 70 000 niñas, niños y personas adultas con discapacidad (70 273 según los registros del propio programa) bajo el programa centralizado de "eutanasia" T4, alegando que era una "muerte por piedad" o un "alivio de la carga". Los asesinatos descentralizados continuaron de forma encubierta hasta 1945; los historiadores estiman que en total fueron asesinadas alrededor de 250 000 personas con discapacidad ([USHMM](https://encyclopedia.ushmm.org/content/en/article/euthanasia-program)).
 
 Los métodos incluyeron cámaras de gas, inyección letal, inanición y negligencia médica. Médicos y enfermeras estuvieron directamente involucrados. Las personas institucionalizadas fueron usadas como sujetos de prueba para las tecnologías de exterminio que luego se usaron en los campos de concentración.
 

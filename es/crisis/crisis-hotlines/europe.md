@@ -429,13 +429,12 @@ El **112** funciona en **todos los países de la UE** y en muchos otros para eme
 
 ### Hungría {#hungary}
 
-**Kék Vonal (línea de crisis Blue Line)**
-- Teléfono: 116-123 (de 18:00 a 06:00)
-- Sitio web: http://www.kek-vonal.hu
+**LESZ — Magyar Lelki Elsősegély Szolgálatok (línea de crisis)**
+- Teléfono: 116-123 (gratuito, 24/7)
 
-**OKIT (línea de crisis infantil)**
-- Teléfono: 116-111 (24/7)
-- Sitio web: https://www.kek-vonal.hu/okit
+**Kék Vonal (línea para niños, niñas y jóvenes, hasta los 24 años)**
+- Teléfono: 116-111 (gratuito, 24/7)
+- Sitio web: https://kek-vonal.hu
 
 **Emergencia:** 112
 

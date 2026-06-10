@@ -185,12 +185,12 @@ Estas no reemplazan la atención profesional cuando se necesita, pero pueden ser
 **Líneas de crisis** (EE. UU.):
 - 988 Suicide and Crisis Lifeline: Llama o envía un mensaje de texto al 988
 - Crisis Text Line: Envía HOME por mensaje de texto al 741741
-- Trans Lifeline: 1-877-565-8860
-- Trevor Project (juventud LGBTQ+): 1-866-488-7386
+- Trans Lifeline: 1-877-565-8860 (de lunes a viernes, de 10 a. m. a 6 p. m., hora del Pacífico — no es 24/7)
+- Trevor Project (juventud LGBTQ+): 1-866-488-7386 (24/7)
 
 **Líneas de crisis** (otros países):
 - Reino Unido: Samaritans 116 123
-- Canadá: 988 (en muchas provincias); Crisis Services Canada 1-833-456-4566
+- Canadá: 988 (llamada o mensaje de texto, 24/7 en todo el país)
 - Australia: Lifeline 13 11 14
 - Internacional: Encuentra líneas en findahelpline.com
 

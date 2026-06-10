@@ -54,7 +54,7 @@ Crea un plan de emergencia específico para la discapacidad. Cubre la evacuació
 
 ### Estoy teniendo pensamientos suicidas en este momento
 - **EE. UU.**: [National Suicide Prevention Lifeline](tel:988) (llama/envía un texto al 988)
-- **Canadá**: [National Suicide Prevention Service](tel:1-833-456-4566) (1-833-456-4566)
+- **Canadá**: [9-8-8 Suicide Crisis Helpline](tel:988) (llama o envía un texto al 988)
 - **Reino Unido**: [Samaritans](tel:116-123) (llama al 116 123)
 - [Más opciones →](/es/crisis/global-crisis-hotlines)
 

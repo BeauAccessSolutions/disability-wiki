@@ -437,7 +437,7 @@ Este wiki es impulsado por la comunidad. Consulta [Cómo Contribuir](/es/start/c
 ---
 
 
-*Verificado el 4 de diciembre de 2025 - más de 60 correcciones implementadas*
+*Verificado el 4 de diciembre de 2025 — 62 correcciones implementadas*
 
 **¿En crisis en este momento?**
 - **EE. UU./Canadá:** 988 (llamada o texto, 24/7)

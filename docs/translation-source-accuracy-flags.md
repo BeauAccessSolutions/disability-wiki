@@ -12,6 +12,28 @@ Status legend: ⬜ open · ✅ fixed in EN (⚠️ ES still needs sync) · ✅�
 
 ---
 
+## ✅✅ 2026-06-10 audit fixes synced to es/ (2026-06-10, branch `fix/audit-2026-06-10-accuracy`)
+
+All 18 `es/` counterparts of the English files corrected in commits `78b2ed3` (crisis
+hotlines) and `7328e33` (content facts) are synced; every file passes `check_translation.py`.
+
+**Life-safety (crisis) — fabricated/wrong numbers replaced, mirroring EN:**
+- `es/crisis/crisis-hotlines/africa/nigeria.md` — fabricated "Lifeline Nigeria" +234-809-063-0000 removed sitewide → **SURPIN 0800 078 7746** lead (incl. footer CTA); also repaired the broken frontmatter `description` (it carried the canonical Costo sentence instead of a real description — now mirrors the new EN description).
+- `es/crisis/crisis-hotlines/africa/kenya.md` — untraceable Red Cross 0800 721 100 → **1199** (9 occurrences incl. footer CTA); Befrienders Kenya 24/7 → 9 a.m.–5 p.m.
+- `es/crisis/crisis-hotlines/africa.md` — Egypt MoH 16328 (replaces "no functioning hotline"); Ghana MHA 0800-678-678 (Lifeline Ghana + wrong MHA number removed); Nigeria quick numbers → SURPIN, She Writes Woman 2024→2020; Befrienders Kenya hours; Zimbabwe → Samaritans Bulawayo +263 9 65000 / Friendship Bench 0808 4116 / Childline 116.
+- `es/crisis/crisis-hotlines/asian-pacific.md` — Vietnam bank line 1800-599-999 → Ngày Mai 096 306 1414 + "no national 24/7 line" note + child line 111; Indonesia → Healing119 (119 ext 8) lead; Thailand Samaritans → 02-113-6789 (12 p.m.–10 p.m.); Pakistan Umang hedged.
+- `es/crisis/crisis-hotlines/europe.md` — Hungary: 116-123 = LESZ 24/7 (was mislabeled Kék Vonal 18:00–06:00); Kék Vonal 116-111 = youth ≤24, 24/7.
+- `es/crisis/crisis-hotlines/north-america.md`, `es/crisis/index.md`, `es/healthcare/mental-health.md` — retired Talk Suicide Canada 1-833-456-4566 → 988; Trans Lifeline hours (M–F 10–6 PT, not 24/7); Trevor 24/7.
+- `es/crisis/global-crisis-hotlines.md` — "más de 60" → "62 correcciones".
+
+**Content facts:** `es/foundations/disability-culture.md` + `es/history/eugenics.md` (T4: ~70,000/70 273 in the 1940–41 centralized phase, ~250,000 total to 1945, USHMM link); `es/history/global-timelines.md` + `es/housing/housing-rights.md` (CRPD 193 parties/164 signatories June 2026 + enforceability hedge); `es/housing/home-modifications.md` (SAH $126,526 FY2026); `es/professionals/healthcare-providers.md` (LeDeR mortality gap); `es/professionals/public-safety-officers.md` (Ruderman 2016 + McCauley AJPH 2017 attribution); `es/tech/screen-reader-comparison.md` (JAWS ~$105/yr, ~$1,570 perpetual, June 2026).
+
+### ⬜ New EN-source flags surfaced during this sync (flag only — EN not edited)
+- ⬜ `crisis/crisis-hotlines/africa/nigeria.md:123` (EN) — leftover line "**Lifeline works nationwide**" under "Other states" still refers to the removed fabricated Lifeline Nigeria. Should say SURPIN. The es page mirrors it faithfully ("Lifeline funciona en todo el país") pending the EN fix.
+- ⬜ `crisis/crisis-hotlines/asian-pacific/thailand.md` (EN leaf) — still lists **Samaritans 02-713-6791 as a 24/7 line** (+ Thai line 02-713-6793) throughout, including the footer CTA. The 2026-06-10 audit verified the Samaritans number changed Dec 2021 to **02-113-6789, 12 p.m.–10 p.m.** and fixed only the `asian-pacific.md` overview. The leaf page (EN + es, which mirrors it) still carries the obsolete numbers and a 24/7 claim — life-safety, needs the same verified correction.
+
+---
+
 ## ⚠️ ES SYNC REQUIRED (added 2026-06-07)
 
 The Codex audit remediation (see `AUDIT_REMEDIATION_STATUS.md`) edited many **English** pages

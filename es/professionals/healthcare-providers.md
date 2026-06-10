@@ -16,7 +16,7 @@ Todas las personas con discapacidad tienen derecho al más alto nivel posible de
 
 ## Por qué esto importa
 
-Las personas con discapacidad experimentan disparidades de salud significativas, no por sus discapacidades, sino por sistemas de atención médica diseñados sin tenerlas en cuenta. La investigación muestra que las personas adultas con discapacidad tienen tasas de mortalidad casi el doble de altas que las personas adultas sin discapacidad. En el Reino Unido, las mujeres con discapacidades del aprendizaje mueren 20 años más jóvenes que las mujeres sin discapacidad.
+Las personas con discapacidad experimentan disparidades de salud significativas, no por sus discapacidades, sino por sistemas de atención médica diseñados sin tenerlas en cuenta. En Inglaterra, el programa LeDeR del NHS ha encontrado que las personas adultas con discapacidad del aprendizaje mueren en promedio unos 20 años más jóvenes que la población general (19.5 años, informe LeDeR de 2023), y los informes anteriores encontraron brechas de hasta 26 años para las mujeres ([Mencap/LeDeR](https://www.mencap.org.uk/learning-disability-explained/research-and-statistics/health/health-inequalities)).
 
 Estas disparidades resultan del oscurecimiento diagnóstico, de instalaciones y equipos inaccesibles, de barreras de comunicación, del sesgo de los proveedores y de sistemas que tratan a los pacientes con discapacidad como problemas en lugar de personas. Los proveedores de atención médica que ponen en el centro la autonomía del paciente y diseñan para el acceso pueden salvar vidas.
 

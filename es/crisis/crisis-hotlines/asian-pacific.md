@@ -170,8 +170,8 @@ Esta página te conecta con recursos de crisis en toda la región de Asia y el P
 **Para ver los recursos de crisis completos en Indonesia, consulta [Ayuda en crisis: Indonesia](/es/crisis/indonesia)**
 
 **Números rápidos:**
-- **Yayasan Pulih:** (021) 788-42580
-- **LSM Jangan Bunuh Diri:** (021) 9696-9293 o 0818-0140-1754 (8am-10pm)
+- **Healing119 (Kemenkes, nacional):** llama al 119, extensión 8 (las 24 horas, gratuito) o WhatsApp +62 813-8007-3120
+- **Yayasan Pulih (consejería):** (021) 788-42580
 - **Komnas Perempuan (violencia contra las mujeres):** (021) 3903-963
 - **Emergencias:** 112 o 119
 
@@ -246,9 +246,8 @@ Esta página te conecta con recursos de crisis en toda la región de Asia y el P
 - Asesoría de salud mental y apoyo en crisis
 
 **Samaritans of Thailand**
-- Teléfono: (02) 713-6793 (10am-10pm, todos los días)
-- Apoyo en inglés disponible
-- Correo electrónico: jo@samaritans.or.th
+- Teléfono: 02-113-6789 (de 12 p. m. a 10 p. m. todos los días; presiona 1 para tailandés, 2 para recibir una llamada de respuesta en inglés)
+- (El número cambió en diciembre de 2021 — la antigua línea (02) 713-6793 ya no está vigente)
 
 **Baan Kredtrakarn (abuso infantil)**
 - Teléfono: 1300 (24/7)
@@ -261,9 +260,12 @@ Esta página te conecta con recursos de crisis en toda la región de Asia y el P
 
 ### Vietnam {#vietnam}
 
-**Línea de salud mental**
-- Teléfono: 1800-599-999 (gratuito)
-- Horario: 7am-10pm, todos los días
+**Đường dây nóng Ngày Mai (primeros auxilios psicológicos)**
+- Teléfono: 096 306 1414 (gratuito)
+- Horario: de 1 p. m. a 8:30 p. m. los miércoles, viernes, sábados y domingos (horario limitado)
+- Sitio web: duongdaynongngaymai.vn
+
+**Nota:** Vietnam no cuenta con una línea nacional de crisis de salud mental 24/7 a junio de 2026. Para niños, niñas y adolescentes, la línea nacional de ayuda infantil **111** es gratuita y funciona 24/7.
 
 **Center for Creative Initiatives in Health and Population**
 - Teléfono: (024) 3974-3841
@@ -350,9 +352,8 @@ Esta página te conecta con recursos de crisis en toda la región de Asia y el P
 ### Pakistán {#pakistan}
 
 **Umang (apoyo en salud mental)**
-- Teléfono: 0311-7786264
-- Apoyo por WhatsApp disponible
-- Sitio web: https://umang.com.pk
+- Teléfono: 0311-7786264 (+92 311 7786264)
+- Sitio web: https://umang.com.pk (consulta el sitio para ver las opciones actuales de WhatsApp)
 
 **Rozan (apoyo psicosocial)**
 - Teléfono: 0800-22-444 o 042-3532-8177

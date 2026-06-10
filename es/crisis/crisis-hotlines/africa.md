@@ -72,16 +72,18 @@ Esta página te conecta con recursos de crisis en toda África.
 
 ### Egipto {#egypt}
 
-**⚠️ Importante:** Egipto actualmente **no cuenta con una línea de prevención del suicidio en funcionamiento**. Befrienders Cairo cerró aproximadamente en 2005.
+**Línea de salud mental del Ministerio de Salud**
+- Teléfono: 16328 (Secretaría General de Salud Mental y Tratamiento de Adicciones)
+- Apoyo psicológico las 24 horas (verificado en junio de 2026; los costos de llamada no están confirmados)
+
+**Nota:** Egipto no cuenta con una línea independiente de prevención del suicidio de una ONG según el modelo de Befrienders — Befrienders Cairo cerró alrededor de 2005. La línea del Ministerio de Salud de arriba es la opción nacional.
 
 **National Council for Childhood and Motherhood Hotline**
 - Teléfono: 16000
 - Solo protección infantil y denuncia de abuso
 
 **Para crisis de salud mental:**
-- Comunícate con los servicios de emergencia: 122
-- Acude al servicio de urgencias del hospital más cercano
-- Contacto: Sourire de Reda +212 (5) 22 87 47 40 (con sede en Marruecos, horario limitado)
+- Llama al 16328, comunícate con los servicios de emergencia (122) o acude al servicio de urgencias del hospital más cercano
 
 **Servicios de emergencia**
 - Emergencia: 122
@@ -134,13 +136,10 @@ Esta página te conecta con recursos de crisis en toda África.
 
 ### Ghana {#ghana}
 
-**Mental Health Authority Crisis Line**
-- Teléfono: 0800-900-909 (gratuito)
-- Sitio web: https://www.mhaghana.org
-
-**Lifeline Ghana**
-- Teléfono: 0244-846-701
-- Correo electrónico: info@lifelineghana.org
+**Mental Health Authority Helpline**
+- Teléfono: 0800-678-678 (gratuito)
+- Sitio web: https://mha-ghana.com
+- (Número verificado contra el sitio de la Mental Health Authority, junio de 2026; el horario no está publicado — confírmalo al llamar)
 
 **Domestic Violence & Victim Support Unit (DOVVSU)**
 - Teléfono: 0800-800-900 (gratuito, 24/7)
@@ -158,8 +157,8 @@ Esta página te conecta con recursos de crisis en toda África.
 **Para recursos de crisis completos en Nigeria, consulta [Ayuda en crisis: Nigeria](/es/crisis/nigeria)**
 
 **Números rápidos:**
-- **Mentally Aware Nigeria Initiative (MANI):** 0806-210-6493 o 0809-210-0009 (de 8 a. m. a 10 p. m. todos los días)
-- **She Writes Woman (salud mental de mujeres):** 0800 800 2000 (gratuito, 24/7, lanzada en 2024)
+- **SURPIN (Suicide Research and Prevention Initiative):** 0800 078 7746 (gratuito, las 24 horas)
+- **She Writes Woman (salud mental de mujeres):** 0800 800 2000 (gratuito, 24/7, en funcionamiento desde 2020)
 - **National Human Rights Commission:** 0700-2255-6472
 - **Emergencia:** 112 o 767
 
@@ -200,7 +199,8 @@ Esta página te conecta con recursos de crisis en toda África.
 - Sitio web: https://www.redcross.or.ke
 
 **Befrienders Kenya**
-- Teléfono: (020) 3000-378 o 0722-178-177
+- Teléfono: 0722-178-177
+- Horario: de 9 a. m. a 5 p. m. todos los días (no es 24/7)
 - Correo electrónico: befrienderskenya@gmail.com
 
 **Gender Violence Recovery Centre (GVRC)**
@@ -304,10 +304,15 @@ Esta página te conecta con recursos de crisis en toda África.
 
 ### Zimbabue {#zimbabwe}
 
-**Lifeline Zimbabwe**
-- Teléfono: (04) 706-055 o 0800-350-00
-- Horario: de 7 a. m. a 9 p. m. todos los días
-- Sitio web: http://www.lifelinezim.com
+**Samaritans Bulawayo**
+- Teléfono: +263 9 65000
+- Horario: 24/7 (según Befrienders Worldwide, junio de 2026)
+
+**Friendship Bench National Helpline**
+- Teléfono: 0808 4116 (de lunes a viernes, de 8 a. m. a 5 p. m.)
+
+**Childline Zimbabwe**
+- Teléfono: 116 (gratuito, 24/7)
 
 **Adult Rape Clinic (ARC)**
 - Teléfono: (024) 2-773-388

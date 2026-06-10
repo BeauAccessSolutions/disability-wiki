@@ -43,7 +43,7 @@ Esta página está organizada por región, con fechas clave de los principales a
 | 2001 | La ONU establece el Comité Especial para redactar la convención sobre discapacidad |
 | 2006 | Se adopta la Convención sobre los Derechos de las Personas con Discapacidad (CDPD) de la ONU |
 | 2008 | La CDPD entra en vigor (se alcanzan 20 ratificaciones) |
-| 2025 | Más de 190 países han firmado la CDPD; más de 180 la han ratificado |
+| 2026 | La CDPD tiene 193 partes (192 Estados más la Unión Europea) y 164 signatarios a junio de 2026 ([Colección de Tratados de la ONU](https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=IV-15&chapter=4)) |
 
 ---
 
