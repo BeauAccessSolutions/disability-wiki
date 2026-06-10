@@ -120,7 +120,7 @@ que leer todo.
 - Comunícate con los servicios estatales de salud mental
 
 ### Otros estados
-- Lifeline funciona en todo el país
+- SURPIN (0800 078 7746) funciona en todo el país
 - Comunícate con el ministerio de salud estatal
 
 ---

@@ -120,7 +120,7 @@ to read everything.
 - Contact state mental health services
 
 ### Other States
-- Lifeline works nationwide
+- SURPIN (0800 078 7746) works nationwide
 - Contact state health ministry
 
 ---
