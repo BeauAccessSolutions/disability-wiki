@@ -29,11 +29,11 @@ to read everything.
 **Run by:** Department of Mental Health, Ministry of Public Health  
 **Languages:** Thai  
 
-### Samaritans Thailand (English-language support)
+### Samaritans Thailand (Thai and English support)
 
-**Phone:** 02-713-6791 (English line, 24/7)  
-**Thai line:** 02-713-6793 (12:00–22:00 daily)  
-**Website:** samaritansthailand.org  
+**Phone:** 02-113-6789 (12:00–22:00 daily; press 1 for Thai, 2 for an English callback)  
+**Website:** samaritansthai.com  
+*(Number changed in December 2021 — the old 02-713-6791 / 02-713-6793 lines are no longer current.)*  
 
 **What happens:**
 - Emotional support and suicide prevention
@@ -46,7 +46,7 @@ to read everything.
 
 ### Mental Health Crisis
 
-**Samaritans Thailand:** 02-713-6791 (24/7)  
+**Samaritans Thailand:** 02-113-6789 (12pm–10pm daily)  
 - Emotional support
 
 **Department of Mental Health:** 1323 (free, 24/7)  
@@ -54,7 +54,7 @@ to read everything.
 
 ### Suicidal Thoughts
 
-**Samaritans Thailand:** 02-713-6791 (24/7)  
+**Samaritans Thailand:** 02-113-6789 (12pm–10pm daily)  
 - Suicide prevention
 
 **Mental Health Crisis Centers:** Available in major hospitals
@@ -77,14 +77,14 @@ to read everything.
 
 ### Youth Crisis
 
-**Samaritans Thailand:** 02-713-6791 (24/7)  
+**Samaritans Thailand:** 02-113-6789 (12pm–10pm daily)  
 - Support for young people
 
 **Youth organizations:** Local groups
 
 ### LGBTQ+ Crisis
 
-**Samaritans Thailand:** 02-713-6791  
+**Samaritans Thailand:** 02-113-6789  
 - Support for LGBTQ+ people (confidential)
 
 **Thai LGBT organizations:** Local chapters
@@ -98,7 +98,7 @@ to read everything.
 
 ### Substance Use Crisis
 
-**Samaritans Thailand:** 02-713-6791  
+**Samaritans Thailand:** 02-113-6789  
 - Substance use support
 
 **Department of Mental Health:** Referrals to treatment
@@ -110,11 +110,11 @@ to read everything.
 **National numbers work nationwide:**
 
 ### Bangkok
-- Samaritans: 02-713-6791
+- Samaritans: 02-113-6789
 - Women's Crisis Center: 02-861-0882
 
 ### Chiang Mai, Provincial Cities
-- Samaritans: 02-713-6791 (nationwide)
+- Samaritans: 02-113-6789 (nationwide)
 - Local hospitals
 
 ---
@@ -213,7 +213,7 @@ If you're asking: "Am I sick enough to call?" → **You are.** Call.
 
 *Confirm each number with the service before calling; details can change.*
 
-**In crisis right now?** Call 1323 (Thai) or Samaritans on 02-713-6791 (English). Everything else can wait.
+**In crisis right now?** Call 1323 (Department of Mental Health — free, 24/7). For English support, Samaritans Thailand: 02-113-6789 (12pm–10pm daily; press 2 for an English callback). Everything else can wait.
 
 *Cost, confidentiality, and hours vary by service — check each listing.*
 

@@ -70,6 +70,8 @@ node_modules/
 .claude/*
 !.claude/skills/
 !.claude/skills/**
+# track the shared project settings (hooks) — local overrides stay ignored below
+!.claude/settings.json
 # still keep local settings/secrets and transient workspaces out
 .claude/settings.local.json
 .claude/skill-workspaces/
