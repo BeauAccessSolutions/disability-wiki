@@ -14,7 +14,7 @@ Disabled people have legal protections in housing—yet many don't know what rig
 
 ## Universal Rights Framework
 
-All disabled people worldwide share the same fundamental right: **to live independently in the community with support if needed**. This is established by the **UN Convention on the Rights of Persons with Disabilities (CRPD) Article 19**, ratified by 186 countries.
+All disabled people worldwide share the same fundamental right: **to live independently in the community with support if needed**. This standard is set by the **UN Convention on the Rights of Persons with Disabilities (CRPD) Article 19**, which has 193 parties as of June 2026 ([UN Treaty Collection](https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=IV-15&chapter=4)). Ratification does not by itself create an enforceable individual remedy — what you can claim depends on your country's implementation (see below).
 
 For detailed explanation of how CRPD Article 19 works, how different legal systems interpret it, and the international frameworks protecting disabled people's housing rights, see [International Housing Rights](/housing/international-housing-rights.md).
 

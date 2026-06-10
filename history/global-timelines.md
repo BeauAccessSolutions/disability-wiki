@@ -43,7 +43,7 @@ This page is organized by region, with key dates for major developments. It is n
 | 2001 | UN establishes Ad Hoc Committee to draft disability convention |
 | 2006 | UN Convention on the Rights of Persons with Disabilities (CRPD) adopted |
 | 2008 | CRPD enters into force (20 ratifications reached) |
-| 2025 | Over 190 countries have signed the CRPD; over 180 have ratified |
+| 2026 | The CRPD has 193 parties (192 states plus the EU) and 164 signatories as of June 2026 ([UN Treaty Collection](https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=IV-15&chapter=4)) |
 
 ---
 

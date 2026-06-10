@@ -33,7 +33,7 @@ This page centers the experience of actual screen reader users, not just feature
 | Screen Reader | Platform | Cost | Best For |
 |---------------|----------|------|----------|
 | **NVDA** | Windows | Free | Versatile use, tight budget |
-| **JAWS** | Windows | $90/year or $1,000+ | Employment requiring JAWS, advanced features |
+| **JAWS** | Windows | ~$105/year or ~$1,570 perpetual | Employment requiring JAWS, advanced features |
 | **Narrator** | Windows | Free (built-in) | Basic use, starting out |
 | **VoiceOver** | Mac/iOS | Free (built-in) | Apple ecosystem |
 | **TalkBack** | Android | Free (built-in) | Android phones/tablets |
@@ -85,9 +85,10 @@ This page centers the experience of actual screen reader users, not just feature
 
 **Cost**: 
 
-- $90/year for home edition
-- $1,000+ for professional license
-- $200/year for professional subscription
+- About $105/year for the home annual license (US only)
+- About $1,570 for a perpetual home license
+- Professional licenses cost more (~$2,300 perpetual)
+- Prices as of June 2026 — check [store.vispero.com](https://store.vispero.com/collections/jaws) for current rates
 
 **Developed by**: Freedom Scientific (Vispero)
 

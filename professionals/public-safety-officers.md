@@ -16,7 +16,7 @@ All disabled people have the right to liberty and security of person, equal prot
 
 ## Why This Matters
 
-Disabled people are significantly overrepresented in use-of-force incidents and police killings. Studies suggest 30-50% of people killed by police have a disability. More than half of disabled African Americans have been arrested by age 28—double the rate of white disabled counterparts.
+Disabled people are significantly overrepresented in use-of-force incidents and police killings. A 2016 Ruderman Family Foundation white paper estimated that disabled people make up "a third to half" of all people killed by law enforcement — an estimate based on media coverage from 2013–2015, since no official national data tracks disability in police killings ([Ruderman Foundation](https://rudermanfoundation.org/white_papers/media-coverage-of-law-enforcement-use-of-force-and-disability/)). Research using national survey data has found that more than half of disabled Black Americans are arrested by age 28 — roughly double the rate of their white disabled counterparts (McCauley, *American Journal of Public Health*, 2017).
 
 These are not inevitable outcomes. They result from officers misinterpreting disability-related behaviors, communication failures, lack of training, and systems that send armed responders to situations better handled by other professionals.
 

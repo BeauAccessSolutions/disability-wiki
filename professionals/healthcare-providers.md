@@ -16,7 +16,7 @@ All disabled people have the right to the highest attainable standard of health 
 
 ## Why This Matters
 
-Disabled people experience significant health disparities—not because of their disabilities, but because of healthcare systems designed without them in mind. Research shows disabled adults have mortality rates nearly twice as high as non-disabled adults. Women with learning disabilities in the UK die 20 years younger than non-disabled women.
+Disabled people experience significant health disparities—not because of their disabilities, but because of healthcare systems designed without them in mind. In England, the NHS LeDeR programme has found that adults with a learning disability die on average about 20 years younger than the general population (19.5 years, LeDeR 2023 report), with earlier reports finding gaps of up to 26 years for women ([Mencap/LeDeR](https://www.mencap.org.uk/learning-disability-explained/research-and-statistics/health/health-inequalities)).
 
 These disparities result from diagnostic overshadowing, inaccessible facilities and equipment, communication barriers, provider bias, and systems that treat disabled patients as problems rather than people. Healthcare providers who center patient autonomy and design for access can save lives.
 

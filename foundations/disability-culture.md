@@ -76,7 +76,7 @@ Historical treatment varied across cultures and periods. Some cultures valued di
 
 ### The Institutionalization Era
 
-From the 1800s through mid-1900s, Western countries built massive systems of institutions: asylums, "training schools," "state hospitals," and warehouses for disabled people. The eugenics movement specifically targeted disabled people for elimination through forced sterilization, marriage restrictions, and murder. Nazi Germany's Aktion T4 program killed over 200,000 disabled people—a program that developed the methods later used in the Holocaust. Forced sterilization was widespread in the United States and many other countries, continuing into the 1970s and beyond.
+From the 1800s through mid-1900s, Western countries built massive systems of institutions: asylums, "training schools," "state hospitals," and warehouses for disabled people. The eugenics movement specifically targeted disabled people for elimination through forced sterilization, marriage restrictions, and murder. Nazi Germany's "euthanasia" killings took roughly 250,000 disabled lives in total (about 70,000 in the centralized Aktion T4 gassing phase of 1940–41, per the program's own records, with covert killings continuing to 1945)—a program that developed the methods later used in the Holocaust ([USHMM](https://encyclopedia.ushmm.org/content/en/article/euthanasia-program)). Forced sterilization was widespread in the United States and many other countries, continuing into the 1970s and beyond.
 
 Institutions were sites of horrific abuse, neglect, and death. The survivors of these systems, and those who never survived them, are part of disability history and culture.
 
