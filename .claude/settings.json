@@ -1,0 +1,17 @@
+{
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "c=$(jq -r \".tool_input.command // empty\"); case \"$c\" in *\"git commit\"*) ;; *) exit 0;; esac; case \"$c\" in *CHANGELOG*) exit 0;; esac; [ -n \"$(git status --porcelain -- CHANGELOG.md 2>/dev/null)\" ] && exit 0; printf \"%s\" \"{\\\"hookSpecificOutput\\\":{\\\"hookEventName\\\":\\\"PreToolUse\\\",\\\"additionalContext\\\":\\\"CHANGELOG reminder: CHANGELOG.md has not been touched in this change. Repo policy (CHANGELOG.md, Contributing section) says notable changes - content corrections, new pages, infra/security changes - must be recorded with a date and an Added/Changed/Fixed/Security category. Update CHANGELOG.md and include it in this commit if the change is notable. Trivial commits (typo fixes, WIP, merges, the changelog itself) may proceed without it.\\\"}}\"",
+            "timeout": 10,
+            "statusMessage": "Checking CHANGELOG.md"
+          }
+        ]
+      }
+    ]
+  }
+}
