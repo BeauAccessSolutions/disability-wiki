@@ -41,6 +41,9 @@ Ninguna plataforma es la mejor. Algunas cosas que conviene sopesar mientras busc
 - **Moderación.** Una moderación activa y justa es la diferencia entre un espacio de apoyo y uno dañino. Busca reglas claras y moderadores visibles.
 - **Ajuste.** Un espacio general de discapacidad y uno específico de una condición cubren necesidades distintas. Mucha gente usa ambos.
 - **Seguridad.** Ten cuidado al compartir datos que te identifiquen, historiales médicos o dinero. Trata los consejos médicos y legales de personas desconocidas como un punto de partida para verificar, no como una conclusión.
+- **Actividad.** Las comunidades se apagan. Antes de invertir en un grupo o servidor, verifica que la gente realmente haya publicado hace poco—un espacio muerto no te dará comunidad por más buena que suene su descripción.
 - **Energía.** Está bien observar sin participar, irte o tomar descansos. La comunidad debería dar más de lo que quita.
+
+> **Una nota sobre estafas y depredación.** Las comunidades de discapacidad son blanco de estafadores que asumen que las dificultades económicas o la desesperación médica hacen que la gente sea presa más fácil. Trata los mensajes privados no solicitados como sospechosos por defecto—en especial cualquier cosa que involucre dinero, "subvenciones", ofertas de inversión o criptomonedas, tratamientos milagrosos, o alguien que se acerca intensamente rápido y eventualmente necesita dinero. La ayuda legítima no llega por mensaje directo en frío. Nunca envíes dinero a alguien que solo conoces en línea, y reporta y bloquea sin reparos.
 
 Para opciones presenciales y locales, consulta [Comunidad presencial](/es/community/in-person-community). Para integrantes más jóvenes, consulta [Comunidades de jóvenes y estudiantes](/es/community/youth-student-communities).
