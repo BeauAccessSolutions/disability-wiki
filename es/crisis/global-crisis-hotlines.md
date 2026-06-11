@@ -436,7 +436,6 @@ Este wiki es impulsado por la comunidad. Consulta [Cómo Contribuir](/es/start/c
 
 ---
 
-
 *Verificado el 4 de diciembre de 2025 — 62 correcciones implementadas*
 
 **¿En crisis en este momento?**
@@ -463,5 +462,3 @@ Este wiki es impulsado por la comunidad. Consulta [Cómo Contribuir](/es/start/c
 ---
 
 *Esta página pone en el centro los conocimientos de las personas con discapacidad y se basa en la organización liderada por personas con discapacidad a nivel global. Para preguntas o para sugerir agregados, consulta [Cómo Contribuir](/es/start/contribute).*
-
-*Última actualización: enero de 2026*

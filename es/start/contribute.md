@@ -63,5 +63,3 @@ Si necesitas adaptaciones para enviar tus comentarios:
 ---
 
 *Esta página pone en el centro los conocimientos de las personas con discapacidad y se basa en la organización liderada por personas con discapacidad a nivel global.*
-
-*Última actualización: enero de 2026*

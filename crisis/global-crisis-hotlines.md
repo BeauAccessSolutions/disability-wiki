@@ -436,7 +436,6 @@ This wiki is community-driven. See [How to Contribute](/start/contribute) for in
 
 ---
 
-
 *Verified December 4, 2025 — 62 corrections implemented*
 
 **In crisis right now?**
@@ -463,5 +462,3 @@ Have lived experience or expertise that could strengthen this page? We especiall
 ---
 
 *This page centers disabled people's expertise and is informed by disabled-led organizing globally. For questions or to suggest additions, see [How to Contribute](/start/contribute).*
-
-*Last updated: January 2026*

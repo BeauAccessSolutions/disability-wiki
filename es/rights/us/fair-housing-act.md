@@ -359,5 +359,3 @@ Damos especial bienvenida a:
 ---
 
 *Esta página pone en el centro los conocimientos de las personas con discapacidad. Las protecciones de vivienda justa para las personas con discapacidad se ganaron a través de la organización y la defensa del movimiento por los derechos de las personas con discapacidad.*
-
-*Última actualización: noviembre de 2025*

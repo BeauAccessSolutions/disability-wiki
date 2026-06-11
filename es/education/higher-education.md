@@ -357,5 +357,3 @@ Damos especial bienvenida a las contribuciones de:
 ---
 
 *Esta página pone en el centro los conocimientos de los estudiantes con discapacidad. El contenido se basa en la organización y la experiencia vivida de las personas con discapacidad.*
-
-*Última actualización: noviembre de 2025*

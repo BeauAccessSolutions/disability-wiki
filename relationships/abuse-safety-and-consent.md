@@ -403,5 +403,3 @@ We especially welcome:
 ---
 
 *This page centers disabled survivors' expertise. You deserve safety, autonomy, and support.*
-
-*Last updated: November 2025*

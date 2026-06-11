@@ -230,7 +230,6 @@ El apoyo a las personas LGBTQ+ es confidencial. Tu seguridad está protegida.
 
 ---
 
-
 *Confirma cada número con el servicio antes de llamar; los datos pueden cambiar.*
 
 **¿En crisis en este momento?** Llama al 0800 078 7746 (SURPIN, línea gratuita). Todo lo demás puede esperar.
@@ -248,5 +247,3 @@ El apoyo a las personas LGBTQ+ es confidencial. Tu seguridad está protegida.
 ---
 
 *Esta página pone en el centro los conocimientos de las personas con discapacidad y se basa en la organización liderada por personas con discapacidad a nivel global. Para preguntas o para sugerir agregados, consulta [Cómo Contribuir](/es/start/contribute).*
-
-*Última actualización: enero de 2026*

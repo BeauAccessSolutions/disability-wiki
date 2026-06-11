@@ -306,5 +306,3 @@ We especially welcome personal stories about finding disability community, infor
 ---
 
 *This page centers disabled people's expertise and is informed by disabled-led organizing globally. Disability culture is ours—created by us, for us, and constantly evolving. For questions or to suggest additions, see [How to Contribute](/start/contribute).*
-
-**Last updated**: November 2025

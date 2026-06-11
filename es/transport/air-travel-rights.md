@@ -419,5 +419,3 @@ Damos especial bienvenida a:
 ---
 
 *Esta página pone en el centro los conocimientos de las personas con discapacidad que viajan. Viajar en avión es un derecho, no un privilegio: las personas con discapacidad merecen volar con seguridad y dignidad.*
-
-*Última actualización: noviembre de 2025*

@@ -353,5 +353,3 @@ We especially welcome:
 ---
 
 *This page centers disabled people's expertise on our own sexuality and reproductive lives. Disabled people are sexual beings with full reproductive rights.*
-
-*Last updated: November 2025*

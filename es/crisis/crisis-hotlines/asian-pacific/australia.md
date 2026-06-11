@@ -255,7 +255,6 @@ Si un servicio te discrimina por tu discapacidad, tienes derechos. Alza la voz.
 
 ---
 
-
 *Confirma cada número con el servicio antes de llamar; los datos pueden cambiar.*
 
 **¿Estás en crisis en este momento?** Llama a Lifeline al 13 11 14. Todo lo demás puede esperar.
@@ -273,5 +272,3 @@ Si un servicio te discrimina por tu discapacidad, tienes derechos. Alza la voz.
 ---
 
 *Esta página pone en el centro los conocimientos de las personas con discapacidad y se basa en la organización liderada por personas con discapacidad a nivel global. Para preguntas o para sugerir agregados, consulta [Cómo Contribuir](/es/start/contribute).*
-
-*Última actualización: enero de 2026*

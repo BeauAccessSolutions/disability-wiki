@@ -639,7 +639,6 @@ Crisis lines help you through immediate danger. For ongoing support:
 
 ---
 
-
 **In crisis right now? Call 112 or your country's crisis line. Everything else can wait.**
 
 ---
@@ -653,5 +652,3 @@ Have lived experience or expertise that could strengthen this page? We especiall
 ---
 
 *This page centers disabled people's expertise and is informed by disabled-led organizing globally. For questions or to suggest additions, see [How to Contribute](/start/contribute).*
-
-*Last updated: January 2026*

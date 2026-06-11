@@ -429,8 +429,6 @@ For **Community and Peer Support** more broadly, see [Community and Peer Support
 
 **Have Independent Living resources, country-specific information, or stories about IL organizing to contribute?** [Contribute to DisabilityWiki](/start/contribute)
 
-Last updated: November 2025
-
 ---
 
 ## Contribute to This Page
@@ -442,5 +440,3 @@ Have lived experience or expertise that could strengthen this page? We especiall
 ---
 
 *This page centers disabled people's expertise and is informed by disabled-led organizing globally. For questions or to suggest additions, see [How to Contribute](/start/contribute).*
-
-*Last updated: January 2026*

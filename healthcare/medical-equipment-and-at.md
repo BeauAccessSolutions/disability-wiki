@@ -549,5 +549,3 @@ We especially welcome:
 ---
 
 *This page centers disabled people's expertise. Disabled people are the experts on what technology works for them and how to navigate broken funding systems.*
-
-*Last updated: November 2025*

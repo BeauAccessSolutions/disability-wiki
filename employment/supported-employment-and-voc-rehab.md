@@ -463,5 +463,3 @@ We especially welcome:
 ---
 
 *This page centers disabled workers' expertise. Competitive integrated employment is a right, not a privilege—disabled people deserve real jobs at real wages.*
-
-*Last updated: November 2025*

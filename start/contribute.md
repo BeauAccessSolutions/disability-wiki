@@ -63,5 +63,3 @@ If you need accommodations to submit feedback:
 ---
 
 *This page centers disabled people's expertise and is informed by disabled-led organizing globally.*
-
-*Last updated: January 2026*

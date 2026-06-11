@@ -333,5 +333,3 @@ We especially welcome:
 ---
 
 *This page centers disabled paratransit users' expertise. Transportation access is essential for independence, employment, healthcare, and community participation.*
-
-*Last updated: November 2025*

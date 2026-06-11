@@ -400,7 +400,6 @@ Comparte a través de nuestro [formulario de contribución] o envía un email a 
 
 ---
 
-
 **Páginas relacionadas:**
 - [ADA](/es/rights/us/ada)
 - [Sección 504](/es/rights/us/section-504)
@@ -418,5 +417,3 @@ Comparte a través de nuestro [formulario de contribución] o envía un email a 
 ---
 
 *Esta página pone en el centro los conocimientos de las personas con discapacidad y se basa en la organización liderada por personas con discapacidad a nivel global. Para preguntas o para sugerir agregados, consulta [Cómo Contribuir](/es/start/contribute).*
-
-*Última actualización: enero de 2026*

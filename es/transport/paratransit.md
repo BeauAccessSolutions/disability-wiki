@@ -333,5 +333,3 @@ Damos especial bienvenida a:
 ---
 
 *Esta página pone en el centro los conocimientos de las personas con discapacidad que usan el paratránsito. El acceso al transporte es esencial para la independencia, el empleo, la atención médica y la participación en la comunidad.*
-
-*Última actualización: noviembre de 2025*

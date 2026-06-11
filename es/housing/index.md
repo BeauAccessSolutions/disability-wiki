@@ -80,8 +80,6 @@ La vivienda es un derecho humano y fundamental para la libertad de las personas 
 
 **¿Tienes información para agregar o una historia para compartir?** [Contribuye a DisabilityWiki](/es/start/contribute)
 
-Última actualización: noviembre de 2025
-
 ---
 
 ## Contribuye a esta página
@@ -93,5 +91,3 @@ La vivienda es un derecho humano y fundamental para la libertad de las personas 
 ---
 
 *Esta página pone en el centro los conocimientos de las personas con discapacidad y se basa en la organización liderada por personas con discapacidad a nivel global. Para preguntas o para sugerir agregados, consulta [Cómo Contribuir](/es/start/contribute).*
-
-*Última actualización: enero de 2026*

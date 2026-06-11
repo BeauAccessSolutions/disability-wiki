@@ -577,6 +577,5 @@ We welcome contributions from disabled travelers, athletes, and outdoor enthusia
 
 ---
 
-**Last updated:** November 22, 2025
 **Maintained by:** DisabilityWiki community
 **Share feedback:** [Feedback link]

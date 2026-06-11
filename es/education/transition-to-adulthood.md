@@ -426,5 +426,3 @@ Damos especial bienvenida a:
 ---
 
 *Esta página pone en el centro los conocimientos de los jóvenes adultos con discapacidad. El contenido refleja la organización de las personas con discapacidad por la autodeterminación y la plena participación en la comunidad.*
-
-*Última actualización: noviembre de 2025*

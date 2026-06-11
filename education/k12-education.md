@@ -420,5 +420,3 @@ We especially welcome:
 ---
 
 *This page centers disabled people's expertise. Content reflects decades of disabled-led organizing for educational access.*
-
-*Last updated: November 2025*

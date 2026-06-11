@@ -397,5 +397,3 @@ Damos especial bienvenida a:
 ---
 
 *Esta página pone en el centro los conocimientos de las personas con discapacidad. Las personas que viven con dolor y fatiga crónicos son las expertas sobre su propio cuerpo y sus experiencias.*
-
-*Última actualización: noviembre de 2025*

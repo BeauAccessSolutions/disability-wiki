@@ -396,5 +396,3 @@ We especially welcome:
 ---
 
 *This page centers disabled transit riders' expertise. Accessible public transportation was won through direct action and continues to require vigilance.*
-
-*Last updated: November 2025*

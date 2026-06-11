@@ -201,7 +201,6 @@ If you're asking whether you're "sick enough" to call → **You are.** Call.
 
 ---
 
-
 **In crisis right now?** Call Teléfono de la Esperanza. Everything else can wait.
 
 *Cost, confidentiality, and hours vary by service — check each listing.*
@@ -217,5 +216,3 @@ Have lived experience or expertise that could strengthen this page? We especiall
 ---
 
 *This page centers disabled people's expertise and is informed by disabled-led organizing globally. For questions or to suggest additions, see [How to Contribute](/start/contribute).*
-
-*Last updated: January 2026*

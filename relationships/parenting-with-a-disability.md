@@ -438,7 +438,6 @@ Share through our [contribution form] or email wiki@disabilitywiki.org.
 
 ---
 
-
 **Related Pages:**
 - [Parents of Disabled Children](/relationships/parents-of-disabled-children)
 - [Sexuality and Reproductive Health](/relationships/sexuality-and-reproductive-health)
@@ -456,5 +455,3 @@ Have lived experience or expertise that could strengthen this page? We especiall
 ---
 
 *This page centers disabled people's expertise and is informed by disabled-led organizing globally. For questions or to suggest additions, see [How to Contribute](/start/contribute).*
-
-*Last updated: January 2026*

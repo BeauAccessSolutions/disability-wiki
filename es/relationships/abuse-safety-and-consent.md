@@ -403,5 +403,3 @@ Damos especial bienvenida a:
 ---
 
 *Esta página pone en el centro los conocimientos de las personas sobrevivientes con discapacidad. Mereces seguridad, autonomía y apoyo.*
-
-*Última actualización: noviembre de 2025*

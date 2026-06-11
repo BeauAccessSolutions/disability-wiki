@@ -458,5 +458,3 @@ We especially welcome:
 ---
 
 *This page centers disabled people's expertise. Community living rights were won through decades of organizing against institutionalization.*
-
-*Last updated: November 2025*

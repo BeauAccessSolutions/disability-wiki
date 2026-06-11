@@ -397,5 +397,3 @@ We especially welcome:
 ---
 
 *This page centers disabled people's expertise. People living with chronic pain and fatigue are the experts on their own bodies and experiences.*
-
-*Last updated: November 2025*

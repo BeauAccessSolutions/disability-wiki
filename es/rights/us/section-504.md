@@ -416,7 +416,6 @@ Comparte a través de nuestro [formulario de contribución] o envía un email a 
 
 ---
 
-
 **Páginas relacionadas:**
 - [Descripción general de la ADA](/es/rights/us/ada)
 - [IDEA](/es/rights/us/idea)
@@ -434,5 +433,3 @@ Comparte a través de nuestro [formulario de contribución] o envía un email a 
 ---
 
 *Esta página pone en el centro los conocimientos de las personas con discapacidad y se basa en la organización liderada por personas con discapacidad a nivel global. Para preguntas o para sugerir agregados, consulta [Cómo Contribuir](/es/start/contribute).*
-
-*Última actualización: enero de 2026*

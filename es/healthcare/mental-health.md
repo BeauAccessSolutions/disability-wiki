@@ -429,5 +429,3 @@ Damos especial bienvenida a:
 ---
 
 *Esta página pone en el centro los conocimientos de las personas con experiencia vivida de afecciones de salud mental. Tu salud mental importa, y mereces un apoyo que respete tu autonomía y tu dignidad.*
-
-*Última actualización: noviembre de 2025*

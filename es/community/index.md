@@ -168,7 +168,6 @@ Si no ves a tu gente en el liderazgo, es un problema de acceso, no un reflejo de
 
 ---
 
-**Última actualización**: junio de 2026  
 **Mantenido por**: el equipo de Conexiones Comunitarias de DisabilityWiki  
 **¿Preguntas?** [Contáctanos →](/es/start/contact)
 
@@ -183,5 +182,3 @@ Si no ves a tu gente en el liderazgo, es un problema de acceso, no un reflejo de
 ---
 
 *Esta página pone en el centro los conocimientos de las personas con discapacidad y se basa en la organización liderada por personas con discapacidad a nivel global. Para preguntas o para sugerir agregados, consulta [Cómo Contribuir](/es/start/contribute).*
-
-*Última actualización: enero de 2026*

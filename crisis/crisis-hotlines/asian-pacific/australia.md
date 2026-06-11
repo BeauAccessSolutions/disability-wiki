@@ -255,7 +255,6 @@ If a service discriminates because of disability, you have rights. Speak up.
 
 ---
 
-
 *Confirm each number with the service before calling; details can change.*
 
 **In crisis right now?** Call Lifeline on 13 11 14. Everything else can wait.
@@ -273,5 +272,3 @@ Have lived experience or expertise that could strengthen this page? We especiall
 ---
 
 *This page centers disabled people's expertise and is informed by disabled-led organizing globally. For questions or to suggest additions, see [How to Contribute](/start/contribute).*
-
-*Last updated: January 2026*

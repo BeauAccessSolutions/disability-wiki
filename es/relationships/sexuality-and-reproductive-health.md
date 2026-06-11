@@ -353,5 +353,3 @@ Damos especial bienvenida a:
 ---
 
 *Esta página pone en el centro los conocimientos de las personas con discapacidad sobre nuestra propia sexualidad y nuestras vidas reproductivas. Las personas con discapacidad son seres sexuales con plenos derechos reproductivos.*
-
-*Última actualización: noviembre de 2025*

@@ -577,6 +577,5 @@ Damos la bienvenida a contribuciones de personas viajeras, deportistas y entusia
 
 ---
 
-**Última actualización:** 22 de noviembre de 2025
 **Mantenido por:** la comunidad de DisabilityWiki
 **Comparte tus comentarios:** [Enlace de comentarios]

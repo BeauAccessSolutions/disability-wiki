@@ -406,5 +406,3 @@ Damos especial bienvenida a:
 ---
 
 *Esta página pone en el centro los conocimientos de las personas con discapacidad que se asocian con animales de servicio. Los animales de servicio son más que ayudantes: son compañeros para desenvolverse en el mundo.*
-
-*Última actualización: noviembre de 2025*

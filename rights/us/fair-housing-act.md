@@ -359,5 +359,3 @@ We especially welcome:
 ---
 
 *This page centers disabled people's expertise. Fair housing protections for disabled people were won through organizing and advocacy by the disability rights movement.*
-
-*Last updated: November 2025*

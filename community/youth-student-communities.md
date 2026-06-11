@@ -478,6 +478,5 @@ We welcome contributions from:
 
 ---
 
-**Last updated:** November 22, 2025
 **Maintained by:** DisabilityWiki community
 **Share feedback:** [Feedback link]

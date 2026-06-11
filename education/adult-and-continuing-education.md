@@ -432,6 +432,5 @@ This page is written by and for disabled adults. We welcome contributions from:
 
 ---
 
-**Last updated:** June 2026
 **Maintained by:** DisabilityWiki community
 **Share feedback:** [Feedback link]

@@ -216,7 +216,6 @@ Si te preguntas: "Apakah aku cukup sakit untuk menelepon?" → **Ya, kamu cukup.
 
 ---
 
-
 *Confirma cada número con el servicio antes de llamar; los datos pueden cambiar.*
 
 **Sedang dalam krisis sekarang?** Hubungi 119, lalu tekan 8. Semuanya bisa menunggu.
@@ -234,5 +233,3 @@ Si te preguntas: "Apakah aku cukup sakit untuk menelepon?" → **Ya, kamu cukup.
 ---
 
 *Esta página pone en el centro los conocimientos de las personas con discapacidad y se basa en la organización liderada por personas con discapacidad a nivel global. Para preguntas o para sugerir agregados, consulta [Cómo Contribuir](/es/start/contribute).*
-
-*Última actualización: enero de 2026*
