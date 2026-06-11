@@ -6,6 +6,9 @@ All notable changes to the Disability Wiki project are documented in this file.
 
 ## [Unreleased]
 
+### Added
+- **Static-site migration Phase 0** (`docs/migration/`): decided Wiki.js → Astro Starlight on Cloudflare Pages; exported the DB-only state (nav tree, site config, logo) and reconciled DB vs repo — two nav-linked pages that existed only in the Wiki.js DB (`foundations/welcome`, `crisis/emergency-disaster-preparedness`) exported into the repo so it is now the complete source of truth; `regions/index` (empty, unlinked) marked drop+redirect. Plan and findings in `docs/migration/MIGRATION_PLAN.md`.
+
 ### Fixed
 - **Unfilled footer placeholders replaced with real `/start/contribute` links** (54 instances, 26 files): `**Share feedback:** [Feedback link]` and `[Link to contribution form]` were published as-is on 12 English pages (the eight daily-living pages, adult-and-continuing-education, in-person-community, youth-student-communities, family-control-and-gaslighting) and their 12 `es/` counterparts; the EN and es glossary indexes had three unlinked `[Link to form →]`-style placeholders each. All now point to `/start/contribute` (`/es/start/contribute` on Spanish pages) per the canonical contribute pathway.
 

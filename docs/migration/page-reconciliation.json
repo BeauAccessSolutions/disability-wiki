@@ -1,0 +1,22 @@
+{
+ "published_db_only": [
+  "en:crisis/emergency-disaster-preparedness",
+  "en:foundations/welcome",
+  "en:regions/index"
+ ],
+ "unpublished_db_only": [
+  "en:archetypes/default",
+  "en:archetypes/fact-checks",
+  "en:claude/skills/disability-wiki-slop/references/rubric",
+  "en:claude/skills/spanish-wiki-translation/references/canonical-blocks",
+  "en:claude/skills/spanish-wiki-translation/references/conventions",
+  "en:claude/skills/spanish-wiki-translation/references/glossary",
+  "en:docs/broken-links-triage-2026-06-07",
+  "en:docs/crisis-link-triage-2026-06-08",
+  "en:docs/translation-source-accuracy-flags",
+  "en:page-review-2026-06-05/DRAFT_legal_sections",
+  "en:page-review-2026-06-05/DRAFT_what-is-disability_merged",
+  "en:page-review-2026-06-05/DUPLICATE_PAGE_PLAN",
+  "en:page-review-2026-06-05/META_DESCRIPTIONS_PROPOSED"
+ ]
+}
