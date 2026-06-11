@@ -6,6 +6,9 @@ All notable changes to the Disability Wiki project are documented in this file.
 
 ## [Unreleased]
 
+### Added
+- **New page: Substance Use, Addiction, and Disability** (`healthcare/substance-use-and-addiction.md`, EN + es) — covers addiction/recovery as disabled people experience them and the distinct situation of chronic pain patients in the opioid crackdown (forced tapers, dependence vs. addiction, CDC 2022 / FDA 2019 guidance, MOUD and ADA recovery rights, treatment-program accessibility, harm reduction). Linked from the healthcare index Quick Start and the pain-and-fatigue page. All org URLs and the SAMHSA helpline number verified live.
+
 ### Changed
 - **Hand-maintained "Last updated" footer lines removed from all content pages** (~510 stamps across 484 EN + es pages). Most stamps said "January 2026" or "November 2025" even on pages corrected in the June 2026 audits, understating freshness on exactly the pages (crisis hotlines) where it matters. Wiki.js's automatic updated-at timestamp is now the single source of truth for page freshness.
 

@@ -49,6 +49,10 @@ Accessible mental health support for disabled people. Covers therapy types, psyc
 
 Managing chronic pain and fatigue. Covers pain management options (medical and non-medical), ME/CFS and post-exertional malaise, migraines, fibromyalgia, pacing strategies, and advocating for pain to be taken seriously.
 
+### [Substance Use, Addiction & Disability](/healthcare/substance-use-and-addiction)
+
+Addiction and recovery as disabled people experience them, plus the distinct situation of chronic pain patients in the opioid crackdown: forced tapers, dependence vs. addiction, accessible treatment, medication for opioid use disorder, harm reduction, and recovery rights.
+
 ### [Home & Community-Based Care](/healthcare/home-and-community-care)
 
 Personal care attendants (PCAs), home health nurses, HCBS (Home and Community-Based Services) Waivers, self-directed care, and alternatives to institutionalization.
@@ -74,6 +78,9 @@ Personal care attendants (PCAs), home health nurses, HCBS (Home and Community-Ba
 
 ### I have chronic pain
 [Pain & Fatigue →](/healthcare/pain-and-fatigue)
+
+### I'm facing a forced opioid taper, or worried about my substance use
+[Substance Use, Addiction & Disability →](/healthcare/substance-use-and-addiction)
 
 ### I need medical equipment or assistive tech
 [Medical Equipment & AT →](/healthcare/medical-equipment-and-at)

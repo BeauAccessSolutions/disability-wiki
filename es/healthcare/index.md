@@ -49,6 +49,10 @@ Apoyo de salud mental accesible para personas con discapacidad. Cubre tipos de t
 
 Manejo del dolor crónico y la fatiga. Cubre opciones de manejo del dolor (médicas y no médicas), EM/SFC y malestar postesfuerzo, migrañas, fibromialgia, estrategias de dosificación de energía (pacing) y cómo lograr que el dolor se tome en serio.
 
+### [Consumo de sustancias, adicción y discapacidad](/es/healthcare/substance-use-and-addiction)
+
+La adicción y la recuperación tal como las viven las personas con discapacidad, más la situación específica de los pacientes con dolor crónico ante las restricciones de opioides: reducciones forzadas de dosis, dependencia versus adicción, tratamiento accesible, medicación para el trastorno por consumo de opioides, reducción de daños y derechos en la recuperación.
+
 ### [Atención en el hogar y la comunidad](/es/healthcare/home-and-community-care)
 
 Asistentes de cuidado personal (PCA), enfermería domiciliaria, exenciones de servicios en el hogar y la comunidad (Home and Community-Based Services, HCBS), atención autodirigida y alternativas a la institucionalización.
@@ -74,6 +78,9 @@ Asistentes de cuidado personal (PCA), enfermería domiciliaria, exenciones de se
 
 ### Tengo dolor crónico
 [Dolor y fatiga →](/es/healthcare/pain-and-fatigue)
+
+### Enfrento una reducción forzada de opioides, o me preocupa mi consumo de sustancias
+[Consumo de sustancias, adicción y discapacidad →](/es/healthcare/substance-use-and-addiction)
 
 ### Necesito equipos médicos o tecnología de asistencia
 [Equipos médicos y AT →](/es/healthcare/medical-equipment-and-at)
