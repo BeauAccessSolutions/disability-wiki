@@ -54,7 +54,7 @@ If you use a screen reader and the page doesn't make sense, tell us:
 - What screen reader and computer you use
 - What you tried to do and what happened
 
-→ Report an issue: [[/about/contact|Contact Us]] (feedback form coming soon)
+→ Report an issue: [Contact Us](/start/contact)
 
 ---
 
@@ -323,7 +323,7 @@ Accessibility isn't made by engineers in a boardroom. It's decided by:
 - Our time/capacity vs. what people need
 - Perfect compliance vs. actually usable for disabled people
 
-If you want to help with accessibility work, see [[/about/how-to-contribute|How to Contribute]].
+If you want to help with accessibility work, see [How to Contribute](/start/contribute).
 
 ---
 
@@ -348,7 +348,7 @@ Tell us:
 - What you tried to do and what went wrong
 
 **How to reach us:**
-- [[/about/contact|Contact Form]]
+- [Contact Form](/start/contact)
 - Or email: [contact email when available]
 
 **What we promise:**
@@ -365,12 +365,9 @@ Want to help make this more accessible?
 - **Test with your tech** — Let us know if it works
 - **Report problems** — Be specific about what didn't work
 - **Share your needs** — What format would help you most?
-- **Contribute accessibility expertise** — See [[/about/how-to-contribute|How to Contribute]]
+- **Contribute accessibility expertise** — See [How to Contribute](/start/contribute)
 
 ---
-
-**Previous page:** [[/start/how-to-use|How to Use This Wiki]]  
-**Next page:** [[/about/contact|Contact Us]] or return to [[/start/welcome|Welcome]]
 
 **This page is:** Accessible to screen readers | Mobile-friendly | Plain language | Keyboard navigable
 

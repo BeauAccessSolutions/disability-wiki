@@ -228,8 +228,6 @@ R: Las preferencias de lenguaje varían según la región y la cultura. Esta gu�
 
 ---
 
-**Siguiente página para leer:** [[/es/start/what-is-disability|¿Qué es la discapacidad?]] o [[/es/start/models|Modelos de la discapacidad]]
-
 ---
 
 ---

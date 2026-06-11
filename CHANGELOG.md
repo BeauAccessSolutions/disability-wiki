@@ -6,6 +6,9 @@ All notable changes to the Disability Wiki project are documented in this file.
 
 ## [Unreleased]
 
+### Fixed
+- **Residual `[[wikilink]]` syntax cleared from the four start/ pages (EN + es)**: ~50 unsupported wikilinks rendering as literal bracket text (missed by the 2026-06-08 sweep), many pointing at pages that moved (`/about/contact` → `/start/contact`, `/start/welcome` → `/foundations/welcome`, `/library` → `/media`) or were never created (`/about/privacy` etc., now unlinked plain text). Broken hand-maintained "Previous/Next page" nav lines removed.
+
 ### Changed
 - **Frontmatter titles aligned to each page's written H1** (119 pages, EN + es): many frontmatter titles were slug-generated ("Tv Shows", "Tiktok Creators") while the body H1 carried the real title ("Disability on Television"); titles now match the H1. Improves Wiki.js page titles/search/SEO today and lets the new static site render a single H1. One inverse fix: the es filing-a-complaint H1 was all-caps and now uses the frontmatter title.
 

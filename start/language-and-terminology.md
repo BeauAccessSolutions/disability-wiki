@@ -228,8 +228,6 @@ A: Language preferences vary by region and culture. This guide focuses on Englis
 
 ---
 
-**Next page to read:** [[/start/what-is-disability|What Is Disability?]] or [[/start/models|Disability Models]]
-
 ---
 
 ---

@@ -21,7 +21,7 @@ Common questions from people new to DisabilityWiki, answered clearly.
 **In immediate danger or active crisis?** Use local emergency services first, then reach out to trusted people.
 
 After that, this resource can help:
-- [[/crisis/hotlines|Crisis & Immediate Help]]
+- [Crisis & Immediate Help](/crisis/global-crisis-hotlines)
 
 ---
 
@@ -38,7 +38,7 @@ A community-built guide to disability resources, rights, and culture.
 
 It's a starting point and navigation map when systems feel scattered.
 
-**Learn more:** [[/start/welcome|Welcome to DisabilityWiki]]
+**Learn more:** [Welcome to DisabilityWiki](/foundations/welcome)
 
 ---
 
@@ -54,7 +54,7 @@ It's a starting point and navigation map when systems feel scattered.
 
 The wiki is written from disabled people's point of view, not neutral or "from above." Allies are welcome, but disabled people lead.
 
-**Learn more:** [[/start/welcome|Welcome to DisabilityWiki]]
+**Learn more:** [Welcome to DisabilityWiki](/foundations/welcome)
 
 ---
 
@@ -66,7 +66,7 @@ The wiki is written from disabled people's point of view, not neutral or "from a
 
 **By region:** Especially in detailed sections (US, Canada, UK, Australia, Global South, etc.)
 
-**Full explanation:** [[/start/how-to-use|How to Use This Wiki]]
+**Full explanation:** [How to Use This Wiki](/start/how-to-use)
 
 ---
 
@@ -77,18 +77,18 @@ The wiki is written from disabled people's point of view, not neutral or "from a
 Choose based on your immediate need:
 
 **New to disability concepts:**
-1. [[/start/welcome|Welcome]]
-2. [[/start/what-is-disability|What Is Disability?]]
-3. [[/start/language|Language & Terminology]]
+1. [Welcome](/foundations/welcome)
+2. [What Is Disability?](/start/what-is-disability)
+3. [Language & Terminology](/start/language-and-terminology)
 
 **Urgent need (housing, money, crisis):**
-- [[/crisis/hotlines|Crisis & Immediate Help]]
-- [[/benefits|Benefits & Financial Support]]
-- [[/housing|Housing & Independent Living]]
+- [Crisis & Immediate Help](/crisis/global-crisis-hotlines)
+- [Benefits & Financial Support](/benefits)
+- [Housing & Independent Living](/housing)
 
 **You're an ally or professional:**
-- [[/start/allies|For Allies]]
-- [[/start/models|Disability Models]]
+- [For Allies](/start/for-allies)
+- [Disability Models](/start/disability-models)
 
 You can always come back to this FAQ if you get lost.
 
@@ -120,9 +120,9 @@ If you're asking this question, you're welcome here.
 That's expected. This FAQ can't cover everything.
 
 **Try:**
-- [[/start/how-to-use|How to Use This Wiki]] (navigation help)
+- [How to Use This Wiki](/start/how-to-use) (navigation help)
 - Search bar (use keywords)
-- [[/about/contact|Contact Us]] (ask maintainers)
+- [Contact Us](/start/contact) (ask maintainers)
 
 ---
 
@@ -146,7 +146,7 @@ No.
 **Important:** All medical advice pages include: "This is not medical advice. Consult a qualified healthcare provider for your situation."
 
 **In medical crisis:** Use local emergency services or crisis lines
-- [[/crisis/hotlines|Crisis & Immediate Help]]
+- [Crisis & Immediate Help](/crisis/global-crisis-hotlines)
 
 ---
 
@@ -192,7 +192,7 @@ We use several methods to keep information accurate:
 
 **If you find an error:**
 - Note the page and problem
-- Report via: [[/about/contact|Contact Us]]
+- Report via: [Contact Us](/start/contact)
 
 ---
 
@@ -208,8 +208,8 @@ Yes. The wiki is designed to work with all major screen readers.
 
 **If something doesn't work:** Tell us immediately. We treat accessibility bugs as urgent.
 
-- [[/accessibility-statement|Full Accessibility Statement]]
-- [[/about/contact|Report an accessibility problem]]
+- [Full Accessibility Statement](/accessibility-statement)
+- [Report an accessibility problem](/start/contact)
 
 ---
 
@@ -270,7 +270,7 @@ Almost certainly yes.
 - Help review and verify pages
 - Support accessibility, translation, or outreach
 
-**Get started:** [[/about/how-to-contribute|How to Contribute]]
+**Get started:** [How to Contribute](/start/contribute)
 
 ---
 
@@ -284,8 +284,8 @@ Tell us, especially if it fills a gap affecting:
 - Important laws, benefits, or survival strategies
 
 **Submit suggestions:**
-- [[/about/how-to-contribute|How to Contribute]]
-- [[/about/contact|Contact Us]]
+- [How to Contribute](/start/contribute)
+- [Contact Us](/start/contact)
 
 **Most helpful when you include:**
 - The topic and region (e.g., "disability pensions in Brazil")
@@ -302,7 +302,7 @@ Tell us, especially if it fills a gap affecting:
 
 **Long-term:** We're building shared governance led by disabled people from diverse backgrounds. Most-impacted communities will have real leadership (not token roles). Processes will be transparent.
 
-**Details:** [[/about/governance|Governance & Decision-Making]] (in development)
+**Details:** Governance & Decision-Making (in development)
 
 ---
 
@@ -314,7 +314,7 @@ We aim to:
 - Avoid ads and third-party trackers
 - Use analytics only in aggregate
 
-**Full details:** [[/about/privacy|Privacy & Data Use]] (to be created)
+**Full details:** Privacy & Data Use (to be created)
 
 **Recommendation:** Avoid sharing identifying information in public spaces. Use a pseudonym if you prefer.
 
@@ -328,8 +328,8 @@ As the project grows:
 - Email, RSS, or social platforms (if set up)
 
 **Check:**
-- [[/about/changelog|Changelog & Updates]] (planned)
-- [[/start/welcome|Welcome]] page
+- Changelog & Updates (planned)
+- [Welcome](/foundations/welcome) page
 
 ---
 
@@ -352,7 +352,7 @@ We want to know.
 - How it affected you (optional)
 - Any suggestions
 
-**Contact:** [[/about/contact|Contact Us]]
+**Contact:** [Contact Us](/start/contact)
 
 ---
 
@@ -361,18 +361,18 @@ We want to know.
 This FAQ can't cover everything.
 
 **Try:**
-- [[/start/how-to-use|How to Use This Wiki]] for navigation help
+- [How to Use This Wiki](/start/how-to-use) for navigation help
 - Search bar for specific topics
-- [[/about/contact|Contact Us]] to ask maintainers
+- [Contact Us](/start/contact) to ask maintainers
 - Suggest additions to this FAQ
 
 ---
 
 **Related pages:**
-- [[/start/welcome|Welcome to DisabilityWiki]]
-- [[/start/how-to-use|How to Use This Wiki]]
-- [[/about/contact|Contact Us]]
-- [[/crisis/hotlines|Crisis & Immediate Help]]
+- [Welcome to DisabilityWiki](/foundations/welcome)
+- [How to Use This Wiki](/start/how-to-use)
+- [Contact Us](/start/contact)
+- [Crisis & Immediate Help](/crisis/global-crisis-hotlines)
 
 ---
 

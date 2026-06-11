@@ -57,7 +57,7 @@ El **orgullo de la discapacidad** es la celebración de la identidad y la comuni
 - **Resistencia** (rechazar el capacitismo y las narrativas inspiradoras)
 - **Alegría** (las personas con discapacidad merecemos alegría, celebración y comunidad)
 
-**La bandera del orgullo de la discapacidad** representa a todas las personas con discapacidad y nuestras diversas experiencias (consulta la [[/es/start/welcome|página de bienvenida]] para ver los colores de la bandera).
+**La bandera del orgullo de la discapacidad** representa a todas las personas con discapacidad y nuestras diversas experiencias (consulta la [página de bienvenida](/es/foundations/welcome) para ver los colores de la bandera).
 
 ## La comunidad de la discapacidad a través de distintos tipos
 
@@ -205,15 +205,13 @@ Todos los puntos de entrada a la cultura de la discapacidad son válidos.
 
 ## Próximos pasos
 
-- Explora los medios, el arte y la cultura de la discapacidad (consulta la [[/es/library|sección Biblioteca]])
-- Conéctate con las comunidades de la discapacidad (consulta la [[/es/community|sección Comunidad]])
+- Explora los medios, el arte y la cultura de la discapacidad (consulta la [sección Biblioteca](/es/media))
+- Conéctate con las comunidades de la discapacidad (consulta la [sección Comunidad](/es/community))
 - Lee memorias y obras creativas sobre la discapacidad
 - Asiste a eventos de orgullo de la discapacidad (según tu ubicación)
 - Únete a comunidades de la discapacidad en línea
 
 ---
-
-**Siguiente página para leer:** [[/es/start/allies|Para personas aliadas]] o explora la [[/es/community|sección Comunidad]]
 
 ---
 

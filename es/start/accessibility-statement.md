@@ -54,7 +54,7 @@ Si usas un lector de pantalla y la página no tiene sentido, dinos:
 - Qué lector de pantalla y qué computadora usas
 - Qué intentabas hacer y qué pasó
 
-→ Reporta un problema: [[/es/about/contact|Contáctanos]] (formulario de comentarios próximamente)
+→ Reporta un problema: [Contáctanos](/es/start/contact)
 
 ---
 
@@ -323,7 +323,7 @@ La accesibilidad no la deciden personas ingenieras en una sala de juntas. La dec
 - Nuestro tiempo y capacidad frente a lo que la gente necesita
 - El cumplimiento perfecto frente a lo que de verdad es usable para las personas con discapacidad
 
-Si quieres ayudar con el trabajo de accesibilidad, consulta [[/es/about/how-to-contribute|Cómo Contribuir]].
+Si quieres ayudar con el trabajo de accesibilidad, consulta [Cómo Contribuir](/es/start/contribute).
 
 ---
 
@@ -348,7 +348,7 @@ Dinos:
 - Qué intentabas hacer y qué salió mal
 
 **Cómo contactarnos:**
-- [[/es/about/contact|Formulario de contacto]]
+- [Formulario de contacto](/es/start/contact)
 - O por correo: [correo de contacto cuando esté disponible]
 
 **Lo que prometemos:**
@@ -365,12 +365,9 @@ Dinos:
 - **Prueba con tu tecnología** — Avísanos si funciona
 - **Reporta problemas** — Sé específico sobre qué no funcionó
 - **Comparte tus necesidades** — ¿Qué formato te ayudaría más?
-- **Aporta tus conocimientos de accesibilidad** — Consulta [[/es/about/how-to-contribute|Cómo Contribuir]]
+- **Aporta tus conocimientos de accesibilidad** — Consulta [Cómo Contribuir](/es/start/contribute)
 
 ---
-
-**Página anterior:** [[/es/start/how-to-use|Cómo usar este wiki]]  
-**Página siguiente:** [[/es/about/contact|Contáctanos]] o vuelve a [[/es/start/welcome|Bienvenida]]
 
 **Esta página es:** Accesible para lectores de pantalla | Compatible con móvil | Lenguaje sencillo | Navegable con teclado
 

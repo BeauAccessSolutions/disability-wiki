@@ -57,7 +57,7 @@ Disabled people have long history of resistance:
 - **Resistance** (refusing ableism and inspiration narratives)
 - **Joy** (disabled people deserve joy, celebration, and community)
 
-**The Disability Pride Flag** represents all disabled people and our diverse experiences (see [[/start/welcome|Welcome page]] for flag colors).
+**The Disability Pride Flag** represents all disabled people and our diverse experiences (see [Welcome page](/foundations/welcome) for flag colors).
 
 ## Disability Community Across Types
 
@@ -205,15 +205,13 @@ All entry points to disability culture are valid.
 
 ## Next Steps
 
-- Explore disability media, art, and culture (see [[/library|Library section]])
-- Connect with disability communities (see [[/community|Community section]])
+- Explore disability media, art, and culture (see [Library section](/media))
+- Connect with disability communities (see [Community section](/community))
 - Read disability memoirs and creative work
 - Attend disability pride events (depending on your location)
 - Join online disability communities
 
 ---
-
-**Next page to read:** [[/start/allies|For Allies]] or explore [[/community|Community section]]
 
 ---
 

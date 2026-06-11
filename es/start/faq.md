@@ -21,7 +21,7 @@ Preguntas comunes de las personas nuevas en DisabilityWiki, respondidas con clar
 **¿Estás en peligro inmediato o en una crisis activa?** Usa primero los servicios de emergencia locales y luego acude a personas de confianza.
 
 Después de eso, este recurso puede ayudarte:
-- [[/es/crisis/hotlines|Crisis y ayuda inmediata]]
+- [Crisis y ayuda inmediata](/es/crisis/global-crisis-hotlines)
 
 ---
 
@@ -38,7 +38,7 @@ Una guía creada por la comunidad sobre recursos, derechos y cultura de la disca
 
 Es un punto de partida y un mapa de navegación cuando los sistemas se sienten dispersos.
 
-**Más información:** [[/es/start/welcome|Bienvenida a DisabilityWiki]]
+**Más información:** [Bienvenida a DisabilityWiki](/es/foundations/welcome)
 
 ---
 
@@ -54,7 +54,7 @@ Es un punto de partida y un mapa de navegación cuando los sistemas se sienten d
 
 El wiki está escrito desde el punto de vista de las personas con discapacidad, no de manera neutral ni "desde arriba". Las personas aliadas son bienvenidas, pero las personas con discapacidad lideran.
 
-**Más información:** [[/es/start/welcome|Bienvenida a DisabilityWiki]]
+**Más información:** [Bienvenida a DisabilityWiki](/es/foundations/welcome)
 
 ---
 
@@ -66,7 +66,7 @@ El wiki está escrito desde el punto de vista de las personas con discapacidad, 
 
 **Por región:** Sobre todo en las secciones detalladas (EE. UU., Canadá, Reino Unido, Australia, Sur Global, etc.)
 
-**Explicación completa:** [[/es/start/how-to-use|Cómo usar este wiki]]
+**Explicación completa:** [Cómo usar este wiki](/es/start/how-to-use)
 
 ---
 
@@ -77,18 +77,18 @@ El wiki está escrito desde el punto de vista de las personas con discapacidad, 
 Elige según tu necesidad inmediata:
 
 **Nuevo en los conceptos de la discapacidad:**
-1. [[/es/start/welcome|Bienvenida]]
-2. [[/es/start/what-is-disability|¿Qué es la discapacidad?]]
-3. [[/es/start/language|Lenguaje y terminología]]
+1. [Bienvenida](/es/foundations/welcome)
+2. [¿Qué es la discapacidad?](/es/start/what-is-disability)
+3. [Lenguaje y terminología](/es/start/language-and-terminology)
 
 **Necesidad urgente (vivienda, dinero, crisis):**
-- [[/es/crisis/hotlines|Crisis y ayuda inmediata]]
-- [[/es/benefits|Prestaciones y apoyo económico]]
-- [[/es/housing|Vivienda y vida independiente]]
+- [Crisis y ayuda inmediata](/es/crisis/global-crisis-hotlines)
+- [Prestaciones y apoyo económico](/es/benefits)
+- [Vivienda y vida independiente](/es/housing)
 
 **Eres una persona aliada o profesional:**
-- [[/es/start/allies|Para personas aliadas]]
-- [[/es/start/models|Modelos de la discapacidad]]
+- [Para personas aliadas](/es/start/for-allies)
+- [Modelos de la discapacidad](/es/start/disability-models)
 
 Siempre puedes volver a estas preguntas frecuentes si te pierdes.
 
@@ -120,9 +120,9 @@ Si te estás haciendo esta pregunta, eres bienvenido aquí.
 Es de esperar. Estas preguntas frecuentes no pueden cubrirlo todo.
 
 **Prueba:**
-- [[/es/start/how-to-use|Cómo usar este wiki]] (ayuda de navegación)
+- [Cómo usar este wiki](/es/start/how-to-use) (ayuda de navegación)
 - La barra de búsqueda (usa palabras clave)
-- [[/es/about/contact|Contáctanos]] (pregunta a quienes mantienen el wiki)
+- [Contáctanos](/es/start/contact) (pregunta a quienes mantienen el wiki)
 
 ---
 
@@ -146,7 +146,7 @@ No.
 **Importante:** Todas las páginas con consejos médicos incluyen: "Esto no es un consejo médico. Consulta a un profesional de salud calificado para tu situación".
 
 **En una crisis médica:** Usa los servicios de emergencia locales o las líneas de crisis
-- [[/es/crisis/hotlines|Crisis y ayuda inmediata]]
+- [Crisis y ayuda inmediata](/es/crisis/global-crisis-hotlines)
 
 ---
 
@@ -192,7 +192,7 @@ Usamos varios métodos para mantener la información exacta:
 
 **Si encuentras un error:**
 - Anota la página y el problema
-- Repórtalo a través de: [[/es/about/contact|Contáctanos]]
+- Repórtalo a través de: [Contáctanos](/es/start/contact)
 
 ---
 
@@ -208,8 +208,8 @@ Sí. El wiki está diseñado para funcionar con todos los principales lectores d
 
 **Si algo no funciona:** Avísanos de inmediato. Tratamos los errores de accesibilidad como urgentes.
 
-- [[/es/accessibility-statement|Declaración de accesibilidad completa]]
-- [[/es/about/contact|Reportar un problema de accesibilidad]]
+- [Declaración de accesibilidad completa](/es/accessibility-statement)
+- [Reportar un problema de accesibilidad](/es/start/contact)
 
 ---
 
@@ -270,7 +270,7 @@ Casi con seguridad, sí.
 - Ayudar a revisar y verificar páginas
 - Apoyar la accesibilidad, la traducción o la difusión
 
-**Empieza aquí:** [[/es/about/how-to-contribute|Cómo contribuir]]
+**Empieza aquí:** [Cómo contribuir](/es/start/contribute)
 
 ---
 
@@ -284,8 +284,8 @@ Avísanos, sobre todo si llena un vacío que afecta a:
 - Leyes, prestaciones o estrategias de supervivencia importantes
 
 **Envía sugerencias:**
-- [[/es/about/how-to-contribute|Cómo contribuir]]
-- [[/es/about/contact|Contáctanos]]
+- [Cómo contribuir](/es/start/contribute)
+- [Contáctanos](/es/start/contact)
 
 **Es más útil cuando incluyes:**
 - El tema y la región (por ejemplo, "pensiones por discapacidad en Brasil")
@@ -302,7 +302,7 @@ Avísanos, sobre todo si llena un vacío que afecta a:
 
 **A largo plazo:** Estamos construyendo una gobernanza compartida liderada por personas con discapacidad de diversos orígenes. Las comunidades más afectadas tendrán un liderazgo real (no roles simbólicos). Los procesos serán transparentes.
 
-**Detalles:** [[/es/about/governance|Gobernanza y toma de decisiones]] (en desarrollo)
+**Detalles:** Gobernanza y toma de decisiones (en desarrollo)
 
 ---
 
@@ -314,7 +314,7 @@ Nuestro objetivo es:
 - Evitar anuncios y rastreadores de terceros
 - Usar las analíticas solo de forma agregada
 
-**Detalles completos:** [[/es/about/privacy|Privacidad y uso de datos]] (por crear)
+**Detalles completos:** Privacidad y uso de datos (por crear)
 
 **Recomendación:** Evita compartir información identificable en espacios públicos. Usa un seudónimo si lo prefieres.
 
@@ -328,8 +328,8 @@ A medida que el proyecto crece:
 - Correo electrónico, RSS o plataformas sociales (si se configuran)
 
 **Consulta:**
-- [[/es/about/changelog|Registro de cambios y actualizaciones]] (planificado)
-- La página de [[/es/start/welcome|Bienvenida]]
+- Registro de cambios y actualizaciones (planificado)
+- La página de [Bienvenida](/es/foundations/welcome)
 
 ---
 
@@ -352,7 +352,7 @@ Queremos saberlo.
 - Cómo te afectó (opcional)
 - Cualquier sugerencia
 
-**Contacto:** [[/es/about/contact|Contáctanos]]
+**Contacto:** [Contáctanos](/es/start/contact)
 
 ---
 
@@ -361,18 +361,18 @@ Queremos saberlo.
 Estas preguntas frecuentes no pueden cubrirlo todo.
 
 **Prueba:**
-- [[/es/start/how-to-use|Cómo usar este wiki]] para obtener ayuda de navegación
+- [Cómo usar este wiki](/es/start/how-to-use) para obtener ayuda de navegación
 - La barra de búsqueda para temas específicos
-- [[/es/about/contact|Contáctanos]] para preguntar a quienes mantienen el wiki
+- [Contáctanos](/es/start/contact) para preguntar a quienes mantienen el wiki
 - Sugiere agregados a estas preguntas frecuentes
 
 ---
 
 **Páginas relacionadas:**
-- [[/es/start/welcome|Bienvenida a DisabilityWiki]]
-- [[/es/start/how-to-use|Cómo usar este wiki]]
-- [[/es/about/contact|Contáctanos]]
-- [[/es/crisis/hotlines|Crisis y ayuda inmediata]]
+- [Bienvenida a DisabilityWiki](/es/foundations/welcome)
+- [Cómo usar este wiki](/es/start/how-to-use)
+- [Contáctanos](/es/start/contact)
+- [Crisis y ayuda inmediata](/es/crisis/global-crisis-hotlines)
 
 ---
 
