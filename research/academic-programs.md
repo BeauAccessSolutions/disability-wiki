@@ -1,5 +1,5 @@
 ---
-title: Academic Programs
+title: "Academic Programs: Disability Studies and Inclusion"
 description: This page describes academic programs, training opportunities, and educational pathways focused on disability studies, inclusive research, and related fields.
 published: true
 date: 2026-06-05T20:22:33.037Z

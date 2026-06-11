@@ -1,5 +1,5 @@
 ---
-title: Líneas de crisis en Kenia
+title: "Ayuda en crisis: Kenia"
 description: Los consejeros están capacitados para ayudar. La mayoría de los servicios son gratuitos, pero el costo y el horario varían según el servicio; consulta cada uno.
 published: true
 date: 2026-06-05T20:30:21.251Z

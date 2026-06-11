@@ -1,5 +1,5 @@
 ---
-title: Crisis Hotlines in Mexico
+title: "Crisis Help: Mexico"
 description: If you're in crisis right now, you're not alone. Help is available immediately and is confidential.
 published: true
 date: 2026-06-05T20:31:19.471Z

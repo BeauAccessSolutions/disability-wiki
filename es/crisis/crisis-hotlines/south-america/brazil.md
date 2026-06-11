@@ -1,5 +1,5 @@
 ---
-title: Líneas de crisis en Brasil
+title: "Ayuda en crisis: Brasil"
 description: La ayuda está disponible de inmediato, de forma confidencial y sin juicios. Si eso te resulta abrumador, puedes saltarte todo y simplemente llamar al número que aparece abajo.
 published: true
 date: 2026-06-05T20:31:37.567Z

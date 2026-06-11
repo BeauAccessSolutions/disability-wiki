@@ -1,5 +1,5 @@
 ---
-title: Dinero y prestaciones – Panorama general
+title: Ingresos, prestaciones y apoyo económico
 description: La discapacidad cuesta dinero. La atención médica, la tecnología de asistencia, las modificaciones de accesibilidad, la reducción de la capacidad laboral…
 published: true
 date: 2026-06-05T20:27:15.633Z

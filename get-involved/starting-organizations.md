@@ -1,5 +1,5 @@
 ---
-title: Starting Organizations
+title: Starting Disability Organizations
 description: Disabled people have long created their own organizations—advocacy groups, independent living centers, mutual aid networks, cultural groups, youth…
 published: true
 date: 2026-06-05T20:34:38.458Z

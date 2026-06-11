@@ -1,5 +1,5 @@
 ---
-title: Crisis Hotlines in Nigeria
+title: "Crisis Help: Nigeria"
 description: Crisis and mental-health support lines for Nigeria, including SURPIN and She Writes Woman. If you're in crisis right now, you're not alone.
 published: true
 date: 2026-06-05T20:30:25.819Z

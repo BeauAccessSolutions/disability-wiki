@@ -1,5 +1,5 @@
 ---
-title: Psychiatric And Psychosocial Disability
+title: Psychiatric & Psychosocial Disabilities
 description: Psychiatric and psychosocial disabilities include mental health conditions that significantly impact daily life.
 published: true
 date: 2026-06-05T20:29:40.114Z

@@ -1,5 +1,5 @@
 ---
-title: Crisis Hotlines in Brazil
+title: "Crisis Help: Brazil"
 description: If you're in crisis right now, você não está sozinho (you're not alone). If that feels overwhelming, you can skip everything and just call the number below.
 published: true
 date: 2026-06-05T20:31:37.567Z

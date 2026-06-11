@@ -1,5 +1,5 @@
 ---
-title: Índice de profesionales
+title: Kits de herramientas profesionales
 description: Esta sección pone en el centro los conocimientos de las personas con discapacidad para ayudar a los profesionales a brindar un servicio genuinamente…
 published: true
 date: 2026-06-05T20:21:48.412Z

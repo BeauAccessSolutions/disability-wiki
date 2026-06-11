@@ -1,5 +1,5 @@
 ---
-title: Líneas de crisis en EE. UU.
+title: "Ayuda en crisis: Estados Unidos"
 description: Si esto es abrumador en este momento, puedes simplemente llamar al número de abajo. Con eso basta. Ellos se encargan del resto.
 published: true
 date: 2026-06-05T20:31:23.840Z

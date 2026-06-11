@@ -1,5 +1,5 @@
 ---
-title: Crisis Hotlines in Indonesia
+title: "Crisis Help: Indonesia"
 description: Jika Anda sedang dalam krisis sekarang, Anda tidak sendirian. Bantuan tersedia segera dan rahasia.
 published: true
 date: 2026-06-05T20:30:47.644Z

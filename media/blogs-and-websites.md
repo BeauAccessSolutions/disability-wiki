@@ -1,5 +1,5 @@
 ---
-title: Blogs And Websites
+title: Disability Blogs & Websites
 description: Disability-focused blogs, news sites, and online publications.
 published: true
 date: 2026-06-05T20:20:27.715Z

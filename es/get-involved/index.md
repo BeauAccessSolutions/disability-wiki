@@ -1,5 +1,5 @@
 ---
-title: Índice de Participa
+title: Participa
 description: Esta sección pone en el centro los conocimientos de las personas con discapacidad en la construcción de movimientos para el cambio y se basa…
 published: true
 date: 2026-06-05T20:34:30.249Z

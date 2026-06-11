@@ -1,5 +1,5 @@
 ---
-title: Youtube Channels
+title: Disability YouTube Channels
 description: Disabled content creators on YouTube covering lifestyle, advocacy, education, comedy, vlogs, and more.
 published: true
 date: 2026-06-05T20:21:18.280Z

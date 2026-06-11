@@ -1,5 +1,5 @@
 ---
-title: Crisis Hotlines in Thailand
+title: "Crisis Help: Thailand"
 description: ถ้าคุณอยู่ในสถานการณ์วิกฤตตอนนี้ คุณไม่ได้อยู่คนเดียว
 published: true
 date: 2026-06-05T20:30:56.197Z

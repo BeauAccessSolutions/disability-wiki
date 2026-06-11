@@ -1,5 +1,5 @@
 ---
-title: Programas académicos
+title: "Programas académicos: estudios sobre discapacidad e inclusión"
 description: Esta página describe programas académicos, oportunidades de formación y vías educativas centradas en los estudios sobre discapacidad, la investigación…
 published: true
 date: 2026-06-05T20:22:33.037Z

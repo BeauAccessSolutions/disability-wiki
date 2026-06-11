@@ -1,5 +1,5 @@
 ---
-title: Vivienda y arreglos de convivencia
+title: Vivienda y vida independiente
 description: Para las personas con discapacidad, la vivienda es mucho más que un techo. Se trata de libertad, dignidad, seguridad y la posibilidad de participar en la vida comunitaria.
 published: true
 date: 2026-06-05T20:38:12.146Z

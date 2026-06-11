@@ -1,5 +1,5 @@
 ---
-title: Asian Pacific Crisis Hotlines
+title: "Crisis Help: Asia & Pacific"
 description: If you're in crisis right now, you're not alone. This page connects you to crisis resources across Asia and the Pacific region.
 published: true
 date: 2026-06-05T20:30:34.377Z

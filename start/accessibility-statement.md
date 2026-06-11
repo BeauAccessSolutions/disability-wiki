@@ -1,5 +1,5 @@
 ---
-title: Accessibility Statement
+title: Accessibility Statement for DisabilityWiki
 description: DisabilityWiki is built first and foremost for disabled people. That means accessibility is not a feature—it's the baseline.
 published: true
 date: 2026-06-05T20:19:47.494Z

@@ -1,5 +1,5 @@
 ---
-title: Líneas de crisis en Nigeria
+title: "Ayuda en crisis: Nigeria"
 description: Líneas de crisis y de apoyo en salud mental en Nigeria, incluidas SURPIN y She Writes Woman. Si estás en crisis en este momento, no estás solo.
 published: true
 date: 2026-06-05T20:30:25.819Z

@@ -1,5 +1,5 @@
 ---
-title: Índice de investigación
+title: "Investigación: discapacidad e inclusión"
 description: Esta sección pone en el centro los conocimientos de las personas con discapacidad y se guía por el principio de que la investigación sobre discapacidad debe…
 published: true
 date: 2026-06-05T20:22:55.016Z

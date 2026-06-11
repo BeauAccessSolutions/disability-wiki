@@ -1,5 +1,5 @@
 ---
-title: Líneas de crisis en África
+title: "Ayuda en crisis: África"
 description: Esta página te conecta con recursos de crisis en toda África. Muchos países africanos están desarrollando servicios de salud mental y líneas de crisis.
 published: true
 date: 2026-06-05T20:30:16.368Z

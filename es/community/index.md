@@ -1,5 +1,5 @@
 ---
-title: Comunidad y conexión
+title: Comunidad y apoyo entre pares
 description: Encontrar comunidad de personas con discapacidad en línea y de forma presencial, a través de diagnósticos y regiones.
 published: true
 date: 2026-06-05T19:43:21.337Z

@@ -1,5 +1,5 @@
 ---
-title: Lenguaje y terminología
+title: "Lenguaje y terminología: una guía en lenguaje sencillo"
 description: El lenguaje moldea cómo pensamos sobre la discapacidad. Esta página explica términos clave y por qué importan.
 published: true
 date: 2026-06-05T20:19:27.793Z

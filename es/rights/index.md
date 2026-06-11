@@ -1,5 +1,5 @@
 ---
-title: Derechos y leyes
+title: Derechos y defensa
 description: "Los derechos de las personas con discapacidad existen. No son caridad ni una concesión: son protecciones legales y derechos humanos que tienes, los conozcas o no."
 published: true
 date: 2026-06-05T20:23:18.918Z

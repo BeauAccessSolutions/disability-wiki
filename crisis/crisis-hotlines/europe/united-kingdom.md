@@ -1,5 +1,5 @@
 ---
-title: Crisis Hotlines in the United Kingdom
+title: "Crisis Help: United Kingdom"
 description: If you're in crisis right now, you're not alone. Most services listed are free. Cost and hours vary by service — check each one. These lines are confidential.
 published: true
 date: 2026-06-05T20:31:05.611Z

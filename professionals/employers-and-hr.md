@@ -1,5 +1,5 @@
 ---
-title: Employers And HR
+title: Employers & HR
 description: Disabled people are significantly underrepresented in the workforce—not because they can't work, but because of hiring discrimination, inaccessible…
 published: true
 date: 2026-06-05T20:21:38.229Z

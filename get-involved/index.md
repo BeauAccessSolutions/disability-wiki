@@ -1,5 +1,5 @@
 ---
-title: Get Involved Index
+title: Get Involved
 description: This section centers disabled people's expertise in building movements for change and is informed by disabled-led organizing globally.
 published: true
 date: 2026-06-05T20:34:30.249Z

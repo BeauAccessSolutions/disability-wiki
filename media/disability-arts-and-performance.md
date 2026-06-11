@@ -1,5 +1,5 @@
 ---
-title: Disability Arts And Performance
+title: Disability Arts & Performance
 description: Disability culture in theater, dance, visual arts, music, and performance. This page celebrates disabled artists and the rich tradition of disability arts.
 published: true
 date: 2026-06-05T20:20:38.923Z

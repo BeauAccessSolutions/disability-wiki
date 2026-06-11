@@ -1,5 +1,5 @@
 ---
-title: Crisis Hotlines in the US
+title: "Crisis Help: United States"
 description: If you're in crisis right now, you're not alone. That's enough. They'll take it from there.
 published: true
 date: 2026-06-05T20:31:23.840Z

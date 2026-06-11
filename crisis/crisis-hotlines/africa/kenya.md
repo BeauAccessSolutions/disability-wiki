@@ -1,5 +1,5 @@
 ---
-title: Crisis Hotlines in Kenya
+title: "Crisis Help: Kenya"
 description: Crisis and mental-health support lines for Kenya, including the Kenya Red Cross line and Befrienders Kenya. If you're in crisis right now, you're not alone.
 published: true
 date: 2026-06-05T20:30:21.251Z

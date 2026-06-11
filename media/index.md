@@ -1,5 +1,5 @@
 ---
-title: Media, Arts & Culture Index
+title: Media, Arts & Culture
 description: Disability representation in media shapes how society views disabled people—and how disabled people view themselves.
 published: true
 date: 2026-06-05T20:20:54.373Z

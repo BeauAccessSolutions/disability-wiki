@@ -1,5 +1,5 @@
 ---
-title: Intersectionality Index
+title: Intersectionality
 description: Disability doesn't exist in isolation. We are simultaneously disabled and part of other communities.
 published: true
 date: 2026-06-05T20:38:40.023Z

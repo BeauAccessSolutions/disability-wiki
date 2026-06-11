@@ -1,5 +1,5 @@
 ---
-title: Pre-Industrial Disability
+title: "Pre-Industrial Disability: How Societies Supported Disabled People"
 description: For most of human history, disabled people were integrated into their communities.
 published: true
 date: 2026-06-05T20:37:27.677Z

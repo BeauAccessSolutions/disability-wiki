@@ -1,5 +1,5 @@
 ---
-title: Media Tropes And Representation
+title: Media Tropes & Representation
 description: Analysis of harmful disability tropes in media and what good representation looks like.
 published: true
 date: 2026-06-05T20:20:58.581Z

@@ -1,5 +1,5 @@
 ---
-title: Líneas de crisis en Canadá
+title: "Ayuda en crisis: Canadá"
 description: Si esto es abrumador en este momento, puedes simplemente llamar al número de abajo. Los consejeros están capacitados para ayudar.
 published: true
 date: 2026-06-05T20:31:15.070Z

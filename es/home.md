@@ -1,5 +1,5 @@
 ---
-title: Disability Wiki
+title: "DisabilityWiki: un recurso sobre discapacidad construido por la comunidad"
 description: ¡Bienvenido/a! Esta es una guía comunitaria de recursos, derechos y cultura sobre la discapacidad, creada por personas con discapacidad, para personas con discapacidad, personas aliadas y defensoras.
 published: true
 date: 2026-06-05T20:37:37.857Z

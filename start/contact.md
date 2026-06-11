@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Contact Us
 description: DisabilityWiki is built by and for disabled people. We welcome your questions, suggestions, corrections, and contributions.
 published: true
 date: 2026-06-05T20:26:25.627Z

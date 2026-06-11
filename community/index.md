@@ -1,5 +1,5 @@
 ---
-title: Community & Connection
+title: Community & Peer Support
 description: Finding disabled community online and offline, across diagnoses and regions.
 published: true
 date: 2026-06-05T19:43:21.337Z

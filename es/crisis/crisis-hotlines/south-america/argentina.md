@@ -1,5 +1,5 @@
 ---
-title: Líneas de crisis en Argentina
+title: "Ayuda en crisis: Argentina"
 description: Si estás en crisis ahora, no estás solo. La ayuda está disponible inmediatamente y es confidencial.
 published: true
 date: 2026-06-05T20:31:33.296Z

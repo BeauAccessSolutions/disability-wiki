@@ -1,5 +1,5 @@
 ---
-title: TANF – Asistencia en efectivo para familias (EE. UU.)
+title: TANF – Temporary Assistance for Needy Families (EE. UU.)
 description: Los padres y madres con discapacidad y los hijos con discapacidad pueden verse afectados de maneras específicas.
 published: true
 date: 2026-06-05T20:28:17.790Z

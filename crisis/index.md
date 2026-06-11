@@ -1,5 +1,5 @@
 ---
-title: Crisis & Safety
+title: Crisis & Immediate Help
 description: This section provides fast access to crisis resources, emergency support, and safety planning for disabled people and those supporting them.
 published: true
 date: 2026-06-05T20:32:00.533Z

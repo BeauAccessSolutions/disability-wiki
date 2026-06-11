@@ -1,5 +1,5 @@
 ---
-title: Managing ADHD Medication Access
+title: "Managing ADHD Medication Access: Shortages, Refills & Logistics"
 description: Practical, plain-language help for the ongoing US stimulant shortage — pharmacy-hunting, refill and transfer rules, coping during a gap, and a harm-reduction safety note.
 published: true
 date: 2026-06-06T00:00:00.000Z

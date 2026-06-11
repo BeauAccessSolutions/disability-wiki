@@ -1,5 +1,5 @@
 ---
-title: Books
+title: Disability Books and Resources List
 description: This list centers disabled authors and authentic representation.
 published: true
 date: 2026-06-05T20:20:33.391Z

@@ -1,5 +1,5 @@
 ---
-title: Libros
+title: Lista de libros y recursos sobre discapacidad
 description: Esta lista pone en el centro a personas autoras con discapacidad y la representación auténtica.
 published: true
 date: 2026-06-05T20:20:33.391Z

@@ -1,5 +1,5 @@
 ---
-title: Intellectual And Developmental Disability
+title: Intellectual & Developmental Disabilities
 description: Intellectual and developmental disabilities (IDD) include conditions present from birth or early childhood that affect cognitive development, adaptive skills, or both.
 published: true
 date: 2026-06-05T20:29:02.703Z

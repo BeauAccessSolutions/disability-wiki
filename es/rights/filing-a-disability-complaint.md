@@ -8,8 +8,7 @@ editor: markdown
 dateCreated: 2026-01-07T19:57:55.003Z
 ---
 
-# CÓMO PRESENTAR UNA QUEJA POR LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD
-
+# Presentar una queja por discapacidad
 Si se violan tus derechos como persona con discapacidad, tienes opciones para presentar quejas. Esta página te guía por el proceso paso a paso.
 
 ---

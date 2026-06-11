@@ -1,5 +1,5 @@
 ---
-title: Índice de interseccionalidad
+title: Interseccionalidad
 description: La discapacidad no existe de forma aislada. Somos a la vez personas con discapacidad y parte de otras comunidades.
 published: true
 date: 2026-06-05T20:38:40.023Z

@@ -1,5 +1,5 @@
 ---
-title: Discapacidad intelectual y del desarrollo
+title: Discapacidades intelectuales y del desarrollo
 description: Las discapacidades intelectuales y del desarrollo (DID) incluyen afecciones presentes desde el nacimiento o la primera infancia que afectan el desarrollo…
 published: true
 date: 2026-06-05T20:29:02.703Z

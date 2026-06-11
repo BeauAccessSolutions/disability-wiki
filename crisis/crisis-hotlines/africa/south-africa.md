@@ -1,5 +1,5 @@
 ---
-title: Crisis Hotlines in South Africa
+title: "Crisis Help: South Africa"
 description: Crisis and mental-health support lines for South Africa, including Befrienders, the Suicide Crisis Line, and Childline. If you're in crisis right now, you're not alone.
 published: true
 date: 2026-06-05T20:30:29.924Z

@@ -1,5 +1,5 @@
 ---
-title: Crisis Hotlines in the Philippines
+title: "Crisis Help: Philippines"
 description: If you're in crisis right now, you're not alone. Cost and hours vary by service — check each one. The NCMH hotline (1553) is toll-free.
 published: true
 date: 2026-06-05T20:30:51.996Z

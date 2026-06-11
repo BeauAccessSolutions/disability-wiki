@@ -1,5 +1,5 @@
 ---
-title: Bibliography
+title: DisabilityWiki Project Bibliography
 description: This bibliography compiles sources used throughout DisabilityWiki.
 published: true
 date: 2026-06-05T20:34:51.163Z

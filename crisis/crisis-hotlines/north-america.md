@@ -1,5 +1,5 @@
 ---
-title: North American Crisis Hotlines
+title: "Crisis Help: North America"
 description: If you're in crisis right now, you're not alone. This page connects you to crisis resources across North America. Most states have local crisis lines.
 published: true
 date: 2026-06-05T20:31:10.193Z

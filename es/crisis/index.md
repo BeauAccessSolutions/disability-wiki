@@ -1,5 +1,5 @@
 ---
-title: Crisis y seguridad
+title: Crisis y ayuda inmediata
 description: Esta sección brinda acceso rápido a recursos de crisis, apoyo de emergencia y planificación de seguridad para personas con discapacidad y para quienes las apoyan.
 published: true
 date: 2026-06-05T20:32:00.533Z

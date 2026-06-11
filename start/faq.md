@@ -1,5 +1,5 @@
 ---
-title: Frequently Asked Questions (FAQs)
+title: Frequently Asked Questions
 description: Common questions from people new to DisabilityWiki, answered clearly.
 published: true
 date: 2026-06-05T20:19:52.464Z

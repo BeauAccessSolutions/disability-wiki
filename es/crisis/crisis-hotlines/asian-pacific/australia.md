@@ -1,5 +1,5 @@
 ---
-title: Líneas de crisis en Australia
+title: "Ayuda en crisis: Australia"
 description: La ayuda está disponible de inmediato, es gratuita y confidencial. No tienes que leerlo todo. Los consejeros están capacitados para ayudar.
 published: true
 date: 2026-06-05T20:30:39.103Z

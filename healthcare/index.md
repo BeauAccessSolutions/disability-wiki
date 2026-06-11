@@ -1,5 +1,5 @@
 ---
-title: Healthcare & Access
+title: Healthcare & Medical
 description: Accessing healthcare as a disabled person is often complicated.
 published: true
 date: 2026-06-05T20:35:38.259Z

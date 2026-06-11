@@ -1,5 +1,5 @@
 ---
-title: How to Contribute
+title: How to Contribute to the Disability Wiki
 description: We want to work with disabled community members to build this wiki together.
 published: true
 date: 2026-06-05T20:19:57.210Z

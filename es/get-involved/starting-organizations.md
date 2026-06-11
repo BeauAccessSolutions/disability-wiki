@@ -1,5 +1,5 @@
 ---
-title: Cómo iniciar organizaciones
+title: Cómo iniciar organizaciones de discapacidad
 description: "Las personas con discapacidad han creado durante mucho tiempo sus propias organizaciones: grupos de incidencia, centros de vida independiente, redes de apoyo…"
 published: true
 date: 2026-06-05T20:34:38.458Z

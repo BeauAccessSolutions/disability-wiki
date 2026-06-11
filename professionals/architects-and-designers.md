@@ -1,5 +1,5 @@
 ---
-title: Architects And Designers
+title: Architects & Designers
 description: The built environment shapes who can participate in society. Stairs exclude wheelchair users. Poor lighting excludes people with low vision.
 published: true
 date: 2026-06-05T20:21:23.136Z

@@ -1,5 +1,5 @@
 ---
-title: Discapacidad psiquiátrica y psicosocial
+title: Discapacidades psiquiátricas y psicosociales
 description: Las discapacidades psiquiátricas y psicosociales incluyen condiciones de salud mental que impactan de forma significativa la vida diaria.
 published: true
 date: 2026-06-05T20:29:40.114Z

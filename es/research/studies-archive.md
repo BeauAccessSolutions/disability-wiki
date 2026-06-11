@@ -1,5 +1,5 @@
 ---
-title: Archivo de estudios
+title: "Archivo de estudios: base de datos de investigación sobre discapacidad"
 description: Esta página funciona como un archivo en constante evolución de estudios, informes, conjuntos de datos y publicaciones significativas relacionadas…
 published: true
 date: 2026-06-05T20:22:59.175Z

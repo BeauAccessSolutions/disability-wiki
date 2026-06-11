@@ -1,5 +1,5 @@
 ---
-title: Contacto
+title: Contáctanos
 description: DisabilityWiki está hecho por y para personas con discapacidad. Damos la bienvenida a tus preguntas, sugerencias, correcciones y contribuciones.
 published: true
 date: 2026-06-05T20:26:25.627Z

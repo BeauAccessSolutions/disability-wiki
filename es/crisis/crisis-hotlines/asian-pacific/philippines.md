@@ -1,5 +1,5 @@
 ---
-title: Líneas de crisis en Filipinas
+title: "Ayuda en crisis: Filipinas"
 description: La ayuda está disponible, es gratuita y confidencial. No tienes que leerlo todo. Los consejeros están capacitados para ayudar.
 published: true
 date: 2026-06-05T20:30:51.996Z

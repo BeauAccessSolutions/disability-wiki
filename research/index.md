@@ -1,5 +1,5 @@
 ---
-title: Research Index
+title: "Research: Disability and Inclusion"
 description: This section centers disabled people's expertise and is informed by the principle that research about disability should involve and benefit disabled communities.
 published: true
 date: 2026-06-05T20:22:55.016Z

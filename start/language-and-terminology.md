@@ -1,5 +1,5 @@
 ---
-title: Language and Terminology
+title: "Language & Terminology: A Plain-Language Guide"
 description: Language shapes how we think about disability. This page explains key terms and why they matter.
 published: true
 date: 2026-06-05T20:19:27.793Z

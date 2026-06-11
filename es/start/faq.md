@@ -1,5 +1,5 @@
 ---
-title: Preguntas frecuentes (FAQ)
+title: Preguntas frecuentes
 description: Preguntas comunes de las personas nuevas en DisabilityWiki, respondidas con claridad.
 published: true
 date: 2026-06-05T20:19:52.464Z

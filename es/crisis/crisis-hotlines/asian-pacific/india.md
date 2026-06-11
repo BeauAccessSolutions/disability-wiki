@@ -1,5 +1,5 @@
 ---
-title: Líneas de crisis en India
+title: "Ayuda en crisis: India"
 description: No tienes que leerlo todo. Los consejeros están capacitados para ayudar. La mayoría de los servicios listados son gratuitos, pero el costo y el horario…
 published: true
 date: 2026-06-05T20:30:43.402Z

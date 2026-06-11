@@ -1,5 +1,5 @@
 ---
-title: Industrialization & the Birth of Ableism (1750–1900)
+title: Industrialization and the Birth of Ableism (1750–1900)
 description: Understanding how industrialization created modern ableism—the idea that some bodies and minds are "normal" and others are "defective"—helps explain why…
 published: true
 date: 2026-06-05T20:37:18.298Z

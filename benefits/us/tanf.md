@@ -1,5 +1,5 @@
 ---
-title: TANF – Cash Assistance for Families (U.S.)
+title: TANF – Temporary Assistance for Needy Families (U.S.)
 description: Disabled parents and disabled children may be affected in specific ways.
 published: true
 date: 2026-06-05T20:28:17.790Z

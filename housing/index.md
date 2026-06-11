@@ -1,5 +1,5 @@
 ---
-title: Housing & Living Arrangements
+title: Housing and Independent Living
 description: For disabled people, housing is about much more than a roof overhead. It's about freedom, dignity, safety, and the ability to participate in community life.
 published: true
 date: 2026-06-05T20:38:12.146Z

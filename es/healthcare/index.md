@@ -1,5 +1,5 @@
 ---
-title: Atención médica y acceso
+title: Atención médica
 description: Acceder a la atención médica como persona con discapacidad suele ser complicado.
 published: true
 date: 2026-06-05T20:35:38.259Z

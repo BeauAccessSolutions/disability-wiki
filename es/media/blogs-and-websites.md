@@ -1,5 +1,5 @@
 ---
-title: Blogs y sitios web
+title: Blogs y sitios web sobre discapacidad
 description: Blogs, sitios de noticias y publicaciones en línea centrados en la discapacidad.
 published: true
 date: 2026-06-05T20:20:27.715Z

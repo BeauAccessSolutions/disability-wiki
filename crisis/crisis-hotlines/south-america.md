@@ -1,5 +1,5 @@
 ---
-title: South American Crisis Hotlines
+title: "Crisis Help: South America"
 description: If you're in crisis right now, you're not alone. This page connects you to crisis resources across South America.
 published: true
 date: 2026-06-05T20:31:28.471Z

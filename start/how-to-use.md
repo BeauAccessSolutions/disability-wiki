@@ -1,5 +1,5 @@
 ---
-title: How to Use This Wiki
+title: "How to Use This Wiki: Navigation Guide"
 description: This wiki has a lot of information. This page helps you find what you need.
 published: true
 date: 2026-06-05T20:19:42.151Z

@@ -1,5 +1,5 @@
 ---
-title: Conditions Index
+title: Specific Disabilities & Conditions
 description: This section centers disabled people's expertise on their own bodies and experiences, informed by disability communities worldwide.
 published: true
 date: 2026-06-05T20:28:58.565Z

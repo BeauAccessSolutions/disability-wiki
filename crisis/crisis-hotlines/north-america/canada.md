@@ -1,5 +1,5 @@
 ---
-title: Crisis Hotlines in Canada
+title: "Crisis Help: Canada"
 description: If you're in crisis right now, you're not alone. Counselors are trained to help. Your words don't need to be perfect.
 published: true
 date: 2026-06-05T20:31:15.070Z

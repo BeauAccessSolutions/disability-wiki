@@ -1,5 +1,5 @@
 ---
-title: Mobile & Operating System Accessibility
+title: Mobile & OS Accessibility
 description: Phones, tablets, and computers now come with many built-in accessibility features, but they’re often hidden behind menus and jargon.
 published: true
 date: 2026-06-05T20:24:19.788Z

@@ -1,5 +1,5 @@
 ---
-title: Líneas de crisis en México
+title: "Ayuda en crisis: México"
 description: Si estás en crisis en este momento, no estás solo. La ayuda está disponible inmediatamente y es confidencial.
 published: true
 date: 2026-06-05T20:31:19.471Z

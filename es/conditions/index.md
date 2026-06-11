@@ -1,5 +1,5 @@
 ---
-title: Índice de afecciones
+title: Discapacidades y afecciones específicas
 description: Esta sección pone en el centro los conocimientos de las personas con discapacidad sobre sus propios cuerpos y experiencias, informados por las comunidades…
 published: true
 date: 2026-06-05T20:28:58.565Z

@@ -1,5 +1,5 @@
 ---
-title: Cómo usar este wiki
+title: "Cómo usar este wiki: guía de navegación"
 description: Este wiki tiene mucha información. Esta página te ayuda a encontrar lo que necesitas.
 published: true
 date: 2026-06-05T20:19:42.151Z

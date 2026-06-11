@@ -1,5 +1,5 @@
 ---
-title: Disability Wiki
+title: "DisabilityWiki: A Community-Built Disability Resource"
 description: Welcome! This is a community-driven guide to disability resources, rights, and culture—created by disabled people, for disabled people, allies, and advocates.
 published: true
 date: 2026-06-05T20:37:37.857Z

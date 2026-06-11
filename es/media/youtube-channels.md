@@ -1,5 +1,5 @@
 ---
-title: Canales de YouTube
+title: Canales de YouTube sobre discapacidad
 description: Creadores de contenido con discapacidad en YouTube que abarcan estilo de vida, defensa de derechos, educación, comedia, vlogs y más.
 published: true
 date: 2026-06-05T20:21:18.280Z

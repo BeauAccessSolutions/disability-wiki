@@ -1,5 +1,5 @@
 ---
-title: Studies Archive
+title: "Studies Archive: Disability Research Database"
 description: This page serves as an evolving archive of significant studies, reports, datasets, and publications related to disability around the world.
 published: true
 date: 2026-06-05T20:22:59.175Z
