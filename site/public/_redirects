@@ -1,0 +1,20 @@
+# Wiki.js served everything under /en/; the static site serves English at root
+/en/* /:splat 301
+
+# Home aliases
+/home / 301
+/es /es/home 301
+
+# Wiki.js-era stub pages → canonical targets
+/accessibility-statement /start/accessibility-statement 301
+/foundations/how-to-use-this-wiki /start/how-to-use 301
+/start/disability-models /foundations/disability-models 301
+/start/for-allies /foundations/for-allies 301
+/start/what-is-disability /foundations/what-is-disability 301
+/es/start/disability-models /es/foundations/disability-models 301
+/es/start/for-allies /es/foundations/for-allies 301
+/es/start/what-is-disability /es/foundations/what-is-disability 301
+
+# Dropped empty section (migration Phase 0 decision)
+/regions / 301
+/regions/* / 301

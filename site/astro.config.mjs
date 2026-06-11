@@ -26,6 +26,8 @@ export default defineConfig({
       description:
         'A public, community-driven knowledge base on disability, chronic illness, accessibility, and care—centered on lived experience, plain language, and practical resources.',
       logo: { src: './src/assets/logo.png', alt: '' },
+      favicon: '/favicon.png',
+      customCss: ['./src/styles/custom.css'],
       defaultLocale: 'root',
       locales: {
         root: { label: 'English', lang: 'en' },

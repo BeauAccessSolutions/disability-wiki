@@ -1,0 +1,12 @@
+/* Light theme touch: accent drawn from the disability pride flag palette,
+   tuned for WCAG AA contrast in both color schemes. */
+:root {
+  --sl-color-accent-low: #e8f1f8;
+  --sl-color-accent: #1d5ca8;
+  --sl-color-accent-high: #143f73;
+}
+:root[data-theme='dark'] {
+  --sl-color-accent-low: #14273d;
+  --sl-color-accent: #5a9be0;
+  --sl-color-accent-high: #c2dcf7;
+}
