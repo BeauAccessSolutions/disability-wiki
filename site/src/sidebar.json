@@ -1,743 +1,323 @@
 [
  {
-  "label": "Home",
-  "link": "/"
+  "label": "Start",
+  "collapsed": true,
+  "translations": {
+   "es": "Para empezar"
+  },
+  "items": [
+   {
+    "autogenerate": {
+     "directory": "start"
+    }
+   }
+  ]
  },
  {
   "label": "Foundations",
   "collapsed": true,
+  "translations": {
+   "es": "Fundamentos"
+  },
   "items": [
    {
-    "label": "Index",
-    "link": "/foundations"
-   },
-   {
-    "label": "What is Disability",
-    "link": "/foundations/what-is-disability"
-   },
-   {
-    "label": "Disability Models",
-    "link": "/foundations/disability-models"
-   },
-   {
-    "label": "Language, Terminology & Identity",
-    "link": "/foundations/language-terminology-identity"
-   },
-   {
-    "label": "Disability Culture",
-    "link": "/foundations/disability-culture"
-   },
-   {
-    "label": "For Allies",
-    "link": "/foundations/for-allies"
-   },
-   {
-    "label": "Welcome",
-    "link": "/foundations/welcome"
-   },
-   {
-    "label": "How to Use this Wiki",
-    "link": "/foundations/how-to-use-this-wiki"
+    "autogenerate": {
+     "directory": "foundations"
+    }
    }
   ]
  },
  {
-  "label": "History",
+  "label": "Crisis & Safety",
   "collapsed": true,
+  "translations": {
+   "es": "Crisis y seguridad"
+  },
   "items": [
    {
-    "label": "Index",
-    "link": "/history"
-   },
-   {
-    "label": "Pre-Industrial History",
-    "link": "/history/pre-industrial"
-   },
-   {
-    "label": "Industrialization & Modern Ableism",
-    "link": "/history/industrialization"
-   },
-   {
-    "label": "Eugenics & Institutionalization",
-    "link": "/history/eugenics"
-   },
-   {
-    "label": "Independent Living Movement",
-    "link": "/history/independent-living-movement"
-   },
-   {
-    "label": "The Disability Rights Movement",
-    "link": "/history/disability-rights-movement"
-   },
-   {
-    "label": "ADA History",
-    "link": "/history/ada-history"
-   },
-   {
-    "label": "Deaf History & Culture",
-    "link": "/history/deafness"
+    "autogenerate": {
+     "directory": "crisis"
+    }
    }
   ]
  },
  {
-  "label": "Crisis & Emergency Resources",
+  "label": "Money & Benefits",
   "collapsed": true,
+  "translations": {
+   "es": "Dinero y prestaciones"
+  },
   "items": [
    {
-    "label": "Index",
-    "link": "/crisis"
-   },
-   {
-    "label": "Global Crisis Hotlines",
-    "link": "/crisis/crisis-hotlines/global-crisis-hotlines"
-   },
-   {
-    "label": "Abuse, Neglect & Exploitation",
-    "link": "/crisis/abuse-neglect-exploitation"
-   },
-   {
-    "label": "Disabled Led Crisis Support",
-    "link": "/crisis/disabled-crisis-support"
-   },
-   {
-    "label": "Emergency Preparedness & Safety Planning",
-    "link": "/crisis/emergency-disaster-preparedness"
+    "autogenerate": {
+     "directory": "benefits"
+    }
    }
   ]
  },
  {
-  "label": "Community & Peer Support",
+  "label": "Rights & Laws",
   "collapsed": true,
+  "translations": {
+   "es": "Derechos y leyes"
+  },
   "items": [
    {
-    "label": "Index",
-    "link": "/community"
-   },
-   {
-    "label": "Online Disability Communities",
-    "link": "/community/online-communities"
-   },
-   {
-    "label": "In Person Disability Communities",
-    "link": "/community/in-person-community"
-   },
-   {
-    "label": "Disability-Specific Peer Groups",
-    "link": "/community/disability-specific-peer-groups"
-   },
-   {
-    "label": "Youth and Student Communities",
-    "link": "/community/youth-student-communities"
+    "autogenerate": {
+     "directory": "rights"
+    }
    }
   ]
  },
  {
-  "label": "Disability Rights & Advocacy",
+  "label": "Healthcare & Access",
   "collapsed": true,
+  "translations": {
+   "es": "Atención médica y acceso"
+  },
   "items": [
    {
-    "label": "Index",
-    "link": "/rights"
-   },
-   {
-    "label": "Global Overview",
-    "link": "/rights/global-overview"
-   },
-   {
-    "label": "History of Disability Rights",
-    "link": "/rights/history-of-disability-rights"
-   },
-   {
-    "label": "International Disability Rights",
-    "link": "/rights/international-rights"
-   },
-   {
-    "label": "Advocacy and Self-Advocacy",
-    "link": "/rights/advocacy-and-self-advocacy"
-   },
-   {
-    "label": "U.S. Federal Disability Rights Laws",
-    "link": "/rights/us-state-rights"
-   },
-   {
-    "label": "State Disability Rights Laws",
-    "link": "/rights/us/state-disability-rights-laws"
+    "autogenerate": {
+     "directory": "healthcare"
+    }
    }
   ]
  },
  {
-  "label": "Healthcare & Medical Access",
+  "label": "Housing & Living Arrangements",
   "collapsed": true,
+  "translations": {
+   "es": "Vivienda y arreglos de convivencia"
+  },
   "items": [
    {
-    "label": "Index",
-    "link": "/healthcare"
-   },
-   {
-    "label": "Accessible Healthcare",
-    "link": "/healthcare/accessible-healthcare"
-   },
-   {
-    "label": "Healthcare Rights for Disabled People",
-    "link": "/healthcare/healthcare-rights"
-   },
-   {
-    "label": "Insurance Navigation",
-    "link": "/healthcare/insurance-navigation"
-   },
-   {
-    "label": "Medical Equipment and Assistive Technology",
-    "link": "/healthcare/medical-equipment-and-at"
-   },
-   {
-    "label": "Mental Health",
-    "link": "/healthcare/mental-health"
-   },
-   {
-    "label": "Pain and Fatigue",
-    "link": "/healthcare/pain-and-fatigue"
-   },
-   {
-    "label": "Home and Community-Based Care",
-    "link": "/healthcare/home-and-community-care"
-   },
-   {
-    "label": "Medical Gaslighting and Healthcare Trauma",
-    "link": "/healthcare/medical-gaslighting"
+    "autogenerate": {
+     "directory": "housing"
+    }
    }
   ]
  },
  {
-  "label": "Benefits",
+  "label": "Employment & Work",
   "collapsed": true,
+  "translations": {
+   "es": "Empleo y trabajo"
+  },
   "items": [
    {
-    "label": "Index",
-    "link": "/benefits"
-   },
-   {
-    "label": "International Disability Benefits",
-    "link": "/benefits/international/benefits-overview"
-   },
-   {
-    "label": "US Benefits Overview",
-    "link": "/benefits/us/benefits-overview"
-   },
-   {
-    "label": "Benefit Denials & Appeals",
-    "link": "/benefits/benefit-denials-and-appeals"
-   },
-   {
-    "label": "Debt, Budgeting & Financial Rights",
-    "link": "/benefits/debt-budgeting-financial-rights"
+    "autogenerate": {
+     "directory": "employment"
+    }
    }
   ]
  },
  {
-  "label": "Housing and Independent Living",
+  "label": "Education",
   "collapsed": true,
+  "translations": {
+   "es": "Educación"
+  },
   "items": [
    {
-    "label": "Index",
-    "link": "/housing"
-   },
-   {
-    "label": "International Housing Rights",
-    "link": "/housing/international-housing-rights"
-   },
-   {
-    "label": "Accessible Housing Search Guide",
-    "link": "/housing/accessible-housing-search-guide"
-   },
-   {
-    "label": "Home Modifications",
-    "link": "/housing/housing-rights"
-   },
-   {
-    "label": "Independent Living Philosophy and Centers",
-    "link": "/housing/independent-living-philosophy-and-centers"
-   },
-   {
-    "label": "Homelessness and Disability",
-    "link": "/housing/homelessness-and-disability"
-   },
-   {
-    "label": "Tenants' Rights with Disabilities",
-    "link": "/housing/tenants-rights-with-disabilities"
+    "autogenerate": {
+     "directory": "education"
+    }
    }
   ]
  },
  {
-  "label": "Education Resources",
+  "label": "Daily Living",
   "collapsed": true,
+  "translations": {
+   "es": "Vida diaria"
+  },
   "items": [
    {
-    "label": "Index",
-    "link": "/education"
-   },
-   {
-    "label": "Early Intervention",
-    "link": "/education/early-intervention"
-   },
-   {
-    "label": "Higher Education",
-    "link": "/education/higher-education"
-   },
-   {
-    "label": "Adult and Continuing Education",
-    "link": "/education/adult-and-continuing-education"
-   },
-   {
-    "label": "Transition to Adulthood",
-    "link": "/education/transition-to-adulthood"
+    "autogenerate": {
+     "directory": "daily-living"
+    }
    }
   ]
  },
  {
-  "label": "Employment Resources",
+  "label": "Relationships",
   "collapsed": true,
+  "translations": {
+   "es": "Relaciones"
+  },
   "items": [
    {
-    "label": "Index",
-    "link": "/employment"
-   },
-   {
-    "label": "Job Searching with a Disability",
-    "link": "/employment/job-searching-with-a-disability"
-   },
-   {
-    "label": "Workplace Accommodations",
-    "link": "/employment/workplace-accommodations"
-   },
-   {
-    "label": "Supported Employment and Vocational Rehabilitation",
-    "link": "/employment/supported-employment-and-voc-rehab"
-   },
-   {
-    "label": "Employment Rights by Country",
-    "link": "/employment/employment-rights-by-country"
-   },
-   {
-    "label": "Entrepreneurship and Self-Employment",
-    "link": "/employment/entrepreneurship-and-self-employment"
+    "autogenerate": {
+     "directory": "relationships"
+    }
    }
   ]
  },
  {
-  "label": "Transportation & Mobility",
+  "label": "Community & Connection",
   "collapsed": true,
+  "translations": {
+   "es": "Comunidad y conexión"
+  },
   "items": [
    {
-    "label": "Index",
-    "link": "/transport"
-   },
-   {
-    "label": "Public Transit Rights",
-    "link": "/transport/public-transit-rights"
-   },
-   {
-    "label": "Paratransit",
-    "link": "/transport/paratransit"
-   },
-   {
-    "label": "Air Travel Rights",
-    "link": "/transport/air-travel-rights"
-   },
-   {
-    "label": "Driving and Adaptive Driving",
-    "link": "/transport/driving-and-adaptive-driving"
-   },
-   {
-    "label": "Mobility Aids",
-    "link": "/transport/mobility-aids"
+    "autogenerate": {
+     "directory": "community"
+    }
    }
   ]
  },
  {
-  "label": "Relationships, Family & Safety",
+  "label": "Conditions",
   "collapsed": true,
+  "translations": {
+   "es": "Afecciones"
+  },
   "items": [
    {
-    "label": "Index",
-    "link": "/relationships"
-   },
-   {
-    "label": "Dating and Relationships",
-    "link": "/relationships/dating-and-relationships"
-   },
-   {
-    "label": "Sexuality and Reproductive Health",
-    "link": "/relationships/sexuality-and-reproductive-health"
-   },
-   {
-    "label": "Parenting with a Disability",
-    "link": "/relationships/parenting-with-a-disability"
-   },
-   {
-    "label": "Parents of Disabled Children",
-    "link": "/relationships/parents-of-disabled-children"
-   },
-   {
-    "label": "Relationships, Family & Safety",
-    "link": "/relationships"
-   },
-   {
-    "label": "Abuse, Safety, and Consent",
-    "link": "/relationships/abuse-safety-and-consent"
-   },
-   {
-    "label": "Family Control and Gaslighting",
-    "link": "/relationships/family-control-and-gaslighting"
-   }
-  ]
- },
- {
-  "label": "Daily Living & Lifestyle",
-  "collapsed": true,
-  "items": [
-   {
-    "label": "Index",
-    "link": "/daily-living"
-   },
-   {
-    "label": "Assistive Technology Overview",
-    "link": "/daily-living/assistive-technology-overview"
-   },
-   {
-    "label": "Personal Care",
-    "link": "/daily-living/personal-care"
-   },
-   {
-    "label": "Exercise and Adaptive Sports",
-    "link": "/daily-living/cooking-and-nutrition"
-   },
-   {
-    "label": "Recreation, Travel, and Outdoors",
-    "link": "/daily-living/recreation-travel-and-outdoors"
-   },
-   {
-    "label": "Accessible Travel",
-    "link": "/daily-living/accessible-travel"
-   },
-   {
-    "label": "Fashion, Beauty, and Adaptive Wear",
-    "link": "/daily-living/fashion-beauty-and-adaptive-wear"
-   },
-   {
-    "label": "Pets and Service Animals",
-    "link": "/daily-living/pets-and-service-animals"
-   }
-  ]
- },
- {
-  "label": "Technology & Digital Access",
-  "collapsed": true,
-  "items": [
-   {
-    "label": "Index",
-    "link": "/tech"
-   },
-   {
-    "label": "Web Accessibility",
-    "link": "/tech/web-accessibility"
-   },
-   {
-    "label": "Mobile & OS Accessibility",
-    "link": "/tech/mobile-and-os-accessibility"
-   },
-   {
-    "label": "Communication Access & AAC",
-    "link": "/tech/communication-access-and-aac"
-   },
-   {
-    "label": "Gaming Accessibility",
-    "link": "/tech/gaming-accessibility"
-   },
-   {
-    "label": "Social Media Accessibility",
-    "link": "/tech/social-media-accessibility"
-   },
-   {
-    "label": "Digital Disability Justice",
-    "link": "/tech/digital-disability-justice"
-   }
-  ]
- },
- {
-  "label": "Specific Disabilities & Conditions",
-  "collapsed": true,
-  "items": [
-   {
-    "label": "Index",
-    "link": "/conditions"
-   },
-   {
-    "label": "Physical Disabilities",
-    "link": "/conditions/physical-disabilities"
-   },
-   {
-    "label": "Sensory Disabilities",
-    "link": "/conditions/sensory-disabilities"
-   },
-   {
-    "label": "Chronic Illness",
-    "link": "/conditions/chronic-illness"
-   },
-   {
-    "label": "Intellectual And Developmental Disability",
-    "link": "/conditions/intellectual-and-developmental-disability"
-   },
-   {
-    "label": "Psychiatric And Psychosocial Disability",
-    "link": "/conditions/psychiatric-and-psychosocial-disability"
-   },
-   {
-    "label": "Invisible Disabilities",
-    "link": "/conditions/invisible-disabilities"
-   },
-   {
-    "label": "Multiple Disabilities",
-    "link": "/conditions/multiple-disabilities"
-   },
-   {
-    "label": "Rare Diseases",
-    "link": "/conditions/rare-diseases"
+    "autogenerate": {
+     "directory": "conditions"
+    }
    }
   ]
  },
  {
   "label": "Intersectionality",
   "collapsed": true,
+  "translations": {
+   "es": "Interseccionalidad"
+  },
   "items": [
    {
-    "label": "Index",
-    "link": "/intersectionality"
-   },
+    "autogenerate": {
+     "directory": "intersectionality"
+    }
+   }
+  ]
+ },
+ {
+  "label": "Technology & Digital Access",
+  "collapsed": true,
+  "translations": {
+   "es": "Tecnología y acceso digital"
+  },
+  "items": [
    {
-    "label": "Race And Disability",
-    "link": "/intersectionality/race-and-disability"
-   },
+    "autogenerate": {
+     "directory": "tech"
+    }
+   }
+  ]
+ },
+ {
+  "label": "Transportation & Mobility",
+  "collapsed": true,
+  "translations": {
+   "es": "Transporte y movilidad"
+  },
+  "items": [
    {
-    "label": "Gender And Disability",
-    "link": "/intersectionality/gender-and-disability"
-   },
+    "autogenerate": {
+     "directory": "transport"
+    }
+   }
+  ]
+ },
+ {
+  "label": "Sports",
+  "collapsed": true,
+  "translations": {
+   "es": "Deportes"
+  },
+  "items": [
    {
-    "label": "LGBTQ+ And Disability",
-    "link": "/intersectionality/lgbtq-and-disability"
-   },
-   {
-    "label": "Religion And Disability",
-    "link": "/intersectionality/religion-and-disability"
-   },
-   {
-    "label": "Poverty And Class",
-    "link": "/intersectionality/poverty-and-class"
-   },
-   {
-    "label": "Incarceration And Criminalization",
-    "link": "/intersectionality/incarceration-and-criminalization"
-   },
-   {
-    "label": "Immigration And Refugees",
-    "link": "/intersectionality/immigration-and-refugees"
-   },
-   {
-    "label": "Rural Disability",
-    "link": "/intersectionality/rural-disability"
-   },
-   {
-    "label": "Indigenous Disability Perspectives",
-    "link": "/intersectionality/indigenous-disability-perspectives"
-   },
-   {
-    "label": "Disability And Homelessness",
-    "link": "/intersectionality/disability-and-homelessness"
+    "autogenerate": {
+     "directory": "sports"
+    }
    }
   ]
  },
  {
   "label": "Media, Arts & Culture",
   "collapsed": true,
+  "translations": {
+   "es": "Medios, artes y cultura"
+  },
   "items": [
    {
-    "label": "Index",
-    "link": "/media"
-   },
-   {
-    "label": "Media Tropes And Representation",
-    "link": "/media/media-tropes-and-representation"
-   },
-   {
-    "label": "Disability Arts And Performance",
-    "link": "/media/disability-arts-and-performance"
-   },
-   {
-    "label": "Books",
-    "link": "/media/books"
-   },
-   {
-    "label": "Podcasts",
-    "link": "/media/podcasts"
-   },
-   {
-    "label": "Youtube Channels",
-    "link": "/media/youtube-channels"
-   },
-   {
-    "label": "Tiktok Creators",
-    "link": "/media/tiktok-creators"
-   },
-   {
-    "label": "Documentaries And Films",
-    "link": "/media/documentaries-and-films"
-   },
-   {
-    "label": "Tv Shows",
-    "link": "/media/tv-shows"
-   },
-   {
-    "label": "Disabled Creators Directory",
-    "link": "/media/disabled-creators-directory"
+    "autogenerate": {
+     "directory": "media"
+    }
    }
   ]
  },
  {
-  "label": "Research & Data",
+  "label": "History of Disability",
   "collapsed": true,
+  "translations": {
+   "es": "Historia de la discapacidad"
+  },
   "items": [
    {
-    "label": "Index",
-    "link": "/research"
-   },
+    "autogenerate": {
+     "directory": "history"
+    }
+   }
+  ]
+ },
+ {
+  "label": "Research",
+  "collapsed": true,
+  "translations": {
+   "es": "Investigación"
+  },
+  "items": [
    {
-    "label": "Disability Statistics",
-    "link": "/research/disability-statistics"
-   },
+    "autogenerate": {
+     "directory": "research"
+    }
+   }
+  ]
+ },
+ {
+  "label": "Professionals",
+  "collapsed": true,
+  "translations": {
+   "es": "Profesionales"
+  },
+  "items": [
    {
-    "label": "Academic Programs",
-    "link": "/research/academic-programs"
-   },
+    "autogenerate": {
+     "directory": "professionals"
+    }
+   }
+  ]
+ },
+ {
+  "label": "Glossary & Contribution",
+  "collapsed": true,
+  "translations": {
+   "es": "Glosario y contribución"
+  },
+  "items": [
    {
-    "label": "How To Interpret Disability Data",
-    "link": "/research/how-to-interpret-disability-data"
-   },
-   {
-    "label": "Accessible Research Tools",
-    "link": "/research/accessible-research-tools"
-   },
-   {
-    "label": "Ethical Research With Disabled Communities",
-    "link": "/research/ethical-research-with-disabled-communities"
-   },
-   {
-    "label": "Studies Archive",
-    "link": "/research/studies-archive"
+    "autogenerate": {
+     "directory": "glossary"
+    }
    }
   ]
  },
  {
   "label": "Get Involved",
   "collapsed": true,
+  "translations": {
+   "es": "Participa"
+  },
   "items": [
    {
-    "label": "Index",
-    "link": "/get-involved"
-   },
-   {
-    "label": "Advocacy 101",
-    "link": "/get-involved/advocacy-101"
-   },
-   {
-    "label": "Policy Advocacy",
-    "link": "/get-involved/policy-advocacy"
-   },
-   {
-    "label": "Community Organizing",
-    "link": "/get-involved/community-organizing"
-   },
-   {
-    "label": "Accessible Protest Guide",
-    "link": "/get-involved/accessible-protest-guide"
-   },
-   {
-    "label": "Starting Organizations",
-    "link": "/get-involved/starting-organizations"
-   },
-   {
-    "label": "Volunteering",
-    "link": "/get-involved/volunteering"
-   }
-  ]
- },
- {
-  "label": "Professional Toolkits",
-  "collapsed": true,
-  "items": [
-   {
-    "label": "Index",
-    "link": "/professionals"
-   },
-   {
-    "label": "Educators",
-    "link": "/professionals/educators"
-   },
-   {
-    "label": "Healthcare Providers",
-    "link": "/professionals/healthcare-providers"
-   },
-   {
-    "label": "Employers and Human Resources",
-    "link": "/professionals/employers-and-hr"
-   },
-   {
-    "label": "Social Workers",
-    "link": "/professionals/social-workers"
-   },
-   {
-    "label": "Architects and Designers ",
-    "link": "/professionals/architects-and-designers"
-   },
-   {
-    "label": "Emergency Planners",
-    "link": "/professionals/emergency-planners"
-   },
-   {
-    "label": "Public Safety Officers",
-    "link": "/professionals/public-safety-officers"
-   }
-  ]
- },
- {
-  "label": "Glossary",
-  "collapsed": true,
-  "items": [
-   {
-    "label": "Index",
-    "link": "/glossary"
-   },
-   {
-    "label": "Terminology",
-    "link": "/glossary/terminology"
-   },
-   {
-    "label": "Acronyms",
-    "link": "/glossary/acronyms"
-   },
-   {
-    "label": "Bibliography & Further Reading",
-    "link": "/glossary/bibliography"
-   },
-   {
-    "label": "Citation Guide",
-    "link": "/glossary/citation-guide"
-   },
-   {
-    "label": "How to Contribute",
-    "link": "/start/contribute"
-   },
-   {
-    "label": "Editorial & Style Guidelines",
-    "link": "/glossary/editorial-guidelines"
+    "autogenerate": {
+     "directory": "get-involved"
+    }
    }
   ]
  }
