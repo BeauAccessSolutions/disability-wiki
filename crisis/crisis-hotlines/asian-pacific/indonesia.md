@@ -216,7 +216,6 @@ If you're asking: "Apakah aku cukup sakit untuk menelepon?" → **Ya, kamu cukup
 
 ---
 
-
 *Konfirmasikan setiap nomor dengan layanan sebelum menelepon; data dapat berubah.*
 
 **Sedang dalam krisis sekarang?** Hubungi 119, lalu tekan 8. Semuanya bisa menunggu.
@@ -234,5 +233,3 @@ Have lived experience or expertise that could strengthen this page? We especiall
 ---
 
 *This page centers disabled people's expertise and is informed by disabled-led organizing globally. For questions or to suggest additions, see [How to Contribute](/start/contribute).*
-
-*Last updated: January 2026*

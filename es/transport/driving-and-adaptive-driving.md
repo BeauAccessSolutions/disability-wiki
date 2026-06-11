@@ -577,7 +577,6 @@ Comparte a través de nuestro [formulario de contribución] o por correo electr�
 
 ---
 
-
 **Páginas relacionadas:**
 - [Ayudas de movilidad](/es/transport/mobility-aids)
 - [Derechos en el transporte público](/es/transport/public-transit-rights)
@@ -594,5 +593,3 @@ Comparte a través de nuestro [formulario de contribución] o por correo electr�
 ---
 
 *Esta página pone en el centro los conocimientos de las personas con discapacidad y se basa en la organización liderada por personas con discapacidad a nivel global. Para preguntas o para sugerir agregados, consulta [Cómo Contribuir](/es/start/contribute).*
-
-*Última actualización: enero de 2026*

@@ -475,5 +475,3 @@ We especially welcome:
 ---
 
 *This page centers disabled people's expertise. Insurance navigation is a skill disabled people develop out of necessity—knowledge that should be shared.*
-
-*Last updated: November 2025*

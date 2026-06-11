@@ -368,7 +368,6 @@ Estas preguntas frecuentes no pueden cubrirlo todo.
 
 ---
 
-
 **Páginas relacionadas:**
 - [[/es/start/welcome|Bienvenida a DisabilityWiki]]
 - [[/es/start/how-to-use|Cómo usar este wiki]]
@@ -386,5 +385,3 @@ Estas preguntas frecuentes no pueden cubrirlo todo.
 ---
 
 *Esta página pone en el centro los conocimientos de las personas con discapacidad y se basa en la organización liderada por personas con discapacidad a nivel global. Para preguntas o para sugerir agregados, consulta [Cómo Contribuir](/es/start/contribute).*
-
-*Última actualización: enero de 2026*

@@ -432,6 +432,5 @@ Esta página está escrita por y para personas adultas con discapacidad. Damos l
 
 ---
 
-**Última actualización:** junio de 2026
 **Mantenida por:** la comunidad de DisabilityWiki
 **Comparte tus comentarios:** [Enlace de comentarios]

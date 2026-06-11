@@ -201,7 +201,6 @@ Si te lo preguntas, estás lo suficientemente mal. Llama.
 
 ---
 
-
 **¿En crisis ahora mismo?** Llama a Teléfono de la Esperanza. Todo lo demás puede esperar.
 
 *El costo, la confidencialidad y el horario varían según el servicio; consulta cada uno.*
@@ -217,5 +216,3 @@ Si te lo preguntas, estás lo suficientemente mal. Llama.
 ---
 
 *Esta página pone en el centro los conocimientos de las personas con discapacidad y se basa en la organización liderada por personas con discapacidad a nivel global. Para preguntas o para sugerir agregados, consulta [Cómo Contribuir](/es/start/contribute).*
-
-*Última actualización: enero de 2026*

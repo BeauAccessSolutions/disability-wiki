@@ -356,5 +356,3 @@ We especially welcome:
 ---
 
 *This page centers disabled people's expertise. State disability rights protections exist because disabled people in each state organized and advocated for them.*
-
-*Last updated: November 2025*

@@ -303,7 +303,6 @@ If you're asking yourself "sou doente o suficiente para ligar?" (am I sick enoug
 
 ---
 
-
 **In crisis right now? Call 188. Everything else can wait.**
 
 ---
@@ -317,5 +316,3 @@ Have lived experience or expertise that could strengthen this page? We especiall
 ---
 
 *This page centers disabled people's expertise and is informed by disabled-led organizing globally. For questions or to suggest additions, see [How to Contribute](/start/contribute).*
-
-*Last updated: January 2026*

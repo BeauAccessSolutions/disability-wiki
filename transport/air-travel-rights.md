@@ -419,5 +419,3 @@ We especially welcome:
 ---
 
 *This page centers disabled travelers' expertise. Air travel is a right, not a privilege—disabled people deserve to fly safely and with dignity.*
-
-*Last updated: November 2025*

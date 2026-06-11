@@ -444,7 +444,6 @@ Comparte a través de nuestro [formulario de contribución] o escribe a wiki@dis
 
 ---
 
-
 **Páginas relacionadas:**
 - [Cuidado en el hogar y la comunidad](/es/healthcare/home-and-community-care)
 - [Filosofía y centros de vida independiente](/es/housing/independent-living-philosophy-and-centers)
@@ -462,5 +461,3 @@ Comparte a través de nuestro [formulario de contribución] o escribe a wiki@dis
 ---
 
 *Esta página pone en el centro los conocimientos de las personas con discapacidad y se basa en la organización liderada por personas con discapacidad a nivel global. Para preguntas o para sugerir agregados, consulta [Cómo Contribuir](/es/start/contribute).*
-
-*Última actualización: enero de 2026*

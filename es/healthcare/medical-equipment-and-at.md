@@ -549,5 +549,3 @@ Damos especial bienvenida a:
 ---
 
 *Esta página pone en el centro los conocimientos de las personas con discapacidad. Las personas con discapacidad son las expertas sobre qué tecnología funciona para ellas y sobre cómo navegar los sistemas de financiamiento descompuestos.*
-
-*Última actualización: noviembre de 2025*

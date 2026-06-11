@@ -472,7 +472,6 @@ El apoyo en crisis es solo el primer paso. Para una atención continua:
 
 ---
 
-
 **¿En crisis en este momento? Llama a la línea de crisis de tu país o a los servicios de emergencia. Todo lo demás puede esperar.**
 
 ---
@@ -486,5 +485,3 @@ El apoyo en crisis es solo el primer paso. Para una atención continua:
 ---
 
 *Esta página pone en el centro los conocimientos de las personas con discapacidad y se basa en la organización liderada por personas con discapacidad a nivel global. Para preguntas o para sugerir agregados, consulta [Cómo Contribuir](/es/start/contribute).*
-
-*Última actualización: enero de 2026*

@@ -230,7 +230,6 @@ LGBTQ+ support is confidential. Your safety is protected.
 
 ---
 
-
 *Confirm each number with the service before calling; details can change.*
 
 **In crisis right now?** Call 0800 078 7746 (SURPIN, toll-free). Everything else can wait.
@@ -248,5 +247,3 @@ Have lived experience or expertise that could strengthen this page? We especiall
 ---
 
 *This page centers disabled people's expertise and is informed by disabled-led organizing globally. For questions or to suggest additions, see [How to Contribute](/start/contribute).*
-
-*Last updated: January 2026*

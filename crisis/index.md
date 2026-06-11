@@ -154,7 +154,6 @@ Accuracy and accessibility of crisis information saves lives. This section is ma
 
 ---
 
-**Last updated**: June 2026  
 **Maintained by**: DisabilityWiki Community Crisis Response Team  
 **Emergency? Contact local emergency services or use the hotlines above**  
 **Feedback or missing resources?** [Report here →](/start/contact)
@@ -170,5 +169,3 @@ Have lived experience or expertise that could strengthen this page? We especiall
 ---
 
 *This page centers disabled people's expertise and is informed by disabled-led organizing globally. For questions or to suggest additions, see [How to Contribute](/start/contribute).*
-
-*Last updated: January 2026*

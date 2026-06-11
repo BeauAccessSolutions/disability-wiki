@@ -340,5 +340,3 @@ We especially welcome:
 ---
 
 *This page centers disabled people's expertise. Federal disability rights laws exist because disabled people organized, protested, and demanded them.*
-
-*Last updated: November 2025*

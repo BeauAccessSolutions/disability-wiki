@@ -434,5 +434,3 @@ We especially welcome:
 ---
 
 *This page centers disabled entrepreneurs' expertise. Self-employment can be a path to flexibility, income, and control that traditional employment often doesn't offer.*
-
-*Last updated: November 2025*

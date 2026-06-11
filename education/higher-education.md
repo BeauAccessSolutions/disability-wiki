@@ -357,5 +357,3 @@ We especially welcome contributions from:
 ---
 
 *This page centers disabled students' expertise. Content is based on disabled people's organizing and lived experience.*
-
-*Last updated: November 2025*

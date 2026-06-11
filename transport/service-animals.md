@@ -406,5 +406,3 @@ We especially welcome:
 ---
 
 *This page centers the expertise of disabled people who partner with service animals. Service animals are more than helpers—they're partners in navigating the world.*
-
-*Last updated: November 2025*

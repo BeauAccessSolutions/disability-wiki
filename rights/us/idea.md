@@ -353,7 +353,6 @@ Share through our [contribution form] or email wiki@disabilitywiki.org.
 
 ---
 
-
 **Related Pages:**
 - [Section 504](/rights/us/section-504)
 - [K-12 Education](/education/k12-education)
@@ -371,5 +370,3 @@ Have lived experience or expertise that could strengthen this page? We especiall
 ---
 
 *This page centers disabled people's expertise and is informed by disabled-led organizing globally. For questions or to suggest additions, see [How to Contribute](/start/contribute).*
-
-*Last updated: January 2026*

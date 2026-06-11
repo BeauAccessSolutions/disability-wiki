@@ -316,5 +316,3 @@ Damos especial bienvenida a:
 ---
 
 *Esta página se basa en los conocimientos de personas adultas con discapacidad sobre lo que ayuda a los niños con discapacidad. La intervención temprana debe apoyar el desarrollo de los niños respetando su dignidad y su identidad.*
-
-*Última actualización: noviembre de 2025*

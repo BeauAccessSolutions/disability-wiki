@@ -12,7 +12,6 @@ dateCreated: 2026-01-11T19:42:25.469Z
 
 **Welcome! This is a community-driven guide to disability resources, rights, and culture—created by disabled people, for disabled people, allies, and advocates.**
 
-
 ---
 
 ## About This Wiki
@@ -244,7 +243,6 @@ We welcome contributors from everywhere.
 
 **"Nothing About Us Without Us."**
 
-
 *Maintained by: DisabilityWiki Community
 
 ---
@@ -258,5 +256,3 @@ Have lived experience or expertise that could strengthen this page? We especiall
 ---
 
 *This page centers disabled people's expertise and is informed by disabled-led organizing globally. For questions or to suggest additions, see [How to Contribute](/start/contribute).*
-
-*Last updated: January 2026*

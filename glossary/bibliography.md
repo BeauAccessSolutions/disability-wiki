@@ -552,7 +552,7 @@ See [How to Contribute](/start/contribute) for submission guidelines.
 
 ---
 
-*This bibliography centers disabled people's expertise and prioritizes sources from disability-led organizations. Last updated: December 2025.*
+*This bibliography centers disabled people's expertise and prioritizes sources from disability-led organizations.*
 
 ---
 
@@ -565,5 +565,3 @@ Have lived experience or expertise that could strengthen this page? We especiall
 ---
 
 *This page centers disabled people's expertise and is informed by disabled-led organizing globally. For questions or to suggest additions, see [How to Contribute](/start/contribute).*
-
-*Last updated: January 2026*

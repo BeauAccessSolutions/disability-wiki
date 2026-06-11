@@ -154,7 +154,6 @@ La precisión y la accesibilidad de la información de crisis salvan vidas. Esta
 
 ---
 
-**Última actualización**: junio de 2026  
 **Mantenida por**: el equipo comunitario de respuesta ante crisis de DisabilityWiki  
 **¿Emergencia? Contacta a los servicios de emergencia locales o usa las líneas de ayuda de arriba**  
 **¿Comentarios o recursos faltantes?** [Repórtalos aquí →](/es/start/contact)
@@ -170,5 +169,3 @@ La precisión y la accesibilidad de la información de crisis salvan vidas. Esta
 ---
 
 *Esta página pone en el centro los conocimientos de las personas con discapacidad y se basa en la organización liderada por personas con discapacidad a nivel global. Para preguntas o para sugerir agregados, consulta [Cómo Contribuir](/es/start/contribute).*
-
-*Última actualización: enero de 2026*

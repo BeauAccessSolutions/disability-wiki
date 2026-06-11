@@ -6,6 +6,9 @@ All notable changes to the Disability Wiki project are documented in this file.
 
 ## [Unreleased]
 
+### Changed
+- **Hand-maintained "Last updated" footer lines removed from all content pages** (~510 stamps across 484 EN + es pages). Most stamps said "January 2026" or "November 2025" even on pages corrected in the June 2026 audits, understating freshness on exactly the pages (crisis hotlines) where it matters. Wiki.js's automatic updated-at timestamp is now the single source of truth for page freshness.
+
 ### Fixed
 - **Spanish sync of the 2026-06-10 audit corrections** ([PR #20](https://github.com/Beaudoin0zach/disability-wiki/pull/20), pending merge): all 18 `es/` counterparts of the corrected English pages updated — fabricated/wrong crisis numbers removed from Spanish (Nigeria SURPIN, Kenya 1199, Vietnam, Venezuela, Ghana, Zimbabwe, Egypt, Hungary, Canada 988) plus Aktion T4 / CRPD / VA SAH / LeDeR / Ruderman / JAWS fact corrections. Two new English-source flags recorded in `docs/translation-source-accuracy-flags.md` (Nigeria "Lifeline works nationwide" leftover; Thailand leaf page's obsolete Samaritans number).
 

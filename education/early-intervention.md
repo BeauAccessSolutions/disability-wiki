@@ -316,5 +316,3 @@ We especially welcome:
 ---
 
 *This page is informed by disabled adults' expertise on what helps disabled children. Early intervention should support children's development while respecting their dignity and identity.*
-
-*Last updated: November 2025*

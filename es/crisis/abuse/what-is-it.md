@@ -698,7 +698,6 @@ El abuso ocurre en las organizaciones que se supone que ayudan. A veces quienes 
 
 ---
 
-
 **Esta información está creada por y para personas con discapacidad. Tu seguridad y tu autonomía importan.**
 
 ---
@@ -712,5 +711,3 @@ El abuso ocurre en las organizaciones que se supone que ayudan. A veces quienes 
 ---
 
 *Esta página pone en el centro los conocimientos de las personas con discapacidad y se basa en la organización liderada por personas con discapacidad a nivel global. Para preguntas o para sugerir agregados, consulta [Cómo Contribuir](/es/start/contribute).*
-
-*Última actualización: enero de 2026*

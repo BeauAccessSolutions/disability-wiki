@@ -345,5 +345,3 @@ We especially welcome:
 ---
 
 *This page centers disabled job seekers' expertise. Finding work in an ableist world is challenging—your efforts matter, and employment is possible.*
-
-*Last updated: November 2025*

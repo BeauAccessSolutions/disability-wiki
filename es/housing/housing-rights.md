@@ -453,8 +453,6 @@ Ya sea que estés en un país que ha ratificado la CDPD, en un país como EE. UU
 
 **¿Tienes recursos, investigaciones o información específica de tu país sobre derechos de vivienda para aportar?** [Contribuye a DisabilityWiki](/es/start/contribute)
 
-Última actualización: noviembre de 2025
-
 ---
 
 ## Contribuye a esta página
@@ -466,5 +464,3 @@ Ya sea que estés en un país que ha ratificado la CDPD, en un país como EE. UU
 ---
 
 *Esta página pone en el centro los conocimientos de las personas con discapacidad y se basa en la organización liderada por personas con discapacidad a nivel global. Para preguntas o para sugerir agregados, consulta [Cómo Contribuir](/es/start/contribute).*
-
-*Última actualización: enero de 2026*

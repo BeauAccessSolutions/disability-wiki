@@ -434,5 +434,3 @@ Damos especial bienvenida a:
 ---
 
 *Esta página pone en el centro los conocimientos de las personas emprendedoras con discapacidad. El trabajo por cuenta propia puede ser un camino hacia la flexibilidad, los ingresos y el control que el empleo tradicional a menudo no ofrece.*
-
-*Última actualización: noviembre de 2025*

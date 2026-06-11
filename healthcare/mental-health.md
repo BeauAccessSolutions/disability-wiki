@@ -429,5 +429,3 @@ We especially welcome:
 ---
 
 *This page centers the expertise of people with lived experience of mental health conditions. Your mental health matters, and you deserve support that respects your autonomy and dignity.*
-
-*Last updated: November 2025*

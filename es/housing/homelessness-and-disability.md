@@ -521,8 +521,6 @@ Para **Recursos de crisis**, consulta [Apoyo en crisis](/es/crisis/disabled-cris
 
 **¿Tienes recursos sobre situación de calle y discapacidad, información específica de tu país o ejemplos de organización para aportar?** [Contribuye a DisabilityWiki](/es/start/contribute)
 
-Última actualización: noviembre de 2025
-
 ---
 
 ## Contribuye a esta página
@@ -534,5 +532,3 @@ Para **Recursos de crisis**, consulta [Apoyo en crisis](/es/crisis/disabled-cris
 ---
 
 *Esta página pone en el centro los conocimientos de las personas con discapacidad y se basa en la organización liderada por personas con discapacidad a nivel global. Para preguntas o para sugerir agregados, consulta [Cómo Contribuir](/es/start/contribute).*
-
-*Última actualización: enero de 2026*

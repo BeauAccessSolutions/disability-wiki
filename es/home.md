@@ -12,7 +12,6 @@ dateCreated: 2026-01-11T19:42:25.469Z
 
 **¡Bienvenido/a! Esta es una guía comunitaria de recursos, derechos y cultura sobre la discapacidad, creada por personas con discapacidad, para personas con discapacidad, personas aliadas y defensoras.**
 
-
 ---
 
 ## Acerca de este wiki
@@ -244,7 +243,6 @@ Damos la bienvenida a personas colaboradoras de todas partes.
 
 **"Nada Sobre Nosotros Sin Nosotros."**
 
-
 *Mantenido por: la comunidad de DisabilityWiki*
 
 ---
@@ -258,5 +256,3 @@ Damos la bienvenida a personas colaboradoras de todas partes.
 ---
 
 *Esta página pone en el centro los conocimientos de las personas con discapacidad y se basa en la organización liderada por personas con discapacidad a nivel global. Para preguntas o para sugerir agregados, consulta [Cómo Contribuir](/es/start/contribute).*
-
-*Última actualización: enero de 2026*

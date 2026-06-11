@@ -369,7 +369,6 @@ Want to help make this more accessible?
 
 ---
 
-
 **Previous page:** [[/start/how-to-use|How to Use This Wiki]]  
 **Next page:** [[/about/contact|Contact Us]] or return to [[/start/welcome|Welcome]]
 
@@ -388,5 +387,3 @@ Have lived experience or expertise that could strengthen this page? We especiall
 ---
 
 *This page centers disabled people's expertise and is informed by disabled-led organizing globally. For questions or to suggest additions, see [How to Contribute](/start/contribute).*
-
-*Last updated: January 2026*

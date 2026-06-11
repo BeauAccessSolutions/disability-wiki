@@ -463,5 +463,3 @@ Damos especial bienvenida a:
 ---
 
 *Esta página pone en el centro los conocimientos de las personas trabajadoras con discapacidad. El empleo competitivo e integrado es un derecho, no un privilegio: las personas con discapacidad merecen empleos reales con salarios reales.*
-
-*Última actualización: noviembre de 2025*

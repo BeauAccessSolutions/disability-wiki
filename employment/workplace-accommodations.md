@@ -377,5 +377,3 @@ We especially welcome:
 ---
 
 *This page centers disabled workers' expertise. Accommodations are a right, not a favor—and they benefit everyone.*
-
-*Last updated: November 2025*

@@ -463,5 +463,3 @@ We especially welcome:
 ---
 
 *This page centers disabled workers' expertise. Employment rights exist because disabled people organized and fought for them.*
-
-*Last updated: November 2025*

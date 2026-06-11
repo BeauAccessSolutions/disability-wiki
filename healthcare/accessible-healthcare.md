@@ -395,5 +395,3 @@ We especially welcome:
 ---
 
 *This page centers disabled patients' expertise. You deserve healthcare that is accessible, respectful, and effective.*
-
-*Last updated: November 2025*

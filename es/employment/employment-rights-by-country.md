@@ -463,5 +463,3 @@ Damos especial bienvenida a:
 ---
 
 *Esta página pone en el centro los conocimientos de los trabajadores con discapacidad. Los derechos laborales existen porque las personas con discapacidad se organizaron y lucharon por ellos.*
-
-*Última actualización: noviembre de 2025*

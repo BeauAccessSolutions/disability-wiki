@@ -420,5 +420,3 @@ Damos especial bienvenida a:
 ---
 
 *Esta página pone en el centro los conocimientos de las personas con discapacidad. El contenido refleja décadas de organización liderada por personas con discapacidad por el acceso a la educación.*
-
-*Última actualización: noviembre de 2025*

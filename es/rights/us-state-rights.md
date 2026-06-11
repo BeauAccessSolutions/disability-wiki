@@ -356,5 +356,3 @@ Damos especial bienvenida a:
 ---
 
 *Esta página pone en el centro los conocimientos de las personas con discapacidad. Las protecciones estatales de derechos de las personas con discapacidad existen porque las personas con discapacidad de cada estado se organizaron y abogaron por ellas.*
-
-*Última actualización: noviembre de 2025*

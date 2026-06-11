@@ -303,7 +303,6 @@ Si te estás preguntando "sou doente o suficiente para ligar?" (¿estoy lo sufic
 
 ---
 
-
 **¿En crisis en este momento? Llama al 188. Todo lo demás puede esperar.**
 
 ---
@@ -317,5 +316,3 @@ Si te estás preguntando "sou doente o suficiente para ligar?" (¿estoy lo sufic
 ---
 
 *Esta página pone en el centro los conocimientos de las personas con discapacidad y se basa en la organización liderada por personas con discapacidad a nivel global. Para preguntas o para sugerir agregados, consulta [Cómo Contribuir](/es/start/contribute).*
-
-*Última actualización: enero de 2026*

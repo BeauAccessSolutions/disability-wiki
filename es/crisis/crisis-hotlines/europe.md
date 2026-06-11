@@ -639,7 +639,6 @@ Las líneas de crisis te ayudan a superar el peligro inmediato. Para un apoyo co
 
 ---
 
-
 **¿En crisis en este momento? Llama al 112 o a la línea de crisis de tu país. Todo lo demás puede esperar.**
 
 ---
@@ -653,5 +652,3 @@ Las líneas de crisis te ayudan a superar el peligro inmediato. Para un apoyo co
 ---
 
 *Esta página pone en el centro los conocimientos de las personas con discapacidad y se basa en la organización liderada por personas con discapacidad a nivel global. Para preguntas o para sugerir agregados, consulta [Cómo Contribuir](/es/start/contribute).*
-
-*Última actualización: enero de 2026*

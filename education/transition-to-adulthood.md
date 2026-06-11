@@ -426,5 +426,3 @@ We especially welcome:
 ---
 
 *This page centers disabled young adults' expertise. Content reflects disabled people's organizing for self-determination and full community participation.*
-
-*Last updated: November 2025*

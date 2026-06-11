@@ -345,5 +345,3 @@ Damos especial bienvenida a:
 ---
 
 *Esta página pone en el centro los conocimientos de las personas con discapacidad que buscan empleo. Encontrar trabajo en un mundo capacitista es un desafío: tu esfuerzo importa, y el empleo es posible.*
-
-*Última actualización: noviembre de 2025*

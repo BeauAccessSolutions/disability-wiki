@@ -289,5 +289,3 @@ Are you a disabled person with advice for allies? Have you seen allyship done we
 ---
 
 *This page centers disabled people's expertise and is informed by disabled-led organizing globally. The best thing allies can do is listen to us. For questions or to suggest additions, see [How to Contribute](/start/contribute).*
-
-**Last updated**: November 2025

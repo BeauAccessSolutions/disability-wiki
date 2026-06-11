@@ -381,7 +381,6 @@ Comparte a través de nuestro [formulario de contribución] o envía un email a 
 
 ---
 
-
 **Páginas relacionadas:**
 - [Viajes accesibles](/es/daily-living/accessible-travel)
 - [Animales de servicio](/es/daily-living/pets-and-service-animals)
@@ -398,5 +397,3 @@ Comparte a través de nuestro [formulario de contribución] o envía un email a 
 ---
 
 *Esta página pone en el centro los conocimientos de las personas con discapacidad y se basa en la organización liderada por personas con discapacidad a nivel global. Para preguntas o para sugerir agregados, consulta [Cómo Contribuir](/es/start/contribute).*
-
-*Última actualización: enero de 2026*

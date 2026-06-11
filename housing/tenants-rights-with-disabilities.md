@@ -449,8 +449,6 @@ For **International Housing Rights** frameworks (CRPD Article 19, global standar
 
 **Have tenant rights resources, case examples, or country-specific information to contribute?** [Contribute to DisabilityWiki](/start/contribute)
 
-Last updated: November 2025
-
 ---
 
 ## Contribute to This Page
@@ -462,5 +460,3 @@ Have lived experience or expertise that could strengthen this page? We especiall
 ---
 
 *This page centers disabled people's expertise and is informed by disabled-led organizing globally. For questions or to suggest additions, see [How to Contribute](/start/contribute).*
-
-*Last updated: January 2026*

@@ -396,5 +396,3 @@ Damos especial bienvenida a:
 ---
 
 *Esta página pone en el centro los conocimientos de las personas con discapacidad que usan el transporte. El transporte público accesible se conquistó mediante la acción directa y sigue requiriendo vigilancia.*
-
-*Última actualización: noviembre de 2025*
