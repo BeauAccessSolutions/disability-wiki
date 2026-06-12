@@ -7,6 +7,7 @@ All notable changes to the Disability Wiki project are documented in this file.
 ## [Unreleased]
 
 ### Fixed
+- **17 broken Spanish links fixed (live bugs)** — surfaced by the migration Phase 3 link verification (143,514 rendered hrefs checked, now 0 broken): wrong community/condition/crisis slugs across 14 es/ files, including crisis-hotline paths and one wrong-region link (Indonesia under south-america). The repo link validator misses es-slug mismatches; verification report: `docs/migration/VERIFICATION_2026-06-12.md`.
 - **Wiki.js-era "This page has moved" stubs become true redirects on the static site** (8 stubs: accessibility-statement root, foundations/how-to-use-this-wiki, start/{disability-models,for-allies,what-is-disability} EN + es): marked `draft: true` so the static build excludes them from pages/sidebar and serves redirects instead; Wiki.js ignores the field, so the live stubs keep working until cutover. FAQ links repointed from stubs to the canonical foundations/ pages.
 - **Residual `[[wikilink]]` syntax cleared from the four start/ pages (EN + es)**: ~50 unsupported wikilinks rendering as literal bracket text (missed by the 2026-06-08 sweep), many pointing at pages that moved (`/about/contact` → `/start/contact`, `/start/welcome` → `/foundations/welcome`, `/library` → `/media`) or were never created (`/about/privacy` etc., now unlinked plain text). Broken hand-maintained "Previous/Next page" nav lines removed.
 

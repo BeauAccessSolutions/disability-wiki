@@ -237,7 +237,7 @@ Un estudio de 2025 dio lugar a una nueva guía clínica: "Cuando el personal cl�
 
 ### Sistema nervioso autónomo
 
-**El 41-80% de las personas con hEDS tienen POTS** (síndrome de taquicardia ortostática postural); consulta [Síndrome de taquicardia ortostática postural](/es/conditions/postural-orthostatic-tachycardia-syndrome).
+**El 41-80% de las personas con hEDS tienen POTS** (síndrome de taquicardia ortostática postural); consulta [Síndrome de taquicardia ortostática postural](/es/conditions/POTS).
 
 Otros problemas autonómicos:
 - Problemas de regulación de la temperatura
@@ -252,7 +252,7 @@ Otros problemas autonómicos:
 - **Disfunción de la ATM**: la mandíbula chasquea, hace clic, se disloca
 - **Apiñamiento dental**
 - **Cardiovascular:** Prolapso de la válvula mitral (más común), dilatación de la raíz aórtica (menos común, monitorear con regularidad)
-- **Síndrome de activación de los mastocitos (MCAS):** 48% de los pacientes con hEDS; consulta [Síndrome de activación de los mastocitos](/es/conditions/mast-cell-activation-syndrome)
+- **Síndrome de activación de los mastocitos (MCAS):** 48% de los pacientes con hEDS; consulta [Síndrome de activación de los mastocitos](/es/conditions/MCAS)
 - **Resistencia a los anestésicos locales**: la lidocaína puede no funcionar bien para el trabajo dental o procedimientos menores
 
 ### Neurológico
@@ -356,10 +356,10 @@ Consulta [Ayudas de movilidad](/es/transport/mobility-aids) para una orientació
 
 ### Medicamentos que pueden ayudar a distintos sistemas
 
-- **Síntomas de POTS:** Consulta la página de [POTS](/es/conditions/postural-orthostatic-tachycardia-syndrome)
+- **Síntomas de POTS:** Consulta la página de [POTS](/es/conditions/POTS)
 - **ERGE:** Inhibidores de la bomba de protones, bloqueadores H2
 - **Gastroparesia:** Metoclopramida, domperidona (disponibilidad según el país)
-- **MCAS:** Antihistamínicos, estabilizadores de los mastocitos; consulta [MCAS](/es/conditions/mast-cell-activation-syndrome)
+- **MCAS:** Antihistamínicos, estabilizadores de los mastocitos; consulta [MCAS](/es/conditions/MCAS)
 - **Migrañas:** Preventivos y tratamientos estándar para las migrañas
 
 ---
@@ -376,8 +376,8 @@ Estas tres condiciones ocurren juntas con tanta frecuencia que la comunidad méd
 **Por qué se agrupan:** La teoría principal es que el tejido conectivo defectuoso afecta tanto la función de los vasos sanguíneos (lo que causa POTS) como la estabilidad de los mastocitos (lo que causa MCAS). En 2025, la American Gastroenterological Association emitió una guía que recomienda que el diagnóstico de una de estas condiciones debería llevar a hacer pruebas de detección de las otras.
 
 Consulta:
-- [Síndrome de taquicardia ortostática postural](/es/conditions/postural-orthostatic-tachycardia-syndrome)
-- [Síndrome de activación de los mastocitos](/es/conditions/mast-cell-activation-syndrome)
+- [Síndrome de taquicardia ortostática postural](/es/conditions/POTS)
+- [Síndrome de activación de los mastocitos](/es/conditions/MCAS)
 
 ### Otras condiciones que coexisten con frecuencia
 
@@ -632,8 +632,8 @@ The Ehlers-Danlos Society y las organizaciones nacionales organizan:
 
 ## Páginas relacionadas
 
-- [Síndrome de taquicardia ortostática postural](/es/conditions/postural-orthostatic-tachycardia-syndrome): coexiste con frecuencia
-- [Síndrome de activación de los mastocitos](/es/conditions/mast-cell-activation-syndrome): la condición de la "trifecta"
+- [Síndrome de taquicardia ortostática postural](/es/conditions/POTS): coexiste con frecuencia
+- [Síndrome de activación de los mastocitos](/es/conditions/MCAS): la condición de la "trifecta"
 - [Enfermedad crónica](/es/conditions/chronic-illness): estrategias generales
 - [Discapacidades físicas](/es/conditions/physical-disabilities): categoría más amplia
 - [Dolor crónico](/es/healthcare/pain-and-fatigue): estrategias de manejo del dolor

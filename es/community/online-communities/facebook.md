@@ -561,8 +561,8 @@ Si los grupos de Facebook no te están sirviendo, considera:
 
 Consulta también:
 
-- [Comunidades de discapacidad en Reddit](/es/community/reddit-communities)
-- [Comunidades de discapacidad en Discord](/es/community/discord-communities)
+- [Comunidades de discapacidad en Reddit](/es/community/online-communities/reddit)
+- [Comunidades de discapacidad en Discord](/es/community/online-communities/discord)
 - [Comunidades de discapacidad en línea](/es/community/online-communities)
 
 ---
@@ -570,8 +570,8 @@ Consulta también:
 ## Páginas relacionadas
 
 - [Comunidades de discapacidad en línea](/es/community/online-communities)
-- [Comunidades de discapacidad en Reddit](/es/community/reddit-communities)
-- [Comunidades de discapacidad en Discord](/es/community/discord-communities)
+- [Comunidades de discapacidad en Reddit](/es/community/online-communities/reddit)
+- [Comunidades de discapacidad en Discord](/es/community/online-communities/discord)
 - [Grupos de apoyo entre pares por discapacidad](/es/community/disability-specific-peer-groups)
 - [Comunidad presencial](/es/community/in-person-community)
 

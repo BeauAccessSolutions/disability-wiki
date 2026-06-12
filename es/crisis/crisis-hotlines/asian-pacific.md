@@ -167,7 +167,7 @@ Esta página te conecta con recursos de crisis en toda la región de Asia y el P
 
 ### Indonesia {#indonesia}
 
-**Para ver los recursos de crisis completos en Indonesia, consulta [Ayuda en crisis: Indonesia](/es/crisis/indonesia)**
+**Para ver los recursos de crisis completos en Indonesia, consulta [Ayuda en crisis: Indonesia](/es/crisis/crisis-hotlines/asian-pacific/indonesia)**
 
 **Números rápidos:**
 - **Healing119 (Kemenkes, nacional):** llama al 119, extensión 8 (las 24 horas, gratuito) o WhatsApp +62 813-8007-3120
@@ -605,7 +605,7 @@ Para apoyo continuo:
 ## Páginas relacionadas
 
 - [Ayuda en crisis principal](/es/crisis)
-- [Recursos de crisis de Australia](/es/crisis/australia) (si existe una página detallada)
+- [Recursos de crisis de Australia](/es/crisis/crisis-hotlines/asian-pacific/australia) (si existe una página detallada)
 - [Preparación para emergencias](/es/crisis/emergency-disaster-preparedness)
 - [Abuso, negligencia y explotación](/es/crisis/abuse-neglect-exploitation)
 

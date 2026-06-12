@@ -219,8 +219,8 @@ Consulta [Ejercicio y deportes adaptados](/es/daily-living/exercise-and-adaptive
 
 El POTS rara vez se presenta solo. Conocer las afecciones que comúnmente coexisten te ayuda a reconocer si necesitas una evaluación adicional:
 
-- **Síndrome de Ehlers-Danlos (SED):** El 31% de los pacientes con POTS cumple los criterios del SED hipermóvil; el 55% tiene hipermovilidad articular. Consulta [Síndromes de Ehlers-Danlos](/es/conditions/ehlers-danlos-syndrome)
-- **Síndrome de activación de mastocitos (SAMC):** El 31% de las personas que tienen tanto POTS como SED también tienen SAMC. Consulta [Síndrome de activación de mastocitos](/es/conditions/mast-cell-activation-syndrome)
+- **Síndrome de Ehlers-Danlos (SED):** El 31% de los pacientes con POTS cumple los criterios del SED hipermóvil; el 55% tiene hipermovilidad articular. Consulta [Síndromes de Ehlers-Danlos](/es/conditions/EDS)
+- **Síndrome de activación de mastocitos (SAMC):** El 31% de las personas que tienen tanto POTS como SED también tienen SAMC. Consulta [Síndrome de activación de mastocitos](/es/conditions/MCAS)
 - **Neuropatía de fibras pequeñas:** Cerca del 50% de los pacientes con POTS
 - **Síndrome de fatiga crónica (EM/SFC):** Superposición significativa, en especial en los casos posvirales
 - **Fibromialgia:** Coexistencia común
@@ -455,8 +455,8 @@ El **Aviso de Interés Especial de los NIH** para la investigación del POTS (ha
 
 ## Páginas relacionadas
 
-- [Síndromes de Ehlers-Danlos](/es/conditions/ehlers-danlos-syndrome): a menudo coexiste con el POTS
-- [Síndrome de activación de mastocitos](/es/conditions/mast-cell-activation-syndrome): la "tríada" con el SED y el POTS
+- [Síndromes de Ehlers-Danlos](/es/conditions/EDS): a menudo coexiste con el POTS
+- [Síndrome de activación de mastocitos](/es/conditions/MCAS): la "tríada" con el SED y el POTS
 - [Enfermedad crónica](/es/conditions/chronic-illness): estrategias generales para vivir con afecciones crónicas
 - [Ejercicio y deportes adaptados](/es/daily-living/exercise-and-adaptive-sports): modificaciones de ejercicio para el POTS
 - [Adaptaciones en el lugar de trabajo](/es/employment/workplace-accommodations): adaptaciones específicas que ayudan
