@@ -28,10 +28,20 @@ retires the droplet (~$150+/yr).
 - **Phase 3 — Verification**: build-time broken-link failure; URL-set diff vs
   live sitemap (every URL 200/301); es↔en switcher round-trip on all page pairs;
   axe accessibility audit; visual spot-check of ~20 high-stakes pages
-- **Phase 4 — Parallel run**: deploy to `*.pages.dev` preview; review; DNS
-  cutover (instantly reversible); droplet kept 2–4 weeks as rollback
-- **Phase 5 — Decommission**: archive final DB backup; destroy droplet; rewrite
-  CLAUDE.md + `disability-wiki-edit` skill for the static workflow
+- **Phase 4 — Parallel run + cutover** ✅ **CUTOVER COMPLETE 2026-06-12**:
+  Cloudflare Pages project `disability-wiki` (git-connected to `main`, root dir
+  `site/`, `NODE_VERSION=22`, auto-deploys on merge; preview
+  https://disability-wiki.pages.dev). Custom domains disabilitywiki.org + www
+  attached; verified live: 200s both locales, `/en/*` 301s, stub/index/case
+  redirects, 404, TLS. **Publishing = merge to main.** A phantom
+  `disability-wiki` submodule gitlink had to be removed for Cloudflare's clone.
+  **Rollback** (until Phase 5): restore the A records to 167.71.97.167.
+- **Phase 5 — Decommission** — **scheduled 2026-07-10** (Claude scheduled task
+  `droplet-decommission-day`): health-check static site → final droplet backup
+  archived locally (incl. docker-compose.yml + .env, gitignored) → Zach destroys
+  droplet in DigitalOcean → DNS cleanup (delete remaining A records incl. the
+  DNS-only `sitemap-*`; confirm DMARC `_dmarc` TXT) → rewrite claude.md +
+  `disability-wiki-edit` skill for merge-to-main; CHANGELOG + memory updates
 
 ## Phase 0 findings (2026-06-11)
 
@@ -52,12 +62,14 @@ retires the droplet (~$150+/yr).
   inventory must come from the DB page list (`pages{list}`) instead; Starlight
   adds a real sitemap, a small SEO gain.
 
-## Standing cautions during migration
+## Post-cutover notes (2026-06-12 →)
 
-- Until cutover, the live site still imports anything merged to `main` —
-  **run `scripts/sweep_noncontent_pages.py --apply` after merging any non-content
-  `.md`** (including this folder).
-- `site/` build output and node_modules must be gitignored; only `.md`/`.html`
-  leak into Wiki.js imports, but keep the tree clean anyway.
-- Do not restructure content paths during the migration: URL preservation is the
-  SEO and link-integrity guarantee.
+- The Wiki.js sync/sweep cautions are obsolete: the public site no longer reads
+  from Wiki.js. The droplet still pulls `main` into its local clone until it is
+  destroyed — harmless and unreachable publicly.
+- Do not restructure content paths: URL preservation is the SEO and
+  link-integrity guarantee (`/en/*` 301s + generated alias redirects cover the
+  legacy URL space).
+- Open items until Phase 5: delete stale `sitemap-*` DNS-only A record; add
+  DMARC (`_dmarc` TXT, `v=DMARC1; p=quarantine; rua=mailto:<owner>`);
+  PR #23 (substance-use page) awaiting content review.
