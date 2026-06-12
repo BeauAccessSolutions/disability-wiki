@@ -229,7 +229,7 @@ Damos la bienvenida a personas colaboradoras de todas partes.
 - Navegable con teclado
 - Énfasis en el lenguaje sencillo
 
-**Declaración completa:** [Declaración de Accesibilidad](/es/accessibility-statement)
+**Declaración completa:** [Declaración de Accesibilidad](/es/start/accessibility-statement)
 
 ---
 
@@ -238,7 +238,7 @@ Damos la bienvenida a personas colaboradoras de todas partes.
 - [Inicio](/es/foundations/index)
 - [Cómo Usar Este Wiki](/es/foundations/how-to-use-this-wiki)
 - [Involúcrate](/es/get-involved/index)
-- [Declaración de Accesibilidad](/es/accessibility-statement)
+- [Declaración de Accesibilidad](/es/start/accessibility-statement)
 - [Glosario](/es/glossary/index)
 
 **"Nada Sobre Nosotros Sin Nosotros."**

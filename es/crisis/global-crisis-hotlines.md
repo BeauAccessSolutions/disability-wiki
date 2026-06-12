@@ -156,7 +156,7 @@ Algunos países tienen páginas completas de recursos de crisis con contexto loc
 
 ### Disponibles ahora:
 - **[Ayuda en crisis en Brasil](/es/crisis/crisis-hotlines/south-america/brazil)** - Recursos completos en portugués e inglés
-- **[Ayuda en crisis en Indonesia](/es/crisis/crisis-hotlines/south-america/indonesia)** - Recursos detallados de Indonesia
+- **[Ayuda en crisis en Indonesia](/es/crisis/crisis-hotlines/asian-pacific/indonesia)** - Recursos detallados de Indonesia
 - **[Ayuda en crisis en Nigeria](/es/crisis/crisis-hotlines/africa/nigeria)** - Servicios de crisis completos de Nigeria
 - **[Ayuda en crisis en Sudáfrica](/es/crisis/crisis-hotlines/africa/south-africa)** - Recursos completos de Sudáfrica
 

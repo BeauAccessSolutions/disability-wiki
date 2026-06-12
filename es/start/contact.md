@@ -116,7 +116,7 @@ No somos un servicio de crisis, ni asesores legales, ni proveedores médicos. So
 
 Si encuentras alguna barrera de accesibilidad en este sitio, avísanos de inmediato a support@disabilitywiki.org. Nos comprometemos a hacer que este recurso sea usable para todas las personas.
 
-Consulta nuestra [Declaración de accesibilidad](/es/accessibility-statement) completa para conocer los detalles de nuestros compromisos de accesibilidad y los problemas conocidos.
+Consulta nuestra [Declaración de accesibilidad](/es/start/accessibility-statement) completa para conocer los detalles de nuestros compromisos de accesibilidad y los problemas conocidos.
 
 -----
 

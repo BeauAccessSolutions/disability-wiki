@@ -18,3 +18,11 @@
 # Dropped empty section (migration Phase 0 decision)
 /regions / 301
 /regions/* / 301
+
+# Uppercase condition slugs (Wiki.js was case-sensitive; Starlight lowercases)
+/conditions/EDS /conditions/eds 301
+/conditions/MCAS /conditions/mcas 301
+/conditions/POTS /conditions/pots 301
+/es/conditions/EDS /es/conditions/eds 301
+/es/conditions/MCAS /es/conditions/mcas 301
+/es/conditions/POTS /es/conditions/pots 301

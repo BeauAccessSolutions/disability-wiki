@@ -154,7 +154,7 @@ Esta página te conecta con recursos de crisis en toda África.
 
 ### Nigeria {#nigeria}
 
-**Para recursos de crisis completos en Nigeria, consulta [Ayuda en crisis: Nigeria](/es/crisis/nigeria)**
+**Para recursos de crisis completos en Nigeria, consulta [Ayuda en crisis: Nigeria](/es/crisis/crisis-hotlines/africa/nigeria)**
 
 **Números rápidos:**
 - **SURPIN (Suicide Research and Prevention Initiative):** 0800 078 7746 (gratuito, las 24 horas)
@@ -290,7 +290,7 @@ Esta página te conecta con recursos de crisis en toda África.
 
 ### Sudáfrica {#south-africa}
 
-**Para recursos de crisis completos en Sudáfrica, consulta [Ayuda en crisis: Sudáfrica](/es/crisis/south-africa)**
+**Para recursos de crisis completos en Sudáfrica, consulta [Ayuda en crisis: Sudáfrica](/es/crisis/crisis-hotlines/africa/south-africa)**
 
 **Números rápidos:**
 - **SADAG:** 0800-567-567 (gratuito, de 8 a. m. a 8 p. m.)

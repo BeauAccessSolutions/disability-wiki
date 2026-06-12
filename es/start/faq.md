@@ -208,7 +208,7 @@ Sí. El wiki está diseñado para funcionar con todos los principales lectores d
 
 **Si algo no funciona:** Avísanos de inmediato. Tratamos los errores de accesibilidad como urgentes.
 
-- [Declaración de accesibilidad completa](/es/accessibility-statement)
+- [Declaración de accesibilidad completa](/es/start/accessibility-statement)
 - [Reportar un problema de accesibilidad](/es/start/contact)
 
 ---

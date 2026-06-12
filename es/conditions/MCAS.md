@@ -340,8 +340,8 @@ La investigación actual sugiere que el tejido conectivo anormal en los síndrom
 **En 2025, la American Gastroenterological Association emitió una guía:** Cuando los médicos vean una de estas condiciones, deberían hacer pruebas de detección de las otras.
 
 Consulta:
-- [Síndromes de Ehlers-Danlos](/es/conditions/ehlers-danlos-syndrome)
-- [Síndrome de taquicardia ortostática postural](/es/conditions/postural-orthostatic-tachycardia-syndrome)
+- [Síndromes de Ehlers-Danlos](/es/conditions/EDS)
+- [Síndrome de taquicardia ortostática postural](/es/conditions/POTS)
 
 ### Implicaciones para el tratamiento
 
@@ -565,8 +565,8 @@ La mayor parte de la investigación sobre el MCAS es financiada por:
 
 ## Páginas relacionadas
 
-- [Síndromes de Ehlers-Danlos](/es/conditions/ehlers-danlos-syndrome): coexiste con frecuencia
-- [Síndrome de taquicardia ortostática postural](/es/conditions/postural-orthostatic-tachycardia-syndrome): la condición de la trifecta
+- [Síndromes de Ehlers-Danlos](/es/conditions/EDS): coexiste con frecuencia
+- [Síndrome de taquicardia ortostática postural](/es/conditions/POTS): la condición de la trifecta
 - [Enfermedad crónica](/es/conditions/chronic-illness): estrategias generales
 - [Discapacidades invisibles](/es/conditions/invisible-disabilities): sortear la enfermedad invisible
 - [Atención de salud accesible](/es/healthcare/accessible-healthcare): defenderse en el sistema médico

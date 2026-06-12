@@ -270,9 +270,9 @@ Conecta con organizaciones y eventos de discapacidad. Pon a tu hija o hijo en co
 
 ### Comunidad
 - [Comunidades en línea](/es/community/online-communities) — Encontrar a tu gente en línea
-- [Reddit](/es/community/online-groups/reddit) — Comunidades de discapacidad en Reddit
-- [Discord](/es/community/online-groups/discord) — Servidores de Discord para personas con discapacidad
-- [Comunidades de Facebook](/es/community/online-groups/facebook-communities) — Grupos de Facebook
+- [Reddit](/es/community/online-communities/reddit) — Comunidades de discapacidad en Reddit
+- [Discord](/es/community/online-communities/discord) — Servidores de Discord para personas con discapacidad
+- [Comunidades de Facebook](/es/community/online-communities/facebook) — Grupos de Facebook
 - [Comunidad presencial](/es/community/in-person-community) — Conexiones locales
 - [Grupos de apoyo entre pares por discapacidad](/es/community/disability-specific-peer-groups) — Comunidades específicas por condición
 - [Comunidades de juventud y estudiantes](/es/community/youth-student-communities) — Para personas jóvenes con discapacidad
