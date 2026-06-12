@@ -6,7 +6,8 @@ All notable changes to the Disability Wiki project are documented in this file.
 
 ## [Unreleased]
 
-_(nothing yet)_
+### Security
+- **Stale `sitemap-*` DNS-only A record deleted** (2026-06-12): it pointed at the old droplet and was the last record exposing the origin IP (flagged by Cloudflare's "origin IP partially exposed" recommendation). Remaining post-cutover DNS item: DMARC record (tracked for the 2026-07-10 decommission checklist).
 
 ---
 
