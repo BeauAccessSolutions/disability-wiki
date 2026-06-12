@@ -6,10 +6,9 @@ All notable changes to the Disability Wiki project are documented in this file.
 
 ## [Unreleased]
 
-<<<<<<< HEAD
 ### Added
-- **New page: Substance Use, Addiction, and Disability** (`healthcare/substance-use-and-addiction.md`, EN + es) — covers addiction/recovery as disabled people experience them and the distinct situation of chronic pain patients in the opioid crackdown (forced tapers, dependence vs. addiction, CDC 2022 / FDA 2019 guidance, MOUD and ADA recovery rights, treatment-program accessibility, harm reduction). Linked from the healthcare index Quick Start and the pain-and-fatigue page. All org URLs and the SAMHSA helpline number verified live.
-=======
+- **New page: Substance Use, Addiction, and Disability** (`healthcare/substance-use-and-addiction.md`, EN + es) — covers addiction/recovery as disabled people experience them and the distinct situation of chronic pain patients in the opioid crackdown (forced tapers, dependence vs. addiction, CDC 2022 / FDA 2019 guidance, MOUD and ADA recovery rights, treatment-program accessibility, harm reduction). Linked from the healthcare index Quick Start and the pain-and-fatigue page. All org URLs and the SAMHSA helpline number verified live. Em-dash density reduced per maintainer review.
+
 ### Security
 - **Stale `sitemap-*` DNS-only A record deleted** (2026-06-12): it pointed at the old droplet and was the last record exposing the origin IP (flagged by Cloudflare's "origin IP partially exposed" recommendation). Remaining post-cutover DNS item: DMARC record (tracked for the 2026-07-10 decommission checklist).
 
@@ -46,7 +45,6 @@ All notable changes to the Disability Wiki project are documented in this file.
 
 ### Fixed
 - **Unfilled footer placeholders replaced with real `/start/contribute` links** (54 instances, 26 files): `**Share feedback:** [Feedback link]` and `[Link to contribution form]` were published as-is on 12 English pages (the eight daily-living pages, adult-and-continuing-education, in-person-community, youth-student-communities, family-control-and-gaslighting) and their 12 `es/` counterparts; the EN and es glossary indexes had three unlinked `[Link to form →]`-style placeholders each. All now point to `/start/contribute` (`/es/start/contribute` on Spanish pages) per the canonical contribute pathway.
->>>>>>> main
 
 ### Changed
 - **Hand-maintained "Last updated" footer lines removed from all content pages** (~510 stamps across 484 EN + es pages). Most stamps said "January 2026" or "November 2025" even on pages corrected in the June 2026 audits, understating freshness on exactly the pages (crisis hotlines) where it matters. Wiki.js's automatic updated-at timestamp is now the single source of truth for page freshness.
