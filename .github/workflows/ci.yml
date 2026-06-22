@@ -20,14 +20,14 @@ jobs:
   build-and-validate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       # --- Site build (BLOCKING) ---------------------------------------------
       # The exact build Cloudflare Pages runs (project `disability-wiki`, root
       # `site/`, NODE_VERSION=22). Content is symlinked into site/src/content/docs
       # from the repo root; relative symlinks resolve on Linux runners. A failure
       # here means the merge would ship a broken deploy.
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v5
         with:
           node-version: 22
           cache: npm
@@ -40,7 +40,7 @@ jobs:
         run: npm run build
 
       # --- Content validators ------------------------------------------------
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: '3.x'
 
