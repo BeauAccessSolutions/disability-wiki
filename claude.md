@@ -502,3 +502,8 @@ See [SECURITY.md](./SECURITY.md) for:
 
 *Last Updated: January 11, 2026*
 *Wiki.js Version: 2.5.310*
+
+
+---
+<!-- Shared cross-project lessons. Edit the canonical file, not here. Add via /lesson -->
+@~/.claude/shared/LESSONS.md

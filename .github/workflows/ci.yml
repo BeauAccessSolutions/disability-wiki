@@ -1,0 +1,59 @@
+name: CI
+
+# Publishing = merge to main (Cloudflare Pages auto-deploys on merge), so this is
+# the only gate between a contributor's change and the live site. It runs the same
+# Astro build Cloudflare runs, plus the repo's content validators, on every PR.
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build-and-validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # --- Site build (BLOCKING) ---------------------------------------------
+      # The exact build Cloudflare Pages runs (project `disability-wiki`, root
+      # `site/`, NODE_VERSION=22). Content is symlinked into site/src/content/docs
+      # from the repo root; relative symlinks resolve on Linux runners. A failure
+      # here means the merge would ship a broken deploy.
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: site/package-lock.json
+      - name: Install site dependencies
+        working-directory: site
+        run: npm ci
+      - name: Build site
+        working-directory: site
+        run: npm run build
+
+      # --- Content validators ------------------------------------------------
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      # BLOCKING: broken internal links. Baseline is 0; --strict exits non-zero
+      # on any regression. English content only (the validator excludes es/).
+      - name: Validate internal links (strict)
+        run: python3 scripts/validate_wiki_links.py --strict
+
+      # ADVISORY: content-level accessibility (alt text, headings, tables,
+      # emoji-as-information). Non-blocking — the current 192 findings are all the
+      # emoji-as-section-marker house style; surfaced so regressions are visible
+      # without blocking merges. Promote to blocking once the emoji baseline is
+      # triaged (see docs/CLAIMS.md / accessibility skill).
+      - name: Accessibility check (advisory)
+        run: python3 scripts/check_accessibility.py --summary
+        continue-on-error: true

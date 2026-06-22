@@ -9,6 +9,7 @@ Spanish locale are excluded so the broken-link total is trustworthy.
 """
 
 import re
+import sys
 from pathlib import Path
 from collections import defaultdict
 
@@ -271,6 +272,13 @@ def main():
 
     print(f"\n✓ Detailed report saved to: {report_file}")
     print()
+
+    # CI gate: with --strict, exit non-zero when broken internal links exist so
+    # a GitHub Action can block the merge (publishing = merge to main, no review
+    # gate otherwise). Missing-description and suggestion output stay advisory.
+    if '--strict' in sys.argv and broken_links:
+        print(f"✗ STRICT: {len(broken_links)} broken internal link(s) — failing.")
+        sys.exit(1)
 
 if __name__ == '__main__':
     main()

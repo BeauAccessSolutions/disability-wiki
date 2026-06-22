@@ -6,6 +6,14 @@ All notable changes to the Disability Wiki project are documented in this file.
 
 ## [Unreleased]
 
+### Added
+- **CI merge-gate** (2026-06-22, `.github/workflows/ci.yml`): the cutover made publishing = merge to main with no review gate; every PR now runs the same Astro build Cloudflare runs (blocking) + `validate_wiki_links.py --strict` (blocking; baseline 0 broken links) + `check_accessibility.py` (advisory — current findings are all the emoji-as-info house style). Adds a `--strict` exit flag to the link validator. Ported from sibling projects' CI discipline.
+- **Incident-response runbook** (2026-06-22, `docs/INCIDENT_RESPONSE.md`): severity levels tuned to a life-safety static site (a wrong/dead crisis hotline number is SEV1); documents both rollback paths and that the droplet path (A records → `167.71.97.167`) expires at the 2026-07-10 decommission. Adapted from the `benefits-navigator` runbook.
+- **Canonical claims ledger** (2026-06-22, `docs/CLAIMS.md`): `public-ledger`-style registry of load-bearing facts (crisis numbers, benefits figures, legal deadlines) → primary source + verify date, seeded from the 2026-06 audits and the fact-check error heatmap. Internal, not published.
+
+### Changed
+- **Shared cross-project lessons wired into `claude.md`** (2026-06-22): `@import` of `~/.claude/shared/LESSONS.md`, and three transferable wiki lessons pushed back to it (Cloudflare edge-cache `?v=` doesn't bust it; auto-deploy needs a CI gate; machine translation reproduces source errors).
+
 ### Security
 - **Stale `sitemap-*` DNS-only A record deleted** (2026-06-12): it pointed at the old droplet and was the last record exposing the origin IP (flagged by Cloudflare's "origin IP partially exposed" recommendation). Remaining post-cutover DNS item: DMARC record (tracked for the 2026-07-10 decommission checklist).
 
