@@ -19,6 +19,48 @@ All notable changes to the Disability Wiki project are documented in this file.
 
 ---
 
+## [2026-07-10] — Droplet decommission (migration Phase 5)
+
+Final phase of the Wiki.js → static-site migration, run via the Claude scheduled
+task `droplet-decommission-day` (health-check → archive → destroy → DNS → docs).
+
+### Removed
+- **Legacy Wiki.js droplet destroyed** (DigitalOcean, `167.71.97.167`, hostname
+  `Disability-Wiki`, SSH alias `cripchronicle`). It had served as the rollback
+  fallback since the 2026-06-12 cutover; the ~4-week rollback window is up. No block
+  volumes or manual snapshots existed; the 4 automated weekly backups can't be
+  force-deleted (DigitalOcean has no delete action for them) but carry no charge once
+  the Droplet is destroyed and auto-expire by ~2026-08-01. **There is no longer a
+  fallback origin** — a Cloudflare Pages platform outage is now handled by dashboard
+  deployment-rollback / Cloudflare support only.
+- **Final droplet archive taken before destruction** → `backups/final-droplet-archive/`
+  (local-only, git-ignored): fresh `pg_dump` of the Wiki.js DB (`gzip -t` verified),
+  `docker-compose.yml`, and `.env` (as `wiki.env`), plus a provenance/restore README.
+
+### Added
+- **DMARC record** for `disabilitywiki.org` (was missing; Cloudflare had been
+  recommending it): `TXT _dmarc = "v=DMARC1; p=quarantine; rua=mailto:zb2252@columbia.edu"`.
+  Completes email auth alongside the existing SPF + DKIM on the Cloudflare Email
+  Routing setup.
+
+### Changed
+- **Docs rewritten to the static-site reality**: `claude.md` (removed the legacy
+  Wiki.js server/deploy/backup sections, added the Astro-Starlight-on-Pages
+  description + a pointer to the final archive); the **disability-wiki-edit** skill
+  (retired the GraphQL API / pull-mode sync / SSH-recovery / never-`git rm`
+  machinery, replaced with the edit→PR→merge-to-main workflow — `git rm` is now the
+  correct way to delete a page); `docs/INCIDENT_RESPONSE.md` (retired the droplet
+  "path 2" DNS-rollback per its own post-decommission instruction). Project memory
+  (`static-site-migration`, `wikijs-ops-gotchas`) marked historical.
+
+### Security
+- **Confirmed no DNS records point at the destroyed droplet.** The zone has no `A`
+  records at all (apex + `www` are proxied CNAMEs to `disability-wiki.pages.dev`); the
+  stale `sitemap-*` `A` record was already deleted at cutover. Origin IP no longer
+  exposed anywhere in DNS.
+
+---
+
 ## [2026-06-11 — 2026-06-12] — Static-site migration & cutover
 
 ### Changed

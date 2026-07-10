@@ -23,7 +23,7 @@ Adapted from the `benefits-navigator` incident runbook for a static content site
 ## Table of contents
 
 1. [Severity levels](#severity-levels)
-2. [Rollback paths (and the 2026-07-10 deadline)](#rollback-paths)
+2. [Rollback paths](#rollback-paths)
 3. [Runbooks](#runbooks)
 4. [Post-incident](#post-incident)
 5. [Contacts and access](#contacts-and-access)
@@ -48,40 +48,30 @@ unsure, treat as SEV1 and verify.
 
 ## Rollback paths
 
-There are **two** rollback paths, and one of them expires.
+**Content rollback (the rollback path): `git revert` + redeploy.**
+Bad content or a broken build that merged to `main` — revert the merge commit on
+`main`; Cloudflare Pages rebuilds and redeploys the corrected `main` automatically.
+This is the right path for *almost every* incident.
 
-1. **Content rollback (preferred, always available): `git revert` + redeploy.**
-   Bad content or a broken build that merged to `main` — revert the merge commit
-   on `main`; Cloudflare Pages rebuilds and redeploys the corrected `main`
-   automatically. This is the right path for *almost every* incident, because the
-   droplet's content is **stale** (it stopped being the source of truth at the
-   2026-06-12 cutover).
+```bash
+git revert -m 1 <bad-merge-sha>   # -m 1 for a merge commit; drop it for a plain commit
+git push origin main              # Pages redeploys main
+```
 
-   ```bash
-   git revert -m 1 <bad-merge-sha>   # -m 1 for a merge commit; drop it for a plain commit
-   git push origin main              # Pages redeploys main
-   ```
+You can also **roll back to a previous deployment** in the Cloudflare Pages dashboard
+(Deployments → pick last-good → "Rollback to this deployment") for an instant revert
+without waiting for a rebuild. Still land the `git revert` so `main` and the live
+deploy agree.
 
-   You can also **roll back to a previous deployment** in the Cloudflare Pages
-   dashboard (Deployments → pick last-good → "Rollback to this deployment") for an
-   instant revert without waiting for a rebuild. Still land the `git revert` so
-   `main` and the live deploy agree.
+> **No fallback origin (as of 2026-07-10).** The old Wiki.js droplet
+> (`167.71.97.167`) was the platform-rollback fallback until it was
+> **decommissioned on 2026-07-10** (migration Phase 5). There is no longer a server
+> to point DNS at. If **Cloudflare Pages itself** is down (not a content/build bug),
+> the only options are the Pages **dashboard deployment-rollback** and, if Pages is
+> truly unservable, **Cloudflare support** — there is no origin to fail over to.
 
-2. **Platform rollback (DNS → droplet): restore the A records to `167.71.97.167`.**
-   Use **only** if Cloudflare Pages itself is down/unservable and the droplet is
-   still running Wiki.js. This points the domain back at the old Wiki.js server.
-
-   > ⚠️ **EXPIRES 2026-07-10.** The droplet is scheduled for decommission on
-   > **2026-07-10** (Claude task `droplet-decommission-day`; see
-   > `migration/MIGRATION_PLAN.md` Phase 5). After that date this path **does not
-   > exist** — there is no server to point at. Post-decommission, a platform
-   > outage is handled by Cloudflare Pages deployment rollback (path 1's dashboard
-   > option) and, if Pages is truly down, by Cloudflare support. **When you
-   > decommission the droplet, delete path 2 from this runbook.**
-
-**Decision rule:** content/build problem → **path 1** (revert). Cloudflare Pages
-platform outage, before 2026-07-10 → **path 2** (A records to droplet). After
-2026-07-10 → path 1 dashboard rollback / Cloudflare support only.
+**Decision rule:** content/build problem → revert (above). Cloudflare Pages platform
+outage → dashboard deployment-rollback, else Cloudflare support.
 
 ---
 
@@ -123,9 +113,9 @@ See the fact-check error heatmap in project memory.
    - Check [cloudflarestatus.com](https://www.cloudflarestatus.com/).
 2. **If the last deploy failed/shipped a bad build** → **path 1**: revert the
    merge or roll back the deployment in the dashboard.
-3. **If Cloudflare Pages itself is down** and it's **before 2026-07-10** →
-   **path 2**: restore A records to `167.71.97.167`. After that date → wait on
-   Cloudflare / open a support ticket; there is no fallback origin.
+3. **If Cloudflare Pages itself is down** → there is no fallback origin (the droplet
+   was decommissioned 2026-07-10). Try the dashboard deployment-rollback; if Pages is
+   truly unservable, wait on Cloudflare / open a support ticket.
 4. Communicate status (even to yourself: log start time, suspected cause).
 
 ### A bad merge shipped broadly-wrong content or defacement (SEV2)
@@ -191,7 +181,7 @@ sites. Project-specific facts stay in this repo's memory.
 | Preview build | https://disability-wiki.pages.dev |
 | DNS / cache / TLS | Cloudflare dashboard, zone `disabilitywiki.org` |
 | Source / merge gate | GitHub `Beaudoin0zach/disability-wiki`, CI `.github/workflows/ci.yml` |
-| Rollback origin (until **2026-07-10**) | Droplet `167.71.97.167`, SSH alias `cripchronicle`, containers `wiki_wiki_1` / `wiki_db_1` |
+| Rollback | `git revert` + redeploy, or Cloudflare Pages dashboard deployment-rollback (no fallback origin — droplet decommissioned 2026-07-10; final archive `backups/final-droplet-archive/`) |
 | Maintainer | Zach Beaudoin (@Beaudoin0zach) |
 
 Related: `migration/MIGRATION_PLAN.md` (cutover + decommission), project memory

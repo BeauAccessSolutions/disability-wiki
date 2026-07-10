@@ -36,12 +36,16 @@ retires the droplet (~$150+/yr).
   redirects, 404, TLS. **Publishing = merge to main.** A phantom
   `disability-wiki` submodule gitlink had to be removed for Cloudflare's clone.
   **Rollback** (until Phase 5): restore the A records to 167.71.97.167.
-- **Phase 5 — Decommission** — **scheduled 2026-07-10** (Claude scheduled task
-  `droplet-decommission-day`): health-check static site → final droplet backup
-  archived locally (incl. docker-compose.yml + .env, gitignored) → Zach destroys
-  droplet in DigitalOcean → DNS cleanup (delete remaining A records incl. the
-  DNS-only `sitemap-*`; confirm DMARC `_dmarc` TXT) → rewrite claude.md +
-  `disability-wiki-edit` skill for merge-to-main; CHANGELOG + memory updates
+- **Phase 5 — Decommission** ✅ **COMPLETE 2026-07-10** (Claude scheduled task
+  `droplet-decommission-day`): health-checked the static site → archived a final
+  droplet backup locally (`backups/final-droplet-archive/`: DB dump + docker-compose.yml
+  + .env, git-ignored) → droplet `167.71.97.167` destroyed in DigitalOcean (no
+  volumes/manual snapshots; 4 automated backups can't be force-deleted but auto-expire
+  ~2026-08-01 at no charge) → DNS cleanup (confirmed **no A records** remain — the
+  `sitemap-*` record was already gone; **added DMARC** `_dmarc` TXT
+  `v=DMARC1; p=quarantine; rua=mailto:zb2252@columbia.edu`) → rewrote claude.md,
+  `disability-wiki-edit` skill, and `docs/INCIDENT_RESPONSE.md` (droplet rollback path
+  retired) for the merge-to-main reality; CHANGELOG + memory updated
 
 ## Phase 0 findings (2026-06-11)
 
@@ -65,11 +69,11 @@ retires the droplet (~$150+/yr).
 ## Post-cutover notes (2026-06-12 →)
 
 - The Wiki.js sync/sweep cautions are obsolete: the public site no longer reads
-  from Wiki.js. The droplet still pulls `main` into its local clone until it is
-  destroyed — harmless and unreachable publicly.
+  from Wiki.js. The droplet was destroyed 2026-07-10 (Phase 5).
 - Do not restructure content paths: URL preservation is the SEO and
   link-integrity guarantee (`/en/*` 301s + generated alias redirects cover the
   legacy URL space).
-- Open items until Phase 5: ~~delete stale `sitemap-*` DNS-only A record~~ (done
-  2026-06-12); add DMARC (`_dmarc` TXT, `v=DMARC1; p=quarantine;
-  rua=mailto:<owner>`); PR #23 (substance-use page) awaiting content review.
+- Open items until Phase 5 (all resolved): ~~delete stale `sitemap-*` DNS-only A
+  record~~ (done 2026-06-12); ~~add DMARC~~ (done 2026-07-10, `_dmarc` TXT
+  `v=DMARC1; p=quarantine; rua=mailto:zb2252@columbia.edu`); PR #23 (substance-use
+  page) was awaiting content review — track separately.

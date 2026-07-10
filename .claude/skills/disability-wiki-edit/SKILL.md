@@ -1,213 +1,125 @@
 ---
 name: disability-wiki-edit
 description: >-
-  Read, edit, create, unpublish, or publish pages on the disability-wiki Wiki.js
-  site (disabilitywiki.org). Use this whenever the user wants to change live wiki
-  content — fix a page, bulk-edit, create, move, unpublish, or delete a page, run
-  the GraphQL API, or push changes live. Also when a force-sync fails/conflicts and
-  the server git needs recovery. Covers the Wiki.js API recipes, the pull-mode
-  edit→commit→sync workflow, the WAF/User-Agent gotcha, the full-field update
-  mutation, the never-`git rm`-in-pull-mode rule, SSH sync recovery, Cloudflare-cache
-  verification, token handling, and per-page backups. Trigger even if the user
-  doesn't say "Wiki.js" — any "fix/edit/update/publish the wiki" request in this
+  Read, edit, create, delete, or publish pages on the disability-wiki
+  (disabilitywiki.org). Use this whenever the user wants to change live wiki
+  content — fix a page, bulk-edit, create, move/rename, or delete a page, or push
+  changes live. The site is a static Astro Starlight build on Cloudflare Pages;
+  publishing = merge to main. Covers the edit→commit→PR→merge workflow, how content
+  maps to URLs, deleting a page and adding a redirect, local build verification,
+  link/es-sync checks, and the Cloudflare-cache gotcha. Trigger even if the user
+  doesn't name the platform — any "fix/edit/update/publish the wiki" request in this
   repo applies.
 ---
 
 # Disability-Wiki Editing (Operations)
 
-> **⚠️ LEGACY (cutover 2026-06-12):** the live site is now the **static Starlight site** on Cloudflare Pages — to publish, edit the markdown, merge to `main`, done (verify at https://disabilitywiki.org after the ~2-min build; preview deploys exist for PR branches). Build locally with `cd site && npm run build`. **Everything below (GraphQL API, force-sync, publish_page.py, SSH recovery) applies only to the legacy Wiki.js droplet**, kept as rollback until decommission.
+How to change content on **disabilitywiki.org**. The site is a **static
+[Astro Starlight](https://starlight.astro.build/) build on Cloudflare Pages**
+(project `disability-wiki`, root dir `site/`). The repo at `~/projects/disability-wiki`
+**is** the site: content markdown lives in the repo-root category dirs and is
+symlinked into `site/src/content/docs/`, so the file you edit is the file that ships.
 
-How to change content on **disabilitywiki.org** (Wiki.js 2.5.x). The repo at
-`~/projects/disability-wiki` mirrors the wiki; markdown files map to page paths
-(`benefits/us/ssi.md` → `/en/benefits/us/ssi`).
+> **Legacy note:** the site ran on Wiki.js (GraphQL API, git pull-mode sync, SSH
+> force-sync recovery, the non-content sweep, the never-`git rm` rule) until the
+> **2026-06-12 cutover**; the droplet was **decommissioned 2026-07-10**. None of the
+> Wiki.js API/sync machinery applies anymore. The old droplet's final archive is at
+> `backups/final-droplet-archive/` (local, git-ignored). See project memory
+> [[wikijs-ops-gotchas]] (historical) and `docs/migration/MIGRATION_PLAN.md`.
 
-## The golden rule: the site is in PULL mode
+## The golden rule: publishing = merge to `main`
 
-Wiki.js Git storage is configured **pull**: the markdown in `main` is the source
-of truth. Wiki.js pulls `main` every 5 minutes and imports changes. So the normal
-way to edit is:
+There is no API and no publish step. To change what's live:
 
-1. Edit the `.md` file in the repo (keep its frontmatter intact).
-2. `git add` + commit + `git push origin main` (or via a branch + PR, then merge).
-3. **Force-sync** to publish immediately instead of waiting ~5 min (see below).
+1. Edit / add / remove the `.md` file(s) in the repo (keep frontmatter intact).
+2. Commit on a branch, open a PR, let **CI** pass, then **merge to `main`**.
+   (Small doc fixes can go straight to `main` if that's the user's preference, but a
+   branch + PR gets the CI gate and a preview deploy.)
+3. Cloudflare Pages rebuilds and redeploys `main` automatically (~2 min). Verify at
+   https://disabilitywiki.org (mind the cache gotcha below). Each PR also gets a
+   **preview deploy** you can check before merging.
 
-> Do NOT rely on editing only via the API — in pull mode an API edit can be
-> overwritten by the next pull from the repo. The repo is canonical. (Historically
-> the site was in *push* mode and Wiki.js force-pushed `main`, clobbering doc
-> commits — if you see that again, the fix is to set Git storage to pull.)
+**Always build locally before merging** — the Pages build runs the same command, so
+a local failure is a guaranteed deploy failure:
 
-## The GraphQL API (for reads, force-sync, and quick targeted edits)
-
-Endpoint: `POST https://disabilitywiki.org/graphql`
-Auth: `Authorization: Bearer $WIKIJS_TOKEN`
-
-**Token handling (security):** the token is a long-lived, full-content credential.
-Keep it in an env var or a temp file (e.g. `/tmp/wjs.txt`) and **never commit it**
-(the project's SECURITY.md is explicit about this). Ask the user for the current
-token; it may be rotated. Delete the temp copy when done.
-
-**⚠️ WAF gotcha:** the site's WAF/Cloudflare blocks default script/`curl`/urllib
-User-Agents with **HTTP 403**. Always send a normal browser User-Agent header, e.g.
-`Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/124.0 Safari/537.36`.
-
-### List pages (path ↔ id)
-```graphql
-{ pages { list(orderBy: PATH) { id path title isPublished locale } } }
-```
-
-### Read one page
-```graphql
-query($id:Int!){ pages { single(id:$id){
-  path title description content editor isPublished isPrivate locale
-  tags{tag} scriptCss scriptJs createdAt updatedAt } } }
-```
-
-### Update a page — ⚠️ must resend ALL fields or they get cleared
-```graphql
-mutation($id:Int!,$content:String!,$description:String!,$editor:String!,
-  $isPublished:Boolean!,$isPrivate:Boolean!,$locale:String!,$path:String!,
-  $tags:[String]!,$title:String!,$scriptCss:String,$scriptJs:String){
-  pages{ update(id:$id,content:$content,description:$description,editor:$editor,
-    isPublished:$isPublished,isPrivate:$isPrivate,locale:$locale,path:$path,
-    tags:$tags,title:$title,scriptCss:$scriptCss,scriptJs:$scriptJs){
-    responseResult{ succeeded errorCode message } }}}
-```
-Fetch the page first, then re-send every field with only `content` (or `isPublished`,
-etc.) changed. Omitting `description`/`tags`/`editor` blanks them.
-
-### Unpublish (e.g. accidentally-public internal pages)
-Same `update` mutation with `isPublished: false`.
-
-### Move/rename a page
-```graphql
-mutation($id:Int!,$path:String!,$locale:String!){
-  pages{ move(id:$id,destinationPath:$path,destinationLocale:$locale){
-    responseResult{ succeeded message } }}}
-```
-Moving leaves the old path 404 — check for inbound links first.
-
-### Delete a page — ⚠️ use the API, NEVER `git rm` in pull mode
-```graphql
-mutation($id:Int!){ pages { delete(id:$id){ responseResult{ succeeded errorCode message } } } }
-```
-**Do NOT remove a live page by deleting its `.md` and pushing.** In pull mode Wiki.js
-re-writes and *locally commits* each page's `.md` on every API edit ("Administrator"
-commits). A `git rm` on GitHub then collides with those local modify commits →
-**modify/delete rebase conflict** that wedges the server's clone and breaks the whole
-sync pipeline (see recovery below). To remove a page:
-- **Unpublish** (hide, reversible): the `update` mutation with `isPublished:false`. A
-  *modify*, so its write-back rebases cleanly — always safe.
-- **Delete** (purge from DB): `pages.delete(id)` — removes the DB row *first*, then
-  `git rm`s the local file. If the file is already gone it returns a scary
-  `fatal: pathspec … did not match` — **harmless; the DB row is already deleted.**
-  Confirm with `pages{list}`.
-- Frontmatter `published:false` in the repo does **NOT** propagate to the DB on pull
-  (observed). Publish-state lives in the DB; change it via API.
-- The whole repo syncs to the wiki, so non-content paths (`.claude/`, `docs/`,
-  root `AUDIT_*`/`README`, `archetypes/`) get imported as **published** pages —
-  Wiki.js v2 has **no import-exclude** (only `.git` is skipped; `.gitignore` is
-  honored only on commit, not import; frontmatter `published:false` is ignored on
-  import; dot-dirs import with the dot stripped). Only `.md`/`.html` leak (not
-  `.py`/`.sh`/`.yml`), and they re-publish whenever the file changes. There's no way
-  to prevent this at the storage layer, so run the sweep guard after touching any
-  non-content `.md`:
-  ```
-  python3 scripts/sweep_noncontent_pages.py           # report leaked pages
-  python3 scripts/sweep_noncontent_pages.py --apply    # unpublish them
-  ```
-
-### Force a Git pull (publish repo changes immediately)
-```graphql
-mutation { storage { executeAction(targetKey:"git", handler:"sync"){
-  responseResult{ succeeded message } }}}
-```
-Run this right after `git push origin main` to publish in seconds. (Storage target
-key is `git`; available actions are `sync` = Force Sync, `syncUntracked`, `importAll`.)
-
-> ⚠️ **Force-sync does NOT reliably import file changes into the DB** (observed
-> repeatedly 2026-06-09, both pull and sync modes). It pulls the commits — the
-> `.md` files on the server are correct — but the DB can keep the **old** content
-> for *modified* files and **never create** *new* files. The live page then 404s
-> (new) or shows stale content (modified). **So after any merge/push, verify via
-> the API** (`pages{single(id){content}}` or `pages{list}`), not just a `curl`.
-> If the DB didn't pick it up, push the on-disk content in with the helper —
-> it derives locale+path from the file, then `pages.create` (new) or
-> `pages.update` (existing), resending all fields:
-> ```
-> python3 scripts/publish_page.py --dry-run media/foo.md es/media/foo.md   # preview
-> python3 scripts/publish_page.py media/foo.md es/media/foo.md             # publish
-> ```
-> Do **NOT** use `importAll` to force it — that re-imports every file and
-> re-publishes everything you'd unpublished (and the redirect stubs). The helper's
-> per-page `create`/`update` is surgical and safe. Re-run the sweep after if unsure.
-
-If a sync returns `succeeded:false` with a CONFLICT / `unresolved conflict` message,
-the server's clone is wedged mid-rebase (almost always from a `git rm` colliding with
-local write-back commits — see Delete above). The handlers can't fix it; recover over SSH.
-
-### Recover a wedged server-side git sync (needs SSH)
-SSH host alias **`cripchronicle`** → the DigitalOcean droplet (key in `~/.ssh`).
-Containers `wiki_wiki_1` / `wiki_db_1`. The Wiki.js git clone is at
-**`/wiki/wiki/data/repo`** inside the container (storage config `localRepoPath:
-wiki/data/repo`, relative to workdir `/wiki`). Abort the rebase and realign with GitHub:
 ```bash
-ssh cripchronicle 'docker exec wiki_wiki_1 sh -c \
-  "cd /wiki/wiki/data/repo && git rebase --abort 2>/dev/null; \
-   git fetch origin && git reset --hard origin/main"'
+cd site && npm ci && npm run build      # astro build + index-redirect generation
 ```
-The discarded local "Administrator" commits are just Wiki.js write-backs already
-reflected in the DB — nothing is lost. Then force-sync via the API to confirm green.
 
-**⚠️ Cloudflare caches rendered HTML.** After a sync the DB/repo can be correct while
-the live page still shows the old version — and a `?v=` query param does NOT bust
-Cloudflare's cache. **Verify changes via the API** (`pages{single{content}}`), not a
-`curl` of the page; the page catches up on cache-TTL expiry.
+CI (`.github/workflows/ci.yml`) runs this build + `validate_wiki_links.py --strict`
+(blocking, baseline 0 broken links) + `check_accessibility.py` (advisory) on every PR.
+
+## How content maps to URLs
+
+- `benefits/us/ssi.md` → `/benefits/us/ssi` (English is served at the root).
+- `es/benefits/us/ssi.md` → `/es/benefits/us/ssi` (Spanish under `/es/`).
+- `foo/index.md` → `/foo` (a build step generates the index redirect).
+- The **sidebar is autogenerated** from the content directories — never hand-maintain
+  a nav list (Zach's standing preference; see [[static-site-migration]]).
 
 ## Creating a new page
 
-Write a new `.md` at the target path with frontmatter:
+Write a new `.md` at the target path with Starlight-valid frontmatter (quote any
+value containing a colon — the build uses a strict YAML parser, unlike Wiki.js):
+
 ```yaml
 ---
 title: Page Title
 description: One-line meta description.
-published: true
-date: 2026-06-07T00:00:00.000Z
-tags:
-editor: markdown
-dateCreated: 2026-06-07T00:00:00.000Z
 ---
 ```
-Commit to `main` + force-sync. (Scripts can't call `Date.now()` here — hardcode the
-date string.) For house style/structure of the body, use the
-**disability-wiki-page** skill.
 
-## Backups (do this before any bulk/risky edit)
+Commit → PR → merge. For house voice/structure of the body use the
+**disability-wiki-page** skill. If the page has an `es/` counterpart, create it too
+(**spanish-wiki-translation**).
 
-Before editing pages via API, fetch and save each page's full JSON to
-`backups/<batch-name>/` (gitignored). This lets you diff against originals and roll
-back via `pages.update`. Name files by id+path, e.g. `CORR_429_foundations__disability-models.json`.
+## Deleting or moving a page
 
-## Recovering a page missing from the repo
+Unlike the Wiki.js era, **`git rm` is now the correct, safe way to remove a page** —
+there is no DB and no pull-mode write-back to collide with.
 
-If a page exists in the Wiki.js DB but not as a repo file (e.g. a stub points to a
-canonical page that isn't in `main`), export it from the DB: read it via the API,
-rebuild the frontmatter + content, and write the `.md`. Then commit so repo and DB match.
+- **Delete**: `git rm path/to/page.md` (and its `es/` counterpart). If the URL had
+  inbound links or external traffic, add a redirect in `site/public/_redirects` so it
+  doesn't 404. Grep for internal links to the old path first and repoint them.
+- **Move/rename**: `git mv` the file(s), repoint inbound internal links, and add a
+  `301` in `site/public/_redirects` from the old URL to the new one.
+- **"Unpublish" (hide without deleting)**: set `draft: true` in the page frontmatter —
+  Starlight excludes drafts from the build (pages + sidebar). This is the reversible
+  option when you want the file kept but off the live site.
 
-## Multilingual
+## Editing existing content
 
-Spanish pages live under `es/` (e.g. `es/benefits/us/ssi.md`). **When you fix an
-English page, its `es/` counterpart goes stale** — flag it or use the
-**spanish-wiki-translation** skill to re-sync. Crisis-page `es/` versions are
-life-safety priority.
+Just edit the `.md`. Preserve frontmatter. Common checks before merging:
+
+- **Internal links resolve** — run `python3 scripts/validate_wiki_links.py` (CI runs
+  `--strict`). See the **wiki-link-hygiene** skill for triage.
+- **Spanish stays in sync** — when you fix an English page, its `es/` counterpart goes
+  stale. Fix both, or flag it; crisis-page `es/` versions are life-safety priority
+  (**spanish-wiki-translation**).
+- **Life-safety content** (crisis numbers, benefits figures, legal deadlines) —
+  verify against primary sources first (**disability-wiki-accuracy**, `docs/CLAIMS.md`).
+
+## Backups / rollback
+
+Git history is the backup — every change is a commit. To roll back a bad merge:
+`git revert -m 1 <merge-sha>` && push (Pages redeploys), or use the Cloudflare Pages
+dashboard **Deployments → Rollback to this deployment** for an instant revert. Full
+incident procedure: `docs/INCIDENT_RESPONSE.md`.
+
+## ⚠️ Cloudflare caches rendered HTML
+
+After a deploy, the built `dist/` and the source on `main` can be correct while the
+edge still serves the **old** page — and a `?v=` query param does **NOT** bust
+Cloudflare's cache. Verify against the built source or the preview deploy, not just a
+`curl` of the public URL. If needed, purge the specific URL in the Cloudflare
+dashboard (Caching → Purge).
 
 ## Quick checklist for any edit
-- [ ] Browser User-Agent on every API call (avoid 403)
-- [ ] Read the page first; preserve frontmatter; resend all fields on update
-- [ ] Backup before bulk edits
-- [ ] Verify internal links resolve (see disability-wiki-page)
-- [ ] Commit to `main` (or branch+PR), then force-sync
-- [ ] To remove a page: API `pages.delete`/unpublish — NEVER `git rm` (wedges the sync)
-- [ ] Touched a non-content `.md` (`.claude/`, `docs/`, root meta)? Run `scripts/sweep_noncontent_pages.py --apply` after syncing
-- [ ] Verify via API (`pages{single{content}}`), not curl — Cloudflare caches the HTML
-- [ ] Token never committed; temp copy deleted after
-- [ ] If you changed an English page, note the `es/` sync need
+
+- [ ] Edit the `.md` (repo root for EN, `es/` for Spanish); preserve frontmatter
+- [ ] Build locally: `cd site && npm run build` (a local fail = a deploy fail)
+- [ ] Internal links resolve (`scripts/validate_wiki_links.py`)
+- [ ] Deleting/moving? `git rm`/`git mv` + repoint links + add redirect in
+      `site/public/_redirects`
+- [ ] English change → note/handle the `es/` sync
+- [ ] Branch + PR → CI green → merge to `main`; verify on the live site (mind the cache)
