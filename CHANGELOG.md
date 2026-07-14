@@ -23,6 +23,14 @@ All notable changes to the Disability Wiki project are documented in this file.
 - **Incident-response runbook** (2026-06-22, `docs/INCIDENT_RESPONSE.md`): severity levels tuned to a life-safety static site (a wrong/dead crisis hotline number is SEV1); documents both rollback paths and that the droplet path (A records → `167.71.97.167`) expires at the 2026-07-10 decommission. Adapted from the `benefits-navigator` runbook.
 - **Canonical claims ledger** (2026-06-22, `docs/CLAIMS.md`): `public-ledger`-style registry of load-bearing facts (crisis numbers, benefits figures, legal deadlines) → primary source + verify date, seeded from the 2026-06 audits and the fact-check error heatmap. Internal, not published.
 
+### Fixed
+- **Offline-page a11y (design review)** (2026-07-14, `site/public/offline.html`):
+  dark-theme "Try again" button was white-on-`#5a9be0` at 2.9:1 contrast (fails
+  WCAG 1.4.3) → dark text on the light accent, 5.2:1; button hit area was 38px →
+  44px (house 44/48 bar); hover affordance added to card links. Found by the
+  `bas-design-review` checklist — contrast verified in both themes, targets
+  measured at 375px viewport.
+
 ### Changed
 - **Shared cross-project lessons wired into `claude.md`** (2026-06-22): `@import` of `~/.claude/shared/LESSONS.md`, and three transferable wiki lessons pushed back to it (Cloudflare edge-cache `?v=` doesn't bust it; auto-deploy needs a CI gate; machine translation reproduces source errors).
 
