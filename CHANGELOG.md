@@ -7,6 +7,22 @@ All notable changes to the Disability Wiki project are documented in this file.
 ## [Unreleased]
 
 ### Added
+- **Joined the Beau Access Solutions platform** (2026-07-14, Phase 1 — governance
+  onboarding only): scoped like Access Atlas — public browsing stays account-free and
+  100% static; identity will gate *contribution* only. Adds
+  [`docs/platform-membership.md`](docs/platform-membership.md) (governance pointer +
+  the five invariants as a local fallback, per BAS ADR-002 §3),
+  [`docs/contribution-model.md`](docs/contribution-model.md) (the chosen community-
+  contribution design: pseudonymous suggest-edit/propose-page → moderation queue →
+  **promotion into markdown**, so the published site never depends on a database — this
+  deliberately preserves the Wiki.js→static migration), and `.github/CODEOWNERS`
+  (invariant #4 — required review on governance, life-safety `crisis/`, `CLAIMS.md`,
+  security headers, and the pre-guarded Phase-2 contribution paths). i18n ownership
+  (invariant #5) is already satisfied by the EN/ES + Spanish-review discipline. The
+  contribution endpoint + Keycloak identity wiring are deferred (Phase 2/3). The
+  platform IdP (Keycloak) is already live, so identity is buildable; the remaining call
+  is hosting/data-controller for submissions (adopt Access Atlas's now-live DO App
+  Platform + Supabase, or use Cloudflare Pages Functions to keep one host).
 - **PWA: installable + offline crisis pages** (2026-07-14): web app manifest with
   crisis-hotline shortcuts (EN + ES), icons generated from the site logo, and a
   build-generated service worker (`site/tools/gen-sw.mjs`). All `crisis/` and

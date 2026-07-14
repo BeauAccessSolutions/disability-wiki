@@ -6,6 +6,11 @@ a knowledge base for disability rights, benefits, and support information.
 - **Live site**: https://disabilitywiki.org
 - **Repository**: https://github.com/Beaudoin0zach/disability-wiki
 - **Platform**: Astro Starlight static site on Cloudflare Pages
+- **BAS member** (as of 2026-07-14): a Beau Access Solutions platform app, scoped like
+  Access Atlas — account-free static browsing; identity gates *contribution* only. See
+  [`docs/platform-membership.md`](docs/platform-membership.md) and the community-
+  contribution design in [`docs/contribution-model.md`](docs/contribution-model.md).
+  Onboarding is Phase 1 (governance) only; the contribution/identity build is deferred.
 
 > **History:** the site ran on **Wiki.js** (DigitalOcean droplet) until the
 > **2026-06-12 cutover** to the static site. The droplet was kept as a rollback and

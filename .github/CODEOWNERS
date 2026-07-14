@@ -1,0 +1,26 @@
+# Code owners — required review on the trust-boundary and life-safety paths.
+# BAS invariant #4 (contribution boundary): sensitive paths get CODEOWNERS +
+# required review + branch protection. Content stays open to contributors.
+#
+# Paths that don't exist yet (contribution endpoint, identity seam) are listed
+# now so the guard is in place the moment they land in Phase 2/3.
+
+# Platform governance + contribution design
+/docs/platform-membership.md   @Beaudoin0zach
+/docs/contribution-model.md    @Beaudoin0zach
+
+# Life-safety / accuracy-critical
+/docs/CLAIMS.md                @Beaudoin0zach
+/crisis/                       @Beaudoin0zach
+/es/crisis/                    @Beaudoin0zach
+
+# Security surface (headers, service worker, CI merge-gate)
+/site/public/_headers          @Beaudoin0zach
+/site/tools/gen-sw.mjs         @Beaudoin0zach
+/.github/workflows/            @Beaudoin0zach
+/.github/CODEOWNERS            @Beaudoin0zach
+
+# Contribution backend (Phase 2 — pre-guarded)
+/site/functions/               @Beaudoin0zach
+/site/src/lib/contributor.*    @Beaudoin0zach
+/site/src/lib/security.*       @Beaudoin0zach
