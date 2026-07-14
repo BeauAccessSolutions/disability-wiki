@@ -39,6 +39,9 @@ backups/
 *.sql.gz
 *.dump
 *.bak
+# ...but schema migrations are source, not dumps
+!site/supabase/migrations/
+!site/supabase/migrations/*.sql
 
 # Python cache
 __pycache__/

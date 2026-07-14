@@ -7,6 +7,18 @@ All notable changes to the Disability Wiki project are documented in this file.
 ## [Unreleased]
 
 ### Added
+- **Contribution store — Supabase** (2026-07-14, Phase 2): `SupabaseContributionStore`
+  behind the existing `ContributionStore` interface — a dependency-free PostgREST insert
+  (plain `fetch`, bundles cleanly in the Pages Function/workerd runtime) using the
+  server-only **service-role** key. `selectStore(env)` uses it when `SUPABASE_URL` +
+  `SUPABASE_SERVICE_ROLE_KEY` are set, else the no-persistence stub. Migration
+  `site/supabase/migrations/0001_wiki_contributions.sql` creates the moderation-queue
+  table with RLS **on**, public roles **revoked**, and explicit **service_role** grants
+  (encodes the RLS≠GRANT lesson) — the queue is server-only and never publicly readable.
+  Endpoint now selects the store and returns 503 on a store failure. 3 store unit tests
+  (request construction, error path, selection) + endpoint e2e re-verified; a TS
+  parameter-property that broke node's `--test` type-stripping was rewritten to explicit
+  fields. Still inert in production until Keycloak (Phase 3) + a real Supabase project.
 - **Contribution seam + write endpoint** (2026-07-14, Phase 2 foundation): the
   fail-closed core of the community-contribution flow, host defaulted to **Cloudflare
   Pages Functions** (keeps the wiki on one platform). `site/src/lib/contribution.ts` —

@@ -11,11 +11,13 @@
 
 import { deriveContributor, isWriteAllowed, validateSubmission } from '../../src/lib/contribution';
 import type { RawSubmission } from '../../src/lib/contribution';
-import { StubContributionStore } from '../../src/lib/contribution-store';
-import type { ContributionStore, QueuedSubmission } from '../../src/lib/contribution-store';
+import { selectStore } from '../../src/lib/contribution-store';
+import type { QueuedSubmission } from '../../src/lib/contribution-store';
 
 interface Env {
   ALLOW_PROVISIONAL_CONTRIBUTIONS?: string;
+  SUPABASE_URL?: string;
+  SUPABASE_SERVICE_ROLE_KEY?: string;
 }
 
 // Placeholder for the Keycloak session check (Phase 3). Returns the pairwise
@@ -71,7 +73,7 @@ async function handlePost(context: { request: Request; env: Env }): Promise<Resp
     return json({ error: 'validation failed', details: result.errors }, 422);
   }
 
-  const store: ContributionStore = new StubContributionStore();
+  const store = selectStore(env);
   const item: QueuedSubmission = {
     id: crypto.randomUUID(),
     contributorId: identity.contributorId,
@@ -81,6 +83,12 @@ async function handlePost(context: { request: Request; env: Env }): Promise<Resp
     createdAt: new Date().toISOString(),
   };
 
-  const { id } = await store.enqueue(item);
-  return json({ status: 'queued', id }, 202);
+  try {
+    const { id } = await store.enqueue(item);
+    return json({ status: 'queued', id }, 202);
+  } catch (err) {
+    // Don't leak store internals to the client; log server-side for triage.
+    console.error('[contribution] enqueue failed:', err instanceof Error ? err.message : err);
+    return json({ error: 'could not queue submission, please try again later' }, 503);
+  }
 }
