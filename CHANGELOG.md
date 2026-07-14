@@ -95,6 +95,14 @@ All notable changes to the Disability Wiki project are documented in this file.
   platform IdP (Keycloak) is already live, so identity is buildable; the remaining call
   is hosting/data-controller for submissions (adopt Access Atlas's now-live DO App
   Platform + Supabase, or use Cloudflare Pages Functions to keep one host).
+- **Capacitor native-app spike** (2026-07-14, `app/`): scaffold for the phase-2
+  iOS/Android wrapper — Capacitor project + config that bundles the existing
+  `site/dist` (`webDir: ../site/dist`), so the app launches offline-first with no
+  second UI codebase. Scaffold only: CLI verified, native `ios/`/`android/` platforms
+  not yet added (needs full Xcode / a JDK). `app/README.md` holds the turnkey build
+  steps and the open questions a first `cap run` must answer (SW-in-WKWebView, `tel:`
+  dialing, 87 MB binary → trim + OTA, App Store §4.2). Not published (only symlinked
+  content reaches the live site).
 - **PWA: installable + offline crisis pages** (2026-07-14): web app manifest with
   crisis-hotline shortcuts (EN + ES), icons generated from the site logo, and a
   build-generated service worker (`site/tools/gen-sw.mjs`). All `crisis/` and
