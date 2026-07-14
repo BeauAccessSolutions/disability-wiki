@@ -55,8 +55,10 @@ build itself.
 - [x] Governance pointer + invariants fallback (this file).
 - [x] Contribution model chosen + specced ([`contribution-model.md`](contribution-model.md)).
 - [x] CODEOWNERS guarding future contribution/security paths (invariant #4) — `.github/CODEOWNERS`.
-- [ ] Contributor-identity **seam** (`contributor.ts` analog) — Phase 2, keyed so Keycloak `sub` drops in.
-- [ ] Contribution **write endpoint** + moderation queue — Phase 2, blocked on the data-entity/hosting call.
+- [x] Contributor-identity **seam** (`site/src/lib/contribution.ts`) — pairwise-`sub` keyed, provisional fallback, fail-closed write gate. Unit-tested.
+- [x] Contribution **write endpoint** (`site/functions/api/contributions.ts`, Cloudflare Pages Function) — validates + gates; verified end-to-end via `wrangler pages dev` (202 authed / 401 prod-fail-closed / 422 / 405). Store behind an interface (`contribution-store.ts`) with a no-persistence stub.
+- [ ] **Moderation store** (real datastore behind the stub) — needs the hosting/data-controller decision below.
+- [ ] **Contribution UI** — zero-JS suggest-edit / propose-page form.
 - [ ] Own **CSP / security headers** (invariant #2) — Phase 2 (the static site's headers live in `site/public/_headers`).
 - [ ] **Layered session + step-up** (invariant #1) + **decoupled delete/export** keyed by pairwise `sub` (invariant #3) — Phase 3 (Keycloak is live; this is the wiring, not a wait).
 

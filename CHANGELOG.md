@@ -7,6 +7,18 @@ All notable changes to the Disability Wiki project are documented in this file.
 ## [Unreleased]
 
 ### Added
+- **Contribution seam + write endpoint** (2026-07-14, Phase 2 foundation): the
+  fail-closed core of the community-contribution flow, host defaulted to **Cloudflare
+  Pages Functions** (keeps the wiki on one platform). `site/src/lib/contribution.ts` —
+  pure, unit-tested validation (suggest-edit / propose-page), pairwise-`sub` identity
+  derivation (never trusts client-supplied identity), and a fail-closed write gate (an
+  unauthenticated write is refused unless `ALLOW_PROVISIONAL_CONTRIBUTIONS=true`, which
+  is local/preview only). `site/functions/api/contributions.ts` is a thin Pages Function
+  over it; `contribution-store.ts` is the datastore seam (no-persistence stub until the
+  hosting/data-controller call). **Verified end-to-end** via `wrangler pages dev`: 202
+  authed, **401 in prod-simulation (no flag)**, 422 validation, 405 wrong-method. No UI
+  yet and the endpoint is inert in production (fail-closed), so the live site is
+  unchanged. Keycloak session wiring is Phase 3 (IdP is already live).
 - **Joined the Beau Access Solutions platform** (2026-07-14, Phase 1 — governance
   onboarding only): scoped like Access Atlas — public browsing stays account-free and
   100% static; identity will gate *contribution* only. Adds
