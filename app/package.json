@@ -1,0 +1,23 @@
+{
+  "name": "disability-wiki-app",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Capacitor native shell (iOS/Android) around the Disability Wiki static build — phase 2 spike.",
+  "scripts": {
+    "// build:web": "build the site first — the app bundles site/dist",
+    "build:web": "npm --prefix ../site run build",
+    "sync": "cap sync",
+    "ios": "cap open ios",
+    "android": "cap open android",
+    "doctor": "cap doctor"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.1.2",
+    "@capacitor/app": "^6.0.2",
+    "@capacitor/core": "^6.1.2",
+    "@capacitor/ios": "^6.1.2"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.1.2"
+  }
+}

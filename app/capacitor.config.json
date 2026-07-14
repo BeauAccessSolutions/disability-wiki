@@ -1,0 +1,17 @@
+{
+  "appId": "org.disabilitywiki.app",
+  "appName": "Disability Wiki",
+  "webDir": "../site/dist",
+  "backgroundColor": "#ffffff",
+  "ios": {
+    "backgroundColor": "#ffffff",
+    "contentInset": "always"
+  },
+  "android": {
+    "backgroundColor": "#ffffff"
+  },
+  "server": {
+    "androidScheme": "https",
+    "iosScheme": "https"
+  }
+}
