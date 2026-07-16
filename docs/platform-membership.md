@@ -58,9 +58,11 @@ build itself.
 - [x] Contributor-identity **seam** (`site/src/lib/contribution.ts`) — pairwise-`sub` keyed, provisional fallback, fail-closed write gate. Unit-tested.
 - [x] Contribution **write endpoint** (`site/functions/api/contributions.ts`, Cloudflare Pages Function) — validates + gates; verified end-to-end via `wrangler pages dev` (202 authed / 401 prod-fail-closed / 422 / 405). Store behind an interface (`contribution-store.ts`) with a no-persistence stub.
 - [x] **Moderation store — Supabase** (`site/src/lib/contribution-store.ts` `SupabaseContributionStore` + `supabase/migrations/0001_wiki_contributions.sql`). Code-complete + unit-tested (PostgREST insert via the service-role key; RLS on, public roles revoked, service_role granted — the RLS≠GRANT lesson). Activates when `SUPABASE_URL` + `SUPABASE_SERVICE_ROLE_KEY` are set; falls back to the stub otherwise. **Still needs:** a real Supabase project + those secrets + the data-controller sign-off before it stores live data.
+- [x] **Keycloak auth core** (`site/src/lib/auth/*`, Phase 3) — server-side **BFF** (mirrors Access Atlas's `auth-bff-decision.md`): OIDC Auth-Code + PKCE (`oidc.ts`), id_token verification via **`jose`** against Keycloak's JWKS (`verify.ts`), and the app's own **revocable session** — httpOnly cookie, only the SHA-256 hash persisted (`session.ts`). `resolve.ts` reads the session → pairwise `sub`, and the write endpoint now calls it (fail-closed: not-configured / no-cookie / no-live-session → refused). Migration `0002_contributor_identity.sql` adds `contributors` + `contributor_sessions` (RLS on, service_role-only). **23 unit tests inc. 6 negative auth cases** (wrong aud/iss, expired, nonce-replay, forged key). Enables when `KEYCLOAK_*` env is set.
+- [ ] **`/auth/login|callback|logout` routes** — the BFF's HTTP endpoints. Deferred with the **Keycloak client registration**, so the full flow can be negative-tested against the live realm before trust (a security flow shouldn't ship un-integration-tested).
 - [ ] **Contribution UI** — zero-JS suggest-edit / propose-page form.
 - [ ] Own **CSP / security headers** (invariant #2) — Phase 2 (the static site's headers live in `site/public/_headers`).
-- [ ] **Layered session + step-up** (invariant #1) + **decoupled delete/export** keyed by pairwise `sub` (invariant #3) — Phase 3 (Keycloak is live; this is the wiring, not a wait).
+- [ ] **Decoupled delete/export** keyed by pairwise `sub` (invariant #3) — the store is already `sub`-keyed across both tables.
 
 ## Open decisions & blockers
 

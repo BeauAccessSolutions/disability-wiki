@@ -7,6 +7,21 @@ All notable changes to the Disability Wiki project are documented in this file.
 ## [Unreleased]
 
 ### Added
+- **Keycloak auth core (BFF)** (2026-07-14, Phase 3): the server-side identity
+  layer for gated contribution, mirroring Access Atlas's BFF (browser only ever
+  holds an httpOnly session cookie — keeps contribute pages zero-JS, keeps the OIDC
+  token server-side, BAS invariant #1). `site/src/lib/auth/`: OIDC Auth-Code+PKCE
+  (`oidc.ts`, WebCrypto), id_token verification via **`jose`** against Keycloak's
+  JWKS (`verify.ts` — never hand-rolled), the app's own **revocable** session
+  (`session.ts` — httpOnly cookie, only the SHA-256 hash stored, so a DB leak can't
+  be replayed), and `resolve.ts` which turns a session cookie into a pairwise `sub`.
+  The write endpoint's `resolveSub` is now wired to it — fail-closed at every step
+  (not-configured / no-cookie / no-live-session → refused). Migration
+  `0002_contributor_identity.sql` adds `contributors` + `contributor_sessions`
+  (RLS on, service_role-only). **23 unit tests, incl. 6 negative auth cases**
+  (wrong audience/issuer, expired, nonce-replay, forged-key). Enables only when
+  `KEYCLOAK_*` env is set. Deferred (needs a registered Keycloak client to
+  integration-test): the `/auth/login|callback|logout` HTTP routes.
 - **Contribution store — Supabase** (2026-07-14, Phase 2): `SupabaseContributionStore`
   behind the existing `ContributionStore` interface — a dependency-free PostgREST insert
   (plain `fetch`, bundles cleanly in the Pages Function/workerd runtime) using the
