@@ -1,0 +1,11 @@
+---
+import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
+---
+<StarlightPage frontmatter={{ title: 'Something went wrong', description: 'Your contribution could not be submitted.' }}>
+  <p>
+    Sorry — your contribution couldn't be submitted. This is usually a temporary
+    problem, or a field that didn't pass validation (a page path must look like
+    <code>/benefits/us/ssi/</code>, and the text needs to be at least a few words).
+  </p>
+  <p><a href="/contribute/">Go back and try again</a> · <a href="/">Back to the wiki</a></p>
+</StarlightPage>

@@ -43,15 +43,36 @@ export async function onRequest(context: { request: Request; env: Env }): Promis
 async function handlePost(context: { request: Request; env: Env }): Promise<Response> {
   const { request, env } = context;
 
-  if (!request.headers.get('content-type')?.includes('application/json')) {
-    return json({ error: 'expected application/json' }, 415);
-  }
+  // Two callers: the zero-JS contribution form (native form POST → we answer with
+  // 303 redirects to static outcome pages) and JSON API clients (→ JSON responses).
+  const ct = request.headers.get('content-type') || '';
+  const isForm = ct.includes('application/x-www-form-urlencoded') || ct.includes('multipart/form-data');
+  const seeOther = (path: string) =>
+    new Response(null, { status: 303, headers: { location: path, 'cache-control': 'no-store' } });
 
   let raw: RawSubmission;
-  try {
-    raw = (await request.json()) as RawSubmission;
-  } catch {
-    return json({ error: 'invalid JSON body' }, 400);
+  if (ct.includes('application/json')) {
+    try {
+      raw = (await request.json()) as RawSubmission;
+    } catch {
+      return json({ error: 'invalid JSON body' }, 400);
+    }
+  } else if (isForm) {
+    const fd = await request.formData();
+    const field = (k: string) => {
+      const v = fd.get(k);
+      return typeof v === 'string' ? v : undefined;
+    };
+    raw = {
+      kind: field('kind'),
+      page: field('page'),
+      section: field('section'),
+      title: field('title'),
+      category: field('category'),
+      body: field('body'),
+    };
+  } else {
+    return json({ error: 'unsupported content-type' }, 415);
   }
 
   // Identity is derived server-side — never read from the request body.
@@ -59,12 +80,12 @@ async function handlePost(context: { request: Request; env: Env }): Promise<Resp
 
   // Fail-closed gate BEFORE doing any work with the submission.
   if (!isWriteAllowed(identity, env)) {
-    return json({ error: 'contributions require sign-in' }, 401);
+    return isForm ? seeOther('/contribute/sign-in-required/') : json({ error: 'contributions require sign-in' }, 401);
   }
 
   const result = validateSubmission(raw);
   if (!result.ok || !result.value) {
-    return json({ error: 'validation failed', details: result.errors }, 422);
+    return isForm ? seeOther('/contribute/error/') : json({ error: 'validation failed', details: result.errors }, 422);
   }
 
   const store = selectStore(env);
@@ -79,10 +100,10 @@ async function handlePost(context: { request: Request; env: Env }): Promise<Resp
 
   try {
     const { id } = await store.enqueue(item);
-    return json({ status: 'queued', id }, 202);
+    return isForm ? seeOther('/contribute/thanks/') : json({ status: 'queued', id }, 202);
   } catch (err) {
     // Don't leak store internals to the client; log server-side for triage.
     console.error('[contribution] enqueue failed:', err instanceof Error ? err.message : err);
-    return json({ error: 'could not queue submission, please try again later' }, 503);
+    return isForm ? seeOther('/contribute/error/') : json({ error: 'could not queue submission, please try again later' }, 503);
   }
 }

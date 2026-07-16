@@ -1,0 +1,130 @@
+---
+import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
+import { CONTENT_CATEGORIES } from '../lib/contribution';
+
+// Zero-JS contribution form. Native HTML validation (required / minlength /
+// maxlength / pattern) runs client-side without a line of script; the server
+// re-validates in functions/api/contributions.ts. Native form POST is
+// application/x-www-form-urlencoded, which the endpoint answers with a 303 to a
+// static outcome page (thanks / sign-in-required / error).
+const cap = (s: string) => s.charAt(0).toUpperCase() + s.slice(1);
+---
+
+<StarlightPage frontmatter={{ title: 'Contribute to the wiki', description: 'Suggest an edit or propose a new page. Contributions are pseudonymous and reviewed before publishing.' }}>
+  <p>
+    This wiki is community-built. You can suggest a change to an existing page or
+    propose a new one. Contributions are <strong>pseudonymous</strong> and go to a
+    moderation queue — a person reviews every submission before anything reaches
+    the live site.
+  </p>
+  <p>
+    Contributing requires a quick sign-in (so submissions can be moderated and, if
+    you ask, removed later). Sign-in is rolling out — until it's live you'll be
+    asked to come back.
+  </p>
+
+  <form method="post" action="/api/contributions" class="contribute-form">
+    <input type="hidden" name="kind" value="suggest_edit" />
+    <fieldset>
+      <legend><h2 id="suggest-an-edit">Suggest an edit</h2></legend>
+
+      <label for="se-page">Page to edit</label>
+      <input
+        id="se-page"
+        name="page"
+        type="text"
+        required
+        inputmode="url"
+        placeholder="/benefits/us/ssi/"
+        pattern="/.*"
+        aria-describedby="se-page-hint"
+      />
+      <small id="se-page-hint">The path of the page, e.g. <code>/benefits/us/ssi/</code>.</small>
+
+      <label for="se-section">Section (optional)</label>
+      <input id="se-section" name="section" type="text" maxlength="120" placeholder="Eligibility" />
+
+      <label for="se-body">Your suggestion</label>
+      <textarea id="se-body" name="body" required minlength="10" maxlength="20000" rows="6"
+        placeholder="What should change, and why? Include a source if you have one."></textarea>
+
+      <button type="submit">Submit suggested edit</button>
+    </fieldset>
+  </form>
+
+  <form method="post" action="/api/contributions" class="contribute-form">
+    <input type="hidden" name="kind" value="propose_page" />
+    <fieldset>
+      <legend><h2 id="propose-a-page">Propose a new page</h2></legend>
+
+      <label for="pp-title">Title</label>
+      <input id="pp-title" name="title" type="text" required maxlength="120" placeholder="Autistic burnout" />
+
+      <label for="pp-category">Category</label>
+      <select id="pp-category" name="category" required>
+        <option value="" disabled selected>Choose a category…</option>
+        {CONTENT_CATEGORIES.map((c) => <option value={c}>{cap(c)}</option>)}
+      </select>
+
+      <label for="pp-body">Draft</label>
+      <textarea id="pp-body" name="body" required minlength="10" maxlength="20000" rows="8"
+        placeholder="A first draft — plain language, with sources where you can."></textarea>
+
+      <button type="submit">Submit proposed page</button>
+    </fieldset>
+  </form>
+</StarlightPage>
+
+<style>
+  .contribute-form {
+    margin: 2rem 0;
+  }
+  .contribute-form fieldset {
+    border: 1px solid var(--sl-color-gray-5);
+    border-radius: 0.5rem;
+    padding: 1rem 1.25rem 1.5rem;
+  }
+  .contribute-form legend h2 {
+    margin: 0;
+    padding: 0 0.5rem;
+    font-size: 1.2rem;
+  }
+  .contribute-form label {
+    display: block;
+    margin-top: 1rem;
+    font-weight: 600;
+  }
+  .contribute-form input,
+  .contribute-form select,
+  .contribute-form textarea {
+    display: block;
+    width: 100%;
+    margin-top: 0.35rem;
+    padding: 0.6rem 0.7rem;
+    font-size: 1rem; /* ≥16px: no iOS focus-zoom */
+    border: 1px solid var(--sl-color-gray-5);
+    border-radius: 0.4rem;
+    background: var(--sl-color-black);
+    color: var(--sl-color-white);
+  }
+  .contribute-form small {
+    display: block;
+    margin-top: 0.3rem;
+    color: var(--sl-color-gray-3);
+  }
+  .contribute-form button {
+    margin-top: 1.25rem;
+    min-height: 44px;
+    padding: 0.6rem 1.4rem;
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--sl-color-black);
+    background: var(--sl-color-accent-high);
+    border: none;
+    border-radius: 0.4rem;
+    cursor: pointer;
+  }
+  .contribute-form button:hover {
+    background: var(--sl-color-accent);
+  }
+</style>

@@ -7,6 +7,16 @@ All notable changes to the Disability Wiki project are documented in this file.
 ## [Unreleased]
 
 ### Added
+- **Zero-JS contribution UI** (2026-07-14, Phase 2/3): `src/pages/contribute.astro`
+  (+ `contribute/{thanks,sign-in-required,error}`) — a suggest-edit / propose-page
+  form rendered via `StarlightPage` (full site chrome, theme, a11y). No script:
+  native HTML validation (`required`/`minlength`/`maxlength`) runs client-side, and
+  the endpoint now accepts native `application/x-www-form-urlencoded` posts and
+  answers browsers with a **303** to a static outcome page (JSON clients still get
+  JSON). Category options are single-sourced from the validator's `CONTENT_CATEGORIES`.
+  Verified end-to-end in a browser: fill + submit → Thank-you page; and fail-closed
+  (no auth) → sign-in-required (no data stored). Not linked in nav yet — direct
+  visitors hit a graceful sign-in-required until auth is live.
 - **Keycloak auth core (BFF)** (2026-07-14, Phase 3): the server-side identity
   layer for gated contribution, mirroring Access Atlas's BFF (browser only ever
   holds an httpOnly session cookie — keeps contribute pages zero-JS, keeps the OIDC
