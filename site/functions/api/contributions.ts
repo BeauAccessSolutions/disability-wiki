@@ -13,18 +13,12 @@ import { deriveContributor, isWriteAllowed, validateSubmission } from '../../src
 import type { RawSubmission } from '../../src/lib/contribution';
 import { selectStore } from '../../src/lib/contribution-store';
 import type { QueuedSubmission } from '../../src/lib/contribution-store';
+import { resolveSub } from '../../src/lib/auth/resolve';
+import type { ResolveEnv } from '../../src/lib/auth/resolve';
 
-interface Env {
+type Env = ResolveEnv & {
   ALLOW_PROVISIONAL_CONTRIBUTIONS?: string;
-  SUPABASE_URL?: string;
-  SUPABASE_SERVICE_ROLE_KEY?: string;
-}
-
-// Placeholder for the Keycloak session check (Phase 3). Returns the pairwise
-// `sub` when authenticated; null otherwise. Null today → fail-closed in prod.
-async function resolveSub(_request: Request, _env: Env): Promise<string | null> {
-  return null;
-}
+};
 
 function json(body: unknown, status: number): Response {
   return new Response(JSON.stringify(body), {
