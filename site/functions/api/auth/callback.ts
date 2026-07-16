@@ -1,12 +1,12 @@
-// GET /auth/callback — Keycloak redirects here with ?code&state. Completes the
+// GET /api/auth/callback — Keycloak redirects here with ?code&state. Completes the
 // flow (validate → verify → mint session), sets the httpOnly session cookie, and
 // clears the temp cookies. Any failure → redirect to sign-in-required (never a
 // 500 that leaks internals).
-import { keycloakConfigured, oidcConfig, type OidcEnv } from '../../src/lib/auth/config';
-import { remoteJwks } from '../../src/lib/auth/verify';
-import { selectSessionStore } from '../../src/lib/auth/session-store';
-import { SESSION_COOKIE, SESSION_TTL_MS, parseCookies, serializeCookie } from '../../src/lib/auth/session';
-import { completeLogin, OIDC_STATE, OIDC_NONCE, OIDC_VERIFIER } from '../../src/lib/auth/login-flow';
+import { keycloakConfigured, oidcConfig, type OidcEnv } from '../../../src/lib/auth/config';
+import { remoteJwks } from '../../../src/lib/auth/verify';
+import { selectSessionStore } from '../../../src/lib/auth/session-store';
+import { SESSION_COOKIE, SESSION_TTL_MS, parseCookies, serializeCookie } from '../../../src/lib/auth/session';
+import { completeLogin, OIDC_STATE, OIDC_NONCE, OIDC_VERIFIER } from '../../../src/lib/auth/login-flow';
 
 interface Env extends OidcEnv {
   SUPABASE_URL?: string;
@@ -15,7 +15,7 @@ interface Env extends OidcEnv {
 
 function clearTemp(headers: Headers) {
   for (const name of [OIDC_STATE, OIDC_NONCE, OIDC_VERIFIER]) {
-    headers.append('set-cookie', serializeCookie(name, '', { maxAgeSec: 0, path: '/auth' }));
+    headers.append('set-cookie', serializeCookie(name, '', { maxAgeSec: 0, path: '/api/auth' }));
   }
 }
 

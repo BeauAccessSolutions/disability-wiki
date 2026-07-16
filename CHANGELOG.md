@@ -7,10 +7,18 @@ All notable changes to the Disability Wiki project are documented in this file.
 ## [Unreleased]
 
 ### Added
-- **BFF auth routes** (2026-07-16, Phase 3): `site/functions/auth/{login,callback,logout}.ts`
-  complete the Keycloak BFF — the HTTP endpoints over the tested auth core. Zero-JS:
-  sign-in is a link (`/auth/login` → 302 to Keycloak with PKCE `S256`, stashing
-  state/nonce/verifier in httpOnly `/auth`-scoped cookies), the callback validates
+- **Contribution-backend deploy runbook** (2026-07-16,
+  [`docs/deploy-contribution-backend.md`](docs/deploy-contribution-backend.md)): the
+  copy-paste steps to go live — Supabase project + apply the two migrations, register
+  the Keycloak client (redirect `https://disabilitywiki.org/api/auth/callback`, pairwise
+  `sub`), the exact Cloudflare Pages env vars (service-role key only — the publishable
+  key isn't used), and the go-live negative-test. Secrets go in Pages encrypted env,
+  never git.
+- **BFF auth routes** (2026-07-16, Phase 3): `site/functions/api/auth/{login,callback,logout}.ts`
+  complete the Keycloak BFF — the HTTP endpoints over the tested auth core, at
+  `/api/auth/*` to match the other BAS apps' convention. Zero-JS:
+  sign-in is a link (`/api/auth/login` → 302 to Keycloak with PKCE `S256`, stashing
+  state/nonce/verifier in httpOnly `/api/auth`-scoped cookies), the callback validates
   CSRF state → exchanges the code → verifies the id_token → upserts the contributor
   by pairwise `sub` → mints a revocable session cookie, and sign-out is a form POST
   that revokes + clears. The orchestration lives in `login-flow.ts` (extracted to be
@@ -18,7 +26,7 @@ All notable changes to the Disability Wiki project are documented in this file.
   `KEYCLOAK_*` env is set. **10 new tests (45 total)**: login-flow happy path + CSRF /
   missing-code / missing-verifier / exchange-failure / nonce-mismatch, plus the store
   write-method request construction. Verified via `wrangler pages dev`: unconfigured →
-  404; configured (fake `KEYCLOAK_*`) → `/auth/login` 302 to the real authorize URL +
+  404; configured (fake `KEYCLOAK_*`) → `/api/auth/login` 302 to the real authorize URL +
   temp cookies, and callback with no state cookie → 303 sign-in-required (CSRF
   fail-closed). **Still needs a registered Keycloak client** for the live happy-path
   integration test (real code → token → JWKS verify → session).

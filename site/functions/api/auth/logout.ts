@@ -1,9 +1,9 @@
-// POST /auth/logout — revoke the current session and clear the cookie. Zero-JS:
+// POST /api/auth/logout — revoke the current session and clear the cookie. Zero-JS:
 // sign-out is a plain form POST. Idempotent and best-effort: even if revocation
 // fails, the cookie is cleared so the browser is signed out.
-import { keycloakConfigured, type OidcEnv } from '../../src/lib/auth/config';
-import { selectSessionStore } from '../../src/lib/auth/session-store';
-import { SESSION_COOKIE, clearCookie, hashToken, parseCookies } from '../../src/lib/auth/session';
+import { keycloakConfigured, type OidcEnv } from '../../../src/lib/auth/config';
+import { selectSessionStore } from '../../../src/lib/auth/session-store';
+import { SESSION_COOKIE, clearCookie, hashToken, parseCookies } from '../../../src/lib/auth/session';
 
 interface Env extends OidcEnv {
   SUPABASE_URL?: string;
