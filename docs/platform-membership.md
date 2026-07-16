@@ -7,7 +7,7 @@ local fallback; no committed cross-repo symlinks).
 
 ## Governance home (canonical, by URL)
 
-Governance repo: <https://github.com/Beaudoin0zach/Beau-Access-Solutions>
+Governance repo: <https://github.com/Beaudoin0zach/bas-platform>
 
 - `PLATFORM.md` — shared architecture (standalone Keycloak identity, layered sessions, shared design system).
 - `INVARIANTS.md` — the five platform invariants (mirrored below as a fallback).
