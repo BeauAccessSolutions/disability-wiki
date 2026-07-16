@@ -10,7 +10,7 @@ import type { OidcConfig } from './config.ts';
 import type { SessionStore } from './session-store.ts';
 
 // Short-lived cookies that carry the login attempt's CSRF state, replay nonce,
-// and PKCE verifier from /auth/login to /auth/callback. Scoped to /auth.
+// and PKCE verifier from /api/auth/login to /api/auth/callback. Scoped to /api/auth.
 export const OIDC_STATE = 'dw_oidc_state';
 export const OIDC_NONCE = 'dw_oidc_nonce';
 export const OIDC_VERIFIER = 'dw_oidc_verifier';
