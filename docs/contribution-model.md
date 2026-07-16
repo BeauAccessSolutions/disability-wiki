@@ -67,10 +67,9 @@ approved proposal into a content PR (the existing `disability-wiki-edit` workflo
 
 ## Open decisions before Phase 2 build
 
-1. **Hosting / data-controller** — Access Atlas now runs on **DO App Platform +
-   Supabase** (the portfolio precedent). Decide: adopt that, or use **Cloudflare Pages
-   Functions** to keep one host; plus the data-controller question for community
-   submissions.
+1. **Hosting — decided.** Endpoint = Cloudflare Pages Function; store = **Supabase**
+   (matches Access Atlas). Remaining: a real Supabase project + service-role secret, and
+   the data-controller/legal sign-off for community submissions.
 2. **SSR surface** — the static site has no backend today. The write endpoint needs
    either Cloudflare Pages Functions (stays on Cloudflare) or a small separate service
    (mirrors Access Atlas's Supabase + SSR). Prefer Pages Functions to keep one host.

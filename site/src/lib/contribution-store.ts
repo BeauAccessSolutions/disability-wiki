@@ -36,3 +36,69 @@ export class StubContributionStore implements ContributionStore {
     return { id: item.id };
   }
 }
+
+/**
+ * Supabase-backed store. Inserts into the `wiki_contributions` moderation queue
+ * via PostgREST — dependency-free (plain fetch), so it bundles cleanly in the
+ * Cloudflare Pages Function (workerd) runtime. Uses the **service-role** key,
+ * which is server-only and never reaches the client (BAS invariant #1: the
+ * function is the trust boundary). Schema + RLS/grants: supabase/migrations.
+ */
+export class SupabaseContributionStore implements ContributionStore {
+  private readonly url: string;
+  private readonly serviceRoleKey: string;
+  private readonly fetchImpl: typeof fetch;
+
+  // Explicit field assignment (not TS parameter properties) — the latter is
+  // non-erasable syntax that node's --test type-stripping rejects.
+  constructor(url: string, serviceRoleKey: string, fetchImpl: typeof fetch = fetch) {
+    this.url = url;
+    this.serviceRoleKey = serviceRoleKey;
+    this.fetchImpl = fetchImpl;
+  }
+
+  async enqueue(item: QueuedSubmission): Promise<{ id: string }> {
+    const endpoint = `${this.url.replace(/\/+$/, '')}/rest/v1/wiki_contributions`;
+    const row = {
+      id: item.id,
+      contributor_id: item.contributorId,
+      provisional: item.provisional,
+      kind: item.submission.kind,
+      payload: item.submission,
+      status: item.status,
+      created_at: item.createdAt,
+    };
+    const res = await this.fetchImpl(endpoint, {
+      method: 'POST',
+      headers: {
+        'content-type': 'application/json',
+        apikey: this.serviceRoleKey,
+        authorization: `Bearer ${this.serviceRoleKey}`,
+        prefer: 'return=minimal',
+      },
+      body: JSON.stringify(row),
+    });
+    if (!res.ok) {
+      const detail = await res.text().catch(() => '');
+      throw new Error(`supabase insert failed: ${res.status} ${detail.slice(0, 200)}`);
+    }
+    return { id: item.id };
+  }
+}
+
+export interface StoreEnv {
+  SUPABASE_URL?: string;
+  SUPABASE_SERVICE_ROLE_KEY?: string;
+}
+
+/**
+ * Pick the store from the environment: Supabase when both credentials are
+ * present, else the no-persistence stub. So production (with the secrets set)
+ * persists to the moderation queue, while local/preview without secrets is inert.
+ */
+export function selectStore(env: StoreEnv): ContributionStore {
+  if (env.SUPABASE_URL && env.SUPABASE_SERVICE_ROLE_KEY) {
+    return new SupabaseContributionStore(env.SUPABASE_URL, env.SUPABASE_SERVICE_ROLE_KEY);
+  }
+  return new StubContributionStore();
+}
