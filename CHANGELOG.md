@@ -7,6 +7,13 @@ All notable changes to the Disability Wiki project are documented in this file.
 ## [Unreleased]
 
 ### Added
+- **Contribution-backend deploy runbook** (2026-07-16,
+  [`docs/deploy-contribution-backend.md`](docs/deploy-contribution-backend.md)): the
+  copy-paste steps to go live — Supabase project + apply the two migrations, register
+  the Keycloak client (redirect `https://disabilitywiki.org/api/auth/callback`, pairwise
+  `sub`), the exact Cloudflare Pages env vars (service-role key only — the publishable
+  key isn't used), and the go-live negative-test. Secrets go in Pages encrypted env,
+  never git.
 - **BFF auth routes** (2026-07-16, Phase 3): `site/functions/api/auth/{login,callback,logout}.ts`
   complete the Keycloak BFF — the HTTP endpoints over the tested auth core, at
   `/api/auth/*` to match the other BAS apps' convention. Zero-JS:
