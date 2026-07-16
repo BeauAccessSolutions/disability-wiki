@@ -7,6 +7,21 @@ All notable changes to the Disability Wiki project are documented in this file.
 ## [Unreleased]
 
 ### Added
+- **BFF auth routes** (2026-07-16, Phase 3): `site/functions/auth/{login,callback,logout}.ts`
+  complete the Keycloak BFF — the HTTP endpoints over the tested auth core. Zero-JS:
+  sign-in is a link (`/auth/login` → 302 to Keycloak with PKCE `S256`, stashing
+  state/nonce/verifier in httpOnly `/auth`-scoped cookies), the callback validates
+  CSRF state → exchanges the code → verifies the id_token → upserts the contributor
+  by pairwise `sub` → mints a revocable session cookie, and sign-out is a form POST
+  that revokes + clears. The orchestration lives in `login-flow.ts` (extracted to be
+  unit-testable). Every route is gated behind `keycloakConfigured()` → 404 until
+  `KEYCLOAK_*` env is set. **10 new tests (45 total)**: login-flow happy path + CSRF /
+  missing-code / missing-verifier / exchange-failure / nonce-mismatch, plus the store
+  write-method request construction. Verified via `wrangler pages dev`: unconfigured →
+  404; configured (fake `KEYCLOAK_*`) → `/auth/login` 302 to the real authorize URL +
+  temp cookies, and callback with no state cookie → 303 sign-in-required (CSRF
+  fail-closed). **Still needs a registered Keycloak client** for the live happy-path
+  integration test (real code → token → JWKS verify → session).
 - **Zero-JS contribution UI** (2026-07-14, Phase 2/3): `src/pages/contribute.astro`
   (+ `contribute/{thanks,sign-in-required,error}`) — a suggest-edit / propose-page
   form rendered via `StarlightPage` (full site chrome, theme, a11y). No script:
