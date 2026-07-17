@@ -73,6 +73,9 @@ export async function onRequestGet(context: { request: Request; env: Env }): Pro
     else if (msg.includes('missing id_token')) reason = 'no_id_token';
     else if (/aud|iss|signature|claim|jwt|jwk|exp|verif/i.test(msg)) reason = 'verify';
     else if (/supabase|session|contributor|store|insert|http \d/i.test(msg)) reason = 'store';
+    // TEMP: for an uncategorized error, surface the (non-secret) message text so one
+    // retry pinpoints it. jose/PostgREST error strings carry no token/key material.
+    if (reason === 'other') return failed('other&m=' + encodeURIComponent(msg.slice(0, 200)));
     return failed(reason);
   }
 }
