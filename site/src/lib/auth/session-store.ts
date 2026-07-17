@@ -33,7 +33,9 @@ export class SupabaseSessionStore implements SessionStore {
   private readonly serviceRoleKey: string;
   private readonly fetchImpl: typeof fetch;
 
-  constructor(url: string, serviceRoleKey: string, fetchImpl: typeof fetch = fetch) {
+  // fetchImpl defaults to a wrapper that calls the global `fetch` by identifier — a
+  // bare captured reference throws "Illegal invocation" on the Workers runtime.
+  constructor(url: string, serviceRoleKey: string, fetchImpl: typeof fetch = (input, init) => fetch(input, init)) {
     this.url = url.replace(/\/+$/, '');
     this.serviceRoleKey = serviceRoleKey;
     this.fetchImpl = fetchImpl;

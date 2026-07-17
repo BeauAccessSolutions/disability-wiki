@@ -55,7 +55,10 @@ export async function exchangeCode(
   config: OidcConfig,
   code: string,
   codeVerifier: string,
-  fetchImpl: typeof fetch = fetch
+  // Default to a wrapper that calls the global `fetch` by identifier. A bare
+  // captured reference (`= fetch`, then `fetchImpl(...)`) is a detached call that
+  // loses `this` and throws "Illegal invocation" on the Workers runtime.
+  fetchImpl: typeof fetch = (input, init) => fetch(input, init)
 ): Promise<TokenResponse> {
   const res = await fetchImpl(tokenEndpoint(config), {
     method: 'POST',

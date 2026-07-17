@@ -7,6 +7,19 @@ All notable changes to the Disability Wiki project are documented in this file.
 ## [Unreleased]
 
 ### Fixed
+- **Auth callback crashed on the real Workers runtime — "Illegal invocation"** (2026-07-17,
+  [`site/src/lib/auth/oidc.ts`](site/src/lib/auth/oidc.ts),
+  [`site/src/lib/auth/session-store.ts`](site/src/lib/auth/session-store.ts),
+  [`site/src/lib/contribution-store.ts`](site/src/lib/contribution-store.ts)): a real
+  sign-in reached Keycloak and returned to `/api/auth/callback`, which then failed closed
+  to `/contribute/sign-in-required/`. Root cause: `exchangeCode` and both Supabase stores
+  captured the global `fetch` into a parameter (`fetchImpl: typeof fetch = fetch`) and
+  invoked it as a **detached** reference — which throws `Illegal invocation` on Cloudflare's
+  workerd (a captured built-in loses its `this`). Neither node's `--test` nor local
+  `wrangler pages dev` (miniflare) enforce that check, so the 45 green unit tests and local
+  runs never caught it; it only surfaces on the production edge. Fixed by defaulting
+  `fetchImpl` to a wrapper that calls the global `fetch` **by identifier**. Pinpointed with
+  a temporary `?e=…&m=…` tag on the callback's fail-closed redirect.
 - **Contribution env now actually binds in production** (2026-07-17,
   [`site/wrangler.jsonc`](site/wrangler.jsonc)): `/api/auth/*` returned 404 and
   contributions fail-closed 401 after *every* redeploy because the Pages Functions
