@@ -6,6 +6,20 @@ All notable changes to the Disability Wiki project are documented in this file.
 
 ## [Unreleased]
 
+### Fixed
+- **Contribution env now actually binds in production** (2026-07-17,
+  [`site/wrangler.jsonc`](site/wrangler.jsonc)): `/api/auth/*` returned 404 and
+  contributions fail-closed 401 after *every* redeploy because the Pages Functions
+  never received the `KEYCLOAK_*` / `SUPABASE_URL` vars. Root cause: a `wrangler` config
+  file in the project makes Cloudflare **ignore dashboard-set plaintext variables** — but
+  the vars had only ever been set in the dashboard, so nothing bound. Moved the four
+  non-secret vars into `wrangler.jsonc` `"vars"` (issuer is now the neutral BAS IdP
+  `id.beauaccesssolutions.com`, client `disability-wiki-web`); `SUPABASE_SERVICE_ROLE_KEY`
+  stays a dashboard **Secret** (encrypted secrets still apply in wrangler-managed mode).
+  Verified with `wrangler pages dev`: login **302**s to the BAS authorize URL (PKCE
+  `S256`), callback with no cookie **303**s to sign-in-required, `POST /api/contributions`
+  **401**s. Corrects [`docs/deploy-contribution-backend.md`](docs/deploy-contribution-backend.md) §3.
+
 ### Added
 - **Contribution-backend deploy runbook** (2026-07-16,
   [`docs/deploy-contribution-backend.md`](docs/deploy-contribution-backend.md)): the

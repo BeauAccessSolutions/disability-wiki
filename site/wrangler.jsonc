@@ -6,5 +6,20 @@
     "directory": "./dist",
     "not_found_handling": "404-page",
     "html_handling": "auto-trailing-slash"
+  },
+  // Runtime env for the Pages Functions (the contribution/auth BFF). Because this
+  // wrangler config file exists, Cloudflare IGNORES dashboard-set plaintext vars —
+  // so these are the source of truth (dashboard vars were silently dropped, which is
+  // why /api/auth/* 404'd after every redeploy). Non-secret values only:
+  //   - Keycloak public client on the BAS realm (issuer/client_id/redirect_uri)
+  //   - the Supabase project URL (the anon key isn't used; the queue is server-only)
+  // The SUPABASE_SERVICE_ROLE_KEY is a secret and is NOT here — never commit secrets.
+  // It's set as an encrypted Pages *Secret* in the dashboard, which still applies in
+  // wrangler-managed mode. See docs/deploy-contribution-backend.md.
+  "vars": {
+    "KEYCLOAK_ISSUER": "https://id.beauaccesssolutions.com/realms/bas",
+    "KEYCLOAK_CLIENT_ID": "disability-wiki-web",
+    "KEYCLOAK_REDIRECT_URI": "https://disabilitywiki.org/api/auth/callback",
+    "SUPABASE_URL": "https://wtptitohnlnargboxadq.supabase.co"
   }
 }

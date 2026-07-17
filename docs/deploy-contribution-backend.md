@@ -58,21 +58,41 @@ In the platform Keycloak admin (`id.kindredaccess.org` / the `bas` realm):
 
 ## 3. Cloudflare Pages environment variables
 
-Cloudflare dashboard → Pages → **`disability-wiki`** → Settings → Environment variables
-→ Production (and Preview if you want it live there too). Add:
+> **Gotcha (this bit us):** because the Pages project has a `wrangler` config file
+> (`site/wrangler.jsonc`), Cloudflare **ignores dashboard-set plaintext variables** —
+> only encrypted **Secrets** still apply from the dashboard. So the non-secret vars must
+> live in `wrangler.jsonc`, *not* the dashboard. (Symptom if you get this wrong:
+> `/api/auth/*` 404s after every redeploy because `keycloakConfigured()` never sees the
+> vars.)
 
-| Variable | Value | Secret? |
+**Non-secret vars → `site/wrangler.jsonc`** under `"vars"` (this is the source of truth):
+
+```jsonc
+"vars": {
+  "KEYCLOAK_ISSUER": "https://id.beauaccesssolutions.com/realms/bas",
+  "KEYCLOAK_CLIENT_ID": "disability-wiki-web",
+  "KEYCLOAK_REDIRECT_URI": "https://disabilitywiki.org/api/auth/callback",
+  "SUPABASE_URL": "https://<ref>.supabase.co"
+}
+```
+
+**The one secret → dashboard Secret** (Cloudflare → Pages → **`disability-wiki`** →
+Settings → Variables and secrets → add as an **encrypted Secret**, Production):
+
+| Variable | Value | Where |
 |---|---|---|
-| `KEYCLOAK_ISSUER` | `https://id.kindredaccess.org/realms/bas` | no |
-| `KEYCLOAK_CLIENT_ID` | `disability-wiki` | no |
-| `KEYCLOAK_REDIRECT_URI` | `https://disabilitywiki.org/api/auth/callback` | no |
-| `SUPABASE_URL` | `https://<ref>.supabase.co` | no |
-| `SUPABASE_SERVICE_ROLE_KEY` | the `service_role` secret from step 1 | **yes (encrypt)** |
+| `SUPABASE_SERVICE_ROLE_KEY` | the `service_role` secret (`sb_secret_…`) from step 1 | **dashboard Secret (encrypted)** |
+
+> The issuer is the neutral BAS IdP (`id.beauaccesssolutions.com`); the client is
+> registered as `disability-wiki-web`. Switching issuers is safe for contributor
+> identity — the pairwise `sub` keys off the redirect host (`disabilitywiki.org`),
+> not the issuer.
 
 Do **not** set `ALLOW_PROVISIONAL_CONTRIBUTIONS` in production — that flag is local/preview
 only; its absence is what keeps prod fail-closed until real auth is in place.
 
-Redeploy (any push to `main`, or "Retry deployment") so the new env is picked up.
+Redeploy (any push to `main`, or "Retry deployment") so the new config is picked up —
+`wrangler.jsonc` vars bind at **build time**, so a fresh deploy is required after editing.
 
 ---
 
