@@ -39,6 +39,15 @@ jobs:
         working-directory: site
         run: npm run build
 
+      # BLOCKING: the offline service worker. The build RUNS gen-sw.mjs but
+      # asserts nothing about its output; this executes the generated sw.js and
+      # checks the two production-only failures — non-canonical precache URLs
+      # (Pages 308s them) and caching a redirect-tainted response (browsers
+      # refuse to serve those to a navigation). Both pass local preview.
+      - name: Validate offline service worker
+        working-directory: site
+        run: npm run check:sw
+
       # --- Content validators ------------------------------------------------
       - uses: actions/setup-python@v6
         with:
