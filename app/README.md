@@ -56,10 +56,12 @@ discovered as surprises:
    the SW is a web-only enhancement, not the app's offline mechanism. But the
    network-first *freshness* story (and future OTA content updates) needs its own
    native design; don't assume the web SW carries over.
-2. **Do `tel:` links dial from the WebView?** Crisis-hotline dialing is the headline
-   native feature. Usually works, but may need a navigation allowlist or the
-   `@capacitor/app` URL-open handler — verify on a device, not a simulator (simulators
-   can't place calls).
+2. ~~**Do `tel:` links dial from the WebView?**~~ ✅ **RESOLVED 2026-07-18 from Capacitor
+   source.** `WebViewDelegationHandler.decidePolicyFor` finds no `host` on a `tel:` URL, so
+   it falls through to the "not an application navigation" branch and calls
+   `UIApplication.shared.open(navURL)` — iOS dials. No allowlist or plugin needed. The
+   bundle carries 10 `tel:` links incl. `tel:988`. Worth one real-device confirmation
+   before external release (simulators can't place calls), but this is no longer a risk.
 3. **Binary size.** `site/dist` is ~87 MB (pagefind index + ~540 pages). Acceptable to
    ship, but phase-2 should trim: bundle only crisis + top pages, fetch the rest, and
    move to **OTA content** so life-safety fixes don't wait on App Store review.
