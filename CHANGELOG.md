@@ -34,6 +34,22 @@ All notable changes to the Disability Wiki project are documented in this file.
   **401**s. Corrects [`docs/deploy-contribution-backend.md`](docs/deploy-contribution-backend.md) §3.
 
 ### Added
+- **App announcement banner + install page** (2026-07-18,
+  [`site/src/components/AppBanner.astro`](site/src/components/AppBanner.astro),
+  [`start/app.md`](start/app.md), [`es/start/app.md`](es/start/app.md)): a slim
+  dismissible bar on every page announcing the installable PWA (live today) and the
+  in-progress native iOS app, implemented as a Starlight `Banner` override. Deliberately
+  **not** a modal — this site is used to look up crisis hotline numbers, and an overlay
+  that traps focus or interrupts a screen reader mid-lookup is the wrong trade for an
+  announcement; the bar also uses the low accent surface so it does not compete with
+  crisis content. Dismissal persists in `localStorage` under a versioned key
+  (`ANNOUNCEMENT_ID`, bump to re-show); the flag is set on `<html>` by an inline script
+  *before* the element parses, so a dismissed banner never paints. With JS off the banner
+  shows — the safe direction to fail. Per-page `banner` frontmatter still renders. Dismiss
+  target is 44×44 (WCAG 2.5.5). The new EN/ES pages give per-platform install steps and
+  state plainly that the native app is not available, with **no release date promised**.
+  Verified: contrast AA in both themes (light 10.24/5.83, dark 8.58/10.72), link validator
+  `--strict` 0 broken, no console errors.
 - **Contribution-backend deploy runbook** (2026-07-16,
   [`docs/deploy-contribution-backend.md`](docs/deploy-contribution-backend.md)): the
   copy-paste steps to go live — Supabase project + apply the two migrations, register

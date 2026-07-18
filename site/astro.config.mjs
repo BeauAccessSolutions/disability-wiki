@@ -28,6 +28,9 @@ export default defineConfig({
       logo: { src: './src/assets/logo.png', alt: '' },
       favicon: '/favicon.png',
       customCss: ['./src/styles/custom.css'],
+      // Site-wide announcement bar. The override still renders per-page `banner`
+      // frontmatter, so nothing else changes.
+      components: { Banner: './src/components/AppBanner.astro' },
       head: [
         // PWA: installable + offline (crisis pages precached; see tools/gen-sw.mjs)
         { tag: 'link', attrs: { rel: 'manifest', href: '/manifest.webmanifest' } },

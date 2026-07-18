@@ -1,0 +1,146 @@
+---
+/**
+ * Site-wide announcement banner (Starlight `Banner` override).
+ *
+ * Starlight renders <Banner /> on every page, so overriding it is the one slot that
+ * reaches the whole site. The default component only renders when a page sets `banner`
+ * frontmatter; this one renders the app announcement everywhere, plus the default
+ * frontmatter behaviour so per-page banners keep working.
+ *
+ * Deliberately NOT a modal. This site is used to look up crisis hotline numbers — an
+ * overlay that traps focus or interrupts a screen reader mid-lookup is the wrong trade,
+ * however pretty. A slim dismissible bar says the same thing and never blocks a task.
+ *
+ * Dismissal is remembered in localStorage under a versioned key. Bump ANNOUNCEMENT_ID
+ * to show a new announcement to people who dismissed the previous one.
+ */
+const ANNOUNCEMENT_ID = 'app-2026-07';
+
+const { banner } = Astro.locals.starlightRoute.entry.data;
+const isSpanish = Astro.locals.starlightRoute.locale === 'es';
+
+const t = isSpanish
+	? {
+			text: 'Agrega Disability Wiki a tu pantalla de inicio — funciona sin conexión. Una app nativa está en camino.',
+			link: 'Cómo instalarla',
+			dismiss: 'Descartar este aviso',
+		}
+	: {
+			text: 'Add Disability Wiki to your home screen — it works offline. A native app is on the way.',
+			link: 'How to install',
+			dismiss: 'Dismiss this announcement',
+		};
+
+const href = isSpanish ? '/es/start/app' : '/start/app';
+---
+
+{/* Preserve the default per-page banner behaviour. */}
+{banner && <div class="sl-banner" data-pagefind-ignore set:html={banner.content} />}
+
+{/*
+  Runs before the banner element below is parsed, so an already-dismissed banner never
+  paints — no flash, no layout shift. Setting the flag on <html> rather than hiding the
+  element is the same no-flash pattern Starlight uses for theme. With JS off nothing
+  runs and the banner simply shows, which is the safe direction to fail.
+*/}
+<script is:inline define:vars={{ ANNOUNCEMENT_ID }}>
+	try {
+		if (localStorage.getItem('dw-announcement-dismissed') === ANNOUNCEMENT_ID) {
+			document.documentElement.dataset.dwAnnouncement = 'dismissed';
+		}
+	} catch {
+		/* Private mode or blocked storage: show the banner. It stays dismissible. */
+	}
+</script>
+
+<aside class="dw-banner" data-pagefind-ignore aria-label={t.dismiss.replace(/^Dismiss |^Descartar /, '')}>
+	<p class="dw-banner__text">
+		{t.text} <a href={href}>{t.link}</a>
+	</p>
+	<button class="dw-banner__close" type="button" aria-label={t.dismiss}>
+		<svg aria-hidden="true" viewBox="0 0 16 16" width="16" height="16">
+			<path
+				d="M4 4l8 8M12 4l-8 8"
+				stroke="currentColor"
+				stroke-width="2"
+				stroke-linecap="round"
+				fill="none"
+			/>
+		</svg>
+	</button>
+</aside>
+
+<script is:inline define:vars={{ ANNOUNCEMENT_ID }}>
+	document.querySelector('.dw-banner__close')?.addEventListener('click', () => {
+		document.documentElement.dataset.dwAnnouncement = 'dismissed';
+		try {
+			localStorage.setItem('dw-announcement-dismissed', ANNOUNCEMENT_ID);
+		} catch {
+			/* Not persistable — it still closes for this page view. */
+		}
+	});
+</script>
+
+<style>
+	/* Low-contrast accent surface rather than the loud accent fill Starlight uses for
+	   frontmatter banners — this must not compete with crisis content for attention. */
+	.dw-banner {
+		display: flex;
+		align-items: center;
+		gap: 0.5rem;
+		padding: 0.5rem var(--sl-nav-pad-x);
+		background-color: var(--sl-color-accent-low);
+		color: var(--sl-color-text);
+		border-bottom: 1px solid var(--sl-color-hairline-shade);
+		font-size: var(--sl-text-sm);
+		line-height: var(--sl-line-height-headings);
+	}
+
+	:global([data-dw-announcement='dismissed']) .dw-banner {
+		display: none;
+	}
+
+	.dw-banner__text {
+		flex: 1;
+		margin: 0;
+		text-wrap: pretty;
+	}
+
+	.dw-banner__text a {
+		color: var(--sl-color-text-accent);
+		text-underline-offset: 0.25em;
+	}
+
+	/* 44px hit area per WCAG 2.5.5, matching the offline-page buttons. The icon stays
+	   16px; the padding does the work. */
+	.dw-banner__close {
+		flex-shrink: 0;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		width: 44px;
+		height: 44px;
+		margin: -0.5rem 0;
+		padding: 0;
+		border: 0;
+		border-radius: 0.25rem;
+		background: none;
+		color: var(--sl-color-text);
+		cursor: pointer;
+	}
+
+	.dw-banner__close:hover {
+		background-color: var(--sl-color-gray-6);
+	}
+
+	.dw-banner__close:focus-visible {
+		outline: 2px solid var(--sl-color-text-accent);
+		outline-offset: -2px;
+	}
+
+	@media print {
+		.dw-banner {
+			display: none;
+		}
+	}
+</style>
