@@ -18,6 +18,24 @@ All notable changes to the Disability Wiki project are documented in this file.
   both themes (accent tracks the theme; 5.19:1 against the banner surface in dark).
 
 ### Fixed
+- **Sweden's sterilization figure understated by an order of magnitude** (2026-07-18,
+  [`history/eugenics.md`](history/eugenics.md), [`es/history/eugenics.md`](es/history/eugenics.md),
+  [`docs/CLAIMS.md`](docs/CLAIMS.md)): the page said "Sweden sterilized thousands into the
+  late 1970s." The verified total is **~63,000**, mostly women, under laws running to 1976 —
+  of whom a Swedish government commission found ~21,000 were sterilized by force, ~6,000
+  coerced into "voluntary" procedures, and ~4,000 indeterminate. "Thousands" is off by an
+  order of magnitude on a page about state violence against disabled people. Fixed EN and
+  `es/` together; grepped repo-wide, the phrasing had not propagated. Found while verifying
+  two external research briefs before drafting from them — a five-pass check against primary
+  sources that also caught, and kept out of the wiki, a subminimum-wage claim that had gone
+  stale (the DOL §14(c) phase-out rule was **withdrawn 2025-07-07**, not pending), a Cuban
+  population figure and a $3.40/hour wage figure with no locatable source, and a Russian
+  institutionalization number off by ~20× (it counts all children without parental care, not
+  disabled children specifically). Results recorded in `docs/CLAIMS.md` with an explicit
+  do-not-publish list, plus two standing gotchas: take polio case counts from GPEI Polio This
+  Week rather than WHO Emergency Committee statements, and fetch cited pages rather than
+  trusting search snippets — this pass caught the search layer echoing query language back as
+  false confirmation.
 - **Retired abuse URL 404'd at its canonical (trailing-slash) form** (2026-07-18,
   [`site/public/_redirects`](site/public/_redirects)): the page-merge above added
   `_redirects` rules for the slashless form only. But canonical URLs on this site carry a
@@ -89,6 +107,33 @@ All notable changes to the Disability Wiki project are documented in this file.
   **401**s. Corrects [`docs/deploy-contribution-backend.md`](docs/deploy-contribution-backend.md) §3.
 
 ### Added
+- **Iron lung and political-economy history pages** (2026-07-19,
+  [`history/iron-lung.md`](history/iron-lung.md),
+  [`history/political-economy.md`](history/political-economy.md), plus enrichment of
+  [`history/independent-living-movement.md`](history/independent-living-movement.md),
+  [`history/industrialization.md`](history/industrialization.md), and
+  [`history/institutionalization-and-deinstitutionalization.md`](history/institutionalization-and-deinstitutionalization.md)):
+  drafted from two external research briefs, but **only after** a five-pass verification
+  against primary sources, recorded in [`docs/CLAIMS.md`](docs/CLAIMS.md). House voice
+  required inverting the iron-lung brief's structure: it leads with abandonment and power,
+  the wiki leads with agency, so the page opens with what polio survivors *built* — Gini
+  Laurie's peer newsletter becoming Post-Polio Health International, the 1959 attendant-care
+  campaign that in her words "cleared the path for the independent living movement," Ed
+  Roberts demanding dormitory rather than hospital status, and survivors identifying
+  post-polio syndrome before medicine accepted it. **Five claims were dropped as
+  unsourceable** (the "UK's last iron lung user died 2017" line; a Cuban population figure;
+  an English 1776 relief figure; a §14(c) "$3.40/hour" figure that appears invented; and
+  Medicare Advantage denial rates with no primary source). **Ten more were corrected before
+  publishing**, including a §14(c) phase-out presented as pending when it had been withdrawn
+  2025-07-07, a Russian institutionalization figure off by ~20×, and the Tuskegee polio
+  centre's relationship to the syphilis study, which ran through the *same hospital* rather
+  than merely the same campus. The Soviet "1968 ban on integrated employment" took two
+  passes and split in half: the broad claim is unsupported and contradicted within its own
+  source, the narrow one about institution residents is supported and is what the page
+  states. Gini Laurie had appeared nowhere in the history section despite it already
+  covering Roberts and the Rolling Quads. Verified: 0 broken links across 2,642; build 539
+  pages; the rejected claims appear nowhere in the built output. Note: both pages are
+  English-only, so Spanish readers get the fallback notice until translated.
 - **Spanish emergency-preparedness crisis page** (2026-07-18,
   [`es/crisis/emergency-disaster-preparedness.md`](es/crisis/emergency-disaster-preparedness.md)):
   the last untranslated page in the ES crisis section. Spanish readers were served the

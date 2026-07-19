@@ -94,6 +94,10 @@ Industrial cities grew faster than social support systems. Many governments resp
 
 Disabled people were often placed in these institutions because they were seen as unable to compete in the labor market, considered a burden on families or communities, or feared or misunderstood under new medical and moral frameworks.
 
+England's Poor Law Amendment Act 1834 shows the sorting logic clearly. It restructured relief around the workhouse and the principle of "less eligibility," meaning conditions inside had to be worse than the worst-paid work outside. It sharpened an older classification, inherited from the 1601 Poor Relief Act, dividing paupers into the "impotent poor" who would work but could not, and the able-bodied who could work but would not. In practice very few able-bodied people entered workhouses. Most inmates were aged, infirm, or disabled, and were treated harshly. Sorting people administratively by their capacity to labor is one of the clearest early instances of defining human worth by productivity.
+
+See [The Political Economy of Disability](/history/political-economy) for how this mechanism recurs across later economic systems.
+
 ### Control, Not Care
 
 These institutions segregated disabled people from community life, imposed strict rules, routines, and punishments, turned support into a tool of social control, and created new professional roles (doctors, superintendents, inspectors) who claimed authority over disabled people.

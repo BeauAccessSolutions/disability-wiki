@@ -152,7 +152,7 @@ Incluso después de que se expusieran las atrocidades nazis, muchos países cont
 
 Ejemplos:
 
-- Suecia esterilizó a miles de personas hasta fines de la década de 1970
+- Suecia esterilizó a unas 63,000 personas, en su mayoría mujeres, bajo leyes que estuvieron vigentes hasta 1976 — una comisión del gobierno determinó después que alrededor de 21,000 fueron esterilizadas por la fuerza, unas 6,000 fueron presionadas a aceptar procedimientos "voluntarios" y unos 4,000 casos quedaron sin determinar
 - La ley de esterilización de Japón no se derogó hasta 1996
 - Las escuelas residenciales de Canadá y Estados Unidos combinaron eugenesia y colonialismo
 - Algunos estados de Estados Unidos realizaron esterilizaciones coercitivas hasta la década de 2010
