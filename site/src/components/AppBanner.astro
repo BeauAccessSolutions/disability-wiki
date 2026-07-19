@@ -115,6 +115,10 @@ const href = isSpanish ? '/es/start/app' : '/start/app';
 		padding: 0.5rem var(--sl-nav-pad-x);
 		background-color: var(--sl-color-accent-low);
 		color: var(--sl-color-text);
+		/* Accent rule gives the bar a visual anchor without raising its colour weight —
+		   the low accent surface was easy to scroll straight past. Matches the offline
+		   note on the crisis index pages so the two read as the same kind of aside. */
+		border-inline-start: 3px solid var(--sl-color-accent);
 		border-bottom: 1px solid var(--sl-color-hairline-shade);
 		font-size: var(--sl-text-sm);
 		line-height: var(--sl-line-height-headings);

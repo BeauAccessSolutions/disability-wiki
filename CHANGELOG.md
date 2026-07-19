@@ -6,6 +6,17 @@ All notable changes to the Disability Wiki project are documented in this file.
 
 ## [Unreleased]
 
+### Changed
+- **Accent border on the app banner** (2026-07-18,
+  [`site/src/components/AppBanner.astro`](site/src/components/AppBanner.astro)): the low
+  accent surface alone was easy to scroll past — the repo owner, who knew the banner
+  existed and was looking for it, still missed it on first load. Added a 3px accent rule
+  on the inline-start edge: a visual anchor without raising the bar's colour weight, so it
+  still does not compete with crisis content. Matches the offline note on the crisis index
+  pages so the two read as the same kind of aside. Uses `border-inline-start` rather than
+  `border-left` so it stays on the correct edge if an RTL locale is ever added. Verified in
+  both themes (accent tracks the theme; 5.19:1 against the banner surface in dark).
+
 ### Fixed
 - **Retired abuse URL 404'd at its canonical (trailing-slash) form** (2026-07-18,
   [`site/public/_redirects`](site/public/_redirects)): the page-merge above added
