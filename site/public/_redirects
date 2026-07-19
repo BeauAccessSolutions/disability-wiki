@@ -15,6 +15,10 @@
 /es/start/for-allies /es/foundations/for-allies 301
 /es/start/what-is-disability /es/foundations/what-is-disability 301
 
+# Merged duplicate abuse pages (orphaned resource page → linked hub)
+/crisis/abuse/abuse-resources /crisis/abuse-neglect-exploitation 301
+/es/crisis/abuse/abuse-resources /es/crisis/abuse-neglect-exploitation 301
+
 # Dropped empty section (migration Phase 0 decision)
 /regions / 301
 /regions/* / 301

@@ -7,6 +7,28 @@ All notable changes to the Disability Wiki project are documented in this file.
 ## [Unreleased]
 
 ### Fixed
+- **Abuse hotlines were on a page nobody linked to** (2026-07-18,
+  [`crisis/abuse-neglect-exploitation.md`](crisis/abuse-neglect-exploitation.md),
+  [`es/crisis/abuse-neglect-exploitation.md`](es/crisis/abuse-neglect-exploitation.md),
+  [`site/public/_redirects`](site/public/_redirects)): the abuse section had two parallel
+  pages, and the inbound links pointed at the wrong one. `/crisis/abuse-neglect-exploitation`
+  carried ~25 EN + ~15 ES inbound links — every crisis-hotline page, `crisis/index`,
+  `foundations/welcome` — but contained **zero phone numbers**. The 668-line
+  `/crisis/abuse/abuse-resources` held all 21 hotline numbers and had **zero inbound content
+  links**, reachable only by sidebar browsing. Several inbound links were even labelled
+  "Abuse & Violence Resources" — the orphan's title — while resolving to the page with no
+  numbers. The UK Rape Crisis correction from the 2026-06 audit
+  (0808 802 9999 → **0808 500 2222**) had also landed on the orphan, leaving a verified
+  life-safety number stranded. Merged the orphan's content into the linked hub, keeping the
+  hub's URL so no inbound link changed: hotlines moved to the top, the hub's editorial
+  stance ("police may increase danger") preserved and extended to the immediate-danger
+  block, which had previously advised calling police without qualification. Condensed
+  ~750 lines to ~270 by dropping the expository "types of abuse" material the hub already
+  covered and two duplicate hotline blocks; kept the disability-specific abuse,
+  dependence-on-abuser, and safety-planning sections. Dropped two organisation names that
+  could not be verified to exist rather than carry them forward. All 21 numbers verified
+  present after the merge, EN/ES number sets identical, both orphan URLs 301'd, and the
+  merged page is precached in the offline service worker.
 - **Missing space before the app banner's install link** (2026-07-18,
   [`site/src/components/AppBanner.astro`](site/src/components/AppBanner.astro)): the live
   banner read "A native app is on the way.**How to install**" — the sentence ran straight
