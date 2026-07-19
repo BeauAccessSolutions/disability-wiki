@@ -593,7 +593,7 @@ El **112** funciona en **todos los países de la UE** y en muchos otros para eme
 - Información sobre los servicios de emergencia del 112 en toda Europa
 
 ### Mental Health Europe
-- Sitio web: https://www.mhe-smi.org
+- Sitio web: https://www.mentalhealtheurope.org
 - Defensa y recursos de salud mental en toda Europa
 
 ---

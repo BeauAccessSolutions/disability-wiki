@@ -468,6 +468,18 @@ All notable changes to the Disability Wiki project are documented in this file.
   both themes (accent tracks the theme; 5.19:1 against the banner surface in dark).
 
 ### Fixed
+- **Dead Mental Health Europe link on two crisis pages** (2026-07-19,
+  [`crisis/global-crisis-hotlines.md`](crisis/global-crisis-hotlines.md),
+  [`crisis/crisis-hotlines/europe.md`](crisis/crisis-hotlines/europe.md), and both `es/`
+  twins): the pages linked `mhe-smi.org`, which no longer resolves — zero DNS records,
+  so genuinely dead rather than bot-blocked. Mental Health Europe still exists and moved
+  to `mentalhealtheurope.org`; the destination was confirmed to be the same organization
+  in a real browser (active site, news dated 2026-07-16, the European NGO network for the
+  rights of persons with psychosocial disabilities) rather than inferred from the name.
+  All four occurrences fixed, EN and `es/` together. **Found by the new archive-coverage
+  scan**, and it is the argument for that tooling: the link was dead *and* had no Wayback
+  snapshot, so absent the scan both the resource and any record of what it pointed to
+  would have been lost silently.
 - **Restored two pieces the abuse-page merge dropped** (2026-07-18,
   [`crisis/abuse-neglect-exploitation.md`](crisis/abuse-neglect-exploitation.md),
   [`es/crisis/abuse-neglect-exploitation.md`](es/crisis/abuse-neglect-exploitation.md)):

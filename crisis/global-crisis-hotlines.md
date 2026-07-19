@@ -392,7 +392,7 @@ Reasons services may be harmful:
 - Regional offices cover all continents
 
 ### Mental Health Europe
-- Website: https://www.mhe-smi.org
+- Website: https://www.mentalhealtheurope.org
 - European mental health advocacy and resources
 
 ### Africa Mental Health Foundation
