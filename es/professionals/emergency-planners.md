@@ -1,6 +1,6 @@
 ---
 title: Planificadores de emergencias
-description: Las personas con discapacidad mueren de forma desproporcionada en los desastres.
+description: Las personas con discapacidad y las personas mayores mueren de forma desproporcionada en los desastres — porque los sistemas de emergencia se diseñan sin su participación, no porque estas muertes sean inevitables.
 published: true
 date: 2026-06-05T20:21:33.065Z
 tags: 
@@ -16,7 +16,7 @@ Todas las personas con discapacidad tienen derecho a la protección y la segurid
 
 ## Por qué esto importa
 
-Las personas con discapacidad mueren de forma desproporcionada en los desastres. El huracán Katrina mató a las personas mayores de 60 años a tasas enormemente desproporcionadas respecto de su parte de la población. La COVID-19 devastó a las comunidades de personas con discapacidad mientras las excluía de la toma de decisiones. Los incendios forestales de Los Ángeles de 2025 mataron a personas con condiciones que afectan la movilidad a tasas alarmantes.
+Las personas con discapacidad y las personas mayores mueren de forma desproporcionada en los desastres. La mayoría de quienes murieron en el huracán Katrina tenían más de 60 años. La COVID-19 devastó a las comunidades de personas con discapacidad mientras las excluía de la toma de decisiones. En los incendios forestales de Los Ángeles de 2025, las personas con condiciones que afectan la movilidad estuvieron entre quienes menos pudieron evacuar de forma segura.
 
 Estas muertes no son inevitables. Resultan de sistemas de emergencia diseñados sin la participación de las personas con discapacidad, de comunicaciones inaccesibles, de refugios que no pueden acomodar a las personas con discapacidad y de planes que tratan la discapacidad como una idea tardía.
 

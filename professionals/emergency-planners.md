@@ -1,6 +1,6 @@
 ---
 title: Emergency Planners
-description: Disabled people die disproportionately in disasters. Hurricane Katrina killed those over 60 at rates vastly disproportionate to their share of the population.
+description: Disabled and older people die disproportionately in disasters — because emergency systems are designed without disabled input, not because these deaths are inevitable.
 published: true
 date: 2026-06-05T20:21:33.065Z
 tags: 
@@ -16,7 +16,7 @@ All disabled people have the right to protection and safety in situations of ris
 
 ## Why This Matters
 
-Disabled people die disproportionately in disasters. Hurricane Katrina killed those over 60 at rates vastly disproportionate to their share of the population. COVID-19 devastated disabled communities while excluding them from decision-making. The 2025 LA wildfires killed people with mobility-affecting conditions at alarming rates.
+Disabled and older people die disproportionately in disasters. Most of those who died in Hurricane Katrina were over 60. COVID-19 devastated disabled communities while excluding them from decision-making. In the 2025 LA wildfires, people with mobility-affecting conditions were among those least able to evacuate safely.
 
 These deaths are not inevitable. They result from emergency systems designed without disabled input, inaccessible communications, shelters that can't accommodate disabled people, and plans that treat disability as an afterthought.
 

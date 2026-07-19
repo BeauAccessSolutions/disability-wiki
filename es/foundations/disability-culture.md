@@ -26,7 +26,15 @@ Muchas personas con discapacidad crecen aisladas de otras como ellas, rodeadas d
 
 ### Más que una experiencia médica
 
-La cultura de la discapacidad no tiene que ver con diagnósticos ni síntomas. Tiene que ver con una historia compartida (el movimiento por los derechos de las personas con discapacidad, las personas sobrevivientes de la institucionalización, las y los pioneros de la vida independiente), experiencias comunes (navegar el capacitismo, luchar por el acceso, encontrar comunidad), valores (interdependencia, acceso, orgullo, resistencia), arte y creatividad (artes de la discapacidad, performance, literatura, artes visuales), humor (los chistes que solo entendemos nosotras y nosotros, el humor "crip", la comedia oscura sobre nuestras vidas), lenguaje (palabras que hemos reivindicado, formas de hablar de nuestras experiencias) y comunidad (encontrarnos, apoyarnos, organizarnos juntas y juntos).
+La cultura de la discapacidad no tiene que ver con diagnósticos ni síntomas. Tiene que ver con:
+
+- **Historia compartida** — el movimiento por los derechos de las personas con discapacidad, las personas sobrevivientes de la institucionalización, las y los pioneros de la vida independiente
+- **Experiencias comunes** — navegar el capacitismo, luchar por el acceso, encontrar comunidad
+- **Valores** — interdependencia, acceso, orgullo, resistencia
+- **Arte y creatividad** — artes de la discapacidad, performance, literatura, artes visuales
+- **Humor** — los chistes que solo entendemos nosotras y nosotros, el humor "crip", la comedia oscura sobre nuestras vidas
+- **Lenguaje** — palabras que hemos reivindicado, formas de hablar de nuestras experiencias
+- **Comunidad** — encontrarnos, apoyarnos, organizarnos juntas y juntos
 
 ### No es monolítica
 
@@ -98,7 +106,7 @@ A partir de las décadas de 1960 y 1970, las personas con discapacidad se organi
 
 ### Luchas en curso
 
-La lucha continúa. La desinstitucionalización sigue incompleta: cientos de miles de personas permanecen en residencias geriátricas, instituciones psiquiátricas y otros entornos colectivos en contra de su voluntad. La discriminación en el empleo persiste a tasas alarmantes. El racionamiento de la atención médica amenaza las vidas de las personas con discapacidad. La violencia policial afecta de forma desproporcionada a las personas con discapacidad. El cambio climático es una cuestión de justicia para las personas con discapacidad. Los recortes de austeridad apuntan a las comunidades de discapacidad en todo el mundo.
+La lucha continúa. La desinstitucionalización sigue incompleta: hay personas con discapacidad recluidas en residencias geriátricas, instituciones psiquiátricas y otros entornos colectivos en contra de su voluntad ([las cifras y los argumentos contra las instituciones](/es/housing/group-homes-and-institutions)). La discriminación en el empleo persiste. El racionamiento de la atención médica —por ejemplo, los criterios basados en la discapacidad en el triaje de crisis— sigue poniendo en riesgo las vidas de las personas con discapacidad. La violencia policial recae de forma desproporcionada sobre las personas con discapacidad, un patrón documentado por la Ruderman Family Foundation. El cambio climático es una cuestión de justicia para las personas con discapacidad. Los recortes de austeridad recaen sobre las comunidades de discapacidad.
 
 La organización de la discapacidad sigue resistiendo estas condiciones.
 

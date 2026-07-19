@@ -19,7 +19,16 @@ This page outlines the editorial standards for content in this wiki. Following t
 - This default is English-specific. The Spanish pages correctly use *personas con discapacidad*, which is standard usage in Spanish; do not retrofit them to match the English convention.  
 - Write in **plain, clear language** — assume the reader may be new to the topic.  
 - Use **active voice** and **inclusive pronouns** (“they/them” acceptable) rather than assuming “he/she”.  
-- Avoid inspiration-porn tropes, stereotypes, pity or sensationalism.
+- Avoid inspiration-porn tropes, stereotypes, pity or sensationalism. Words like "shocking," "epidemic," or "staggering" editorialize a figure instead of reporting it — state the number and let it speak.
+
+## Sourcing and Accuracy
+
+The wiki carries information people act on in a crisis. A wrong or unsupported number can do real harm, so accuracy is a house rule, not a nicety.
+
+- **Any sentence that asserts a rate, trend, or magnitude gets a citation, or gets softened.** "Employment discrimination persists at shocking rates" fails on both counts; "Employment discrimination persists" is an honest qualitative claim, and a specific rate is fine *with a source*. If you can't source a number, don't imply one.
+- **Attribute figures to a primary source, decomposed where possible.** Prefer "the Ruderman Family Foundation estimated in 2016 that…" over a bare "studies show." Name who counted, when, and what they counted.
+- **Load-bearing facts belong in the ledger.** Figures a reader would act on — crisis numbers, benefits amounts, legal deadlines, institutional counts — are tracked in `docs/CLAIMS.md` with their source and verification date. Add a row when you introduce one; don't re-litigate a figure the ledger has already settled.
+- **Centralize a statistic on the page that owns it.** Overview pages should link to the page carrying the sourced figure (e.g. institutional population counts live on [Group Homes & Institutions](/housing/group-homes-and-institutions)) rather than restating a number in a dozen places where it can drift.
 
 ## Structure and Formatting
 

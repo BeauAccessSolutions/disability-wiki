@@ -26,7 +26,15 @@ Many disabled people grow up isolated from others like them, surrounded by messa
 
 ### More Than Medical Experience
 
-Disability culture isn't about diagnoses or symptoms. It's about shared history (the disability rights movement, institutionalization survivors, independent living pioneers), common experiences (navigating ableism, fighting for access, finding community), values (interdependence, access, pride, resistance), art and creativity (disability arts, performance, literature, visual art), humor (the jokes only we get, crip humor, dark comedy about our lives), language (words we've reclaimed, ways we talk about our experiences), and community (finding each other, supporting each other, organizing together).
+Disability culture isn't about diagnoses or symptoms. It's about:
+
+- **Shared history** — the disability rights movement, institutionalization survivors, independent living pioneers
+- **Common experiences** — navigating ableism, fighting for access, finding community
+- **Values** — interdependence, access, pride, resistance
+- **Art and creativity** — disability arts, performance, literature, visual art
+- **Humor** — the jokes only we get, crip humor, dark comedy about our lives
+- **Language** — words we've reclaimed, ways we talk about our experiences
+- **Community** — finding each other, supporting each other, organizing together
 
 ### Not Monolithic
 
@@ -98,7 +106,7 @@ Starting in the 1960s and 1970s, disabled people organized:
 
 ### Ongoing Struggles
 
-The fight continues. Deinstitutionalization remains incomplete—hundreds of thousands of people remain in nursing homes, psychiatric institutions, and other congregate settings against their will. Employment discrimination persists at shocking rates. Healthcare rationing threatens disabled lives. Police violence disproportionately affects disabled people. Climate change is a disability justice issue. Austerity cuts target disabled communities globally.
+The fight continues. Deinstitutionalization remains incomplete—disabled people are still confined in nursing homes, psychiatric institutions, and other congregate settings against their will ([the numbers, and the case against institutions](/housing/group-homes-and-institutions)). Employment discrimination persists. Healthcare rationing—such as disability-based criteria in crisis triage—continues to put disabled lives at risk. Police violence falls disproportionately on disabled people, a pattern documented by the Ruderman Family Foundation. Climate change is a disability justice issue. Austerity cuts fall on disabled communities.
 
 Disability organizing continues to resist these conditions.
 

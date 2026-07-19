@@ -17,7 +17,16 @@ Esta página describe las normas editoriales para el contenido de este wiki. Seg
 - Usa **lenguaje centrado en la persona** al referirte a las personas con discapacidad (a menos que la comunidad prefiera el lenguaje de identidad primero; revisa el contexto).  
 - Escribe en **lenguaje sencillo y claro**: supón que la persona lectora puede ser nueva en el tema.  
 - Usa **voz activa** y **pronombres inclusivos** (se acepta "elle/elles") en lugar de dar por sentado "él/ella".  
-- Evita los tropos de "inspiración" (inspiration porn), los estereotipos, la lástima o el sensacionalismo.
+- Evita los tropos de "inspiración" (inspiration porn), los estereotipos, la lástima o el sensacionalismo. Palabras como "escandaloso", "epidemia" o "alarmante" editorializan una cifra en lugar de informarla — expón el número y deja que hable por sí solo.
+
+## Fuentes y exactitud
+
+La wiki contiene información sobre la cual las personas actúan en una crisis. Un número erróneo o sin respaldo puede causar un daño real, así que la exactitud es una regla de la casa, no un lujo.
+
+- **Toda oración que afirme una tasa, tendencia o magnitud lleva una cita, o se atenúa.** "La discriminación en el empleo persiste a tasas escandalosas" falla en ambos sentidos; "La discriminación en el empleo persiste" es una afirmación cualitativa honesta, y una tasa específica está bien *con una fuente*. Si no puedes documentar un número, no lo insinúes.
+- **Atribuye las cifras a una fuente primaria, desglosada cuando sea posible.** Prefiere "la Ruderman Family Foundation estimó en 2016 que…" en lugar de un simple "los estudios muestran". Nombra quién contó, cuándo y qué contó.
+- **Los datos determinantes van en el registro.** Las cifras sobre las que una persona actuaría —números de crisis, montos de prestaciones, plazos legales, conteos institucionales— se registran en `docs/CLAIMS.md` con su fuente y fecha de verificación. Agrega una fila cuando introduzcas una; no vuelvas a litigar una cifra que el registro ya resolvió.
+- **Centraliza una estadística en la página que le corresponde.** Las páginas de resumen deben enlazar a la página que lleva la cifra documentada (por ejemplo, los conteos de población institucional están en [Hogares grupales e instituciones](/es/housing/group-homes-and-institutions)) en lugar de repetir un número en una docena de lugares donde puede desviarse.
 
 ## Estructura y formato
 
