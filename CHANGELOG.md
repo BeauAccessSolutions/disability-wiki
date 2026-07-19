@@ -7,6 +7,19 @@ All notable changes to the Disability Wiki project are documented in this file.
 ## [Unreleased]
 
 ### Fixed
+- **Retired abuse URL 404'd at its canonical (trailing-slash) form** (2026-07-18,
+  [`site/public/_redirects`](site/public/_redirects)): the page-merge above added
+  `_redirects` rules for the slashless form only. But canonical URLs on this site carry a
+  **trailing slash** — production serves `/crisis/abuse/abuse-resources/` with a 200, the
+  sitemap indexes that form, and it is what people bookmarked and search engines hold. That
+  exact URL returned **404** after the merge, so someone reaching for abuse hotlines from a
+  saved link or a search result got nothing. Offline users failed twice: the old URL was in
+  the service-worker precache, and the build both dropped it and 404'd on the network, so
+  there was no fallback. Added both URL forms for both locales, pointed at the
+  trailing-slash target so each is a single-hop 301 rather than a 301 followed by a 308.
+  **Found by runtime verification under `wrangler pages dev`** — `astro preview` does not
+  honour `_redirects` at all, so the original rules could not have been checked against it.
+  Recipe recorded in [`.claude/skills/verify/SKILL.md`](.claude/skills/verify/SKILL.md).
 - **Abuse hotlines were on a page nobody linked to** (2026-07-18,
   [`crisis/abuse-neglect-exploitation.md`](crisis/abuse-neglect-exploitation.md),
   [`es/crisis/abuse-neglect-exploitation.md`](es/crisis/abuse-neglect-exploitation.md),

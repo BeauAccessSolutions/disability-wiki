@@ -79,3 +79,6 @@ node_modules/
 .claude/settings.local.json
 .claude/skill-workspaces/
 description_fix_report.txt
+
+# wrangler local dev state
+.wrangler/

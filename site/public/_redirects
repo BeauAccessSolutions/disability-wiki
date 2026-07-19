@@ -15,9 +15,14 @@
 /es/start/for-allies /es/foundations/for-allies 301
 /es/start/what-is-disability /es/foundations/what-is-disability 301
 
-# Merged duplicate abuse pages (orphaned resource page → linked hub)
-/crisis/abuse/abuse-resources /crisis/abuse-neglect-exploitation 301
-/es/crisis/abuse/abuse-resources /es/crisis/abuse-neglect-exploitation 301
+# Merged duplicate abuse pages (orphaned resource page → linked hub).
+# BOTH URL forms are required. Canonical URLs on this site carry a trailing slash —
+# that is what the sitemap indexes and what people bookmarked — so the slashless rule
+# alone left the real URL 404ing on a page that carries abuse hotline numbers.
+/crisis/abuse/abuse-resources /crisis/abuse-neglect-exploitation/ 301
+/crisis/abuse/abuse-resources/ /crisis/abuse-neglect-exploitation/ 301
+/es/crisis/abuse/abuse-resources /es/crisis/abuse-neglect-exploitation/ 301
+/es/crisis/abuse/abuse-resources/ /es/crisis/abuse-neglect-exploitation/ 301
 
 # Dropped empty section (migration Phase 0 decision)
 /regions / 301
