@@ -125,6 +125,32 @@ All notable changes to the Disability Wiki project are documented in this file.
   **401**s. Corrects [`docs/deploy-contribution-backend.md`](docs/deploy-contribution-backend.md) §3.
 
 ### Added
+- **Pacing and Energy Management page** (2026-07-19,
+  [`daily-living/pacing-and-energy-management.md`](daily-living/pacing-and-energy-management.md)):
+  fills gap #4 on the BUILD FIRST list in `CONTENT_GAPS_2026-06-05.md` — the operational
+  method behind spoon theory, previously only implied in `healthcare/pain-and-fatigue`.
+  The draft already existed untracked in the working tree and was good; it was verified,
+  corrected, and completed rather than rewritten. This is a contested clinical area where
+  wrong advice has a documented record of harming people, so every load-bearing claim was
+  checked against primary sources. **No life-safety errors were found in the draft.** Six
+  refinements, one that matters: the widely circulated heart-rate threshold of "55% of 220
+  minus age" is usually credited to the **Workwell Foundation, which explicitly advises
+  against it** — more than 85% of people with ME/CFS have chronotropic incompetence and
+  cannot reach the age-predicted maximum the formula assumes, so it sets the ceiling too
+  high and pushes people past the limit it is meant to protect. The page now says so and
+  gives Workwell's actual method. Also: NICE NG206 anchored precisely (rec 1.11.14, Oct
+  2021, reaffirmed Jan 2025), noting it says "energy management" not "pacing" and prohibits
+  only *fixed incremental increase*, not movement; the page states which sense of "pacing"
+  it means, since clinical and community usage differ; CDC's split position is named
+  (pacing endorsed publicly, deconditioning caution on the clinician page) rather than
+  implying guidance has uniformly moved, given the most-cited evidence synthesis still
+  favours exercise therapy and its re-review was abandoned in Dec 2024; "not relieved by
+  rest" corrected to attach to fatigue rather than PEM; delay windows attributed rather
+  than stated flatly, so nobody concludes a 60-hour crash was not PEM. All 9 organization
+  URLs fetched and confirmed live — Bateman Horne Center 403'd to curl even with a browser
+  UA and was confirmed in a real browser rather than assumed dead, the same bot-block
+  signature as `post-polio.org`. Body Politic corrected: its Slack peer-support community
+  closed May 2023 but the site remains up as advocacy, so "wound down" was too strong.
 - **Claim-integrity check — a regression guard for rejected facts** (2026-07-19,
   [`scripts/check_claims.py`](scripts/check_claims.py), [`docs/CLAIMS.md`](docs/CLAIMS.md),
   [`.github/workflows/ci.yml`](.github/workflows/ci.yml)): adapted in spirit from the
