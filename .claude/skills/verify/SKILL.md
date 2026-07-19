@@ -9,6 +9,45 @@ The site is a static Astro Starlight build served by Cloudflare Pages. There are
 **two different runtimes**, and picking the wrong one silently skips whole classes
 of behaviour.
 
+## Do not hand-roll `curl | grep` checks — use `scripts/verify_page.py`
+
+Ad-hoc greps produced **three false signals in one session**, and every time the
+page was correct and the check was wrong:
+
+| Wrong conclusion | Why the grep lied |
+|---|---|
+| "legal rights DROPPED" | Keyed on `restraining` / `know your rights`; the content had survived reworded as "protection order", "accessible shelter". A keyword miss got reported as content loss. |
+| "accent border not live" | Polled a hashed CSS URL captured **once**. The deploy renamed the asset, so the poll re-fetched a stale file forever. |
+| "ordering incorrect" | Searched whole-page HTML. Starlight's on-this-page nav repeats every heading, so heading positions came from the nav and the phone number from the body. |
+
+Shared root cause: **grepping raw HTML with boolean pattern-matches** instead of
+scoping to rendered content and comparing sets. Note the direction — all three
+were false *negatives*. A check that lies the other way (passes on a broken
+life-safety page) is the real hazard, so prefer set-difference assertions that
+must be explicitly satisfied over `if X in html`.
+
+```bash
+# ordering, scoped to <main> (strips nav/sidebar/footer + "Section titled" labels)
+python3 scripts/verify_page.py order URL "In immediate danger" "1-800-799-7233" "Warning signs"
+
+# every phone number in these sources still reachable on the page (set difference)
+python3 scripts/verify_page.py kept URL before1.md before2.md
+
+# list numbers found, for diffing EN vs ES
+python3 scripts/verify_page.py numbers URL
+
+# wait for a deploy — re-resolves hashed assets each poll, cache-busts every fetch
+python3 scripts/verify_page.py await-asset URL 'border-inline-start:3px' --timeout 600
+```
+
+All subcommands exit non-zero on failure, so they can gate a script. If you add a
+check, **give it a negative control** — prove it fails when the thing really is
+missing, or you have only shown that it returns zero.
+
+Cloudflare 403s Python's default `urllib` user-agent; the script sends a browser
+UA. That is why a bare `urllib.request.urlopen` against production fails while
+`curl` works.
+
 ## Build
 
 ```bash
@@ -113,4 +152,8 @@ and both inline scripts. `'dw-banner' not in html` should hold for any crisis pa
 
 Cloudflare caches rendered HTML. `cf-cache-status: DYNAMIC` means the response
 came from origin, so a stale-looking page is a build still in flight, not the edge
-cache. `curl` with a plain user-agent works; Python `urllib` gets 403.
+cache — do not go hunting for a cache-purge problem that isn't there.
+
+Deploys land per-merge: two PRs merged seconds apart finish minutes apart, so
+"my change isn't live" often just means the *other* build finished first. Wait on
+the specific artefact with `verify_page.py await-asset` rather than a fixed sleep.

@@ -125,6 +125,23 @@ All notable changes to the Disability Wiki project are documented in this file.
   **401**s. Corrects [`docs/deploy-contribution-backend.md`](docs/deploy-contribution-backend.md) §3.
 
 ### Added
+- **Runtime page verifier** (2026-07-19, [`scripts/verify_page.py`](scripts/verify_page.py),
+  [`.claude/skills/verify/SKILL.md`](.claude/skills/verify/SKILL.md)): ad-hoc
+  `curl | grep` checks produced **three false signals in one session**, and each time the
+  page was correct and the check was wrong — a keyword miss reported as content loss on a
+  life-safety page ("legal rights DROPPED", when the material had survived reworded); a
+  deploy poll that re-fetched a hashed CSS asset captured *once*, so it timed out on a
+  change that had already shipped; and an ordering check that searched whole-page HTML,
+  where Starlight's on-this-page nav repeats every heading. Shared root cause: grepping raw
+  HTML with boolean pattern-matches instead of scoping to rendered content and comparing
+  sets. The script provides `order` (markers in sequence inside `<main>` only), `kept` (set
+  difference of phone numbers between source files and the rendered page — makes a
+  "content was dropped" claim impossible to state without evidence), `numbers` (for diffing
+  EN against ES), and `await-asset` (re-resolves hashed assets each poll, cache-busts every
+  fetch). All exit non-zero on failure. Each subcommand was checked against the case it
+  originally got wrong **and** given a negative control. All three failures were false
+  *negatives*; since the dangerous direction here is a check that passes on a broken crisis
+  page, the skill now prefers set-difference assertions over `if X in html`.
 - **Iron lung and political-economy history pages** (2026-07-19,
   [`history/iron-lung.md`](history/iron-lung.md),
   [`history/political-economy.md`](history/political-economy.md), plus enrichment of
