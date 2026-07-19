@@ -35,6 +35,7 @@ DisabilityWiki exists to centralize disability resources, promote accessibility 
 - [Disability Models](/foundations/disability-models) — Social, medical, human rights, and disability justice frameworks
 - [Language & Terminology](/foundations/language-terminology-identity) — Plain-language guide to disability language
 - [For Allies](/foundations/for-allies) — How to support disabled people respectfully
+- [Glossary](/glossary/index) — Look up any term used across the wiki
 
 ---
 
@@ -230,20 +231,6 @@ We welcome contributors from everywhere.
 - Plain language emphasis
 
 **Full statement:** [Accessibility Statement](/accessibility-statement)
-
----
-
-## Footer
-
-- [Start](/foundations/index)
-- [How to Use This Wiki](/foundations/how-to-use-this-wiki)
-- [Get Involved](/get-involved/index)
-- [Accessibility Statement](/accessibility-statement)
-- [Glossary](/glossary/index)
-
-**"Nothing About Us Without Us."**
-
-*Maintained by: DisabilityWiki Community
 
 ---
 

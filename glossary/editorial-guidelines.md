@@ -14,7 +14,9 @@ This page outlines the editorial standards for content in this wiki. Following t
 
 ## Tone and Voice
 
-- Use **person-centred language** when referring to people with disabilities (unless the community prefers identity-first; check context).  
+- Use **identity-first language** ("disabled people") as the default. This is what the English-language wiki uses throughout, and it reflects the social model: people are disabled *by* barriers, not by their bodies. See [Disability Culture](/foundations/disability-culture) for the reasoning.  
+- Use **person-first language** ("people with disabilities") where a specific community prefers it. Some do — check how the relevant page and the community's own organizations refer to themselves, and follow that rather than applying a blanket rule.  
+- This default is English-specific. The Spanish pages correctly use *personas con discapacidad*, which is standard usage in Spanish; do not retrofit them to match the English convention.  
 - Write in **plain, clear language** — assume the reader may be new to the topic.  
 - Use **active voice** and **inclusive pronouns** (“they/them” acceptable) rather than assuming “he/she”.  
 - Avoid inspiration-porn tropes, stereotypes, pity or sensationalism.
