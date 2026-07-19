@@ -71,6 +71,16 @@ LOAD_BEARING = [
     re.compile(r"\b(?:1-)?\d{3}[-.\s]\d{3}[-.\s]\d{4}\b"),
 ]
 
+# `**Label**: example.org/path` — the resource-list shape that renders dead.
+# Anchored on the bold-label prefix so ordinary prose mentioning a domain, and
+# config blocks listing hostnames, do not trip it.
+BARE_DOMAIN = re.compile(
+    r"\*\*[^*\n]+\*\*:\s*"
+    r"(?P<dom>(?:www\.)?[a-z0-9][a-z0-9-]*(?:\.[a-z0-9-]+)+"
+    r"(?:/[^\s,)*\]]*)?)",
+    re.I,
+)
+
 ARCHIVE_RE = re.compile(r"https?://(?:web\.archive\.org|archive\.(?:is|today|ph))/\S+")
 EXTERNAL_URL_RE = re.compile(r"\]\((https?://[^)\s]+)\)")
 
@@ -243,6 +253,46 @@ def check_unledgered_figures(files, led: Ledger, limit: int) -> list[Finding]:
     return out[:limit]
 
 
+def check_bare_domains(files) -> list[Finding]:
+    """Advisory: external domains written as plain text instead of links.
+
+    Resource lists get written as `**Label**: example.org`. GFM autolinks only
+    `www.`-prefixed and scheme-prefixed URLs, so a bare domain renders as dead
+    text — the reader, and especially a screen reader user, has to transcribe
+    it by hand. These appear in "where to get help" sections, which is the one
+    place a reference page has a job to do.
+
+    validate_wiki_links.py cannot catch this: it checks internal links only.
+
+    Deliberately not blocking. Some bare domains are correct as prose (a TLS
+    certificate's SAN list, a domain named as an example), and some should stay
+    unlinked until someone confirms the destination is still the organization
+    the label claims. Flagging is the useful part; judgement stays human.
+    """
+    out: list[Finding] = []
+    for path in files:
+        try:
+            lines = path.read_text(encoding="utf-8").splitlines()
+        except (OSError, UnicodeDecodeError):
+            continue
+        for i, line in enumerate(lines, 1):
+            for m in BARE_DOMAIN.finditer(line):
+                dom = m.group("dom").rstrip(".,;:")
+                # already inside a markdown link, or autolinked by GFM
+                if f"]({dom}" in line or "](http" in line or dom.startswith("www."):
+                    continue
+                out.append(
+                    Finding(
+                        severity="advisory",
+                        kind="bare-domain",
+                        detail=f"{dom!r} renders as plain text, not a link",
+                        path=str(path.relative_to(REPO_ROOT)),
+                        line=i,
+                    )
+                )
+    return out
+
+
 def check_org_urls(files, timeout: int) -> list[Finding]:
     """Link rot defense. Off by default; needs network."""
     import urllib.error
@@ -305,6 +355,8 @@ def main() -> int:
     ap.add_argument("--only", nargs="*", help="limit to these content dirs")
     ap.add_argument("--max-figures", type=int, default=40,
                     help="cap unledgered-figure findings (0 disables the check)")
+    ap.add_argument("--max-bare-domains", type=int, default=25,
+                    help="cap bare-domain findings (0 disables the check)")
     ap.add_argument("--json", dest="json_out", help="write a JSON report here")
     args = ap.parse_args()
 
@@ -316,6 +368,8 @@ def main() -> int:
     findings += check_staleness(led, dt.date.today())
     if args.max_figures:
         findings += check_unledgered_figures(files, led, args.max_figures)
+    if args.max_bare_domains:
+        findings += check_bare_domains(files)[: args.max_bare_domains]
     if args.check_urls:
         findings += check_org_urls(files, args.timeout)
 
