@@ -109,6 +109,36 @@ own confidence labels understated the problem in several places.
 | OCR personal-ventilator protection | Hospitals "should not re-allocate personal ventilators brought by a patient" | HHS OCR resolutions — TN 2020-06-26, UT 2020-08-20 | 2026-07 | ✅ **Scope: negotiated state resolution language, NOT a nationwide rule** |
 | WPV1 endemic countries | **Afghanistan and Pakistan** only | GPEI, as of 2026-07-15 | 2026-07 | ✅ |
 
+### Machine-readable rejected claims
+
+`scripts/check_claims.py` reads the block below and **fails CI** if a `blocking`
+pattern reappears in published content. This is the regression guard: a verification
+pass that rejects a claim produces knowledge that otherwise dies with the session,
+and the same bad figure ships again next time the source is re-imported.
+
+Format is `tier :: regex :: why`. The delimiter is `::`, not `|`, because the
+patterns use `|` for regex alternation. Use `blocking` for claims that are wrong
+or unsourceable, `advisory` for ones needing attribution rather than removal.
+Keep patterns tight enough not to match legitimate prose.
+
+<!-- REJECTED-CLAIMS:START -->
+```
+blocking :: \$3\.40\s*(?:/|per\s*)?h(?:ou)?r :: invented figure; GAO says most under $3.50, USCCR average $3.34
+blocking :: 447[,.]?600 :: untraceable Cuban disability population; sourced figure is 366,864
+blocking :: 306,000\s+(?:people\s+)?receiv :: unverifiable 1776 English poor-relief count
+blocking :: last iron lung user.{0,40}(?:UK|United Kingdom|Britain) :: no locatable source; likely conflated with the 2017 US count or the UK's 1984 last polio case
+blocking :: (?:86|64)\s*%.{0,40}(?:denial|non-invasive vent) :: AAHomecare trade intake, no denominator or named plan; not an OIG figure
+blocking :: integrated employment.{0,60}forbidden.{0,20}1968 :: over-generalization; Phillips's own source covers only internat residents
+blocking :: 400,000\s*(?:to|–|-)\s*600,000\s+(?:disabled\s+)?children :: counts all children without parental care, not disabled children; off by ~20x
+blocking :: Sweden sterili[sz]ed thousands :: understates by an order of magnitude; verified total ~63,000
+advisory :: 350,000.{0,40}(?:T4|euthanasia) :: top of a 200k-350k spread, not consensus; USHMM says 250,000
+advisory :: there are no invalids in the USSR :: single 1986 émigré memoir, no named official; attribute to Fefelov, never assert
+advisory :: 14\(c\).{0,80}(?:phase[- ]out|proposed rule).{0,40}pending :: rule WITHDRAWN 2025-07-07; check current status before publishing
+blocking :: Suecia esteriliz[óo] a miles :: ES twin of the Sweden understatement; verified total ~63,000
+advisory :: no hay inv[áa]lidos en la URSS :: ES twin; single 1986 émigré memoir, attribute to Fefelov, never assert
+```
+<!-- REJECTED-CLAIMS:END -->
+
 ### ⚠️ Do not publish — no locatable source
 
 | Claim (as asserted in brief) | Finding |

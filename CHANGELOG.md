@@ -125,6 +125,45 @@ All notable changes to the Disability Wiki project are documented in this file.
   **401**s. Corrects [`docs/deploy-contribution-backend.md`](docs/deploy-contribution-backend.md) §3.
 
 ### Added
+- **Claim-integrity check — a regression guard for rejected facts** (2026-07-19,
+  [`scripts/check_claims.py`](scripts/check_claims.py), [`docs/CLAIMS.md`](docs/CLAIMS.md),
+  [`.github/workflows/ci.yml`](.github/workflows/ci.yml)): adapted in spirit from the
+  Langworthywatch fact-check validator, which validates that *verification happened*
+  rather than trying to adjudicate truth. Its per-page Sources section maps to our
+  central `CLAIMS.md` ledger, its archive.org check to org-URL liveness, its claims
+  regex to load-bearing figure detection, and its credibility score to a ledger
+  coverage score. **The addition their domain does not need is the regression guard.**
+  A verification pass that *rejects* a claim produces knowledge that otherwise dies
+  with the session — six months later the same source is re-imported and the same wrong
+  number ships again, and nothing in this repo prevented that. `CLAIMS.md` now carries a
+  machine-readable rejected-claims block (`tier :: regex :: why`; the delimiter is `::`
+  because the patterns use `|` for alternation) and CI **fails** if one reappears. Seeded
+  with 13 rules from the 2026-07-18 verification pass, including the two that were live
+  or nearly live: the Sweden sterilization understatement (both locales) and an invented
+  "$3.40/hour" subminimum-wage figure. Blocking on regressions only; stale ledger rows,
+  unledgered figures, and dead org URLs are advisory. Verified by injecting rejected
+  claims into EN and ES content and confirming exit 1, then exit 0 on a clean tree — the
+  first test reported a false pass because `$?` after a pipe captures the last command in
+  the pipeline rather than python, and a gate that reports while returning 0 is not a
+  gate. Baseline: 537 files, 35 ledger rows, 0 blocking, score 83/100. Archive backups
+  are at 0, the one Langworthywatch idea not yet applied here and the obvious next step.
+- **Runtime page verifier** (2026-07-19, [`scripts/verify_page.py`](scripts/verify_page.py),
+  [`.claude/skills/verify/SKILL.md`](.claude/skills/verify/SKILL.md)): ad-hoc
+  `curl | grep` checks produced **three false signals in one session**, and each time the
+  page was correct and the check was wrong — a keyword miss reported as content loss on a
+  life-safety page ("legal rights DROPPED", when the material had survived reworded); a
+  deploy poll that re-fetched a hashed CSS asset captured *once*, so it timed out on a
+  change that had already shipped; and an ordering check that searched whole-page HTML,
+  where Starlight's on-this-page nav repeats every heading. Shared root cause: grepping raw
+  HTML with boolean pattern-matches instead of scoping to rendered content and comparing
+  sets. The script provides `order` (markers in sequence inside `<main>` only), `kept` (set
+  difference of phone numbers between source files and the rendered page — makes a
+  "content was dropped" claim impossible to state without evidence), `numbers` (for diffing
+  EN against ES), and `await-asset` (re-resolves hashed assets each poll, cache-busts every
+  fetch). All exit non-zero on failure. Each subcommand was checked against the case it
+  originally got wrong **and** given a negative control. All three failures were false
+  *negatives*; since the dangerous direction here is a check that passes on a broken crisis
+  page, the skill now prefers set-difference assertions over `if X in html`.
 - **Iron lung and political-economy history pages** (2026-07-19,
   [`history/iron-lung.md`](history/iron-lung.md),
   [`history/political-economy.md`](history/political-economy.md), plus enrichment of

@@ -66,3 +66,20 @@ jobs:
       - name: Accessibility check (advisory)
         run: python3 scripts/check_accessibility.py --summary
         continue-on-error: true
+
+      # BLOCKING (regressions only): claim integrity. Fails if a claim recorded
+      # as rejected in docs/CLAIMS.md reappears in published content. Verification
+      # knowledge otherwise dies with the session that produced it, and the same
+      # bad figure ships again the next time a source is re-imported — this is the
+      # only check that carries it forward. Unledgered figures and stale ledger
+      # rows are reported but do not block. See scripts/check_claims.py.
+      - name: Claim integrity check
+        run: python3 scripts/check_claims.py --json claim_report.json
+
+      # ADVISORY: external organization URLs. Link rot on a crisis or resource
+      # page is a real harm — an org that has gone dark is worse than no listing.
+      # Network-dependent and inherently flaky (403 usually means bot-blocking,
+      # not death), so it never blocks; read the log.
+      - name: Organization URL liveness (advisory)
+        run: python3 scripts/check_claims.py --check-urls --max-figures 0
+        continue-on-error: true
