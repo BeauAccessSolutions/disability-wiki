@@ -18,6 +18,24 @@ All notable changes to the Disability Wiki project are documented in this file.
   both themes (accent tracks the theme; 5.19:1 against the banner surface in dark).
 
 ### Fixed
+- **Sweden's sterilization figure understated by an order of magnitude** (2026-07-18,
+  [`history/eugenics.md`](history/eugenics.md), [`es/history/eugenics.md`](es/history/eugenics.md),
+  [`docs/CLAIMS.md`](docs/CLAIMS.md)): the page said "Sweden sterilized thousands into the
+  late 1970s." The verified total is **~63,000**, mostly women, under laws running to 1976 —
+  of whom a Swedish government commission found ~21,000 were sterilized by force, ~6,000
+  coerced into "voluntary" procedures, and ~4,000 indeterminate. "Thousands" is off by an
+  order of magnitude on a page about state violence against disabled people. Fixed EN and
+  `es/` together; grepped repo-wide, the phrasing had not propagated. Found while verifying
+  two external research briefs before drafting from them — a five-pass check against primary
+  sources that also caught, and kept out of the wiki, a subminimum-wage claim that had gone
+  stale (the DOL §14(c) phase-out rule was **withdrawn 2025-07-07**, not pending), a Cuban
+  population figure and a $3.40/hour wage figure with no locatable source, and a Russian
+  institutionalization number off by ~20× (it counts all children without parental care, not
+  disabled children specifically). Results recorded in `docs/CLAIMS.md` with an explicit
+  do-not-publish list, plus two standing gotchas: take polio case counts from GPEI Polio This
+  Week rather than WHO Emergency Committee statements, and fetch cited pages rather than
+  trusting search snippets — this pass caught the search layer echoing query language back as
+  false confirmation.
 - **Retired abuse URL 404'd at its canonical (trailing-slash) form** (2026-07-18,
   [`site/public/_redirects`](site/public/_redirects)): the page-merge above added
   `_redirects` rules for the slashless form only. But canonical URLs on this site carry a

@@ -152,7 +152,7 @@ Even after Nazi atrocities were exposed, many countries continued sterilization 
 
 Examples:
 
-- Sweden sterilized thousands into the late 1970s
+- Sweden sterilized roughly 63,000 people, mostly women, under laws that ran until 1976 — a government commission later found about 21,000 were sterilized by force, about 6,000 were coerced into "voluntary" procedures, and about 4,000 cases were indeterminate
 - Japan's sterilization law was not repealed until 1996
 - Canada and US residential schools combined eugenics and colonialism
 - Some US states performed coerced sterilizations into the 2010s
