@@ -7,6 +7,15 @@ All notable changes to the Disability Wiki project are documented in this file.
 ## [Unreleased]
 
 ### Fixed
+- **Missing space before the app banner's install link** (2026-07-18,
+  [`site/src/components/AppBanner.astro`](site/src/components/AppBanner.astro)): the live
+  banner read "A native app is on the way.**How to install**" — the sentence ran straight
+  into the link. The source *had* a literal space (`{t.text} <a href=…>`), but **Astro's
+  compiler drops whitespace between an expression and an adjacent element**, so it never
+  reached the output. That is why it survived review: the source reads correctly and only
+  the rendered HTML shows the defect. Fixed with an explicit `{' '}` expression, which
+  survives compilation and will not regress on reformat; commented at the call site so it
+  is not "tidied" back. Verified in the built output for both locales.
 - **Auth callback crashed on the real Workers runtime — "Illegal invocation"** (2026-07-17,
   [`site/src/lib/auth/oidc.ts`](site/src/lib/auth/oidc.ts),
   [`site/src/lib/auth/session-store.ts`](site/src/lib/auth/session-store.ts),
