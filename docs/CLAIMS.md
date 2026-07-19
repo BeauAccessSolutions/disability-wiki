@@ -135,9 +135,53 @@ own confidence labels understated the problem in several places.
 | Claim | Why |
 |---|---|
 | "There are no invalids in the USSR!" | Every chain ends at Fefelov's 1986 émigré memoir. **No named official, no contemporaneous record.** Retellings disagree on whether the official was asked about hosting or attending. Correct dating is **1980**. Cite Fefelov as disabled-authored origin, Phillips (2009) as scholarly vector. |
-| Soviet 1968 ban on integrated employment | Phillips alone, no primary citation, no corroboration in Soviet decrees. The documented shift is the liquidation of invalid artels **1956–60**. |
+| ~~Soviet 1968 ban on integrated employment~~ | **CONTRADICTED as generally stated — do not publish.** See the dedicated row below. |
 | Degener "human catastrophe" / Langvad "most challenging exercise" | Both from the **Aug 2017** Geneva examination, not the 2016 publication. Langvad's line traces to a single advocacy press release. |
 | South Africa 6-vs-12-month grant differential | One working paper citing one 1992 clinical article. Operative law was **Disability Grants Act 27 of 1968**, so citing Act 36 of 1946 is anachronistic. |
+
+### 🗄️ Resolved: there was no 1968 Soviet ban on integrated employment
+
+Traced to source via a Wayback capture of Phillips (2009). **The claim is an
+over-generalization Phillips makes of her own narrower, sourced statement**, and it
+should not appear on the wiki in the broad form.
+
+- Phillips's supporting passage is about **residents of *internaty*** (residential
+  institutions) losing the right to work outside the institution in 1968, citing
+  Anne White (1999:37) — whose evidence is residents' **correspondence**, not a decree.
+- She **contradicts the broad reading two sentences later**: by 1988 ~30% of disabled
+  people were employed, mostly "group III invalids" in ordinary jobs.
+- **No independent corroboration exists.** No Soviet legal instrument, no Russian-language
+  legal database, no disability-history scholarship, and no activist history asserts it.
+  Claire Shaw's *Deaf in the USSR* (the deepest archival work on Soviet disabled
+  employment) has 11 hits on "1968", none about an employment prohibition, and documents
+  the opposite trajectory: movement *away from* segregated artels *toward* state industry.
+  Rasell/Iarskaia-Smirnova describe employer **hiring quotas**, which a ban would preclude.
+
+**Second pass (full text of Phillips recovered via reader proxy) refines this — separate the two claims:**
+
+- **Narrow claim: SUPPORTED.** White 1999 p. 37 does state internat residents held the
+  right to outside work "until 1968" and lost it. White's rationale is *not* Phillips's
+  "administrative convenience" gloss but that "social security agencies seemingly found
+  it difficult to reconcile the facts that disabled people both worked and received state
+  support." **Cite White's mechanism, not Phillips's gloss.** A corresponding legal artifact
+  exists: RSFSR Ministry of Social Security Order **N 179 of 31 December 1968** on
+  internaty (confirmed via its 1978 successor, Prikaz N 145); the 1978 text provides only
+  for work *inside* the institution. The 1968 text itself is not online.
+- **Broad claim ("integrated employment was even forbidden"): NOT SUPPORTED.** Phillips's
+  own supporting passage covers only internat residents, and she records ~30% of disabled
+  people employed by 1988 in the same paragraph. Do not propagate.
+
+Scale figures from Phillips, worth citing: **~220,000 people in over 4,000 artels** by the
+late 1950s; VIKO appropriated by industrial ministries **1956–1960** and liquidated; a
+statutory **2% employment quota that was not enforced**.
+
+⚠️ **Hallucination caught during this pass.** An intermediate fetch produced a bibliography
+entry reading "White, Anne (1999). *The Russian Devolution: An Amnesty Report on Disability...*
+London: Amnesty International Publications." **No such title exists.** The real source is
+Anne White, *Democratization in Russia under Gorbachev, 1985–91: The Birth of a Voluntary
+Sector* (Macmillan/Springer), confirmed by three matching page-level snippets (pp. 35, 37, 45).
+A plausible-looking fake citation appeared mid-verification — treat auto-generated
+bibliography entries as unverified until the page is fetched.
 
 ### Corrections to the briefs' own framing
 

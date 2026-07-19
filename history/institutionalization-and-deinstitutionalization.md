@@ -110,6 +110,10 @@ Starting in the 1940s, journalists began documenting institutional conditions:
 
 These reports helped shift public opinion against large institutions.
 
+Journalism gets most of the credit, but it is worth being precise about what it did and did not do. Disabled people and families were organizing at Willowbrook before the cameras arrived, and the litigation that actually closed it was theirs. Rivera's reporting ran in two parts, an initial report in January 1972 and an hour-long special that February. The class action produced a consent judgment in 1975 (*NYSARC v. Carey*), and the Civil Rights of Institutionalized Persons Act followed in 1980.
+
+On scale: Willowbrook was built for about 3,000 people and held roughly twice that at its peak, around 6,200 in 1969. Between 1956 and about 1971, researchers there deliberately infected children with hepatitis.
+
 ### Survivor Testimony
 
 Institutional survivors spoke out through:

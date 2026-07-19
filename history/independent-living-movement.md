@@ -46,6 +46,20 @@ Many early IL leaders were disabled students denied basic access to education, h
 
 ---
 
+## Before Berkeley: The Polio Survivor Network
+
+Berkeley did not start from nothing. A peer network built by polio respiratory survivors was already circulating practical knowledge about equipment, attendants, and life outside institutions.
+
+Gini Laurie (1913–1989), sometimes called the grandmother of the independent living movement, co-edited a mimeographed newsletter for polio survivors called the *Toomeyville Jr. Gazette*, written by and for people who used iron lungs and other ventilators. Incorporated in 1960, it grew into what is today Post-Polio Health International and its International Ventilator Users Network.
+
+Laurie led a national letter-writing campaign for attendant-care legislation in 1959. It failed nationally but succeeded in California. In her own account, attendant care "later cleared the path for the independent living movement, for attendant care is the linchpin of independence." She also confronted directly the assumption that ventilator users belonged in nursing homes: "I react violently to the suggestion... They do not need to be buried alive in a nursing home."
+
+The two stories connect concretely. Laurie featured Ed Roberts in the Spring 1965 *Toomeyville Jr. Gazette*, several years before the Berkeley Center for Independent Living existed. She went on to help found the American Coalition of Citizens with Disabilities in 1974.
+
+See [The Iron Lung and the Polio Survivor Movement](/history/iron-lung) for the fuller history.
+
+---
+
 ## The Berkeley Revolution (California, United States)
 
 ### The Rolling Quads
