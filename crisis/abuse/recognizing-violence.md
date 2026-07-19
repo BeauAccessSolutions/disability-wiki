@@ -1010,6 +1010,19 @@ Violence is:
 
 ---
 
+## Where to go next
+
+If you recognized something on this page, you do not have to decide everything at once. Pick the one that matches where you are:
+
+- **You are in immediate danger** — [crisis hotlines by country](/crisis/global-crisis-hotlines). Many take text and chat, not only calls.
+- **You want to name what is happening before doing anything** — [What is abuse?](/crisis/abuse/what-is-it)
+- **You are ready to plan, but not to leave** — [safety planning](/crisis/abuse-neglect-exploitation), including what to do when the person harming you is also the person who provides your care.
+- **You want to report, or need a lawyer** — [know your rights](/rights) and [finding legal aid](/rights/finding-legal-aid).
+
+Reading this page is not a commitment to do any of it. You can come back.
+
+---
+
 ## Contribute to This Page
 
 Have lived experience or expertise that could strengthen this page? We especially welcome perspectives on models not well represented here, including those from the Global South and Indigenous communities.

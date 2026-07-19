@@ -177,6 +177,52 @@ This page covers:
 
 **Sample layout:**
 
+Front of card — what a responder needs in the first ten seconds:
+
+```
+EMERGENCY MEDICAL INFORMATION
+
+NAME:  Jordan Reyes            DOB: 00/00/0000
+CONDITIONS:  Type 1 diabetes, epilepsy
+ALLERGIES:  Penicillin, latex
+
+⚠ DO NOT REMOVE HEARING AIDS
+⚠ I USE AAC — GIVE ME MY DEVICE OR PAPER
+
+EMERGENCY CONTACT
+  Sam Reyes (sister)      000-000-0000
+  Dana Okonkwo (carer)    000-000-0000
+```
+
+Back of card — detail that matters once you are stable:
+
+```
+MEDICATIONS
+  Insulin (sliding scale) — see instructions
+  Levetiracetam 500mg, 2x daily
+
+ACCESSIBILITY
+  Wheelchair user — do not lift without asking
+  Service dog travels with me
+
+BASELINE
+  BP 90/60 is normal for me
+  Frequent falls are expected, not new
+
+DOCTOR:  Dr. A. Fields, neurology  000-000-0000
+INSURANCE:  Provider name / policy number
+```
+
+Replace every placeholder with your own details. Keep the front to the three or four things that change what a responder does in the first minute — everything else belongs on the back.
+
+---
+
+## Where to go next
+
+- **Make the card now, imperfectly.** An index card with your conditions, allergies, and one contact already does most of the work. You can refine it later.
+- **Put the card inside a wider plan** — [emergency preparedness](/crisis/emergency/emergency-preparedness) covers medication supply, backup power, and evacuating with mobility equipment or a service animal.
+- **If a crisis is happening now** — [crisis hotlines by country](/crisis/global-crisis-hotlines).
+
 ---
 
 ## Contribute to This Page

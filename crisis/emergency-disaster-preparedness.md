@@ -87,6 +87,17 @@ Document accessibility failures when it’s safe to do so. They are policy probl
 
 ---
 
+## Where to go next
+
+This page is the overview. The practical work happens on two others:
+
+- **Build the actual plan** — [emergency preparedness](/crisis/emergency/emergency-preparedness) has the checklists for medication, backup power, mobility equipment, and service animals.
+- **Prepare for the moment you cannot speak for yourself** — [emergency medical cards](/crisis/emergency/medical-cards).
+
+If you only do one thing today, do the medical card. It takes fifteen minutes and it works even when nothing else in your plan survives contact with the emergency.
+
+---
+
 ## Contribute to This Page
 
 Have lived experience or expertise that could strengthen this page? We especially welcome perspectives on models not well represented here, including those from the Global South and Indigenous communities.

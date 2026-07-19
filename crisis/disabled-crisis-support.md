@@ -68,6 +68,15 @@ The goal is not to promise safety, but to **share options** and context so peopl
 
 ---
 
+## Where to go next
+
+- **You need a line right now** — [crisis hotlines by country](/crisis/global-crisis-hotlines), including which ones take text, chat, and relay rather than voice.
+- **You are building support before a crisis** — go back to [Building your own crisis web](#building-your-own-crisis-web) and write down the names while things are calm. That is the part nobody can do mid-crisis.
+- **The crisis involves someone who provides your care** — [abuse, neglect and exploitation](/crisis/abuse-neglect-exploitation) covers reporting when you depend on the person you would be reporting.
+- **You want responders to understand you when you cannot explain** — [emergency medical cards](/crisis/emergency/medical-cards).
+
+---
+
 ## Contribute to This Page
 
 Have lived experience or expertise that could strengthen this page? We especially welcome perspectives on models not well represented here, including those from the Global South and Indigenous communities.
