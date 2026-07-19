@@ -43,6 +43,17 @@ All notable changes to the Disability Wiki project are documented in this file.
   **401**s. Corrects [`docs/deploy-contribution-backend.md`](docs/deploy-contribution-backend.md) §3.
 
 ### Added
+- **Spanish emergency-preparedness crisis page** (2026-07-18,
+  [`es/crisis/emergency-disaster-preparedness.md`](es/crisis/emergency-disaster-preparedness.md)):
+  the last untranslated page in the ES crisis section. Spanish readers were served the
+  English content behind Starlight's untranslated-content notice — correct degradation,
+  but English-only emergency-preparedness guidance in a life-safety section is a real
+  gap. Translated per the **spanish-wiki-translation** skill (neutral Latin-American
+  Spanish, person-first, `tú`, Spanish sentence-case headings, `/es/` link rewriting,
+  canonical `Contribuye` footer copied verbatim rather than re-improvised; non-translated
+  frontmatter preserved byte-for-byte). **EN/ES crisis parity is now complete (29/29).**
+  Verified: `check_translation.py` clean, built page serves `lang="es"` with the fallback
+  notice gone, and it is precached for offline like every other crisis page.
 - **App announcement banner + install page** (2026-07-18,
   [`site/src/components/AppBanner.astro`](site/src/components/AppBanner.astro),
   [`start/app.md`](start/app.md), [`es/start/app.md`](es/start/app.md)): a slim
