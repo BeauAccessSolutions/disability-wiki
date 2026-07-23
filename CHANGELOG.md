@@ -6,6 +6,22 @@ All notable changes to the Disability Wiki project are documented in this file.
 
 ## [Unreleased]
 
+### Security
+- **Native iOS bundle can no longer ship stale life-safety content** (2026-07-23,
+  [`app/tools/`](app/tools/), [`.github/workflows/ci.yml`](.github/workflows/ci.yml)):
+  the app bundle (`app/ios/App/App/public`) is a git-ignored copy of `site/dist` made by
+  a manual `cap copy`, and a content merge after the last sync silently diverged it — the
+  abuse hub shipped in the bundle with **zero** hotline numbers while the live page had
+  six (the deleted `abuse-resources` orphan survived only in the stale bundle), with
+  nothing to catch it. [`app/tools/build-release.sh`](app/tools/build-release.sh) is now
+  the only sanctioned release path (build → `cap copy` → contribute hand-off → stamp →
+  verify → archive), gated by [`app/tools/verify-bundle.mjs`](app/tools/verify-bundle.mjs):
+  crisis parity (byte-identical to the build, no orphans), a phone-number census that
+  names which numbers went missing from which page, a freshness check, and a
+  contribute-safety check. CI self-tests the tripwire (passes a faithful sync, rejects a
+  tampered crisis page) so it can't rot. Phase 0 of
+  [`docs/app-remediation-plan.md`](docs/app-remediation-plan.md).
+
 ### Changed
 - **Accent border on the app banner** (2026-07-18,
   [`site/src/components/AppBanner.astro`](site/src/components/AppBanner.astro)): the low

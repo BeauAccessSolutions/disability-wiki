@@ -48,6 +48,15 @@ jobs:
         working-directory: site
         run: npm run check:sw
 
+      # BLOCKING: the native-app bundle tripwire can't rot. The iOS bundle
+      # (app/ios/App/App/public) is a git-ignored copy of site/dist, so CI can't
+      # verify a real archive — but it self-tests verify-bundle.mjs: that a
+      # faithful sync PASSES and a tampered crisis page (numbers stripped, the
+      # original P0) FAILS. If this breaks, a stale bundle could ship hotline-free
+      # crisis pages with nothing to catch it. Pure Node — no cap/Xcode needed.
+      - name: Native bundle tripwire self-test
+        run: bash app/tools/verify-bundle.selftest.sh
+
       # --- Content validators ------------------------------------------------
       - uses: actions/setup-python@v6
         with:

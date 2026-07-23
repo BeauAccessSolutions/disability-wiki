@@ -22,28 +22,49 @@ so the wiki, its search, nav, i18n, and the PWA offline layer all come along.
   published to the web exactly as today (`merge → Cloudflare Pages`). The app just
   re-bundles the same `dist`.
 
-## Build & run (on a Mac with Xcode)
+## Building a release — use `tools/build-release.sh`
+
+**Never hand-sync a release.** The bundle (`ios/App/App/public`) is a git-ignored
+copy of `site/dist`; syncing it by hand, whenever, is how it went stale and shipped
+an abuse hub with **zero** hotline numbers while the live page had six. One script
+now makes the bundle a deterministic function of the current commit and refuses to
+proceed if it doesn't match:
 
 ```bash
-# 1. Build the web content the app bundles
-npm --prefix ../site run build      # → site/dist  (or: npm run build:web from here)
-
-# 2. Install app deps (already done if node_modules/ exists)
-npm install
-
-# 3. Add the native platform(s) — one-time
-npx cap add ios
-npx cap add android                 # needs a JDK + Android Studio
-
-# 4. Copy the web build into the native project(s)
-npx cap sync
-
-# 5. Open in the native IDE and run on a simulator/device
-npx cap open ios                    # → Xcode → pick a simulator → Run
-npx cap open android                # → Android Studio
+app/tools/build-release.sh            # build → sync → hand-off → stamp → VERIFY
+app/tools/build-release.sh --archive  # …and xcodebuild archive (signing-capable Mac)
 ```
 
-`npx cap doctor` diagnoses a broken toolchain.
+It runs, in order: (1) `npm run build` the site, (2) `cap copy ios`, (3) rewrite the
+in-app contribute form into a live hand-off (`tools/native-contribute.mjs`), (4)
+stamp `public/app-build.json` with the git SHA, (5) **`tools/verify-bundle.mjs`** —
+a hard gate that checks crisis parity (every `crisis/` + `es/crisis/` file byte-
+identical to the build, no orphans), a phone-number census, freshness, and that no
+dead-end `/api/` form survives. Steps 1–5 need only Node; `--archive` needs Xcode.
+
+`npx cap doctor` diagnoses a broken toolchain. To develop against a simulator
+without a full release, `cap copy ios && npx cap open ios` still works — just don't
+archive that way.
+
+### One-time: the "Verify bundle" Xcode build phase
+
+Defense in depth so a GUI archive can't skip the gate. In the **App** target →
+**Build Phases** → **+** → **New Run Script Phase**, set the script to:
+
+```
+"${SRCROOT}/../../tools/xcode-verify-phase.sh"
+```
+
+and drag it to run **after** "Copy Bundle Resources". It enforces on
+Release/Archive only (Debug/simulator runs skip it). If Xcode can't find `node`,
+set the path inside that script.
+
+### CI
+
+`.github/workflows/ci.yml` runs `tools/verify-bundle.selftest.sh` on every PR: it
+proves the tripwire still passes a faithful sync and **rejects** a tampered crisis
+page (the original P0). CI can't verify a real archive (the bundle is git-ignored),
+but it guarantees the verifier itself hasn't rotted.
 
 ## Open questions I could NOT validate without a simulator
 
@@ -67,12 +88,13 @@ discovered as surprises:
    move to **OTA content** so life-safety fixes don't wait on App Store review.
 4. **App Store §4.2 approvability** — bundled offline + native dialing is a solid case,
    but it's a judgment call by the reviewer.
-5. **The contribute form is bundled but its backend isn't.** `dist` now includes
-   `/contribute` (landed after this spike), whose form posts to the *relative*
-   `/api/contributions` — a Cloudflare Pages function that doesn't exist inside the
-   app bundle, so an in-app submit dead-ends. Before v1 either rewrite those posts
-   to the absolute live origin for the app build, or hide the contribute entry
-   points in-app. Same applies to `/api/auth/*` once sign-in links render.
+5. ~~**The contribute form is bundled but its backend isn't.**~~ ✅ **RESOLVED
+   2026-07-23.** `tools/native-contribute.mjs` (step 3 of the release script)
+   replaces the two `/api/contributions` forms in the bundled `/contribute` page
+   with a hand-off card that opens the live site — no in-app form, so nothing to
+   dead-end and no draft to lose. `verify-bundle.mjs` asserts no `action="/api/"`
+   form survives. Same treatment will be needed for `/api/auth/*` once sign-in
+   links render.
 
 ## What's left for a real v1 (beyond this spike)
 
@@ -84,6 +106,15 @@ discovered as surprises:
 
 ## Notes
 
+- **`iosScheme` removed (2026-07-23).** `capacitor.config.json` used to set
+  `server.iosScheme: "https"`, which Capacitor rejects (WKWebView already handles
+  http/https) and silently ignored — the app has always run on `capacitor://`.
+  Removing it makes the config match reality. Do **not** rely on the web service
+  worker inside iOS; offline comes from the bundle (see open question 1).
+- **Capacitor 6 is end-of-support (since 2026-01-20); v8 is current.** Upgrading
+  `@capacitor/*` to 8 is the next Phase-0 task — it must be done on a Mac with
+  Xcode and re-tested against `WikiRouter` (deep paths, 404 fallback, `tel:` and
+  external links) before release. See `docs/app-remediation-plan.md`.
 - `npm install` reports 2 high-severity advisories in Capacitor's transitive **dev**
   deps (build tooling, not shipped in the app). Review before a production build.
 - `ios/` is committed (the platform is real now, headed for TestFlight); its own
