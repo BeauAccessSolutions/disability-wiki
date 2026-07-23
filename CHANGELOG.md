@@ -7,6 +7,27 @@ All notable changes to the Disability Wiki project are documented in this file.
 ## [Unreleased]
 
 ### Added
+- **Signed OTA content channel for the native app** (2026-07-23,
+  [`site/tools/gen-ota-manifest.mjs`](site/tools/gen-ota-manifest.mjs),
+  [`app/ios/App/App/OTAUpdater.swift`](app/ios/App/App/OTAUpdater.swift),
+  [`site/public/_headers`](site/public/_headers), [`.github/workflows/ci.yml`](.github/workflows/ci.yml)):
+  a crisis-number fix merged to `main` now reaches installed apps on their next
+  launch — no App Store release — and nothing unsigned can ever be installed. The
+  site build emits `/ota/manifest.json` (sha256 of every content file) plus an
+  ed25519 signature; the app verifies the signature against a public key compiled
+  into the binary, delta-downloads only changed files (each verified against the
+  signed manifest), stages a complete content root (unchanged files hard-linked),
+  and activates on the next launch with the previous root kept for rollback —
+  current → previous → bundle, so there is always a last-known-good. A new binary
+  discards older OTA state; `/ota/*` is edge-cache-exempt like `sw.js`. Verified
+  end-to-end in the simulator: a signed update was fetched, verified, staged, and
+  served (with the crisis-page freshness banner picking up the new date); an
+  unsigned manifest was refused; a corrupted root was detected at launch and rolled
+  back to the bundle. CI now proves the sign→verify roundtrip and tamper-rejection
+  on every PR. Goes live once `OTA_SIGNING_KEY` is set as a Cloudflare Pages secret
+  (key ceremony in [`app/README.md`](app/README.md)). Phase 1B of
+  [`docs/app-remediation-plan.md`](docs/app-remediation-plan.md) — resolves the
+  review's finding #3.
 - **In-app freshness notice on crisis pages** (2026-07-23,
   [`site/src/components/AppBanner.astro`](site/src/components/AppBanner.astro)): the native
   app ships a bundled snapshot of the site, so on a life-safety page the reader should know

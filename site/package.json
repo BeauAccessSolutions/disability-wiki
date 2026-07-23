@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
-    "build": "astro build && node tools/gen-index-redirects.mjs && node tools/gen-sw.mjs",
+    "build": "astro build && node tools/gen-index-redirects.mjs && node tools/gen-sw.mjs && node tools/gen-ota-manifest.mjs",
     "preview": "astro preview",
     "astro": "astro",
     "check:sw": "node tools/check-sw.mjs"

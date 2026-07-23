@@ -57,6 +57,15 @@ jobs:
       - name: Native bundle tripwire self-test
         run: bash app/tools/verify-bundle.selftest.sh
 
+      # BLOCKING: the OTA signing chain can't rot. The app's content-update
+      # channel only installs manifests that verify against the pinned ed25519
+      # key; this proves (with a throwaway keypair) that generate→sign→verify
+      # still round-trips and that a tampered manifest is rejected. If this
+      # breaks, either updates stop verifying (apps freeze on old content) or —
+      # worse — the reject path fails. Pure Node — mirrors OTAUpdater.swift.
+      - name: OTA signing chain self-test
+        run: bash app/tools/ota-sign.selftest.sh
+
       # --- Content validators ------------------------------------------------
       - uses: actions/setup-python@v6
         with:

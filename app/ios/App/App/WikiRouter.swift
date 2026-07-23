@@ -40,4 +40,24 @@ class WikiBridgeViewController: CAPBridgeViewController {
     override func router() -> Router {
         WikiRouter()
     }
+
+    // Serve from the OTA content root when a validated one exists; otherwise the
+    // bundle. Same hook Capacitor itself uses for deploy snapshots. The asset
+    // handler pushes appLocation into WikiRouter.basePath, so routing (deep
+    // paths, 404 fallback) is identical whichever root is active. Rollback
+    // (current → previous → bundle) happens inside activeContentRoot().
+    override func instanceDescriptor() -> InstanceDescriptor {
+        let descriptor = super.instanceDescriptor()
+        if let otaRoot = OTAUpdater.shared.activeContentRoot() {
+            descriptor.appLocation = otaRoot
+        }
+        return descriptor
+    }
+
+    override func capacitorDidLoad() {
+        super.capacitorDidLoad()
+        // Off the launch path: fetch → verify signature → stage. A staged update
+        // activates on the NEXT launch, never mid-session.
+        OTAUpdater.shared.checkForUpdateInBackground()
+    }
 }

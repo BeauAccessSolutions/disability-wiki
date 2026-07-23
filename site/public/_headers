@@ -5,3 +5,7 @@
   Cache-Control: no-cache
 /manifest.webmanifest
   Cache-Control: no-cache
+# The OTA update manifest has the same property for the native app: served stale,
+# it would pin installed apps to old crisis content after a fix ships.
+/ota/*
+  Cache-Control: no-cache

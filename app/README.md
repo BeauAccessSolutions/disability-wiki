@@ -96,10 +96,47 @@ discovered as surprises:
    form survives. Same treatment will be needed for `/api/auth/*` once sign-in
    links render.
 
+## OTA content updates (Phase 1B — built 2026-07-23)
+
+A merged crisis-number fix reaches installed apps **without an App Store release**,
+and nothing unsigned can ever be installed. How it works:
+
+- **Publish side** ([`site/tools/gen-ota-manifest.mjs`](../site/tools/gen-ota-manifest.mjs),
+  runs in `npm run build`): emits `dist/ota/manifest.json` — sha256 of every content
+  file — and `manifest.sig`, an ed25519 signature over the manifest's exact bytes.
+  The private key comes from the `OTA_SIGNING_KEY` env var; without it the manifest
+  is written unsigned and **clients refuse it** (local builds are unsigned on purpose).
+- **App side** ([`ios/App/App/OTAUpdater.swift`](ios/App/App/OTAUpdater.swift)): on
+  launch, fetch manifest+sig from disabilitywiki.org, verify against the public key
+  compiled into the binary, delta-download only changed files (each verified against
+  its sha256 from the *signed* manifest), stage a complete root (unchanged files
+  hard-linked), and activate **on the next launch** — never mid-session. The previous
+  root is kept for rollback; a root that fails launch-time validation falls back
+  previous → bundle. A new binary always discards older OTA state.
+- **Freshness banner**: the OTA root carries its own `app-build.json`, so the
+  crisis-page banner automatically shows the OTA date once an update lands.
+- **CI**: `tools/ota-sign.selftest.sh` proves sign→verify round-trips and tampering
+  is rejected, every PR.
+
+**Key ceremony (one-time, required before OTA goes live):** run
+`node app/tools/ota-keygen.mjs`; add the printed PRIVATE key as a Cloudflare Pages
+**secret** named `OTA_SIGNING_KEY` (project `disability-wiki` → Settings →
+Environment variables, production); the PUBLIC key is compiled into
+`OTAUpdater.swift` (`publicKeyB64`). Rotating = new pair, new Swift constant, ship a
+binary update. The current pair was generated 2026-07-23; the private key is in
+`backups/ota-signing-key-2026-07-23.txt` (git-ignored, local-only) until installed
+as the Pages secret.
+
+E2E verified in the simulator (2026-07-23): signed update served from a local
+wrangler `pages dev` → fetched, verified, staged, activated on relaunch, content
+change visible in-app with the banner showing the new date; an **unsigned** manifest
+was refused (pointer unchanged); a **corrupted** active root was detected at launch
+and rolled back to the bundle.
+
 ## What's left for a real v1 (beyond this spike)
 
 - Native crisis-dial affordance (persistent shortcut / bottom action).
-- OTA content sync (so a merged crisis-number fix reaches the app without a store update).
+- ~~OTA content sync~~ ✅ built (above) — goes live once `OTA_SIGNING_KEY` is set on Pages.
 - App icons + splash from `site/src/assets/logo.png` (reuse the PWA icon pipeline).
 - Apple Developer account ($99/yr) + Google Play ($25 once); signing; store listings (EN/ES).
 - Privacy nutrition labels (the app collects ~nothing — a strong position to state plainly).
