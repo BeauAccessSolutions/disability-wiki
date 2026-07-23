@@ -111,10 +111,15 @@ discovered as surprises:
   http/https) and silently ignored — the app has always run on `capacitor://`.
   Removing it makes the config match reality. Do **not** rely on the web service
   worker inside iOS; offline comes from the bundle (see open question 1).
-- **Capacitor 6 is end-of-support (since 2026-01-20); v8 is current.** Upgrading
-  `@capacitor/*` to 8 is the next Phase-0 task — it must be done on a Mac with
-  Xcode and re-tested against `WikiRouter` (deep paths, 404 fallback, `tel:` and
-  external links) before release. See `docs/app-remediation-plan.md`.
+- **On Capacitor 8** (upgraded 2026-07-23 from 6, which was end-of-support). The
+  upgrade was near-zero-source: this is a thin shell using none of the deprecated
+  App-plugin types or CAP notifications v7/v8 changed, and Cap 8's `Router`
+  protocol is byte-identical to what `WikiRouter` implements. Deployment target
+  raised to **iOS 15.0** (Podfile + all pbxproj targets), as v8 requires. Verified:
+  `pod install` clean, `xcodebuild` **BUILD SUCCEEDED** under Xcode 26.6, and the
+  app launches + renders the bundled site in the simulator. Still worth an
+  interactive pass for deep-path routing, the 404 fallback, and `tel:`/external
+  links (best with a booted sim + tap) before external release.
 - `npm install` reports 2 high-severity advisories in Capacitor's transitive **dev**
   deps (build tooling, not shipped in the app). Review before a production build.
 - `ios/` is committed (the platform is real now, headed for TestFlight); its own
