@@ -24,6 +24,22 @@ All notable changes to the Disability Wiki project are documented in this file.
   the incident response doc.
 
 ### Added
+- **Dynamic Type in the app — web text now follows the system text size** (2026-07-23,
+  [`app/ios/App/App/WikiRouter.swift`](app/ios/App/App/WikiRouter.swift),
+  [`app/ios/App/App/NativeAffordances.swift`](app/ios/App/App/NativeAffordances.swift)):
+  WKWebView does not map iOS's text-size setting onto web content, so a low-vision
+  reader who enlarged text device-wide saw **no change** inside the app — the last real
+  accessibility gap, and a glaring one on an accessibility organization's app. The app
+  now scales the page's root font from the system's own Dynamic Type curve (capped at 2×
+  so the largest accessibility sizes enlarge substantially without breaking a reflowing
+  layout), re-applied as each document loads so every navigation and OTA-served page gets
+  it, and updated live if the setting changes while the app is open. The header is pinned
+  to a fixed size so the nav bar stays a nav bar — content scales, controls stay reachable.
+  Also fixes two truncations this surfaced: the native Crisis button clipped to "Cri…" at
+  large sizes (now wraps, bounded to the safe area) and the site wordmark clipped to
+  "Disa…" (now wraps in full). Verified in the simulator at
+  `accessibility-extra-large`. Phase 3 of
+  [`docs/app-remediation-plan.md`](docs/app-remediation-plan.md).
 - **Privacy Policy page** (2026-07-23, [`privacy.md`](privacy.md) → `/privacy`): a plain
   "we collect nothing" policy covering both the website and the native app — no accounts,
   no tracking, no ads, no permissions; explains the app's offline behavior and its signed

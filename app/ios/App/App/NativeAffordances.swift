@@ -99,10 +99,13 @@ final class CrisisButton: UIButton {
         config.cornerStyle = .capsule
         config.contentInsets = NSDirectionalEdgeInsets(top: 12, leading: 16, bottom: 12, trailing: 16)
 
+        config.titleLineBreakMode = .byWordWrapping // wrap, never truncate to "Cri…"
+
         let button = CrisisButton(configuration: config)
         button.translatesAutoresizingMaskIntoConstraints = false
         button.titleLabel?.font = UIFont.preferredFont(forTextStyle: .headline)
         button.titleLabel?.adjustsFontForContentSizeCategory = true
+        button.titleLabel?.numberOfLines = 0
         // At the very largest accessibility sizes a floating capsule would
         // swallow the screen; AX2 keeps it growing meaningfully but bounded.
         button.maximumContentSizeCategory = .accessibilityExtraLarge
@@ -128,6 +131,11 @@ final class CrisisButton: UIButton {
             button.bottomAnchor.constraint(equalTo: vc.view.safeAreaLayoutGuide.bottomAnchor, constant: -16),
             button.heightAnchor.constraint(greaterThanOrEqualToConstant: 44),
             button.widthAnchor.constraint(greaterThanOrEqualToConstant: 44),
+            // Bound the capsule so a large-text label wraps onto a second line
+            // instead of truncating ("Cri…") or running off-screen. Leading
+            // inequality keeps it inside the safe area at every text size.
+            button.leadingAnchor.constraint(
+                greaterThanOrEqualTo: vc.view.safeAreaLayoutGuide.leadingAnchor, constant: 16),
         ])
     }
 
