@@ -133,9 +133,32 @@ change visible in-app with the banner showing the new date; an **unsigned** mani
 was refused (pointer unchanged); a **corrupted** active root was detected at launch
 and rolled back to the bundle.
 
+## Native affordances (Phase 2 — built 2026-07-23)
+
+The §4.2 "more than a wrapped website" layer, all crisis-first
+([`ios/App/App/NativeAffordances.swift`](ios/App/App/NativeAffordances.swift)):
+
+- **Home-screen quick actions** (dynamic, so titles follow device language EN/ES):
+  Crisis help now / Crisis hotlines / Abuse support → deep-link straight into the
+  bundled pages (two taps, zero network), plus Content status. Cold-launch shortcuts
+  are held pending and delivered once the webview is up.
+- **Persistent crisis button** — native red capsule, bottom-trailing, one tap to
+  `/crisis/` from any page; survives any web-layer failure. ≥44pt, VoiceOver label +
+  hint, Dynamic Type (capped at AX2 so it can't swallow the screen), no animation.
+- **Content-status sheet** (long-press the crisis button, or the quick action):
+  content date, source (bundle vs verified OTA update), last update check + outcome,
+  app version, and "Check for updates now". `UIAlertController`, so Dynamic Type,
+  VoiceOver, and both themes come free.
+
+Verified in the simulator: button renders and navigates; status sheet shows real
+OTA state; sheet actions work. The springboard icon-menu can't be triggered by
+synthetic touches in the sim — give the quick actions one real-device look before
+TestFlight. Still deferred to a follow-up: saved pages, system share sheet,
+Spotlight indexing.
+
 ## What's left for a real v1 (beyond this spike)
 
-- Native crisis-dial affordance (persistent shortcut / bottom action).
+- ~~Native crisis-dial affordance (persistent shortcut / bottom action)~~ ✅ built (above).
 - ~~OTA content sync~~ ✅ built (above) — goes live once `OTA_SIGNING_KEY` is set on Pages.
 - App icons + splash from `site/src/assets/logo.png` (reuse the PWA icon pipeline).
 - Apple Developer account ($99/yr) + Google Play ($25 once); signing; store listings (EN/ES).

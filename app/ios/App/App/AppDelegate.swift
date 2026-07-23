@@ -7,8 +7,21 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     var window: UIWindow?
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
-        // Override point for customization after application launch.
+        // Home-screen quick actions: two taps from home screen to crisis help,
+        // zero network. Registered dynamically so titles follow device language.
+        CrisisShortcuts.register()
+        // Cold launch from a quick action: the webview isn't up yet, so record
+        // it as pending (delivered in capacitorDidLoad) and return false to
+        // suppress the duplicate performActionFor callback.
+        if let item = launchOptions?[.shortcutItem] as? UIApplicationShortcutItem {
+            CrisisShortcuts.handle(item)
+            return false
+        }
         return true
+    }
+
+    func application(_ application: UIApplication, performActionFor shortcutItem: UIApplicationShortcutItem, completionHandler: @escaping (Bool) -> Void) {
+        completionHandler(CrisisShortcuts.handle(shortcutItem))
     }
 
     func applicationWillResignActive(_ application: UIApplication) {

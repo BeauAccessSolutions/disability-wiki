@@ -59,5 +59,18 @@ class WikiBridgeViewController: CAPBridgeViewController {
         // Off the launch path: fetch → verify signature → stage. A staged update
         // activates on the NEXT launch, never mid-session.
         OTAUpdater.shared.checkForUpdateInBackground()
+        // Native affordances: the always-reachable crisis button, and any
+        // home-screen quick action that arrived before the webview was ready.
+        CrisisButton.install(in: self)
+        CrisisShortcuts.deliverPending(to: self)
+    }
+
+    /// Navigate the web content from native code (quick actions, crisis button).
+    /// Loads via the serving origin so WikiRouter handles the path exactly as an
+    /// in-content link would — including the OTA content root when one is active.
+    func navigate(to path: String) {
+        guard let webView = bridge?.webView,
+              let url = URL(string: "capacitor://localhost" + path) else { return }
+        webView.load(URLRequest(url: url))
     }
 }

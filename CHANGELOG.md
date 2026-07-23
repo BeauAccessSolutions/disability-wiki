@@ -7,6 +7,23 @@ All notable changes to the Disability Wiki project are documented in this file.
 ## [Unreleased]
 
 ### Added
+- **Native crisis affordances in the app** (2026-07-23,
+  [`app/ios/App/App/NativeAffordances.swift`](app/ios/App/App/NativeAffordances.swift)):
+  the app is now a tool, not a wrapped website — and every native piece is crisis-first.
+  Home-screen **quick actions** (Crisis help now / Crisis hotlines / Abuse support /
+  Content status; titles follow device language EN/ES) deep-link into the bundled pages,
+  two taps and zero network from home screen to hotline numbers. A **persistent native
+  crisis button** (red capsule, bottom-trailing) reaches `/crisis/` in one tap from any
+  page and survives any web-layer failure. Long-press opens the **content-status sheet**:
+  content date, source (bundle vs signature-verified update), last update check, app
+  version, and a manual "Check for updates now". Accessibility bar throughout: ≥44pt
+  targets, VoiceOver labels + hints, Dynamic Type (button capped at AX2), no animation,
+  system semantic colors in both themes. Verified in the simulator (button navigation,
+  status sheet with live OTA state); the springboard icon menu needs a real-device check
+  before TestFlight. Phase 2 of
+  [`docs/app-remediation-plan.md`](docs/app-remediation-plan.md) — addresses the review's
+  finding #6 (App Store Guideline 4.2). Saved pages, share sheet, and Spotlight indexing
+  remain as follow-ups.
 - **Signed OTA content channel for the native app** (2026-07-23,
   [`site/tools/gen-ota-manifest.mjs`](site/tools/gen-ota-manifest.mjs),
   [`app/ios/App/App/OTAUpdater.swift`](app/ios/App/App/OTAUpdater.swift),

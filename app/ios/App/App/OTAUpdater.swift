@@ -131,12 +131,52 @@ final class OTAUpdater {
 
     func checkForUpdateInBackground() {
         Task.detached(priority: .utility) { [self] in
-            do { try await checkForUpdate() } catch {
+            do {
+                try await checkForUpdate()
+                UserDefaults.standard.set(Date(), forKey: "OTALastCheck")
+                UserDefaults.standard.set(true, forKey: "OTALastCheckOK")
+            } catch {
                 // Offline, refused signature, server hiccup — all fine: the app
                 // keeps serving its last-known-good. Log and move on.
+                UserDefaults.standard.set(Date(), forKey: "OTALastCheck")
+                UserDefaults.standard.set(false, forKey: "OTALastCheckOK")
                 CAPLog.print("⚡️  OTA: update check did not complete: \(error.localizedDescription)")
             }
         }
+    }
+
+    /// Human-readable status for the native content-status sheet.
+    func statusSummary(spanish es: Bool) -> String {
+        let df = DateFormatter()
+        df.dateStyle = .medium
+        df.timeStyle = .short
+        df.locale = Locale(identifier: es ? "es" : "en_US")
+
+        let otaActive = pointedRoot(currentPointer) != nil
+        let servingRoot = otaActive ? pointedRoot(currentPointer) : bundleRoot
+        var lines: [String] = []
+        if let built = builtAt(inRoot: servingRoot) {
+            lines.append((es ? "Contenido del " : "Content from ") + df.string(from: built))
+        }
+        lines.append(
+            otaActive
+                ? (es ? "Fuente: actualización descargada y verificada" : "Source: downloaded, signature-verified update")
+                : (es ? "Fuente: copia incluida en la app" : "Source: copy shipped with the app")
+        )
+        if let last = UserDefaults.standard.object(forKey: "OTALastCheck") as? Date {
+            let ok = UserDefaults.standard.bool(forKey: "OTALastCheckOK")
+            let when = df.string(from: last)
+            lines.append(
+                ok ? (es ? "Última comprobación: \(when)" : "Last update check: \(when)")
+                   : (es ? "Última comprobación: \(when) (sin conexión o sin novedades)" : "Last update check: \(when) (offline or unavailable)")
+            )
+        } else {
+            lines.append(es ? "Aún no se ha comprobado" : "No update check yet")
+        }
+        if let v = Bundle.main.infoDictionary?["CFBundleShortVersionString"] as? String {
+            lines.append((es ? "Versión de la app: " : "App version: ") + v)
+        }
+        return lines.joined(separator: "\n")
     }
 
     private func checkForUpdate() async throws {
