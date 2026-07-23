@@ -124,7 +124,11 @@ class WikiBridgeViewController: CAPBridgeViewController {
         // Native affordances: the always-reachable crisis button, and any
         // home-screen quick action that arrived before the webview was ready.
         CrisisButton.install(in: self)
+        PageActionsButton.install(in: self)
         CrisisShortcuts.deliverPending(to: self)
+        // Make crisis pages findable from iOS Search, offline.
+        SpotlightIndexer.indexIfNeeded(contentRoot: OTAUpdater.shared.activeContentRoot()
+            ?? Bundle.main.url(forResource: "public", withExtension: nil))
         // Accessibility: scale web type to the user's Dynamic Type setting on every
         // document, and keep it in step if they change it while the app is running.
         applyDynamicType()
@@ -135,6 +139,23 @@ class WikiBridgeViewController: CAPBridgeViewController {
             self, selector: #selector(dynamicTypeChanged),
             name: UIContentSizeCategory.didChangeNotification, object: nil
         )
+    }
+
+    /// Read the live page's path and title, for Save / Share / Spotlight. Always
+    /// calls back on the main queue; yields ("/", "") if the webview isn't ready.
+    func currentPage(_ completion: @escaping (_ path: String, _ title: String) -> Void) {
+        guard let webView = bridge?.webView else { return completion("/", "") }
+        webView.evaluateJavaScript("JSON.stringify({p:location.pathname,t:document.title})") { result, _ in
+            var path = "/", title = ""
+            if let json = result as? String, let data = json.data(using: .utf8),
+               let obj = try? JSONSerialization.jsonObject(with: data) as? [String: Any] {
+                path = (obj["p"] as? String) ?? "/"
+                // Strip the site suffix Starlight appends: "Crisis Help: Canada | Disability Wiki".
+                title = ((obj["t"] as? String) ?? "")
+                    .replacingOccurrences(of: " | Disability Wiki", with: "")
+            }
+            DispatchQueue.main.async { completion(path, title) }
+        }
     }
 
     /// Navigate the web content from native code (quick actions, crisis button).

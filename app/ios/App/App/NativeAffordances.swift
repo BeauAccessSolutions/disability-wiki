@@ -65,6 +65,12 @@ enum CrisisShortcuts {
         return true
     }
 
+    /// Open a path now if the webview is up, else hold it until it is. Shared by
+    /// quick actions and Spotlight results so cold launches work the same way.
+    static func open(path: String) {
+        if let vc = topBridgeController() { vc.navigate(to: path) } else { pendingPath = path }
+    }
+
     /// Called by the bridge controller once the webview is ready.
     static func deliverPending(to vc: WikiBridgeViewController) {
         if let path = pendingPath { vc.navigate(to: path); pendingPath = nil }

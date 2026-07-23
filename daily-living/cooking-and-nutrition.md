@@ -386,6 +386,15 @@ Cooking and nutrition:
 
 ### Medication and Food Interaction
 
+> **A note on medication and swallowing.** The guidance in these two sections is
+> general, and both are places where "what works for most people" can be wrong for
+> you. Medication timing depends on your specific drugs and doses; safe food
+> textures depend on your specific swallowing assessment. A **pharmacist** can
+> answer medication-and-food questions without an appointment or referral — often
+> the most reachable expert there is. A **speech-language pathologist** is the
+> person who assesses swallowing safety. You know your body; this page is a
+> starting point for those conversations, not a substitute for them.
+
 **Taking medications with food:**
 - Some need food; some need empty stomach
 - Follow medication instructions

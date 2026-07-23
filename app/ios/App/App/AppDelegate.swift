@@ -53,6 +53,12 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     }
 
     func application(_ application: UIApplication, continue userActivity: NSUserActivity, restorationHandler: @escaping ([UIUserActivityRestoring]?) -> Void) -> Bool {
+        // A Spotlight result: open that page. Reuses the same pending-path plumbing
+        // as home-screen quick actions, so a cold launch from Search works too.
+        if let path = SpotlightIndexer.path(for: userActivity) {
+            CrisisShortcuts.open(path: path)
+            return true
+        }
         // Called when the app was launched with an activity, including Universal Links.
         // Feel free to add additional processing here, but if you want the App API to support
         // tracking app url opens, make sure to keep this call

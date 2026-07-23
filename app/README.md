@@ -188,8 +188,35 @@ The §4.2 "more than a wrapped website" layer, all crisis-first
 Verified in the simulator: button renders and navigates; status sheet shows real
 OTA state; sheet actions work. The springboard icon-menu can't be triggered by
 synthetic touches in the sim — give the quick actions one real-device look before
-TestFlight. Still deferred to a follow-up: saved pages, system share sheet,
-Spotlight indexing.
+TestFlight.
+
+### Saved pages, share, and Spotlight
+
+A neutral **"More"** button sits in the bottom-*leading* corner — deliberately the
+opposite corner from the red Crisis button, which owns bottom-trailing and does
+exactly one thing, because in a crisis nobody should have to read a menu. More
+opens: Save this page / Saved pages… / Share this page / Content status
+([`ios/App/App/PageActions.swift`](ios/App/App/PageActions.swift)).
+
+- **Saved pages** are bookmarks, not downloads — the whole site is already
+  bundled, so a saved page works offline the instant you save it and costs no
+  storage. Stored in `UserDefaults`; the list is a plain table with swipe-to-delete
+  and an empty state.
+- **Share** sends the **public** `https://disabilitywiki.org` URL, not the in-app
+  `capacitor://localhost` origin, which would be meaningless to whoever receives
+  it. A caseworker gets a link they can open.
+- **Spotlight** ([`ios/App/App/SpotlightIndexer.swift`](ios/App/App/SpotlightIndexer.swift))
+  indexes the crisis tree (56 pages, EN + ES) into iOS Search, so pulling down on
+  the home screen and typing "988" or "abuse" lands directly on the page — no app
+  launch, no connection. Crisis-only on purpose: indexing all ~540 pages would bury
+  the ones that matter. Re-indexed only when the content version changes (so OTA
+  updates refresh it), and the domain is deleted first so an upstream-deleted page
+  can't linger in Search.
+
+⚠️ **CoreSpotlight is partly stubbed in the Simulator** — its completion callback
+is unreliable there, so `dw-spotlight-item-count` (written before handing off) is
+the signal that discovery/parsing worked. Confirm actual Search results on a real
+device.
 
 ## What's left for a real v1 (beyond this spike)
 

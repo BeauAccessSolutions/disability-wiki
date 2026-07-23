@@ -386,6 +386,15 @@ La cocina y la nutrición:
 
 ### Interacción entre medicación y comida
 
+> **Una nota sobre la medicación y la deglución.** La orientación de estas dos
+> secciones es general, y en ambas «lo que le funciona a la mayoría» puede no
+> funcionarte a ti. El horario de la medicación depende de tus medicamentos y dosis
+> concretos; las texturas seguras dependen de tu evaluación de deglución. Un
+> **farmacéutico** puede resolver dudas sobre medicamentos y comida sin cita ni
+> derivación — a menudo es la persona experta más accesible. Un **fonoaudiólogo**
+> (logopeda) es quien evalúa la seguridad al tragar. Tú conoces tu cuerpo; esta
+> página es un punto de partida para esas conversaciones, no un sustituto de ellas.
+
 **Tomar medicamentos con comida:**
 - Algunos necesitan comida; algunos necesitan estómago vacío
 - Sigue las instrucciones del medicamento

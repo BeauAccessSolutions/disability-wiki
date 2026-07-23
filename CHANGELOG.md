@@ -24,6 +24,44 @@ All notable changes to the Disability Wiki project are documented in this file.
   the incident response doc.
 
 ### Added
+- **Medication-and-swallowing note on the cooking page** (2026-07-23,
+  [`daily-living/cooking-and-nutrition.md`](daily-living/cooking-and-nutrition.md),
+  [`es/daily-living/cooking-and-nutrition.md`](es/daily-living/cooking-and-nutrition.md)):
+  the accessibility audit flagged this page for giving medication-timing and dysphagia
+  guidance (safe textures, thickened liquids, choking risk, feeding tubes) with no
+  "conditions vary" note — the two places on the page where "what works for most
+  people" can be actively wrong for an individual. Adds a note in house voice that
+  respects the reader's expertise and names the *reachable* professionals: a pharmacist
+  answers medication-and-food questions without an appointment or referral, and a
+  speech-language pathologist is who assesses swallowing safety. EN + ES.
+  **Scoped deliberately to this one page.** A survey of the other 74 health pages found
+  the wiki already handles this better than a generic disclaimer would:
+  `conditions/chronic-illness.md` carries a specific PEM warning ("Exercise programs can
+  harm ME/CFS patients if they ignore PEM"), `daily-living/adhd-medication-access.md`
+  states that any medication switch "is entirely your prescriber's call", and the MCAS,
+  POTS, EDS, and rare-diseases pages all weave clinician-referral language in context.
+  Blanket boilerplate would have duplicated those, added noise readers scroll past, and
+  talked down to an audience that gets talked down to enough.
+- **Saved pages, system share, and Spotlight search in the app** (2026-07-23,
+  [`app/ios/App/App/PageActions.swift`](app/ios/App/App/PageActions.swift),
+  [`app/ios/App/App/SpotlightIndexer.swift`](app/ios/App/App/SpotlightIndexer.swift)):
+  the Phase 2 follow-ups. A neutral **More** button in the bottom-*leading* corner —
+  deliberately opposite the red Crisis button, which owns bottom-trailing and does
+  exactly one thing — opens Save this page / Saved pages… / Share this page / Content
+  status. **Saved pages** are bookmarks rather than downloads (the site is already
+  bundled, so a saved page works offline immediately and costs no storage — it matters
+  for readers on metered data or low-storage devices); the list has swipe-to-delete and
+  an empty state. **Share** sends the public `disabilitywiki.org` URL, not the in-app
+  `capacitor://localhost` origin, so the recipient gets a link they can actually open.
+  **Spotlight** indexes the crisis tree (56 pages, EN + ES) into iOS Search so typing
+  "988" or "abuse" from the home screen lands on the page with no app launch and no
+  connection — crisis-only on purpose, since indexing all ~540 pages would bury what
+  matters; re-indexed only when the content version changes, deleting the domain first
+  so an upstream-deleted page can't linger in Search. Verified in the simulator
+  (save→list round trip, share sheet showing the public URL, 56 pages discovered);
+  CoreSpotlight's completion is partly stubbed in the Simulator, so actual Search
+  results need a real-device check. Phase 2 follow-ups of
+  [`docs/app-remediation-plan.md`](docs/app-remediation-plan.md).
 - **One-command TestFlight releases via fastlane** (2026-07-23,
   [`app/fastlane/Fastfile`](app/fastlane/Fastfile), [`app/Gemfile`](app/Gemfile)):
   `cd app && bundle exec fastlane beta` now does bump → build → verify → archive →

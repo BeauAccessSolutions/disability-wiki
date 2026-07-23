@@ -13,6 +13,8 @@
 		7A1C4E2A2C0000010016851F /* WikiRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A1C4E292C0000010016851F /* WikiRouter.swift */; };
 		7A1C4E2C2C0000010016851F /* OTAUpdater.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A1C4E2B2C0000010016851F /* OTAUpdater.swift */; };
 		7A1C4E2E2C0000010016851F /* NativeAffordances.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A1C4E2D2C0000010016851F /* NativeAffordances.swift */; };
+		7A1C4E302C0000010016851F /* PageActions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A1C4E2F2C0000010016851F /* PageActions.swift */; };
+		7A1C4E322C0000010016851F /* SpotlightIndexer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A1C4E312C0000010016851F /* SpotlightIndexer.swift */; };
 		504EC30D1FED79650016851F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 504EC30B1FED79650016851F /* Main.storyboard */; };
 		504EC30F1FED79650016851F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 504EC30E1FED79650016851F /* Assets.xcassets */; };
 		504EC3121FED79650016851F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 504EC3101FED79650016851F /* LaunchScreen.storyboard */; };
@@ -28,6 +30,8 @@
 		7A1C4E292C0000010016851F /* WikiRouter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WikiRouter.swift; sourceTree = "<group>"; };
 		7A1C4E2B2C0000010016851F /* OTAUpdater.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OTAUpdater.swift; sourceTree = "<group>"; };
 		7A1C4E2D2C0000010016851F /* NativeAffordances.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NativeAffordances.swift; sourceTree = "<group>"; };
+		7A1C4E2F2C0000010016851F /* PageActions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageActions.swift; sourceTree = "<group>"; };
+		7A1C4E312C0000010016851F /* SpotlightIndexer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpotlightIndexer.swift; sourceTree = "<group>"; };
 		504EC30C1FED79650016851F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		504EC30E1FED79650016851F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		504EC3111FED79650016851F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -84,6 +88,8 @@
 				7A1C4E292C0000010016851F /* WikiRouter.swift */,
 				7A1C4E2B2C0000010016851F /* OTAUpdater.swift */,
 				7A1C4E2D2C0000010016851F /* NativeAffordances.swift */,
+				7A1C4E2F2C0000010016851F /* PageActions.swift */,
+				7A1C4E312C0000010016851F /* SpotlightIndexer.swift */,
 				504EC30B1FED79650016851F /* Main.storyboard */,
 				504EC30E1FED79650016851F /* Assets.xcassets */,
 				504EC3101FED79650016851F /* LaunchScreen.storyboard */,
@@ -222,6 +228,8 @@
 				7A1C4E2A2C0000010016851F /* WikiRouter.swift in Sources */,
 				7A1C4E2C2C0000010016851F /* OTAUpdater.swift in Sources */,
 				7A1C4E2E2C0000010016851F /* NativeAffordances.swift in Sources */,
+				7A1C4E302C0000010016851F /* PageActions.swift in Sources */,
+				7A1C4E322C0000010016851F /* SpotlightIndexer.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
