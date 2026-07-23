@@ -6,6 +6,20 @@ All notable changes to the Disability Wiki project are documented in this file.
 
 ## [Unreleased]
 
+### Added
+- **In-app freshness notice on crisis pages** (2026-07-23,
+  [`site/src/components/AppBanner.astro`](site/src/components/AppBanner.astro)): the native
+  app ships a bundled snapshot of the site, so on a life-safety page the reader should know
+  they may be looking at a saved copy — and how to reach the current one. A crisis-page-only
+  notice now shows the bundle's build date ("You're reading a saved copy from …") and links
+  to the same page on the live origin. It is hidden by default and revealed only inside the
+  Capacitor shell (via `window.Capacitor`/`capacitor:` origin) once it can read the bundle's
+  build stamp; on the website the stamp doesn't exist and the origin is http, so it never
+  shows there. Counterpart to the install announcement (suppressed on crisis pages; this
+  shows only there). Verified in the simulator (shows with the correct date, dismissible) and
+  in the browser (stays hidden, no console errors). Phase 1A of
+  [`docs/app-remediation-plan.md`](docs/app-remediation-plan.md).
+
 ### Changed
 - **Native app upgraded to Capacitor 8** (2026-07-23,
   [`app/package.json`](app/package.json), [`app/ios/`](app/ios/)): Capacitor 6 reached

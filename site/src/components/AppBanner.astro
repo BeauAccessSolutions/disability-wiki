@@ -47,6 +47,36 @@ const t = isSpanish
 		};
 
 const href = isSpanish ? '/es/start/app' : '/start/app';
+
+/*
+ * In-app freshness notice (crisis pages only, native app only).
+ *
+ * The native app ships a bundled snapshot of the site. On a life-safety page, the
+ * reader deserves to know they may be looking at a saved copy — and how to reach the
+ * current one. This is Phase 1A of the app remediation plan: an HONEST snapshot. It is
+ * the counterpart to the announcement above (that one is suppressed on crisis pages;
+ * this one shows ONLY there), so the two never appear together.
+ *
+ * It stays hidden until an inline script confirms BOTH that we're inside the Capacitor
+ * shell AND that it can read the bundle's build stamp (public/app-build.json, written by
+ * build-release.sh). On the website that stamp doesn't exist, so this never shows there —
+ * the web is always live and needs no freshness caveat. `{date}` is filled in by the
+ * script from the stamp's builtAt.
+ */
+const tf = isSpanish
+	? {
+			text: 'Estás viendo una copia guardada del {date}. Cuando tengas conexión, los números más recientes están en el sitio web.',
+			link: 'Abrir la página en vivo',
+			dismiss: 'Descartar este aviso de actualización',
+			aria: 'Actualidad del contenido',
+		}
+	: {
+			text: "You're reading a saved copy from {date}. When you're online, the latest hotline numbers are on the website.",
+			link: 'Open the live page',
+			dismiss: 'Dismiss this freshness notice',
+			aria: 'Content freshness',
+		};
+const freshnessLocale = isSpanish ? 'es' : 'en-US';
 ---
 
 {/* Preserve the default per-page banner behaviour. */}
@@ -102,6 +132,76 @@ const href = isSpanish ? '/es/start/app' : '/start/app';
 			/* Not persistable — it still closes for this page view. */
 		}
 	});
+</script>
+)}
+
+{/*
+  In-app freshness notice. Starts hidden; the script reveals it only inside the app.
+  Rendered on crisis pages only. With JS off, or on the website, it never shows — the
+  safe direction for a caveat that must not appear where it would be false.
+*/}
+{isCrisis && (
+<aside class="dw-freshness" data-pagefind-ignore hidden aria-label={tf.aria}>
+	<p class="dw-freshness__text"><span class="dw-freshness__msg">{tf.text}</span>{' '}<a class="dw-freshness__link" href="https://disabilitywiki.org/">{tf.link}</a></p>
+	<button class="dw-freshness__close" type="button" aria-label={tf.dismiss}>
+		<svg aria-hidden="true" viewBox="0 0 16 16" width="16" height="16">
+			<path d="M4 4l8 8M12 4l-8 8" stroke="currentColor" stroke-width="2" stroke-linecap="round" fill="none" />
+		</svg>
+	</button>
+</aside>
+)}
+
+{isCrisis && (
+<script is:inline define:vars={{ tf, freshnessLocale }}>
+	(function () {
+		var el = document.querySelector('.dw-freshness');
+		if (!el) return;
+		// Only inside the native shell. On the website (any http origin) this is false.
+		var inApp =
+			(window.Capacitor && typeof window.Capacitor.isNativePlatform === 'function' && window.Capacitor.isNativePlatform()) ||
+			location.protocol === 'capacitor:';
+		if (!inApp) return;
+		try {
+			if (sessionStorage.getItem('dw-freshness-dismissed') === '1') return;
+		} catch (e) {
+			/* storage blocked — the notice still shows and stays dismissible for this view */
+		}
+
+		var close = el.querySelector('.dw-freshness__close');
+		if (close)
+			close.addEventListener('click', function () {
+				el.hidden = true;
+				try {
+					sessionStorage.setItem('dw-freshness-dismissed', '1');
+				} catch (e) {}
+			});
+
+		// The stamp only exists in the app bundle (build-release.sh writes it). Its
+		// absence — e.g. a bare `cap copy` dev build — simply leaves the notice hidden.
+		fetch('/app-build.json', { cache: 'no-store' })
+			.then(function (r) {
+				return r.ok ? r.json() : null;
+			})
+			.then(function (stamp) {
+				if (!stamp || !stamp.builtAt) return;
+				var d = new Date(stamp.builtAt);
+				var dateStr = isNaN(d.getTime())
+					? ''
+					: d.toLocaleDateString(freshnessLocale, { year: 'numeric', month: 'long', day: 'numeric' });
+				var msg = el.querySelector('.dw-freshness__msg');
+				// Drop the "from {date}" clause gracefully if the stamp date is unreadable.
+				msg.textContent = dateStr
+					? tf.text.replace('{date}', dateStr)
+					: tf.text.replace(/ from \{date\}|del \{date\}/, '');
+				var link = el.querySelector('.dw-freshness__link');
+				// The same path on the live origin: capacitor://localhost/crisis/x → the web page.
+				link.setAttribute('href', 'https://disabilitywiki.org' + location.pathname);
+				el.hidden = false;
+			})
+			.catch(function () {
+				/* offline or no stamp: leave the notice hidden rather than guess a date */
+			});
+	})();
 </script>
 )}
 
@@ -168,6 +268,69 @@ const href = isSpanish ? '/es/start/app' : '/start/app';
 
 	@media print {
 		.dw-banner {
+			display: none;
+		}
+	}
+
+	/* Freshness notice: same restrained treatment as the announcement bar, so the two
+	   read as one kind of aside. Amber accent rather than the theme accent — a freshness
+	   caveat is a mild caution, distinct from the "install the app" invitation. */
+	.dw-freshness {
+		display: flex;
+		align-items: center;
+		gap: 0.5rem;
+		padding: 0.5rem var(--sl-nav-pad-x);
+		background-color: var(--sl-color-orange-low, var(--sl-color-accent-low));
+		color: var(--sl-color-text);
+		border-inline-start: 3px solid var(--sl-color-orange, var(--sl-color-accent));
+		border-bottom: 1px solid var(--sl-color-hairline-shade);
+		font-size: var(--sl-text-sm);
+		line-height: var(--sl-line-height-headings);
+	}
+
+	.dw-freshness[hidden] {
+		display: none;
+	}
+
+	.dw-freshness__text {
+		flex: 1;
+		margin: 0;
+		text-wrap: pretty;
+	}
+
+	.dw-freshness__link {
+		color: var(--sl-color-text-accent);
+		text-underline-offset: 0.25em;
+		white-space: nowrap;
+	}
+
+	.dw-freshness__close {
+		flex-shrink: 0;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		width: 44px;
+		height: 44px;
+		margin: -0.5rem 0;
+		padding: 0;
+		border: 0;
+		border-radius: 0.25rem;
+		background: none;
+		color: var(--sl-color-text);
+		cursor: pointer;
+	}
+
+	.dw-freshness__close:hover {
+		background-color: var(--sl-color-gray-6);
+	}
+
+	.dw-freshness__close:focus-visible {
+		outline: 2px solid var(--sl-color-text-accent);
+		outline-offset: -2px;
+	}
+
+	@media print {
+		.dw-freshness {
 			display: none;
 		}
 	}
