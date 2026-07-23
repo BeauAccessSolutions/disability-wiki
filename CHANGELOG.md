@@ -24,6 +24,12 @@ All notable changes to the Disability Wiki project are documented in this file.
   the incident response doc.
 
 ### Added
+- **Privacy Policy page** (2026-07-23, [`privacy.md`](privacy.md) → `/privacy`): a plain
+  "we collect nothing" policy covering both the website and the native app — no accounts,
+  no tracking, no ads, no permissions; explains the app's offline behavior and its signed
+  content-update downloads. Serves as the privacy-policy URL for the App Store submission
+  (build 4), and good to have regardless. New top-level page, symlinked into the build
+  like `accessibility-statement.md`.
 - **Native crisis affordances in the app** (2026-07-23,
   [`app/ios/App/App/NativeAffordances.swift`](app/ios/App/App/NativeAffordances.swift)):
   the app is now a tool, not a wrapped website — and every native piece is crisis-first.
