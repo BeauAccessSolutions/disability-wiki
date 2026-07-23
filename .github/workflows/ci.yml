@@ -108,3 +108,23 @@ jobs:
       - name: Organization URL liveness (advisory)
         run: python3 scripts/check_claims.py --check-urls --max-figures 0
         continue-on-error: true
+
+  # BLOCKING, post-merge only: did this merge actually PUBLISH? The GitHub→
+  # Cloudflare Pages trigger died silently on 2026-07-19 and crisis-content
+  # fixes sat merged-but-unpublished for 4 days with every check green. This
+  # polls the live site (up to 10 min) until it serves this commit's OTA
+  # manifest — or a newer one (rapid merges supersede each other) — with a
+  # valid ed25519 signature. A red X here means the live site did NOT update:
+  # check the Pages Git integration, and rescue-deploy per the script's output
+  # and docs/INCIDENT_RESPONSE.md.
+  verify-live-deploy:
+    if: github.event_name == 'push'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+      - name: Live site serves this merge (signed)
+        working-directory: site
+        run: TIMEOUT_MIN=10 node tools/check-live-deploy.mjs ${{ github.sha }}

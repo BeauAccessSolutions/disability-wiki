@@ -6,6 +6,23 @@ All notable changes to the Disability Wiki project are documented in this file.
 
 ## [Unreleased]
 
+### Security
+- **Merges that don't publish are now a red X, not a silent gap** (2026-07-23,
+  [`site/tools/check-live-deploy.mjs`](site/tools/check-live-deploy.mjs),
+  [`.github/workflows/ci.yml`](.github/workflows/ci.yml),
+  [`docs/INCIDENT_RESPONSE.md`](docs/INCIDENT_RESPONSE.md)): the GitHub→Cloudflare
+  Pages trigger died silently on ~2026-07-19 and nothing noticed — crisis-content
+  sourcing fixes (#55/#56) and the app remediation stack sat merged-but-unpublished
+  for 4 days while production served PR #54, with every existing check green.
+  Recovery was a manual signed build + `wrangler pages deploy` (live again
+  2026-07-23 14:24 UTC, verified: BJS figure, freshness banner, signed OTA
+  manifest all serving). New `verify-live-deploy` CI job (blocking, post-merge):
+  polls the live `/ota/manifest.json` until it serves the merged commit — or a
+  newer deploy — with a valid ed25519 signature, so a dead deploy hook or a
+  missing `OTA_SIGNING_KEY` fails the merge loudly within 10 minutes. Runbook for
+  the stale-site case (detect → distinguish → rescue-deploy → root-cause) added to
+  the incident response doc.
+
 ### Added
 - **Native crisis affordances in the app** (2026-07-23,
   [`app/ios/App/App/NativeAffordances.swift`](app/ios/App/App/NativeAffordances.swift)):

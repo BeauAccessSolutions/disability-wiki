@@ -148,6 +148,33 @@ The DB/repo/build can be correct while the edge still serves the old HTML.
    `main`, CI on the PR should have caught it; if it didn't, the gap is a
    follow-up.
 
+### A merge did not publish — the live site is stale (SEV2, SEV1 if a crisis fix)
+
+This HAS happened (2026-07-19: the GitHub→Pages trigger died silently; crisis
+content fixes sat merged-but-unpublished for 4 days). "Publishing = merge to
+main" is an assumption, not a law.
+
+1. **Detection:** the `verify-live-deploy` CI job goes red on the merge — it
+   polls the live `/ota/manifest.json` until it serves the merged commit's SHA
+   with a valid signature. Manual check:
+   `curl -s https://disabilitywiki.org/ota/manifest.json | python3 -c "import json,sys; print(json.load(sys.stdin)['gitSha'])"`
+   vs `git rev-parse main`.
+2. **Distinguish** trigger-dead vs build-failing:
+   `CLOUDFLARE_ACCOUNT_ID=39d7ced651572ee48cca6a29e1feebe9 npx wrangler pages deployment list --project-name disability-wiki`
+   — no new deployment rows at all = the Git trigger is dead; failed rows = read
+   the build log (previous runbook).
+3. **Rescue deploy** (restores the live site now, independent of the trigger):
+   ```bash
+   cd site && OTA_SIGNING_KEY=<from the key ceremony> npm run build && \
+   CLOUDFLARE_ACCOUNT_ID=39d7ced651572ee48cca6a29e1feebe9 npx wrangler pages deploy dist --project-name disability-wiki --branch main --commit-dirty=true
+   ```
+   Without `OTA_SIGNING_KEY` the site still publishes but the OTA manifest is
+   unsigned — installed apps will refuse it until a signed deploy lands.
+4. **Root cause:** dashboard → Pages → `disability-wiki` → Settings → Builds &
+   deployments → Git integration (repo transfers and GitHub App permission
+   changes are the classic silent killers). Re-connect, then push a trivial
+   commit and watch `verify-live-deploy` go green.
+
 ---
 
 ## Post-incident
