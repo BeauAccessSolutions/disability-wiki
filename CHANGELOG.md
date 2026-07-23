@@ -6,6 +6,16 @@ All notable changes to the Disability Wiki project are documented in this file.
 
 ## [Unreleased]
 
+### Changed
+- **Native app upgraded to Capacitor 8** (2026-07-23,
+  [`app/package.json`](app/package.json), [`app/ios/`](app/ios/)): Capacitor 6 reached
+  end-of-support on 2026-01-20; the app is now on 8.4.2 (core/ios/cli, `@capacitor/app`
+  8.1.1). Near-zero-source change — the shell uses none of the deprecated App-plugin
+  types or CAP notifications v7/v8 altered, and Cap 8's `Router` protocol is identical
+  to what `WikiRouter` implements. iOS deployment target raised to 15.0 (v8 minimum).
+  Verified: clean `pod install`, `xcodebuild` BUILD SUCCEEDED under Xcode 26.6, and the
+  app launches and renders the bundled site in the simulator.
+
 ### Security
 - **Native iOS bundle can no longer ship stale life-safety content** (2026-07-23,
   [`app/tools/`](app/tools/), [`.github/workflows/ci.yml`](.github/workflows/ci.yml)):
