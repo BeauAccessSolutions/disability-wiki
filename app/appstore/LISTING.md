@@ -1,7 +1,57 @@
 # App Store listing — Disability Wiki
 
-Draft copy for App Store Connect submission. Fill these into the product page
+Copy for the App Store Connect submission. Fill these into the product page
 (English (U.S.) primary; Spanish (Mexico) localization below). Character limits noted.
+
+---
+
+## Field-by-field map of the version page
+
+Every field on **App Store Connect → your app → iOS App 1.0**, in the order it
+appears, with where the value lives.
+
+| Field on the page | What to enter |
+|---|---|
+| **Previews and Screenshots** | See "Screenshots" below — order matters |
+| **Promotional Text** | The block below (169 chars) |
+| **Description** | The block below |
+| **Keywords** | The block below (99 chars) |
+| **Support URL** | `https://disabilitywiki.org` |
+| **Marketing URL** | `https://disabilitywiki.org` |
+| **Version** | `1.0` |
+| **Copyright** | `2026 Beau Access Solutions` |
+| **Routing App Coverage File** | Skip — maps/navigation apps only |
+| **App Clip / iMessage App / In-App Purchases / Game Center** | None — skip all |
+| **Build** | Add the latest processed build |
+| **App Review → Sign-In Information** | **Leave "Sign-in required" UNCHECKED** (no account exists for any feature) |
+| **App Review → Contact Information** | Your name / phone / email |
+| **App Review → Notes** | Paste the Notes block from [`REVIEW-NOTES.md`](REVIEW-NOTES.md) |
+| **App Review → Attachment** | None needed |
+| **App Store Version Release** | **Manually release this version** — control when a first release goes live |
+
+**Not on this page, but required before you can submit** (left sidebar, on the
+*app* rather than the *version*): **App Privacy** → "Data Not Collected", and the
+**Age Rating** questionnaire. Both answered in [`REVIEW-NOTES.md`](REVIEW-NOTES.md).
+
+## Screenshots
+
+Two sets are in `screenshots/`, both generated from a real build:
+
+- **`6.9-inch/`** — 1320×2868, the native captures. Upload via *View All Sizes in
+  Media Manager* → 6.9" slot.
+- **`6.5-inch/`** — 1284×2778, resized from the above (aspect differs by 0.4%, so
+  they're scaled and trimmed ~12px rather than distorted). These fit the 6.5" slot
+  shown by default on the version page.
+
+Apple only needs **one** iPhone size — use whichever slot your page offers.
+
+**Upload order matters: only the first 3 appear on the app installation sheet.**
+Lead with the differentiator:
+
+1. `2-crisis-hub` — offline crisis page with the freshness banner and Crisis button
+2. `3-offline-search` — search working with no connection
+3. `1-home` — what the app is
+4. `4-content-status` — the update mechanism
 
 ---
 
@@ -70,6 +120,17 @@ https://disabilitywiki.org
 ```
 https://disabilitywiki.org
 ```
+
+## Version
+```
+1.0
+```
+
+## Copyright (200 char max)
+```
+2026 Beau Access Solutions
+```
+*(App Store convention is year + rights holder, with no "©" — Apple adds it.)*
 
 ## Category
 - Primary: **Reference**
