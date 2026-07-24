@@ -23,6 +23,16 @@ All notable changes to the Disability Wiki project are documented in this file.
   the stale-site case (detect → distinguish → rescue-deploy → root-cause) added to
   the incident response doc.
 
+### Fixed
+- **Descriptive link text on higher-education resource links** (2026-07-23,
+  [`education/higher-education.md`](education/higher-education.md),
+  [`es/education/higher-education.md`](es/education/higher-education.md)): six links
+  (3 EN + 3 ES) used a bare `www.` URL as their visible text, which VoiceOver reads
+  aloud as a URL rather than a name. Every other entry in the same list already uses a
+  plain domain after a bold org name; these just kept the `www.` prefix (and one a full
+  path). Normalized to match — this clears the only non-emoji finding in the content
+  accessibility audit, so the descriptive-link-text baseline is now zero.
+
 ### Added
 - **Medication-and-swallowing note on the cooking page** (2026-07-23,
   [`daily-living/cooking-and-nutrition.md`](daily-living/cooking-and-nutrition.md),

@@ -323,16 +323,16 @@ Document everything. Report to disability services, ADA/civil rights coordinator
 
 - **U.S. Department of Education Office for Civil Rights**: ocr@ed.gov, 1-800-421-3481
 - **National Center for College Students with Disabilities**: [nccsd.ici.umn.edu](https://nccsd.ici.umn.edu)
-- **AHEAD (Association on Higher Education and Disability)**: [www.ahead.org](https://www.ahead.org)
+- **AHEAD (Association on Higher Education and Disability)**: [ahead.org](https://www.ahead.org)
 - **Disability Rights Advocates**: [dralegal.org](https://dralegal.org)
 
 ### Canada
 
-- **National Educational Association of Disabled Students (NEADS)**: [www.neads.ca](https://www.neads.ca)
+- **National Educational Association of Disabled Students (NEADS)**: [neads.ca](https://www.neads.ca)
 
 ### United Kingdom
 
-- **Disabled Students' Allowance**: [www.gov.uk/disabled-students-allowance-dsa](https://www.gov.uk/disabled-students-allowance-dsa)
+- **Disabled Students' Allowance**: [gov.uk/disabled-students-allowance-dsa](https://www.gov.uk/disabled-students-allowance-dsa)
 - **Disabled Students UK**: [disabledstudents.co.uk](https://disabledstudents.co.uk)
 
 ### Australia
