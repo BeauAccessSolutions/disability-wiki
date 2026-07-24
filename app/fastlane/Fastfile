@@ -110,7 +110,15 @@ end
 platform :ios do
   desc "Bump build, verify content, archive, and upload to TestFlight"
   lane :beta do
-    ensure_git_status_clean
+    # A release must not build from uncommitted TRACKED changes — the bump we're
+    # about to commit would sweep them in, and the archive stamp would then point
+    # at a commit that doesn't match what shipped. Untracked files are fine: they
+    # never enter the archive (the bundle comes from build-release.sh), and this
+    # repo legitimately carries untracked scratch. So check tracked state only,
+    # rather than ensure_git_status_clean, which also trips on untracked files.
+    unless sh("git diff --quiet && git diff --cached --quiet ; echo $?", log: false).strip == "0"
+      UI.user_error!("Uncommitted changes to tracked files — commit or stash them first.")
+    end
     ensure_git_branch(branch: "main")
 
     build = bump_build_number!
