@@ -175,12 +175,20 @@ also makes them immutable (a changed file is a different URL), so they cache for
 and Pages re-uploads only the delta. Integrity is unchanged — the sha256 still comes
 from the signed manifest.
 
-**The trap, for whoever tests this next:** `wrangler pages dev` and any plain static
-server serve origin bytes with **none** of the edge features on, so they cannot
-reproduce this class of failure. That is exactly why the 2026-07-23 E2E test passed
-on a channel that was already dead. Before believing OTA works, fetch a real html
-page from the real origin and compare its sha256 to the manifest — that one command
-is the whole test:
+**The trap, for whoever tests this next.** Three surfaces all serve this site, and
+only one of them rewrites html — measured 2026-07-25 on the same commit:
+
+| Surface | Injects `__CF$cv$params` into html? |
+|---|---|
+| `wrangler pages dev` / `python3 -m http.server` | no |
+| `https://<branch>.disability-wiki.pages.dev` (PR preview) | **no** |
+| `https://disabilitywiki.org` (the zone) | **yes** |
+
+The zone settings that do the rewriting are attached to the custom domain, not to
+`*.pages.dev`, so **the PR preview is as misleading as a local server**. That is
+exactly why the 2026-07-23 E2E test passed on a channel that was already dead.
+Before believing OTA works, compare a real html page from the **production** origin
+against the manifest — that one command is the whole test:
 
 ```bash
 curl -sL https://disabilitywiki.org/crisis/index.html | shasum -a 256
@@ -219,6 +227,11 @@ signed with the production key so the pinned `publicKeyB64` was the one under te
 | Server down (dead port) | `serverUnavailable` — *"Could not connect to the server."* |
 | Tampered `manifest.sig` | `signatureRejected` — *"manifest signature invalid or missing"* |
 | Blob corrupted by one byte (what the edge was doing) | `contentRejected` — *"hash mismatch for /crisis/index.html"*, nothing staged, previous root still serving |
+
+And against a real Cloudflare deploy of this branch: every sampled blob returned 200
+as `application/octet-stream` and hashed to its own name, **including `_headers` and
+`_redirects`**, which 404 at their site paths. The blob store is therefore the only
+route by which the full manifest is fetchable at all.
 
 Debug builds print the status sheet's exact text to stdout at launch and after each
 check, so `xcrun simctl launch --console-pty <udid> org.disabilitywiki.app` is a
