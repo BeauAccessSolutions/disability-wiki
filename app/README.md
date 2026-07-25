@@ -141,17 +141,56 @@ and nothing unsigned can ever be installed. How it works:
   file — and `manifest.sig`, an ed25519 signature over the manifest's exact bytes.
   The private key comes from the `OTA_SIGNING_KEY` env var; without it the manifest
   is written unsigned and **clients refuse it** (local builds are unsigned on purpose).
+  It also republishes every file under the hash of its own bytes as a **blob store**
+  at `dist/ota/blobs/<first2>/<sha256>` — see "Why blobs" below; that is where the
+  app downloads from. Blobs are hard links, so the second copy costs no disk, and
+  `build-release.sh` strips them from the app bundle after `cap copy`.
 - **App side** ([`ios/App/App/OTAUpdater.swift`](ios/App/App/OTAUpdater.swift)): on
   launch, fetch manifest+sig from disabilitywiki.org, verify against the public key
-  compiled into the binary, delta-download only changed files (each verified against
-  its sha256 from the *signed* manifest), stage a complete root (unchanged files
-  hard-linked), and activate **on the next launch** — never mid-session. The previous
-  root is kept for rollback; a root that fails launch-time validation falls back
-  previous → bundle. A new binary always discards older OTA state.
+  compiled into the binary, delta-download the changed files from the blob store
+  (each verified against its sha256 from the *signed* manifest), stage a complete
+  root (unchanged files hard-linked), and activate **on the next launch** — never
+  mid-session. The previous root is kept for rollback; a root that fails launch-time
+  validation falls back previous → bundle. A new binary always discards older OTA state.
 - **Freshness banner**: the OTA root carries its own `app-build.json`, so the
   crisis-page banner automatically shows the OTA date once an update lands.
-- **CI**: `tools/ota-sign.selftest.sh` proves sign→verify round-trips and tampering
-  is rejected, every PR.
+- **CI**: `tools/ota-sign.selftest.sh` proves sign→verify round-trips, tampering is
+  rejected, and every manifest entry has a fetchable blob — every PR.
+
+### Why blobs, and the test trap that hid a dead channel for two days
+
+Until 2026-07-25 the app downloaded each changed file from its real site URL. Through
+Cloudflare that can never work. The edge **rewrites html responses**: Email
+Obfuscation turns `mailto:` into `/cdn-cgi/l/email-protection`, and Bot Management
+injects a `__CF$cv$params` challenge script. So the bytes the app received never
+matched the sha256 in the signed manifest, every update aborted on its first html
+file, and — since a crisis-number fix *is* an html change — the channel had never
+once delivered the thing it exists to deliver. Two files, `_headers` and `_redirects`,
+were also unfetchable: Pages consumes them as config and 404s them.
+
+The blob store fixes all of it at once. Blobs have no extension and are pinned to
+`Content-Type: application/octet-stream` by [`site/public/_headers`](../site/public/_headers),
+which keeps them outside every html transform, present and future. Content-addressing
+also makes them immutable (a changed file is a different URL), so they cache forever
+and Pages re-uploads only the delta. Integrity is unchanged — the sha256 still comes
+from the signed manifest.
+
+**The trap, for whoever tests this next:** `wrangler pages dev` and any plain static
+server serve origin bytes with **none** of the edge features on, so they cannot
+reproduce this class of failure. That is exactly why the 2026-07-23 E2E test passed
+on a channel that was already dead. Before believing OTA works, fetch a real html
+page from the real origin and compare its sha256 to the manifest — that one command
+is the whole test:
+
+```bash
+curl -sL https://disabilitywiki.org/crisis/index.html | shasum -a 256
+```
+
+If the edge ever starts rewriting non-html too, this is the symptom to expect and
+`Content-Type` is the lever. The zone-settings alternative (turning Email
+Obfuscation and Bot Fight Mode off) was rejected deliberately: it puts a
+life-safety update path at the mercy of a dashboard toggle nobody would connect to
+a stale crisis number months later.
 
 **Key ceremony (one-time, required before OTA goes live):** run
 `node app/tools/ota-keygen.mjs`; add the printed PRIVATE key as a Cloudflare Pages
@@ -167,6 +206,24 @@ wrangler `pages dev` → fetched, verified, staged, activated on relaunch, conte
 change visible in-app with the banner showing the new date; an **unsigned** manifest
 was refused (pointer unchanged); a **corrupted** active root was detected at launch
 and rolled back to the bundle.
+
+Re-verified after the blob-store fix (2026-07-25, iPhone 17 Pro simulator, content
+signed with the production key so the pinned `publicKeyB64` was the one under test):
+
+| Scenario | Result |
+|---|---|
+| Live `https://disabilitywiki.org` (still schema 1) | refused, `manifestInvalid` — *"server manifest has no blob store"* |
+| Signed schema-2 update, one changed file | one blob fetched, `staged`, pointer moved, `OTAPendingVersion` set |
+| Relaunch | activated; Source flipped to *"downloaded, signature-verified update"*; the new content **rendered** in the webview (it exists in no bundle) |
+| Second relaunch | `upToDate`; pending flag cleared |
+| Server down (dead port) | `serverUnavailable` — *"Could not connect to the server."* |
+| Tampered `manifest.sig` | `signatureRejected` — *"manifest signature invalid or missing"* |
+| Blob corrupted by one byte (what the edge was doing) | `contentRejected` — *"hash mismatch for /crisis/index.html"*, nothing staged, previous root still serving |
+
+Debug builds print the status sheet's exact text to stdout at launch and after each
+check, so `xcrun simctl launch --console-pty <udid> org.disabilitywiki.app` is a
+complete diagnostic loop. Note `CAPLog.print` is block-buffered on a plain pipe —
+use `--console-pty`, not `--console`, or you will see nothing and conclude wrongly.
 
 ## Native affordances (Phase 2 — built 2026-07-23)
 

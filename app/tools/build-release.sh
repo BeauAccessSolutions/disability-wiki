@@ -31,6 +31,12 @@ npm --prefix "$ROOT/site" run build
 say "2/5  Syncing web assets into the iOS bundle (cap copy ios)"
 ( cd "$APP" && npx cap copy ios )
 
+# site/dist carries a second, content-addressed copy of every file under
+# ota/blobs — that is the OTA download source on the server, and shipping it
+# inside the binary would double the app for nothing. The manifest stays: the
+# client diffs against it to work out what to download.
+rm -rf "$APP/ios/App/App/public/ota/blobs"
+
 say "3/5  Rewriting the in-app contribute form into a live hand-off"
 node "$TOOLS/native-contribute.mjs"
 
