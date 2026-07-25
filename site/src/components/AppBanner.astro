@@ -87,15 +87,31 @@ const freshnessLocale = isSpanish ? 'es' : 'en-US';
   paints — no flash, no layout shift. Setting the flag on <html> rather than hiding the
   element is the same no-flash pattern Starlight uses for theme. With JS off nothing
   runs and the banner simply shows, which is the safe direction to fail.
+
+  Also suppressed inside the native app. The same bundled HTML serves the website and
+  the app, so this can only be decided at runtime — the announcement says "a native app
+  is on the way" and links to install instructions, which is nonsense shown to someone
+  already reading it *in* the native app, and reads as an update/upgrade prompt. Same
+  native check the freshness notice below uses, just the opposite direction: that one
+  shows ONLY in the app, this one shows only OUTSIDE it.
 */}
 {!isCrisis && (
 <script is:inline define:vars={{ ANNOUNCEMENT_ID }}>
-	try {
-		if (localStorage.getItem('dw-announcement-dismissed') === ANNOUNCEMENT_ID) {
-			document.documentElement.dataset.dwAnnouncement = 'dismissed';
+	const native =
+		(window.Capacitor &&
+			typeof window.Capacitor.isNativePlatform === 'function' &&
+			window.Capacitor.isNativePlatform()) ||
+		location.protocol === 'capacitor:';
+	if (native) {
+		document.documentElement.dataset.dwAnnouncement = 'dismissed';
+	} else {
+		try {
+			if (localStorage.getItem('dw-announcement-dismissed') === ANNOUNCEMENT_ID) {
+				document.documentElement.dataset.dwAnnouncement = 'dismissed';
+			}
+		} catch {
+			/* Private mode or blocked storage: show the banner. It stays dismissible. */
 		}
-	} catch {
-		/* Private mode or blocked storage: show the banner. It stays dismissible. */
 	}
 </script>
 )}

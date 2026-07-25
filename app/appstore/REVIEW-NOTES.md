@@ -55,9 +55,23 @@ Connect will not prompt for a CCATS/year-end self-classification.
 
 ## Age Rating questionnaire
 
-**Expected result: 17+**, driven by Mature Themes plus the medical declaration.
-That is correct and appropriate for an adult reference resource about abuse,
-crisis, and rights. Do not engineer it lower.
+**Actual result: 16+** (entered and saved 2026-07-25), driven by Mature Themes plus
+the medical declaration. Apple's current scale has no 17+ tier — devices on OS
+versions earlier than 26 show the equivalent 17+. Korea 15+, Brazil per its own
+board. That is correct and appropriate for an adult reference resource about abuse,
+crisis, and rights. **Do not engineer it lower** — but do keep it *accurate*: the
+first pass entered four answers that didn't match the measured table below
+(Profanity Infrequent, Drugs Frequent, Sexual Content Infrequent, and Realistic
+Violence **None**), which inflated the result to 18+ *and* under-declared violence.
+Correcting all four to the measured values is what produced 16+. It also dropped the
+local-law sale restriction from 7 countries to none (at Reference/Education
+categories).
+
+⚠️ Answering **Frequent** to "Medical or Treatment Information" makes App Store
+Connect require a **Regulated Medical Device Declaration** (App Information →
+App Store Regulations & Permits). Answer: **No** — the wiki gives management
+*information*, and has no diagnosis, monitoring, or treatment function. Left for
+Zach to attest personally.
 
 Every answer below was **measured against the content**, not estimated. Counts are
 English pages; `es/` mirrors them.
@@ -124,13 +138,41 @@ your own community-built material plus references/links to public resources. Ans
 ---
 
 ## Pre-submission checklist
-- [ ] Build 4 processed and selected on the version
-- [ ] Screenshots uploaded (6.9" required; `screenshots/6.9-inch/`) — 6.5" optional
-- [ ] Description / keywords / subtitle / promo text (see LISTING.md), EN + ES
-- [ ] Support URL set
-- [ ] Privacy Policy URL set (REQUIRED — draft in PRIVACY-POLICY.md)
-- [ ] App Privacy = Data Not Collected
-- [ ] Age rating questionnaire completed
-- [ ] Review notes pasted (above)
-- [ ] Pricing = Free
-```
+
+Engineering side (verifiable from this repo — all green as of 2026-07-25):
+- [x] Build 6 archived and accepted by App Store Connect (2026-07-24, upload state
+      `success`; archive stamp `6059a18` == its commit)
+- [x] OTA channel live and signed — `/ota/manifest.sig` verifies against the pubkey
+      pinned in `OTAUpdater.swift`, so the key ceremony is done and updates activate
+- [x] Privacy policy live at https://disabilitywiki.org/privacy
+- [x] Screenshots generated (`screenshots/6.9-inch/` + `6.5-inch/`)
+
+App Store Connect console (verified in the console 2026-07-25):
+- [x] Build 6 processed ("Ready to Submit") and attached to version 1.0
+- [x] Screenshots uploaded — 4 at the 6.5" slot; ES localization inherits them
+- [x] Description / keywords / subtitle / promo text, **EN + ES (Spanish (Mexico))**
+- [x] Support + Marketing URL, Version 1.0, Copyright
+- [x] Privacy Policy URL set to https://disabilitywiki.org/privacy
+- [x] App Privacy = Data Not Collected (published)
+- [x] Age rating questionnaire completed → **16+** (see correction note above)
+- [x] Review notes pasted; Sign-in required **unchecked**; contact info filled
+- [x] Pricing = Free, availability = all 175 countries or regions
+- [x] Primary category **Reference**, secondary **Education**
+- [x] Content Rights = yes, rights held
+- [x] App Store Version Release = **Manually release this version**
+- [x] App Accessibility draft: Larger Text, Dark Interface, Sufficient Contrast,
+      Reduced Motion (iPhone). VoiceOver deliberately NOT claimed until the
+      real-device pass. Apple only lets you **Publish** this after the app is
+      released — do it then.
+- [ ] **Regulated Medical Device Declaration** — required because Medical/Treatment
+      Information is "Frequent". Answer **No**. Zach's own attestation
+- [ ] **Digital Services Act trader verification** (App Information → App Store
+      Regulations & Permits). Needed for EU distribution; publishes trader contact
+      details, so Zach decides what to enter
+
+Still to do (on a real iPhone, from the TestFlight build — the simulator cannot
+answer any of these):
+- [ ] Home-screen quick actions appear in the icon long-press menu and deep-link
+- [ ] A `tel:` link raises the system dial prompt
+- [ ] System text-size changes scale the content (Dynamic Type bridge)
+- [ ] Crisis pages surface in Spotlight search
