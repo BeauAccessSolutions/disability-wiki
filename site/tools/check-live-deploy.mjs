@@ -30,8 +30,25 @@ import { createPublicKey, verify, createHash } from 'node:crypto';
 
 const LIVE = process.env.LIVE_URL || 'https://disabilitywiki.org';
 const TIMEOUT_MIN = Number(process.env.TIMEOUT_MIN || 8);
+
+// Validate argv rather than treating whatever arrives as a commit SHA. An older
+// copy of this script (or a typo'd flag) used to swallow `--channel-only` as the
+// SHA to wait for, then poll for the full timeout and report "not --channe" —
+// eight minutes to say "you are running the wrong file".
+const CHANNEL_ONLY = '--channel-only';
+const args = process.argv.slice(2);
+const unknown = args.filter((a) => a !== CHANNEL_ONLY && !/^[0-9a-f]{7,40}$/i.test(a));
+if (unknown.length) {
+  console.error(
+    `✗ unrecognized argument: ${unknown.join(' ')}\n` +
+      `  usage: node check-live-deploy.mjs [full-commit-sha]   (poll until deployed)\n` +
+      `         node check-live-deploy.mjs ${CHANNEL_ONLY}      (is the channel healthy now?)\n` +
+      `  If you expected ${CHANNEL_ONLY} to work, this checkout predates it — it landed in PR #71.`
+  );
+  process.exit(2);
+}
 const expected =
-  process.argv[2] || execSync('git rev-parse HEAD').toString().trim();
+  args.find((a) => a !== CHANNEL_ONLY) || execSync('git rev-parse HEAD').toString().trim();
 
 // Same raw ed25519 public key that is compiled into the iOS app (OTAUpdater.swift).
 const PUB_B64 = 'FJ3cdXKy8s/zSH83UtiEkF/Us5UYyiLN0rGhqngepGw=';
