@@ -191,8 +191,14 @@ Before believing OTA works, compare a real html page from the **production** ori
 against the manifest — that one command is the whole test:
 
 ```bash
-curl -sL https://disabilitywiki.org/crisis/index.html | shasum -a 256
+node site/tools/check-live-deploy.mjs --channel-only
 ```
+
+That fetches the live manifest and pulls a sample of crisis pages through the blob
+store exactly as the app does, failing if any byte differs from its signed hash. It
+is the first thing to run when someone reports stale content inside the app, and the
+same check now runs post-merge in `verify-live-deploy` — a green signature is not a
+working channel, and for two days that distinction was the whole bug.
 
 If the edge ever starts rewriting non-html too, this is the symptom to expect and
 `Content-Type` is the lever. The zone-settings alternative (turning Email

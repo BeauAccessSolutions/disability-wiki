@@ -47,6 +47,16 @@ All notable changes to the Disability Wiki project are documented in this file.
   `ISO8601DateFormatter` silently failed on the manifest's fractional-second
   timestamps, which had disabled the "never move backwards" guard against a stale
   edge cache rolling crisis content back.
+- **The post-merge deploy probe passed while the update channel was dead** (2026-07-25,
+  [`site/tools/check-live-deploy.mjs`](site/tools/check-live-deploy.mjs)): it proved the
+  live manifest was fresh and signed, which is not the same as an app being able to
+  apply an update — and for two days it went green on both counts while no installed
+  app could. It now also pulls a sample of crisis pages through the blob store from
+  **production** (the only surface where Cloudflare's html rewriting is on; a
+  `*.pages.dev` preview and `wrangler pages dev` both serve unrewritten origin bytes,
+  which is what made this invisible) and fails if any byte differs from its signed
+  hash. `--channel-only` runs the same check on demand — the health check to reach for
+  when someone reports stale content inside the app.
 - **The app reported every OTA failure as "offline or unavailable"** (2026-07-25,
   [`app/ios/App/App/OTAUpdater.swift`](app/ios/App/App/OTAUpdater.swift),
   [`app/ios/App/App/NativeAffordances.swift`](app/ios/App/App/NativeAffordances.swift)):
