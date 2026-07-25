@@ -71,6 +71,17 @@ All notable changes to the Disability Wiki project are documented in this file.
   technical detail line, tells you when a verified update is waiting for a restart,
   and shows the result of a "check now" instead of firing it off silently. Debug
   builds dump the same text to stdout at launch.
+- **The native app no longer tells its own users to install the app** (2026-07-25,
+  [`site/src/components/AppBanner.astro`](site/src/components/AppBanner.astro)): the
+  install announcement was gated only on `!isCrisis`, with no native check, so inside
+  the iOS app every non-crisis page — including the home page it cold-launches to —
+  showed "Add Disability Wiki to your home screen … A native app is on the way. How to
+  install", linking to `/start/app`. Found on a real device against TestFlight build 6,
+  where it reads as an update prompt stacked on the app you already have. The component
+  carries two banners with opposite platform targeting; the freshness notice was
+  correctly app-only, the announcement was not web-only. Now suppressed at runtime via
+  the same `Capacitor.isNativePlatform()` / `capacitor:` check, set in the pre-paint
+  script so nothing flashes. Website behaviour unchanged.
 - **Descriptive link text on higher-education resource links** (2026-07-23,
   [`education/higher-education.md`](education/higher-education.md),
   [`es/education/higher-education.md`](es/education/higher-education.md)): six links
