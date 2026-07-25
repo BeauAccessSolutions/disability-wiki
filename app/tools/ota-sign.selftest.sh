@@ -23,9 +23,9 @@ PUB="$(awk '/PUBLIC/{getline; print; exit}' "$TMP/keys.txt")"
 echo "== sign: generate a signed manifest with the throwaway key =="
 ( cd "$ROOT/site" && OTA_SIGNING_KEY="$PRIV" node tools/gen-ota-manifest.mjs )
 
-echo "== verify: signature + a sampled crisis file hash must PASS =="
+echo "== verify: signature, blob store, and a sampled crisis file hash must PASS =="
 PUB="$PUB" DIST="$DIST" node - <<'EOF'
-const { readFileSync } = require('node:fs');
+const { readFileSync, existsSync } = require('node:fs');
 const { createPublicKey, verify, createHash } = require('node:crypto');
 const dist = process.env.DIST;
 const bytes = readFileSync(dist + '/ota/manifest.json');
@@ -40,7 +40,30 @@ const probe = '/crisis/abuse-neglect-exploitation/index.html';
 if (!m.files[probe]) { console.error('manifest missing ' + probe); process.exit(1); }
 const h = createHash('sha256').update(readFileSync(dist + probe)).digest('hex');
 if (h !== m.files[probe].sha256) { console.error('hash mismatch for ' + probe); process.exit(1); }
-console.log(`ok: signature valid, ${m.fileCount} files, crisis probe hash matches`);
+
+// The blob store is what makes this channel survive Cloudflare's edge (it
+// rewrites html, so per-path downloads can never match their signed hash — see
+// gen-ota-manifest.mjs). A manifest whose entries aren't all fetchable as blobs
+// is a channel that fails partway through an update, so check every one.
+if (m.schema !== 2 || m.blobPath !== '/ota/blobs') {
+  console.error(`expected schema 2 with blobPath /ota/blobs, got schema ${m.schema} / ${m.blobPath}`);
+  process.exit(1);
+}
+const blobFor = (sha) => `${dist}/ota/blobs/${sha.slice(0, 2)}/${sha}`;
+const missing = Object.entries(m.files).filter(([, e]) => !existsSync(blobFor(e.sha256)));
+if (missing.length) {
+  console.error(`${missing.length} manifest entries have no blob, e.g. ${missing[0][0]}`);
+  process.exit(1);
+}
+// And a blob must actually BE its name, or the client rejects the download.
+const probeBlob = readFileSync(blobFor(m.files[probe].sha256));
+if (createHash('sha256').update(probeBlob).digest('hex') !== m.files[probe].sha256) {
+  console.error('blob content does not match its own hash for ' + probe);
+  process.exit(1);
+}
+console.log(
+  `ok: signature valid, ${m.fileCount} files, all blobs present, crisis probe hash matches`
+);
 EOF
 
 echo "== tamper: a flipped manifest byte must FAIL verification =="

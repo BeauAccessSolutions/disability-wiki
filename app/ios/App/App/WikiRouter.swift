@@ -120,7 +120,18 @@ class WikiBridgeViewController: CAPBridgeViewController {
         super.capacitorDidLoad()
         // Off the launch path: fetch → verify signature → stage. A staged update
         // activates on the NEXT launch, never mid-session.
+        #if DEBUG
+        // Debug builds dump the status sheet's exact text to stdout once the check
+        // settles, so `simctl launch --console` is a complete diagnostic loop. The
+        // OTA channel was dead on real devices for two days partly because the only
+        // way to see its state was to long-press a button and read an alert.
+        CAPLog.print("⚡️  OTA status at launch:\n\(OTAUpdater.shared.statusSummary(spanish: false))")
+        OTAUpdater.shared.checkForUpdateInBackground {
+            CAPLog.print("⚡️  OTA status after check:\n\(OTAUpdater.shared.statusSummary(spanish: false))")
+        }
+        #else
         OTAUpdater.shared.checkForUpdateInBackground()
+        #endif
         // Native affordances: the always-reachable crisis button, and any
         // home-screen quick action that arrived before the webview was ready.
         CrisisButton.install(in: self)

@@ -24,6 +24,53 @@ All notable changes to the Disability Wiki project are documented in this file.
   the incident response doc.
 
 ### Fixed
+- **The app's signed OTA content channel could never deliver an update** (2026-07-25,
+  [`site/tools/gen-ota-manifest.mjs`](site/tools/gen-ota-manifest.mjs),
+  [`site/public/_headers`](site/public/_headers),
+  [`app/ios/App/App/OTAUpdater.swift`](app/ios/App/App/OTAUpdater.swift),
+  [`app/tools/build-release.sh`](app/tools/build-release.sh)): this is the path a
+  corrected crisis hotline number takes to installed apps without an App Store
+  release, and on a real device (TestFlight build 6) it had never once activated.
+  The client downloaded each changed file from its site URL, but Cloudflare
+  **rewrites html at the edge** — Email Obfuscation replaces `mailto:` links, Bot
+  Management injects a `__CF$cv$params` script — so the bytes never matched the
+  sha256 in the signed manifest and every update aborted on its first html file.
+  A crisis-number fix *is* an html change, so the channel was dead for exactly the
+  content it exists to carry. (`_headers` and `_redirects` were also in the manifest
+  but 404 — Pages consumes them as config.) The publish side now republishes every
+  file under the hash of its own bytes at `/ota/blobs/<first2>/<sha256>`, pinned to
+  `Content-Type: application/octet-stream` so no html transform can touch it;
+  manifest schema 2 carries the blob path and clients refuse a manifest without one
+  rather than fall back to corruptible path fetches. Integrity is unchanged (hashes
+  still come from the signed manifest); blobs are hard links, so dist gains no disk,
+  and `build-release.sh` strips them from the app bundle. Also fixed:
+  `ISO8601DateFormatter` silently failed on the manifest's fractional-second
+  timestamps, which had disabled the "never move backwards" guard against a stale
+  edge cache rolling crisis content back.
+- **The post-merge deploy probe passed while the update channel was dead** (2026-07-25,
+  [`site/tools/check-live-deploy.mjs`](site/tools/check-live-deploy.mjs)): it proved the
+  live manifest was fresh and signed, which is not the same as an app being able to
+  apply an update — and for two days it went green on both counts while no installed
+  app could. It now also pulls a sample of crisis pages through the blob store from
+  **production** (the only surface where Cloudflare's html rewriting is on; a
+  `*.pages.dev` preview and `wrangler pages dev` both serve unrewritten origin bytes,
+  which is what made this invisible) and fails if any byte differs from its signed
+  hash. `--channel-only` runs the same check on demand — the health check to reach for
+  when someone reports stale content inside the app. The polling mode also narrates
+  itself now (it used to sit silent for up to 8 minutes, which read as a hung process
+  when run from a feature branch whose SHA production will never serve).
+- **The app reported every OTA failure as "offline or unavailable"** (2026-07-25,
+  [`app/ios/App/App/OTAUpdater.swift`](app/ios/App/App/OTAUpdater.swift),
+  [`app/ios/App/App/NativeAffordances.swift`](app/ios/App/App/NativeAffordances.swift)):
+  the content-status sheet collapsed a dead network, a down server, a rejected
+  signature, a failed integrity check and a full disk into one misleading string —
+  which is why a permanently-broken update channel looked like a phone with bad
+  signal for two days. The sheet now names the actual outcome (up to date /
+  downloaded and verified / no internet / could not reach the site / signature did
+  not verify / a file did not match its signature / could not be saved) with a
+  technical detail line, tells you when a verified update is waiting for a restart,
+  and shows the result of a "check now" instead of firing it off silently. Debug
+  builds dump the same text to stdout at launch.
 - **The native app no longer tells its own users to install the app** (2026-07-25,
   [`site/src/components/AppBanner.astro`](site/src/components/AppBanner.astro)): the
   install announcement was gated only on `!isCrisis`, with no native check, so inside

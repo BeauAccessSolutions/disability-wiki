@@ -168,9 +168,28 @@ enum StatusSheet {
             preferredStyle: .alert
         )
         alert.addAction(UIAlertAction(title: es ? "Buscar actualizaciones" : "Check for updates now", style: .default) { _ in
-            OTAUpdater.shared.checkForUpdateInBackground()
+            check(from: vc, spanish: es)
         })
         alert.addAction(UIAlertAction(title: es ? "Cerrar" : "Done", style: .cancel))
         vc.present(alert, animated: !UIAccessibility.isReduceMotionEnabled)
+    }
+
+    /// Run a check the reader asked for, and show them the result. Firing it off
+    /// silently is how a permanently-failing update channel goes unnoticed — the
+    /// outcome has to come back to whoever pressed the button.
+    private static func check(from vc: WikiBridgeViewController, spanish es: Bool) {
+        let animated = !UIAccessibility.isReduceMotionEnabled
+        let progress = UIAlertController(
+            title: es ? "Buscando actualizaciones…" : "Checking for updates…",
+            message: nil,
+            preferredStyle: .alert
+        )
+        vc.present(progress, animated: animated) {
+            // VoiceOver users get no visual spinner; say it out loud.
+            UIAccessibility.post(notification: .announcement, argument: progress.title)
+        }
+        OTAUpdater.shared.checkForUpdateInBackground {
+            progress.dismiss(animated: animated) { present(from: vc) }
+        }
     }
 }

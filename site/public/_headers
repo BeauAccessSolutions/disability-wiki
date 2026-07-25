@@ -7,5 +7,20 @@
   Cache-Control: no-cache
 # The OTA update manifest has the same property for the native app: served stale,
 # it would pin installed apps to old crisis content after a fix ships.
-/ota/*
+/ota/manifest.json
   Cache-Control: no-cache
+/ota/manifest.sig
+  Cache-Control: no-cache
+# OTA content blobs are named by the sha256 of their own bytes, so they are
+# immutable — a changed file is a different URL, never a stale one.
+#
+# The Content-Type is load-bearing, not decoration. Cloudflare rewrites html
+# responses at the edge (Email Obfuscation, Bot Management's __CF$cv$params
+# script), and the app checks every downloaded file against the sha256 in the
+# SIGNED manifest. An edge-rewritten byte is indistinguishable from a tampered
+# one, so any such rewrite fails the whole update — which is exactly how this
+# channel was silently dead until 2026-07-25. Pinning blobs to octet-stream
+# keeps them outside every html transform, present and future.
+/ota/blobs/*
+  Content-Type: application/octet-stream
+  Cache-Control: public, max-age=31536000, immutable
