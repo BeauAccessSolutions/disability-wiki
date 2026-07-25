@@ -101,6 +101,14 @@ if (process.argv.includes('--channel-only')) {
   process.exit(0);
 }
 
+// Say what we are doing before going quiet for up to TIMEOUT_MIN. Run interactively
+// from a feature branch, the SHA being waited for is one production will never serve,
+// and a silent 8-minute poll is indistinguishable from a hung process.
+console.log(
+  `Waiting up to ${TIMEOUT_MIN} min for ${LIVE} to serve ${expected.slice(0, 8)} ` +
+    `(or any newer deploy). For "is the channel healthy right now?", use --channel-only.`
+);
+
 let lastSeen = 'nothing (manifest 404)';
 while (Date.now() < deadline) {
   try {
@@ -152,6 +160,8 @@ while (Date.now() < deadline) {
   } catch {
     /* transient network error — keep polling */
   }
+  const left = Math.ceil((deadline - Date.now()) / 60_000);
+  console.log(`  … still serving ${lastSeen} (${left} min left)`);
   await sleep(30_000);
 }
 
