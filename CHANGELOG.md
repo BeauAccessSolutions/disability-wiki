@@ -56,7 +56,9 @@ All notable changes to the Disability Wiki project are documented in this file.
   `*.pages.dev` preview and `wrangler pages dev` both serve unrewritten origin bytes,
   which is what made this invisible) and fails if any byte differs from its signed
   hash. `--channel-only` runs the same check on demand — the health check to reach for
-  when someone reports stale content inside the app.
+  when someone reports stale content inside the app. The polling mode also narrates
+  itself now (it used to sit silent for up to 8 minutes, which read as a hung process
+  when run from a feature branch whose SHA production will never serve).
 - **The app reported every OTA failure as "offline or unavailable"** (2026-07-25,
   [`app/ios/App/App/OTAUpdater.swift`](app/ios/App/App/OTAUpdater.swift),
   [`app/ios/App/App/NativeAffordances.swift`](app/ios/App/App/NativeAffordances.swift)):
