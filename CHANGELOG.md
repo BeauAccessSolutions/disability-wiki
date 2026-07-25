@@ -24,6 +24,21 @@ All notable changes to the Disability Wiki project are documented in this file.
   the incident response doc.
 
 ### Fixed
+- **The crisis index told native-app readers to install the app** (2026-07-25,
+  [`crisis/index.md`](crisis/index.md), [`es/crisis/index.md`](es/crisis/index.md)):
+  the offline note read *"If you add this wiki to your home screen … [How to install
+  it →]"*. Inside the app that is an instruction to install something the reader is
+  already using — the same defect [#70](https://github.com/BeauAccessSolutions/disability-wiki/pull/70)
+  fixed in `AppBanner.astro`, surviving in content where the component's runtime
+  native check can't reach it. It sat on the crisis section a reviewer or a reader in
+  crisis is most likely to open.
+  Removed the install call-to-action rather than gating it, because `AppBanner.astro`
+  already suppresses the install announcement on `crisis/` + `es/crisis/` on the
+  stated grounds that *someone reading a crisis page now is least able to act on
+  "install an app"* — the prose contradicted a decision the component had already
+  made. The offline promise is also now **unconditional**: it previously read as
+  though offline access depended on installing, when the service worker precaches
+  every crisis page on first visit either way (69 precached URLs, unchanged).
 - **The app's signed OTA content channel could never deliver an update** (2026-07-25,
   [`site/tools/gen-ota-manifest.mjs`](site/tools/gen-ota-manifest.mjs),
   [`site/public/_headers`](site/public/_headers),

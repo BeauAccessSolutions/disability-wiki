@@ -14,7 +14,7 @@ Si tú o alguien que conoces está en peligro inmediato, llama a los servicios d
 
 Esta sección brinda acceso rápido a recursos de crisis, apoyo de emergencia y planificación de seguridad para personas con discapacidad y para quienes las apoyan.
 
-**Estas páginas funcionan sin señal.** Si agregas este wiki a tu pantalla de inicio, todas las páginas de esta sección — incluidos los números de las líneas de ayuda — se pueden leer sin conexión y sin datos. No cuesta nada y no requiere una cuenta. [Cómo instalarlo →](/es/start/app)
+**Estas páginas funcionan sin señal.** Una vez que hayas abierto esta sección, todas sus páginas — incluidos los números de las líneas de ayuda — se pueden leer sin conexión y sin datos. No cuesta nada y no requiere una cuenta.
 
 ## Acerca de esta sección
 
