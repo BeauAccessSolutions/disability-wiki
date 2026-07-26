@@ -1,0 +1,101 @@
+# Licenses
+
+This repository holds two distinct kinds of material, under two different licenses.
+
+---
+
+## 1. Wiki content — Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+
+All wiki content in this repository and published at https://disabilitywiki.org — the markdown
+pages, articles, guides, and resource listings, in English and Spanish — is licensed under
+CC BY-SA 4.0.
+
+You are free to:
+
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material for any purpose, including commercially
+
+Under the following terms:
+
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate
+  if changes were made.
+- **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your
+  contributions under this same license.
+- **No additional restrictions** — You may not apply legal terms or technological measures that
+  legally restrict others from doing anything the license permits.
+
+The complete legal code is in [LICENSE-CONTENT](LICENSE-CONTENT), and at
+https://creativecommons.org/licenses/by-sa/4.0/legalcode
+Plain-language summary: https://creativecommons.org/licenses/by-sa/4.0/
+
+### What this means for contributors
+
+Contributors retain copyright in what they write. By contributing, you agree to license your
+contribution under CC BY-SA 4.0.
+
+Because CC BY-SA is irrevocable and requires derivative works to carry the same license, content
+contributed here **cannot later be made proprietary, paywalled, or closed** — including by the
+repository owner or any future maintainer. That protection is the point of choosing this license.
+
+### What ShareAlike does not restrict
+
+**Facts are not copyrightable, and this license does not reach them.** Phone numbers, hours of
+operation, income limits, filing deadlines, eligibility figures — anyone may take those and use
+them however they like, in any product, under any terms. ShareAlike binds someone who copies the
+*writing*, not someone who needs the *information*. If you run a clinic, an agency, or a helpline
+and you just need the numbers, take them; nothing here applies to you.
+
+### A request the license cannot make
+
+Date your copy, and re-check crisis information before each new print run. Hotline numbers get
+disconnected and services cut their hours without notice. A copy that looks current but is two
+years stale can send someone to a dead number at the worst possible moment, which is worse than
+no copy at all.
+
+---
+
+## 2. Scripts and infrastructure code — MIT License
+
+Everything that builds or runs the site and apps: `site/` (Astro application and build tools),
+`app/` (Capacitor/iOS shell and release tooling), `scripts/`, `.github/workflows/`, and
+configuration files.
+
+Copyright (c) 2026 Zach Beaudoin
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and
+associated documentation files (the "Software"), to deal in the Software without restriction,
+including without limitation the rights to use, copy, modify, merge, publish, distribute,
+sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or
+substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT
+NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT
+OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+---
+
+## Third-party material
+
+**Dependencies.** The site is built with Astro and Starlight, the app with Capacitor; those and
+every other npm/CocoaPods dependency are licensed by their own authors under their own terms, and
+nothing above changes that. See the respective lockfiles.
+
+**Quoted material.** Where a page quotes or embeds material owned by someone else — a statute, a
+standard, an organization's own wording — that material stays under its own terms and is not
+relicensed here.
+
+**Logos and names.** Trademarks, ours and other organizations', are not covered. These licenses
+cover writing and code, not marks.
+
+---
+
+## What these licenses are not
+
+They are permissions to copy. Neither is a warranty, and neither is advice. Nothing in this
+repository or on the site is legal, medical, or financial advice, and reusing a page transfers no
+guarantee to anyone. See the site's own notices.

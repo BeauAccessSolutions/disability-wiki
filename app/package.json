@@ -1,10 +1,11 @@
 {
   "name": "disability-wiki-app",
   "version": "0.0.1",
+  "license": "MIT",
   "private": true,
-  "description": "Capacitor native shell (iOS/Android) around the Disability Wiki static build — phase 2 spike.",
+  "description": "Capacitor native shell (iOS/Android) around the Disability Wiki static build \u2014 phase 2 spike.",
   "scripts": {
-    "// build:web": "build the site first — the app bundles site/dist",
+    "// build:web": "build the site first \u2014 the app bundles site/dist",
     "build:web": "npm --prefix ../site run build",
     "sync": "cap sync",
     "ios": "cap open ios",
