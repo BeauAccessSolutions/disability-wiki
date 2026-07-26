@@ -7,6 +7,22 @@ import { CONTENT_CATEGORIES } from '../lib/contribution';
 // re-validates in functions/api/contributions.ts. Native form POST is
 // application/x-www-form-urlencoded, which the endpoint answers with a 303 to a
 // static outcome page (thanks / sign-in-required / error).
+//
+// IN THE NATIVE APP this page serves a hand-off instead of the forms, because the
+// action is a RELATIVE /api/contributions: on the web that resolves to the Pages
+// Function, but in the app the origin is capacitor://localhost, so the POST hits a
+// route that isn't in the bundle. WikiRouter answers with the 404 page — a full
+// navigation that throws away everything the reader typed.
+//
+// This used to be done by rewriting the bundled HTML after `cap copy`
+// (app/tools/native-contribute.mjs, removed 2026-07-26). That made one URL have
+// two different correct bodies, which is exactly what a content-hash OTA channel
+// cannot express: the page is in the OTA manifest, so the first update whose bytes
+// differed from the bundle's downloaded the WEB version over the hand-off and
+// permanently reinstated the dead-end. See Phase 5.1 in docs/app-remediation-plan.md.
+//
+// Deciding at runtime keeps ONE artifact, so the bundle and the OTA payload can
+// never disagree. Same gate as the install announcement in components/AppBanner.astro.
 const cap = (s: string) => s.charAt(0).toUpperCase() + s.slice(1);
 ---
 
@@ -22,6 +38,37 @@ const cap = (s: string) => s.charAt(0).toUpperCase() + s.slice(1);
     you ask, removed later). Sign-in is rolling out — until it's live you'll be
     asked to come back.
   </p>
+
+  {/*
+    Runs before the forms below are parsed, so the swap happens without a frame of
+    the wrong content. `is:inline` keeps it out of the bundle — a deferred module
+    would paint the forms first.
+
+    Fails toward the WEB on purpose: no flag set means the forms show. If this
+    script somehow doesn't run, the website (the larger audience) still works, and
+    the app degrades to the dead-end it had before — bad, but not a regression the
+    website pays for. The app always has JS; Capacitor requires it.
+  */}
+  <script is:inline>
+    if (
+      (window.Capacitor &&
+        typeof window.Capacitor.isNativePlatform === 'function' &&
+        window.Capacitor.isNativePlatform()) ||
+      location.protocol === 'capacitor:'
+    ) {
+      document.documentElement.dataset.dwNative = 'true';
+    }
+  </script>
+
+  <div class="native-contribute" data-pagefind-ignore>
+    <p>
+      Contributions are submitted on the website. Open the contribute page in your
+      browser to suggest an edit or propose a new page — you'll need a connection.
+    </p>
+    <a href="https://disabilitywiki.org/contribute/" rel="noopener">
+      Open the contribute page →
+    </a>
+  </div>
 
   <form method="post" action="/api/contributions" class="contribute-form">
     <input type="hidden" name="kind" value="suggest_edit" />
@@ -76,6 +123,44 @@ const cap = (s: string) => s.charAt(0).toUpperCase() + s.slice(1);
 </StarlightPage>
 
 <style>
+  /* Web is the default: the hand-off is hidden until the native gate says otherwise.
+     `:global()` because the flag lives on <html>, outside this component's scope —
+     same idiom as the announcement rule in components/AppBanner.astro. */
+  .native-contribute {
+    display: none;
+    margin: 2rem 0;
+    padding: 1.25rem 1.5rem;
+    border: 1px solid var(--sl-color-gray-5);
+    border-radius: 0.5rem;
+  }
+  :global([data-dw-native]) .native-contribute {
+    display: block;
+  }
+  :global([data-dw-native]) .contribute-form {
+    display: none;
+  }
+  .native-contribute p {
+    margin-top: 0;
+  }
+  .native-contribute a {
+    /* Flex-centred rather than the line-height:44px trick the old inline-styled
+       card used: that gives every WRAPPED line a 44px box, so at narrow widths the
+       label rendered as three widely-spaced lines in a 124px-wide button. This
+       keeps the ≥44pt target from the padding and min-height, and still looks like
+       a button when the text wraps. */
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 44px; /* ≥44pt touch target */
+    padding: 0.6rem 1.4rem;
+    line-height: 1.3;
+    font-weight: 600;
+    color: var(--sl-color-black);
+    background: var(--sl-color-accent-high);
+    border-radius: 0.4rem;
+    text-decoration: none;
+  }
+
   .contribute-form {
     margin: 2rem 0;
   }

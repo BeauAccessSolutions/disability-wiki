@@ -70,12 +70,18 @@ app/tools/build-release.sh            # build → sync → hand-off → stamp �
 app/tools/build-release.sh --archive  # …and xcodebuild archive (signing-capable Mac)
 ```
 
-It runs, in order: (1) `npm run build` the site, (2) `cap copy ios`, (3) rewrite the
-in-app contribute form into a live hand-off (`tools/native-contribute.mjs`), (4)
-stamp `public/app-build.json` with the git SHA, (5) **`tools/verify-bundle.mjs`** —
-a hard gate that checks crisis parity (every `crisis/` + `es/crisis/` file byte-
-identical to the build, no orphans), a phone-number census, freshness, and that no
-dead-end `/api/` form survives. Steps 1–5 need only Node; `--archive` needs Xcode.
+It runs, in order: (1) `npm run build` the site, (2) `cap copy ios`, (3) stamp
+`public/app-build.json` with the git SHA, (4) **`tools/verify-bundle.mjs`** — a hard
+gate that checks crisis parity (every `crisis/` + `es/crisis/` file byte-identical to
+the build, no orphans), a phone-number census, freshness, and that the `/contribute`
+hand-off card **and** the native gate that reveals it both survived. Steps 1–4 need
+only Node; `--archive` needs Xcode.
+
+**The bundle is now a byte-identical copy of `site/dist`** — nothing rewrites it after
+`cap copy`. That is load-bearing, not tidiness: the OTA channel addresses content by
+hash, so any post-copy mutation gives one URL two different correct bodies and the
+next update overwrites the local one. See Phase 5.1 in
+[`docs/app-remediation-plan.md`](../docs/app-remediation-plan.md).
 
 `npx cap doctor` diagnoses a broken toolchain. To develop against a simulator
 without a full release, `cap copy ios && npx cap open ios` still works — just don't
@@ -124,12 +130,18 @@ discovered as surprises:
 4. **App Store §4.2 approvability** — bundled offline + native dialing is a solid case,
    but it's a judgment call by the reviewer.
 5. ~~**The contribute form is bundled but its backend isn't.**~~ ✅ **RESOLVED
-   2026-07-23.** `tools/native-contribute.mjs` (step 3 of the release script)
-   replaces the two `/api/contributions` forms in the bundled `/contribute` page
-   with a hand-off card that opens the live site — no in-app form, so nothing to
-   dead-end and no draft to lose. `verify-bundle.mjs` asserts no `action="/api/"`
-   form survives. Same treatment will be needed for `/api/auth/*` once sign-in
-   links render.
+   2026-07-23, re-fixed properly 2026-07-26.** The page carries both the web forms
+   and a hand-off card, and picks between them at runtime with the same Capacitor
+   gate the install announcement uses — so in-app there is no form to dead-end and
+   no draft to lose. `verify-bundle.mjs` asserts the card and the gate both survive.
+   **The first fix was wrong in an instructive way:** it rewrote the bundled HTML
+   after `cap copy` (`tools/native-contribute.mjs`, now deleted), which gave one URL
+   two different correct bodies — something a content-hash OTA channel cannot
+   express. The page is in the OTA manifest, so the first update whose bytes differed
+   from the bundle's downloaded the web version over the hand-off and permanently
+   reinstated the dead-end. Found by the 2026-07-26 slice audit; Phase 5.1. Same
+   treatment will be needed for `/api/auth/*` once sign-in links render — **do it in
+   the page, not in a post-build rewrite.**
 
 ## OTA content updates (Phase 1B — built 2026-07-23)
 
