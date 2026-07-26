@@ -280,3 +280,266 @@ final class SingleFlightTests: XCTestCase {
         XCTAssertEqual(flight.finish().count, attached, "no completion may be dropped")
     }
 }
+
+/// Rollback and activation against a real filesystem in a temp directory.
+///
+/// This is the link the 2026-07-26 slice audit had to mark UNVERIFIED: rollback was
+/// last proven 2026-07-23, before the refactor that rewrote it, and there was no way
+/// to exercise it short of corrupting a real device's container.
+final class ContentStoreTests: XCTestCase {
+    private var tmp: URL!
+    private var contentDir: URL!
+    private var bundle: URL!
+
+    /// Test hasher — the real one is CryptoKit, which this module deliberately
+    /// cannot import. Identity-ish is fine: what is under test is the state
+    /// machine, not SHA-256.
+    /// Named to avoid colliding with NSObject.hash, which XCTestCase inherits.
+    private let sha: (Data) -> String = { data in
+        String(repeating: "0", count: 64 - String(data.count).count) + String(data.count)
+    }
+
+    override func setUpWithError() throws {
+        tmp = URL(fileURLWithPath: NSTemporaryDirectory())
+            .appendingPathComponent("otastore-\(UUID().uuidString)")
+        contentDir = tmp.appendingPathComponent("dw-content")
+        bundle = tmp.appendingPathComponent("bundle")
+        // Deliberately NOT creating contentDir: on a fresh install it does not
+        // exist, and "present but unusable" is a different state with a different
+        // correct outcome (it gets cleared). Helpers create it when they need it.
+        try FileManager.default.createDirectory(at: tmp, withIntermediateDirectories: true)
+    }
+
+    override func tearDownWithError() throws {
+        try? FileManager.default.removeItem(at: tmp)
+    }
+
+    private func store(bundleRoot: URL? = nil) -> OTAContentStore {
+        OTAContentStore(contentDir: contentDir, bundleRoot: bundleRoot, sha256Hex: sha)
+    }
+
+    /// Write a content root that passes validation: a crisis page whose hash matches
+    /// its manifest entry, plus the index.html the check requires.
+    @discardableResult
+    private func makeRoot(_ name: String, builtAt: String = "2026-07-26T12:00:00Z",
+                          valid: Bool = true, in dir: URL? = nil) throws -> URL {
+        let fm = FileManager.default
+        let root = (dir ?? contentDir.appendingPathComponent("versions")).appendingPathComponent(name)
+        let crisis = root.appendingPathComponent("crisis")
+        try fm.createDirectory(at: crisis, withIntermediateDirectories: true)
+        try fm.createDirectory(at: root.appendingPathComponent("ota"), withIntermediateDirectories: true)
+
+        let body = Data("crisis page for \(name)".utf8)
+        try body.write(to: crisis.appendingPathComponent("index.html"))
+        try Data("home".utf8).write(to: root.appendingPathComponent("index.html"))
+        // A wrong hash is how a truncated or corrupted root presents.
+        let digest = valid ? sha(body) : String(repeating: "f", count: 64)
+        let manifest: [String: Any] = [
+            "schema": 2, "builtAt": builtAt, "blobPath": "/ota/blobs",
+            "files": ["/crisis/index.html": ["sha256": digest, "size": body.count]],
+        ]
+        try JSONSerialization.data(withJSONObject: manifest)
+            .write(to: root.appendingPathComponent("ota/manifest.json"))
+        try JSONSerialization.data(withJSONObject: ["builtAt": builtAt, "gitSha": "deadbeef"])
+            .write(to: root.appendingPathComponent("app-build.json"))
+        return root
+    }
+
+    private func point(_ pointer: String, to version: String) throws {
+        try FileManager.default.createDirectory(at: contentDir, withIntermediateDirectories: true)
+        try version.write(to: contentDir.appendingPathComponent(pointer),
+                          atomically: true, encoding: .utf8)
+    }
+
+    // MARK: resolve
+
+    func testNoStateFallsBackToTheBundle() {
+        let (root, res) = store().resolveActiveRoot()
+        XCTAssertNil(root)
+        XCTAssertEqual(res, .noOTAState)
+    }
+
+    func testAnEmptyButPresentContentDirIsClearedRatherThanTrusted() throws {
+        try FileManager.default.createDirectory(at: contentDir, withIntermediateDirectories: true)
+        let (root, res) = store().resolveActiveRoot()
+        XCTAssertNil(root)
+        XCTAssertEqual(res, .revertedToBundle)
+        XCTAssertFalse(FileManager.default.fileExists(atPath: contentDir.path))
+    }
+
+    func testAValidCurrentRootIsServed() throws {
+        try makeRoot("v-1")
+        try point("current", to: "v-1")
+        let (root, res) = store().resolveActiveRoot()
+        XCTAssertEqual(root?.lastPathComponent, "v-1")
+        XCTAssertEqual(res, .servingCurrent("v-1"))
+    }
+
+    /// THE ROLLBACK PATH. A corrupted current root must not be served, and must not
+    /// be retried on the next launch either — previous is promoted over it.
+    func testACorruptCurrentRootRollsBackToPrevious() throws {
+        try makeRoot("v-bad", valid: false)
+        try makeRoot("v-good")
+        try point("current", to: "v-bad")
+        try point("previous", to: "v-good")
+
+        let s = store()
+        let (root, res) = s.resolveActiveRoot()
+        XCTAssertEqual(root?.lastPathComponent, "v-good")
+        XCTAssertEqual(res, .rolledBackToPrevious("v-good"))
+
+        // Promoted, so the bad root is never reached again.
+        let current = try String(contentsOf: contentDir.appendingPathComponent("current"), encoding: .utf8)
+        XCTAssertEqual(current.trimmingCharacters(in: .whitespacesAndNewlines), "v-good")
+        XCTAssertFalse(FileManager.default.fileExists(
+            atPath: contentDir.appendingPathComponent("previous").path),
+            "previous was consumed by the promotion")
+
+        // And a second launch is stable rather than rolling back again.
+        XCTAssertEqual(s.resolveActiveRoot().resolution, .servingCurrent("v-good"))
+    }
+
+    func testBothRootsCorruptRevertsToTheBundleAndClearsState() throws {
+        try makeRoot("v-bad", valid: false)
+        try makeRoot("v-worse", valid: false)
+        try point("current", to: "v-bad")
+        try point("previous", to: "v-worse")
+
+        let (root, res) = store().resolveActiveRoot()
+        XCTAssertNil(root, "the bundle is the last-known-good")
+        XCTAssertEqual(res, .revertedToBundle)
+        XCTAssertFalse(FileManager.default.fileExists(atPath: contentDir.path),
+                       "unusable OTA state is cleared, not left to be retried forever")
+    }
+
+    func testAPointerToAMissingRootIsNotFatal() throws {
+        try point("current", to: "v-vanished")
+        XCTAssertEqual(store().resolveActiveRoot().resolution, .revertedToBundle)
+    }
+
+    /// An App Store update must not be shadowed by older OTA content.
+    func testANewerBundleDiscardsOTAState() throws {
+        try makeRoot("v-old", builtAt: "2026-07-01T00:00:00Z")
+        try point("current", to: "v-old")
+        try makeRoot("bundle", builtAt: "2026-07-20T00:00:00Z", in: tmp)
+
+        let (root, res) = store(bundleRoot: bundle).resolveActiveRoot()
+        XCTAssertNil(root)
+        XCTAssertEqual(res, .newBinaryWins)
+        XCTAssertFalse(FileManager.default.fileExists(atPath: contentDir.path))
+    }
+
+    func testAnOlderBundleDoesNotDiscardNewerOTAContent() throws {
+        try makeRoot("v-new", builtAt: "2026-07-26T00:00:00Z")
+        try point("current", to: "v-new")
+        try makeRoot("bundle", builtAt: "2026-07-01T00:00:00Z", in: tmp)
+
+        XCTAssertEqual(store(bundleRoot: bundle).resolveActiveRoot().resolution,
+                       .servingCurrent("v-new"))
+    }
+
+    /// REGRESSION — the bundle stamp uses whole seconds and the OTA stamp carries
+    /// milliseconds. When the parser silently returned nil for one of them, this
+    /// comparison never ran.
+    func testNewBinaryComparisonWorksAcrossTimestampFormats() throws {
+        try makeRoot("v-old", builtAt: "2026-07-01T00:00:00.123Z")
+        try point("current", to: "v-old")
+        try makeRoot("bundle", builtAt: "2026-07-20T00:00:00Z", in: tmp)
+        XCTAssertEqual(store(bundleRoot: bundle).resolveActiveRoot().resolution, .newBinaryWins)
+    }
+
+    // MARK: activate
+
+    func testActivationKeepsTheOutgoingRootAsPrevious() throws {
+        try makeRoot("v-1"); try makeRoot("v-2")
+        try point("current", to: "v-1")
+
+        let displaced = try store().activate(version: "v-2")
+        XCTAssertEqual(displaced, "v-1")
+        let fm = FileManager.default
+        XCTAssertEqual(try String(contentsOf: contentDir.appendingPathComponent("current"), encoding: .utf8), "v-2")
+        XCTAssertEqual(try String(contentsOf: contentDir.appendingPathComponent("previous"), encoding: .utf8), "v-1")
+        XCTAssertTrue(fm.fileExists(atPath: contentDir.appendingPathComponent("versions/v-1").path),
+                      "the rollback target must survive activation")
+    }
+
+    func testTheFirstActivationHasNoPreviousToKeep() throws {
+        try makeRoot("v-1")
+        XCTAssertNil(try store().activate(version: "v-1"))
+        XCTAssertFalse(FileManager.default.fileExists(
+            atPath: contentDir.appendingPathComponent("previous").path))
+    }
+
+    func testActivationPrunesEverythingButCurrentAndPrevious() throws {
+        for v in ["v-1", "v-2", "v-3", "v-4"] { try makeRoot(v) }
+        try point("current", to: "v-3")
+        try store().activate(version: "v-4")
+
+        let left = Set(try FileManager.default.contentsOfDirectory(
+            atPath: contentDir.appendingPathComponent("versions").path))
+        XCTAssertEqual(left, ["v-3", "v-4"], "stale roots must not accumulate on a phone")
+    }
+
+    /// Activate → corrupt it → relaunch must land on the root it displaced.
+    func testActivateThenCorruptRollsBackToTheDisplacedRoot() throws {
+        try makeRoot("v-1"); try point("current", to: "v-1")
+        try makeRoot("v-2")
+        let s = store()
+        try s.activate(version: "v-2")
+        XCTAssertEqual(s.resolveActiveRoot().resolution, .servingCurrent("v-2"))
+
+        // Corrupt the now-current root the way a truncated write would.
+        try Data("tampered".utf8).write(
+            to: contentDir.appendingPathComponent("versions/v-2/crisis/index.html"))
+        XCTAssertEqual(s.resolveActiveRoot().resolution, .rolledBackToPrevious("v-1"))
+    }
+}
+
+final class ValidationProbeTests: XCTestCase {
+    private func manifest(paths: [String]) -> OTAManifest {
+        var files: [String: OTAManifest.Entry] = [:]
+        for p in paths { files[p] = .init(sha256: String(repeating: "a", count: 64), size: 1) }
+        return OTAManifest(gitSha: nil, builtAt: "2026-07-26T12:00:00Z", blobPath: "/ota/blobs", files: files)
+    }
+
+    /// REGRESSION — verified on a simulator 2026-07-26: corrupting the crisis hub
+    /// left the app serving the corrupted root, because the old selection took
+    /// whichever three paths sorted first and `/crisis/index.html` sorts after
+    /// every `/crisis/<topic>/` page.
+    func testTheCrisisHubIsAlwaysProbed() throws {
+        let m = manifest(paths: [
+            "/crisis/abuse-neglect-exploitation/index.html",
+            "/crisis/abuse/recognizing-violence/index.html",
+            "/crisis/crisis-planning/index.html",
+            "/crisis/index.html",
+        ])
+        let probes = try XCTUnwrap(OTAContentStore.validationProbes(for: m))
+        XCTAssertTrue(probes.contains("/crisis/index.html"),
+                      "the hub sorts last but matters most")
+    }
+
+    func testTheSpanishHubIsAlsoProbedWhenPresent() throws {
+        let m = manifest(paths: ["/crisis/index.html", "/es/crisis/index.html",
+                                 "/crisis/a/index.html"])
+        let probes = try XCTUnwrap(OTAContentStore.validationProbes(for: m))
+        XCTAssertTrue(probes.contains("/es/crisis/index.html"))
+    }
+
+    func testKeepsSomeSpreadBeyondTheHubs() throws {
+        let m = manifest(paths: ["/crisis/index.html"] + (1...9).map { "/crisis/p\($0)/index.html" })
+        let probes = try XCTUnwrap(OTAContentStore.validationProbes(for: m))
+        XCTAssertGreaterThanOrEqual(probes.count, 4, "hub plus deep pages")
+        XCTAssertLessThanOrEqual(probes.count, 5, "still a spot check — a reader waits on this")
+    }
+
+    func testNoCrisisPagesMeansNoValidRoot() {
+        XCTAssertNil(OTAContentStore.validationProbes(for: manifest(paths: ["/index.html"])),
+                     "a content root with no crisis pages is not one this app may serve")
+    }
+
+    func testWorksWhenOnlyTopicPagesExist() throws {
+        let m = manifest(paths: ["/crisis/a/index.html", "/crisis/b/index.html"])
+        let probes = try XCTUnwrap(OTAContentStore.validationProbes(for: m))
+        XCTAssertEqual(Set(probes), ["/crisis/a/index.html", "/crisis/b/index.html"])
+    }
+}

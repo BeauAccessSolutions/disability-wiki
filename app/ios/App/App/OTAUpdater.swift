@@ -84,9 +84,9 @@ final class OTAUpdater {
         let lib = fm.urls(for: .libraryDirectory, in: .userDomainMask)[0]
         return lib.appendingPathComponent("NoCloud/dw-content", isDirectory: true)
     }
+    // Staging still lives here (it needs the network); the pointers and the
+    // roots they name are the store's.
     private var versionsDir: URL { contentDir.appendingPathComponent("versions", isDirectory: true) }
-    private var currentPointer: URL { contentDir.appendingPathComponent("current") }
-    private var previousPointer: URL { contentDir.appendingPathComponent("previous") }
 
     private var bundleRoot: URL? {
         Bundle.main.url(forResource: "public", withExtension: nil)
@@ -106,37 +106,31 @@ final class OTAUpdater {
     // incomplete root could pass and activate. See OTASingleFlight.
     private let flight = OTASingleFlight()
 
+    /// The content-root state machine (pointer chase, validation, rollback,
+    /// new-binary-wins, activation, pruning). It lives in OTACore behind injected
+    /// paths + hasher so rollback can be tested — it was the one link the
+    /// 2026-07-26 audit could not verify.
+    private lazy var store = OTAContentStore(
+        contentDir: contentDir,
+        bundleRoot: bundleRoot,
+        sha256Hex: { SHA256.hash(data: $0).hexString },
+        log: { CAPLog.print("⚡️  \($0)") }
+    )
+
     // MARK: - Serving root (called before the webview loads)
 
     /// The content root the webview should serve, or nil to use the app bundle.
     /// Cheap by design: pointer chase + structural validation + 3 hash spot-checks.
     func activeContentRoot() -> URL? {
-        // New binary wins: bundle newer than OTA content → discard OTA state.
-        if let bundleBuilt = builtAt(inRoot: bundleRoot),
-           let otaRoot = pointedRoot(currentPointer),
-           let otaBuilt = builtAt(inRoot: otaRoot),
-           bundleBuilt > otaBuilt {
-            try? fm.removeItem(at: contentDir)
+        let (root, resolution) = store.resolveActiveRoot()
+        // Discarded OTA state means any staged-but-unapplied update is gone too.
+        switch resolution {
+        case .newBinaryWins, .revertedToBundle:
             defaults.removeObject(forKey: Keys.pendingVersion)
-            return captureServing(nil)
+        case .servingCurrent, .rolledBackToPrevious, .noOTAState:
+            break
         }
-        if let root = pointedRoot(currentPointer), validate(root: root) {
-            return captureServing(root)
-        }
-        // Current is broken: roll back. Promote previous to current so the bad
-        // root is never retried, and let staging start over from good state.
-        if let prev = pointedRoot(previousPointer), validate(root: prev) {
-            try? fm.removeItem(at: currentPointer)
-            try? fm.moveItem(at: previousPointer, to: currentPointer)
-            CAPLog.print("⚡️  OTA: current content failed validation — rolled back to previous")
-            return captureServing(prev)
-        }
-        if fm.fileExists(atPath: contentDir.path) {
-            try? fm.removeItem(at: contentDir)
-            defaults.removeObject(forKey: Keys.pendingVersion)
-            CAPLog.print("⚡️  OTA: content state invalid — reverted to app bundle")
-        }
-        return captureServing(nil)
+        return captureServing(root)
     }
 
     private func captureServing(_ root: URL?) -> URL? {
@@ -156,37 +150,6 @@ final class OTAUpdater {
     private var updateAwaitingRestart: Bool {
         guard let pending = defaults.string(forKey: Keys.pendingVersion) else { return false }
         return pending != servingVersion
-    }
-
-    private func pointedRoot(_ pointer: URL) -> URL? {
-        guard let name = try? String(contentsOf: pointer, encoding: .utf8) else { return nil }
-        let root = versionsDir.appendingPathComponent(name.trimmingCharacters(in: .whitespacesAndNewlines), isDirectory: true)
-        var isDir: ObjCBool = false
-        guard fm.fileExists(atPath: root.path, isDirectory: &isDir), isDir.boolValue else { return nil }
-        return root
-    }
-
-    /// Structural + spot-hash validation of a content root. Full hashing happened
-    /// at staging; this catches truncation/corruption without a launch-time cost.
-    private func validate(root: URL) -> Bool {
-        guard let manifest = try? loadManifest(at: root.appendingPathComponent("ota/manifest.json")) else { return false }
-        // The reason this app exists: crisis pages must be present and intact.
-        let probes = manifest.files.keys.filter { $0.hasPrefix("/crisis/") && $0.hasSuffix("/index.html") }.sorted().prefix(3)
-        guard !probes.isEmpty else { return false }
-        for path in probes {
-            let f = root.appendingPathComponent(String(path.dropFirst()))
-            guard let data = try? Data(contentsOf: f),
-                  SHA256.hash(data: data).hexString == manifest.files[path]?.sha256 else { return false }
-        }
-        return fm.fileExists(atPath: root.appendingPathComponent("index.html").path)
-    }
-
-    private func builtAt(inRoot root: URL?) -> Date? {
-        guard let root,
-              let data = try? Data(contentsOf: root.appendingPathComponent("app-build.json")),
-              let obj = try? JSONSerialization.jsonObject(with: data) as? [String: Any],
-              let s = obj["builtAt"] as? String else { return nil }
-        return OTAManifest.parseISO8601(s)
     }
 
     // MARK: - Update check (called after launch, off the main path)
@@ -234,10 +197,10 @@ final class OTAUpdater {
         df.timeStyle = .short
         df.locale = Locale(identifier: es ? "es" : "en_US")
 
-        let otaActive = pointedRoot(currentPointer) != nil
-        let servingRoot = otaActive ? pointedRoot(currentPointer) : bundleRoot
+        let otaActive = store.pointedRoot(store.currentPointer) != nil
+        let servingRoot = otaActive ? store.pointedRoot(store.currentPointer) : bundleRoot
         var lines: [String] = []
-        if let built = builtAt(inRoot: servingRoot) {
+        if let built = store.builtAt(inRoot: servingRoot) {
             lines.append((es ? "Contenido del " : "Content from ") + df.string(from: built))
         }
         lines.append(
@@ -375,21 +338,13 @@ final class OTAUpdater {
         let finalRoot = versionsDir.appendingPathComponent(versionName, isDirectory: true)
         try? fm.removeItem(at: finalRoot)
         try fm.moveItem(at: staging, to: finalRoot)
-        guard validate(root: finalRoot) else {
+        guard store.validate(root: finalRoot) else {
             try? fm.removeItem(at: finalRoot)
             throw OTAError.stagedRootInvalid
         }
-        let oldCurrent = try? String(contentsOf: currentPointer, encoding: .utf8)
-        try? fm.removeItem(at: previousPointer)
-        if let oldCurrent { try oldCurrent.write(to: previousPointer, atomically: true, encoding: .utf8) }
-        try versionName.write(to: currentPointer, atomically: true, encoding: .utf8)
+        try store.activate(version: versionName)
         defaults.set(versionName, forKey: Keys.pendingVersion)
 
-        // 7. Prune everything that is neither current nor previous.
-        let keep: Set<String> = [versionName, oldCurrent?.trimmingCharacters(in: .whitespacesAndNewlines) ?? ""]
-        for item in (try? fm.contentsOfDirectory(atPath: versionsDir.path)) ?? [] where !keep.contains(item) {
-            try? fm.removeItem(at: versionsDir.appendingPathComponent(item))
-        }
         CAPLog.print("⚡️  OTA: staged \(versionName); activates on next launch")
         return .staged
     }
