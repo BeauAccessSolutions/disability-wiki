@@ -6,6 +6,30 @@ All notable changes to the Disability Wiki project are documented in this file.
 
 ## [Unreleased]
 
+### Fixed
+- **OTA updates could silently reinstate the in-app contribute dead-end** (2026-07-26,
+  [`site/src/pages/contribute.astro`](site/src/pages/contribute.astro),
+  [`app/tools/verify-bundle.mjs`](app/tools/verify-bundle.mjs),
+  [`app/tools/build-release.sh`](app/tools/build-release.sh); `app/tools/native-contribute.mjs`
+  deleted): the app's `/contribute` page was made safe by **rewriting the bundled HTML after
+  `cap copy`** — the web page's forms POST to a relative `/api/contributions` that 404s under
+  `capacitor://`, eating whatever the reader typed. That rewrite gave one URL two different
+  correct bodies, which is precisely what a content-hash update channel cannot express: the page
+  is in the OTA manifest, so the first update whose bytes differed from the bundle's downloaded
+  the web version **over** the hand-off and permanently reinstated the dead-end — it never
+  self-healed, because later diffs ran against the OTA root's own manifest. Not hypothetical when
+  found: the reuse-footer shipped the previous day changed the bytes of all 1110 HTML pages, so
+  it was already armed to fire on TestFlight build 7's first update. Surfaced by the
+  [2026-07-26 vertical-slice audit](https://github.com/BeauAccessSolutions/bas-platform/blob/main/docs/testing/disability-wiki-ota-channel-audit-2026-07-26.md)
+  (F-1, P1). The page now ships **one** body containing both the forms and the hand-off card and
+  chooses at runtime, using the same Capacitor gate the install announcement already uses — so the
+  bundle and the OTA payload are byte-identical and cannot diverge. `native-contribute.mjs` and
+  its release step are gone; `verify-bundle` now asserts the card **and** its gate are present
+  (both halves, since a card without a gate is invisible in-app and a gate without a card hides
+  the forms and leaves nothing), with self-tests for each. Also fixes the hand-off button
+  rendering as three widely-spaced lines at narrow widths — the old inline styling gave every
+  wrapped line a 44px box.
+
 ### Added
 - **The wiki now has a licence — CC BY-SA 4.0 for content, MIT for code** (2026-07-25,
   [`LICENSE`](LICENSE), [`LICENSE-CONTENT`](LICENSE-CONTENT), [`CONTRIBUTING.md`](CONTRIBUTING.md),

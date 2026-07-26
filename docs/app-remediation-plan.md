@@ -273,7 +273,7 @@ device has no automated coverage at all.
 Ordering principle, same as Phase 0: **the thing that fires on its own goes first.** 5.1 is not a
 latent risk; it triggers on build 7's first successful update.
 
-### 5.1 — Stop OTA reverting the in-app contribute hand-off (F-1, P1)
+### 5.1 — Stop OTA reverting the in-app contribute hand-off (F-1, P1) — ✅ DONE 2026-07-26
 
 **The defect.** `app/tools/native-contribute.mjs` rewrites the *bundled* `/contribute` page into a
 live-site hand-off, because the web page's forms POST to a relative `/api/contributions` that 404s

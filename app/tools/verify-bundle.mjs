@@ -140,16 +140,40 @@ for (const sub of CRITICAL) {
   }
 }
 
-// ---- 4. Contribute safety: no in-app form that dead-ends -------------------
+// ---- 4. Contribute safety: the in-app hand-off must be present -------------
 // The web form POSTs to a relative /api/contributions Pages Function. In the app
-// that resolves to capacitor://localhost/api/contributions, which the router
-// 404s — a full navigation that eats the user's draft. build-release.sh rewrites
-// the bundled page into a hand-off to the live site; this asserts it stuck.
+// that resolves to capacitor://localhost/api/contributions, which the router 404s
+// — a full navigation that eats the user's draft.
+//
+// This assertion INVERTED on 2026-07-26. It used to demand the bundled page carry
+// no `action="/api/"` form at all, because build-release.sh rewrote the page after
+// `cap copy`. That made one URL have two different correct bodies — which a
+// content-hash OTA channel cannot express, so the first update whose bytes differed
+// from the bundle's downloaded the web version over the hand-off and permanently
+// reinstated the dead-end (Phase 5.1, docs/app-remediation-plan.md).
+//
+// The page now ships ONE body containing both, switched at runtime by a native
+// gate. So the form is expected to be present; what must be true is that the
+// hand-off and the gate that reveals it came along with it. Checking both halves
+// matters: the card without the gate is invisible in-app, and the gate without the
+// card hides the forms and leaves nothing.
 const contribute = join(BUNDLE, 'contribute', 'index.html');
 if (existsSync(contribute)) {
   const html = readFileSync(contribute, 'utf8');
-  if (/action="\/api\//.test(html)) {
-    fail(`contribute: bundled /contribute still POSTs to a relative /api/ endpoint — it will 404 in-app and lose the draft.`);
+  // Match the class as a TOKEN, not the whole attribute: Astro appends a scoped
+  // class (`class="native-contribute astro-k7joyi4t"`), so an exact-attribute
+  // regex silently never matches and the check passes nothing.
+  if (!/class="[^"]*\bnative-contribute\b/.test(html)) {
+    fail(
+      `contribute: bundled /contribute has no hand-off card — in-app the form POSTs to a ` +
+        `relative /api/ endpoint, 404s, and eats the draft. Did site/src/pages/contribute.astro lose it?`
+    );
+  }
+  if (!/dataset\.dwNative|data-dw-native/.test(html)) {
+    fail(
+      `contribute: bundled /contribute has no native gate — the hand-off card is present but ` +
+        `nothing reveals it in the app, so the dead-end form is what renders.`
+    );
   }
 }
 
