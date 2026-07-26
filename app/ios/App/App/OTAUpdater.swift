@@ -65,25 +65,6 @@ final class OTAUpdater {
         static let baseURLOverride = "OTABaseURL"
     }
 
-    /// What the last update check actually did. The whole point of this type is
-    /// that "it didn't work" is not an answer: an operator debugging a stale
-    /// crisis number needs to know whether the phone had no signal, the site was
-    /// down, the signature was refused, or the disk was full — those have
-    /// completely different responses, and collapsing them into one string is
-    /// what hid a dead update channel for two days.
-    enum Outcome: String {
-        case upToDate
-        case staged
-        case noNetwork
-        case serverUnavailable
-        case signatureRejected
-        case manifestInvalid
-        case contentRejected
-        case storageFailed
-
-        var isFailure: Bool { self != .upToDate && self != .staged }
-    }
-
     // Origin for the manifest AND content blobs. Debug/E2E builds may override via
     // `-OTABaseURL http://localhost:8788` launch arguments (UserDefaults).
     private var baseURL: URL {
@@ -198,19 +179,7 @@ final class OTAUpdater {
               let data = try? Data(contentsOf: root.appendingPathComponent("app-build.json")),
               let obj = try? JSONSerialization.jsonObject(with: data) as? [String: Any],
               let s = obj["builtAt"] as? String else { return nil }
-        return Self.parseISO8601(s)
-    }
-
-    /// The publish side stamps `new Date().toISOString()`, which carries milliseconds;
-    /// `app-build.json` uses whole seconds. ISO8601DateFormatter parses only one of
-    /// those per configuration, and silently returns nil for the other — which had
-    /// quietly disabled the "never move backwards" guard below.
-    private static func parseISO8601(_ s: String) -> Date? {
-        let f = ISO8601DateFormatter()
-        f.formatOptions = [.withInternetDateTime, .withFractionalSeconds]
-        if let d = f.date(from: s) { return d }
-        f.formatOptions = [.withInternetDateTime]
-        return f.date(from: s)
+        return OTAManifest.parseISO8601(s)
     }
 
     // MARK: - Update check (called after launch, off the main path)
@@ -224,7 +193,7 @@ final class OTAUpdater {
                 record(outcome, detail: nil)
                 CAPLog.print("⚡️  OTA: check finished as \(outcome.rawValue)")
             } catch {
-                let (outcome, detail) = Self.classify(error)
+                let (outcome, detail) = OTAOutcome.classify(error)
                 record(outcome, detail: detail)
                 // Never fatal: the app keeps serving its last-known-good content.
                 CAPLog.print("⚡️  OTA: check finished as \(outcome.rawValue) — \(detail)")
@@ -233,31 +202,11 @@ final class OTAUpdater {
         }
     }
 
-    private func record(_ outcome: Outcome, detail: String?) {
+    private func record(_ outcome: OTAOutcome, detail: String?) {
         defaults.set(Date(), forKey: Keys.lastCheck)
         defaults.set(outcome.rawValue, forKey: Keys.lastOutcome)
         if let detail { defaults.set(detail, forKey: Keys.lastDetail) }
         else { defaults.removeObject(forKey: Keys.lastDetail) }
-    }
-
-    /// Map a thrown error onto the outcome an operator needs to see. The split that
-    /// matters most is noNetwork (nothing is wrong — the phone is offline) versus
-    /// everything else (something IS wrong and someone should look).
-    private static func classify(_ error: Error) -> (Outcome, String) {
-        if let urlError = error as? URLError {
-            switch urlError.code {
-            case .notConnectedToInternet, .networkConnectionLost, .dataNotAllowed,
-                 .internationalRoamingOff, .callIsActive:
-                return (.noNetwork, urlError.localizedDescription)
-            default:
-                return (.serverUnavailable, urlError.localizedDescription)
-            }
-        }
-        if let otaError = error as? OTAError {
-            return (otaError.outcome, otaError.errorDescription ?? "\(otaError)")
-        }
-        // Foundation file errors (no space, permissions, unlink races) land here.
-        return (.storageFailed, (error as NSError).localizedDescription)
     }
 
     /// Human-readable status for the native content-status sheet.
@@ -288,8 +237,8 @@ final class OTAUpdater {
             let when = df.string(from: last)
             // A check recorded by a previous binary has no outcome stored. Say so
             // rather than guessing — inventing a cause is the bug this replaced.
-            let outcome = Outcome(rawValue: defaults.string(forKey: Keys.lastOutcome) ?? "")
-            let phrase = outcome.map { Self.phrase(for: $0, spanish: es) }
+            let outcome = OTAOutcome(rawValue: defaults.string(forKey: Keys.lastOutcome) ?? "")
+            let phrase = outcome.map { $0.phrase(spanish: es) }
                 ?? (es ? "resultado desconocido" : "outcome not recorded")
             lines.append((es ? "Última comprobación: " : "Last update check: ") + when + " — " + phrase)
             // The technical line. Not pretty, deliberately kept: it is the
@@ -306,30 +255,7 @@ final class OTAUpdater {
         return lines.joined(separator: "\n")
     }
 
-    private static func phrase(for outcome: Outcome, spanish es: Bool) -> String {
-        switch outcome {
-        case .upToDate:
-            return es ? "el contenido está actualizado" : "content is up to date"
-        case .staged:
-            return es ? "actualización descargada y verificada" : "update downloaded and verified"
-        case .noNetwork:
-            return es ? "sin conexión a internet" : "no internet connection"
-        case .serverUnavailable:
-            return es ? "no se pudo conectar con disabilitywiki.org" : "could not reach disabilitywiki.org"
-        case .signatureRejected:
-            return es ? "actualización rechazada: la firma no es válida" : "update refused — signature did not verify"
-        case .manifestInvalid:
-            return es ? "actualización rechazada: lista de archivos ilegible" : "update refused — update list unreadable"
-        case .contentRejected:
-            return es
-                ? "actualización rechazada: un archivo no coincide con su firma"
-                : "update refused — a file did not match its signature"
-        case .storageFailed:
-            return es ? "no se pudo guardar en este dispositivo" : "update could not be saved to this device"
-        }
-    }
-
-    private func checkForUpdate() async throws -> Outcome {
+    private func checkForUpdate() async throws -> OTAOutcome {
         let session = URLSession(configuration: .ephemeral)
 
         // 1. Fetch manifest + signature; verify BEFORE parsing.
@@ -341,10 +267,10 @@ final class OTAUpdater {
               key.isValidSignature(sig, for: manifestBytes) else {
             throw OTAError.badSignature
         }
-        let manifest = try Self.decodeManifest(manifestBytes)
+        let manifest = try OTAManifest.decode(manifestBytes)
         // Refuse to fall back to per-path fetches against an older publish side:
         // through the edge those return rewritten html that can never match.
-        guard let blobPath = manifest.blobPath else {
+        guard manifest.blobPath != nil else {
             throw OTAError.noBlobStore
         }
 
@@ -359,7 +285,7 @@ final class OTAUpdater {
            newBuilt <= activeBuilt { return .upToDate }
 
         // 3. Compute the delta and guard its size.
-        var delta: [(path: String, entry: Manifest.Entry)] = []
+        var delta: [(path: String, entry: OTAManifest.Entry)] = []
         for (path, entry) in manifest.files where activeManifest?.files[path]?.sha256 != entry.sha256 {
             delta.append((path, entry))
         }
@@ -383,7 +309,7 @@ final class OTAUpdater {
             let dest = staging.appendingPathComponent(String(path.dropFirst()))
             try fm.createDirectory(at: dest.deletingLastPathComponent(), withIntermediateDirectories: true)
             if changed.contains(path) {
-                let data = try await fetch(session, blobURL(blobPath, entry.sha256))
+                let data = try await fetch(session, try blobURL(manifest, entry.sha256))
                 guard SHA256.hash(data: data).hexString == entry.sha256 else {
                     throw OTAError.fileHashMismatch(path)
                 }
@@ -430,11 +356,12 @@ final class OTAUpdater {
     /// whole address, so there is nothing here an attacker could point elsewhere
     /// without breaking the signature. decodeManifest has already checked that the
     /// hash is 64 hex characters, so this can't traverse.
-    private func blobURL(_ blobPath: String, _ sha256: String) -> URL {
-        baseURL
-            .appendingPathComponent(blobPath.hasPrefix("/") ? String(blobPath.dropFirst()) : blobPath)
-            .appendingPathComponent(String(sha256.prefix(2)))
-            .appendingPathComponent(sha256)
+    /// The blob address comes from OTACore, which refuses to build one from a
+    /// malformed hash or a manifest with no blob store — so a nil here means
+    /// "refuse this update", never "guess a path".
+    private func blobURL(_ manifest: OTAManifest, _ sha256: String) throws -> URL {
+        guard let rel = manifest.blobRelativePath(forSHA: sha256) else { throw OTAError.badManifest }
+        return baseURL.appendingPathComponent(rel)
     }
 
     private func fetch(_ session: URLSession, _ url: URL) async throws -> Data {
@@ -444,74 +371,8 @@ final class OTAUpdater {
         return data
     }
 
-    // MARK: - Manifest
-
-    struct Manifest {
-        struct Entry { let sha256: String; let size: Int }
-        let gitSha: String?
-        let builtAt: String
-        /// Site-absolute prefix of the content-addressed blob store. Absent in
-        /// schema 1 manifests, which this client refuses to download from.
-        let blobPath: String?
-        let files: [String: Entry]
-        var builtAtDate: Date? { OTAUpdater.parseISO8601(builtAt) }
-    }
-
-    private func loadManifest(at url: URL) throws -> Manifest {
-        try Self.decodeManifest(try Data(contentsOf: url))
-    }
-
-    private static func decodeManifest(_ data: Data) throws -> Manifest {
-        guard let obj = try JSONSerialization.jsonObject(with: data) as? [String: Any],
-              let schema = obj["schema"] as? Int, schema == 1 || schema == 2,
-              let builtAt = obj["builtAt"] as? String,
-              let filesRaw = obj["files"] as? [String: [String: Any]] else {
-            throw OTAError.badManifest
-        }
-        var files: [String: Manifest.Entry] = [:]
-        files.reserveCapacity(filesRaw.count)
-        for (path, e) in filesRaw {
-            guard let sha = e["sha256"] as? String, let size = e["size"] as? Int,
-                  // Defence in depth. These are signature-protected already, but a
-                  // path is about to become a filesystem write and a hash is about
-                  // to become a URL, so neither gets to be arbitrary.
-                  path.hasPrefix("/"), !path.contains(".."), !path.hasSuffix("/"),
-                  sha.count == 64, sha.allSatisfy({ $0.isHexDigit && !$0.isUppercase }),
-                  size >= 0
-            else { throw OTAError.badManifest }
-            files[path] = Manifest.Entry(sha256: sha, size: size)
-        }
-        let blobPath = obj["blobPath"] as? String
-        if let blobPath, !blobPath.hasPrefix("/") || blobPath.contains("..") { throw OTAError.badManifest }
-        return Manifest(gitSha: obj["gitSha"] as? String, builtAt: builtAt, blobPath: blobPath, files: files)
-    }
-
-    enum OTAError: LocalizedError {
-        case badSignature, badManifest, noBlobStore, noContent, stagedRootInvalid
-        case fileHashMismatch(String), httpFailure(String, Int), deltaTooLarge(Int)
-
-        var errorDescription: String? {
-            switch self {
-            case .badSignature: return "manifest signature invalid or missing"
-            case .badManifest: return "manifest malformed"
-            case .noBlobStore: return "server manifest has no blob store (publish side predates this app)"
-            case .noContent: return "no active content root"
-            case .stagedRootInvalid: return "staged root failed validation"
-            case .fileHashMismatch(let p): return "hash mismatch for \(p)"
-            case .httpFailure(let p, let code): return "HTTP \(code) fetching \(p)"
-            case .deltaTooLarge(let n): return "delta too large (\(n) bytes)"
-            }
-        }
-
-        var outcome: Outcome {
-            switch self {
-            case .badSignature: return .signatureRejected
-            case .badManifest, .noBlobStore: return .manifestInvalid
-            case .fileHashMismatch, .deltaTooLarge: return .contentRejected
-            case .httpFailure: return .serverUnavailable
-            case .noContent, .stagedRootInvalid: return .storageFailed
-            }
-        }
+    private func loadManifest(at url: URL) throws -> OTAManifest {
+        try OTAManifest.decode(try Data(contentsOf: url))
     }
 }
 

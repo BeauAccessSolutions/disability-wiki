@@ -109,6 +109,26 @@ jobs:
         run: python3 scripts/check_claims.py --check-urls --max-figures 0
         continue-on-error: true
 
+  # BLOCKING: unit tests for the OTA client's decision logic (app/ota-core).
+  #
+  # The Swift client had ZERO automated coverage for its entire life — which is how
+  # it shipped a content-update channel that could never deliver a single update,
+  # and how a timestamp-parsing bug silently disabled the guard against a stale edge
+  # cache rolling crisis content backwards. Both are now regression-tested here.
+  #
+  # macOS because Swift ships with Xcode on that runner and this is what was
+  # verified locally. The package is deliberately Foundation-only (no CryptoKit, no
+  # Capacitor), so it can move to a cheap `swift:6` container on ubuntu whenever
+  # someone can verify swift-corelibs-foundation parity — the conditional
+  # FoundationNetworking import is already in place for that.
+  ota-core-tests:
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v5
+      - name: swift test (OTA core logic)
+        working-directory: app/ota-core
+        run: swift test
+
   # BLOCKING, post-merge only: did this merge actually PUBLISH? The GitHub→
   # Cloudflare Pages trigger died silently on 2026-07-19 and crisis-content
   # fixes sat merged-but-unpublished for 4 days with every check green. This

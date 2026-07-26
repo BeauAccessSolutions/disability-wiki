@@ -6,6 +6,24 @@ All notable changes to the Disability Wiki project are documented in this file.
 
 ## [Unreleased]
 
+### Added
+- **The OTA client's decision logic is now unit-tested** (2026-07-26,
+  [`app/ota-core/`](app/ota-core/), [`.github/workflows/ci.yml`](.github/workflows/ci.yml)):
+  the Swift client had **zero** automated coverage for its entire life — no test target, `0`
+  `Test` references in the Xcode project — while the publish side had three checks. That is how
+  it shipped a content-update channel that could never deliver a single update, and how an
+  `ISO8601DateFormatter` bug silently disabled the guard against a stale edge cache rolling
+  crisis content *backwards*. Flagged as F-3 by the
+  [2026-07-26 slice audit](https://github.com/BeauAccessSolutions/bas-platform/blob/main/docs/testing/disability-wiki-ota-channel-audit-2026-07-26.md).
+  The pure logic — manifest decoding and its safety invariants, timestamp parsing, blob
+  addressing, and the failure taxonomy — moved to `app/ota-core`, a **Foundation-only** Swift
+  package with no CryptoKit, Capacitor, or UIKit, which is what makes `swift test` runnable
+  without a device. The iOS target compiles that same file directly, so there is one definition
+  rather than a copy that drifts from the shipped one. 27 tests, blocking in CI. **Both
+  regression tests were verified to actually fail against the original code** (reverting the
+  fractional-seconds fix → 2 failures; collapsing the outcome taxonomy → 5) — a test that cannot
+  fail is decoration, and an always-passing check is the exact failure mode being fixed here.
+
 ### Fixed
 - **OTA updates could silently reinstate the in-app contribute dead-end** (2026-07-26,
   [`site/src/pages/contribute.astro`](site/src/pages/contribute.astro),
