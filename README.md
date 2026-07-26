@@ -286,18 +286,24 @@ Two licenses, because this repo is two things:
 
 | | License | Covers |
 |---|---|---|
-| **Content** | [CC BY 4.0](LICENSE-CONTENT) | the wiki pages — `benefits/`, `rights/`, `crisis/`, `es/`, … |
+| **Content** | [CC BY-SA 4.0](LICENSE-CONTENT) | the wiki pages — `benefits/`, `rights/`, `crisis/`, `es/`, … |
 | **Code** | [MIT](LICENSE) | `site/`, `app/`, `scripts/`, workflows, config |
 
 **Please reuse the content.** Copy it, reprint it, translate it, adapt it, use it
-commercially — credit is the only condition, and you do not have to license your own
-work under the same terms. [`/reuse`](https://disabilitywiki.org/reuse) explains it in
+commercially. Two conditions: credit us, and license your adaptation under the same
+terms so it stays open. [`/reuse`](https://disabilitywiki.org/reuse) explains it in
 plain language ([en español](https://disabilitywiki.org/es/reuse)).
+
+**If you only need the facts, share-alike doesn't apply to you.** Phone numbers, hours,
+income limits and deadlines aren't copyrightable — take them into anything, under any
+terms. ShareAlike binds someone copying the *writing*.
 
 If you reprint crisis information, **date your copy and re-check it before each print
 run** — a stale hotline number that looks current is worse than none.
 
-Contributions are accepted under the same terms (inbound = outbound); see
+Contributions are accepted under the same terms (inbound = outbound), which is also
+what guarantees this content can never be closed, paywalled, or made proprietary — by a
+future maintainer or by the current one. See [`CONTRIBUTING.md`](CONTRIBUTING.md) and
 [`docs/contribution-model.md`](docs/contribution-model.md).
 
 **A license is not a disclaimer.** Content is provided for educational and

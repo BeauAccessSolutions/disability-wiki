@@ -1,19 +1,31 @@
 ---
 title: Cómo reutilizar este contenido
-description: "Puedes copiar, reimprimir, traducir y adaptar cualquier cosa de Disability Wiki. Tiene licencia CC BY 4.0: solo danos crédito y es tuyo para usar."
+description: "Puedes copiar, reimprimir, traducir y adaptar cualquier cosa de Disability Wiki. Tiene licencia CC BY-SA 4.0: danos crédito, mantenlo abierto y es tuyo para usar."
 ---
 
 *Última actualización: 25 de julio de 2026*
 
 **En resumen: tómalo.** Todo lo que está escrito en este sitio tiene licencia
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es). Puedes copiarlo,
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.es). Puedes copiarlo,
 reimprimirlo, traducirlo, reescribirlo y usarlo con fines comerciales. No necesitas
 pedirnos permiso y no hay ningún costo.
+
+Dos condiciones: **danos crédito** y **mantén tu versión tan abierta como esta**.
 
 Escribimos esto para que le sirva a la gente, y la información que se queda en un solo
 sitio web ayuda a menos personas que la información que circula.
 
-## Lo que puedes hacer
+## ¿Solo necesitas los números de teléfono? Tómalos.
+
+**Los datos no son objeto de derechos de autor y ninguna licencia los alcanza.** Números
+de teléfono, horarios, límites de ingresos, fechas límite, requisitos: toma lo que sea,
+ponlo donde sea, bajo los términos que quieras. Nada de lo que sigue te aplica.
+
+Si trabajas en una clínica, una escuela, una agencia o una línea de ayuda y quieres
+nuestra lista de líneas de crisis en tu propio paquete de admisión, ya eres libre de
+hacerlo. La licencia solo importa si estás copiando **nuestro texto**.
+
+## Lo que puedes hacer con el texto
 
 - Imprimir una lista de líneas de ayuda para una sala de espera, un albergue o un grupo de apoyo
 - Incluir una guía de beneficios en un paquete de admisión o en un material de clase
@@ -24,12 +36,19 @@ sitio web ayuda a menos personas que la información que circula.
 
 ## Lo que te pedimos a cambio
 
-**Crédito.** Con algo así basta:
+**1. Crédito.** Con algo así basta:
 
-> Adaptado de Disability Wiki (https://disabilitywiki.org), con licencia CC BY 4.0.
+> Adaptado de Disability Wiki (https://disabilitywiki.org), con licencia CC BY-SA 4.0.
 
-Indica si cambiaste algo y no des a entender que te respaldamos. Esa es toda la
-obligación legal: **no** tienes que publicar tu propio trabajo bajo la misma licencia.
+Indica si cambiaste algo y no des a entender que te respaldamos.
+
+**2. Mantenlo abierto (ShareAlike).** Si adaptas, remezclas o construyes sobre este
+texto, tu versión tiene que llevar la misma licencia CC BY-SA 4.0. Puedes venderla; lo
+que no puedes es cerrarla. Nadie debería poder tomar un recurso comunitario, encerrarlo y
+cobrar por el acceso a algo que se dio libremente.
+
+Esto aplica a las **adaptaciones**. Citar una página dentro de algo más grande, o repartir
+una copia impresa sin modificar, no somete el resto de tu trabajo a esta licencia.
 
 ## Por favor, ponle fecha a tu copia
 
@@ -46,9 +65,6 @@ Nuestras propias páginas de crisis llevan la fecha de su última revisión por 
 
 ## Las partes que no nos corresponde ceder
 
-- **Los datos son libres de todos modos.** Números de teléfono, horarios, límites de
-  ingresos, fechas límite: nadie es dueño de eso. Úsalos como quieras, vengan de aquí o
-  de donde sea.
 - **El material citado** sigue perteneciendo a quien lo creó. Cuando una página cita una
   ley, una norma o las palabras propias de una organización, esa parte no nos
   corresponde relicenciarla.
@@ -58,7 +74,8 @@ Nuestras propias páginas de crisis llevan la fecha de su última revisión por 
 ## Software
 
 El código que construye este sitio y la aplicación móvil va por separado y tiene
-[licencia MIT](https://github.com/Beaudoin0zach/disability-wiki/blob/main/LICENSE).
+[licencia MIT](https://github.com/Beaudoin0zach/disability-wiki/blob/main/LICENSE), sin
+condición de ShareAlike.
 
 ## Algo que esto no es
 

@@ -50,8 +50,17 @@ approved proposal into a content PR (the existing `disability-wiki-edit` workflo
 ## Licensing of contributions (inbound = outbound)
 
 **By submitting, a contributor licenses their contribution under the same terms the
-wiki already uses: [CC BY 4.0](../LICENSE-CONTENT) for content, [MIT](../LICENSE) for
+wiki already uses: [CC BY-SA 4.0](../LICENSE-CONTENT) for content, [MIT](../LICENSE) for
 code.** Contributors keep their copyright — this is a licence, not an assignment.
+
+ShareAlike is doing real work here, and it is worth being able to say so to a
+contributor who asks *"what stops this being sold off later?"* Because CC BY-SA is
+irrevocable and derivative works must carry the same terms, contributed content
+**cannot be made proprietary, paywalled, or closed** — not by a future maintainer and
+not by the current one. If it ever came to that, the content could be forked and hosted
+by someone else entirely. That guarantee is the reason to prefer it here over plain
+CC BY: this wiki is asking people to hand over hard-won practical knowledge, and the
+promise that it stays in the commons is part of what is being offered in return.
 
 This has to be stated at the point of submission and recorded with the row, not merely
 written down here. It is the cheapest thing in this document to get right now and the
@@ -62,7 +71,7 @@ what the project can ever do.
 Build requirements, to be wired with the submission form:
 
 - The form states the licence in plain language above the button — one line, e.g.
-  *"By submitting, you agree to license this under CC BY 4.0 so anyone can reuse it
+  *"By submitting, you agree to license this under CC BY-SA 4.0 so anyone can reuse it
   with credit. You keep your copyright."* Not buried in a checkbox: this audience
   includes people who have been on the wrong end of unreadable terms.
 - The queue row stores the licence version accepted and the timestamp, so a future

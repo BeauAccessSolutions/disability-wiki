@@ -7,15 +7,24 @@ All notable changes to the Disability Wiki project are documented in this file.
 ## [Unreleased]
 
 ### Added
-- **The wiki now has a licence — CC BY 4.0 for content, MIT for code** (2026-07-25,
-  [`LICENSE`](LICENSE), [`LICENSE-CONTENT`](LICENSE-CONTENT), [`reuse.md`](reuse.md),
+- **The wiki now has a licence — CC BY-SA 4.0 for content, MIT for code** (2026-07-25,
+  [`LICENSE`](LICENSE), [`LICENSE-CONTENT`](LICENSE-CONTENT), [`CONTRIBUTING.md`](CONTRIBUTING.md),
+  [`reuse.md`](reuse.md),
   [`es/reuse.md`](es/reuse.md), [`docs/contribution-model.md`](docs/contribution-model.md)):
   the repo had no licence of any kind, which under default copyright meant **all rights
   reserved** — the legal opposite of the project's purpose. A disability org reprinting
   the hotline list in a pamphlet, or a caseworker redistributing the SSI page, had no
-  permission to do it. Content is now CC BY 4.0 (copy, reprint, translate, adapt,
-  commercially too; credit is the only condition), code is MIT. Split deliberately: MIT
-  reads oddly applied to prose and CC is a poor fit for source.
+  permission to do it. Content is now CC BY-SA 4.0 (copy, reprint, translate, adapt,
+  commercially too; credit us and keep your version open), code is MIT. Split
+  deliberately: MIT reads oddly applied to prose and CC is a poor fit for source.
+  **ShareAlike over plain CC BY was the deliberate call**: because CC BY-SA is
+  irrevocable and derivatives must carry the same terms, this content can never be made
+  proprietary, paywalled, or closed — by a future maintainer or the current one. That
+  promise is part of what the project offers contributors in exchange for hard-won
+  practical knowledge. Its usual cost — institutional reusers who can't relicense their
+  own materials — is much smaller here than it looks, because **facts aren't
+  copyrightable**: a clinic or agency that just wants the hotline numbers, hours, or
+  income limits is unaffected by any of this. ShareAlike binds copying the *writing*.
   A `/reuse` page (EN + ES) says all of this in plain language, and every page footer
   carries a one-line notice — a licence nobody sees does not get used, and someone
   deciding whether they may reprint a hotline list will not go looking for a LICENSE
