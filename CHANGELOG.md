@@ -6,6 +6,30 @@ All notable changes to the Disability Wiki project are documented in this file.
 
 ## [Unreleased]
 
+### Added
+- **The wiki now has a licence — CC BY 4.0 for content, MIT for code** (2026-07-25,
+  [`LICENSE`](LICENSE), [`LICENSE-CONTENT`](LICENSE-CONTENT), [`reuse.md`](reuse.md),
+  [`es/reuse.md`](es/reuse.md), [`docs/contribution-model.md`](docs/contribution-model.md)):
+  the repo had no licence of any kind, which under default copyright meant **all rights
+  reserved** — the legal opposite of the project's purpose. A disability org reprinting
+  the hotline list in a pamphlet, or a caseworker redistributing the SSI page, had no
+  permission to do it. Content is now CC BY 4.0 (copy, reprint, translate, adapt,
+  commercially too; credit is the only condition), code is MIT. Split deliberately: MIT
+  reads oddly applied to prose and CC is a poor fit for source.
+  A `/reuse` page (EN + ES) says all of this in plain language, and every page footer
+  carries a one-line notice — a licence nobody sees does not get used, and someone
+  deciding whether they may reprint a hotline list will not go looking for a LICENSE
+  file in a git repo. The page asks reusers to **date their copy and re-check crisis
+  information before each print run**: a stale copy that looks current can send someone
+  to a disconnected number, which is worse than no copy.
+  Licensed only after a provenance pass — the published pages are original prose plus
+  uncopyrightable facts (numbers, hours, limits); the few third-party citations are US
+  federal material (public domain), and quoted material is explicitly carved out.
+  **Also closes the inbound gap**: the contribution model now specifies inbound =
+  outbound, with the requirement that the licence be shown at the point of submission
+  and recorded per row. Contributions had no stated licence at all, and relicensing a
+  wiki after contributions land means finding every contributor.
+
 ### Security
 - **Merges that don't publish are now a red X, not a silent gap** (2026-07-23,
   [`site/tools/check-live-deploy.mjs`](site/tools/check-live-deploy.mjs),

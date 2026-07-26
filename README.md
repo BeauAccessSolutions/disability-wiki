@@ -282,7 +282,27 @@ Contributions are welcome! To contribute:
 
 ## License
 
-Content is provided for educational and informational purposes. Please verify all legal information with qualified professionals.
+Two licenses, because this repo is two things:
+
+| | License | Covers |
+|---|---|---|
+| **Content** | [CC BY 4.0](LICENSE-CONTENT) | the wiki pages — `benefits/`, `rights/`, `crisis/`, `es/`, … |
+| **Code** | [MIT](LICENSE) | `site/`, `app/`, `scripts/`, workflows, config |
+
+**Please reuse the content.** Copy it, reprint it, translate it, adapt it, use it
+commercially — credit is the only condition, and you do not have to license your own
+work under the same terms. [`/reuse`](https://disabilitywiki.org/reuse) explains it in
+plain language ([en español](https://disabilitywiki.org/es/reuse)).
+
+If you reprint crisis information, **date your copy and re-check it before each print
+run** — a stale hotline number that looks current is worse than none.
+
+Contributions are accepted under the same terms (inbound = outbound); see
+[`docs/contribution-model.md`](docs/contribution-model.md).
+
+**A license is not a disclaimer.** Content is provided for educational and
+informational purposes and is not legal, medical, or financial advice. Please verify
+all legal information with qualified professionals.
 
 ---
 

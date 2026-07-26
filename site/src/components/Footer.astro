@@ -1,0 +1,61 @@
+---
+// Starlight Footer override: the default footer (last-updated, edit link, pagination)
+// plus a standing reuse notice.
+//
+// The notice is here rather than only in /reuse because a licence nobody sees does not
+// get used. Someone deciding whether they may reprint a hotline list will not think to
+// look for a LICENSE file in a git repo; they will look at the bottom of the page they
+// are already reading. This site's whole reason for existing is that the information
+// spreads, so the permission travels on every page.
+import Default from '@astrojs/starlight/components/Footer.astro';
+
+const isSpanish = Astro.locals.starlightRoute?.locale === 'es';
+const reuseHref = isSpanish ? '/es/reuse/' : '/reuse/';
+---
+
+<Default><slot /></Default>
+
+<div class="dw-reuse-note" data-pagefind-ignore>
+  {
+    isSpanish ? (
+      <p>
+        Puedes copiar, reimprimir, traducir y adaptar este contenido —
+        <a href="https://creativecommons.org/licenses/by/4.0/deed.es">CC BY 4.0</a>,
+        solo pedimos atribución. <a href={reuseHref}>Cómo reutilizar esta página</a>.
+      </p>
+    ) : (
+      <p>
+        You may copy, reprint, translate, and adapt this page —
+        <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>, just credit
+        us. <a href={reuseHref}>How to reuse this</a>.
+      </p>
+    )
+  }
+</div>
+
+<style>
+  .dw-reuse-note {
+    margin-top: 1.5rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--sl-color-gray-5);
+  }
+
+  .dw-reuse-note p {
+    margin: 0;
+    /* Secondary to the page content, but never below the readable floor: this is
+       an accessibility project, so "de-emphasised" is a colour and size choice
+       that still has to pass contrast at a normal reading size. */
+    font-size: var(--sl-text-sm);
+    color: var(--sl-color-gray-2);
+  }
+
+  .dw-reuse-note a {
+    color: inherit;
+    text-decoration: underline;
+  }
+
+  .dw-reuse-note a:hover,
+  .dw-reuse-note a:focus-visible {
+    color: var(--sl-color-text-accent);
+  }
+</style>

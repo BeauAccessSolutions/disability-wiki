@@ -30,7 +30,11 @@ export default defineConfig({
       customCss: ['./src/styles/custom.css'],
       // Site-wide announcement bar. The override still renders per-page `banner`
       // frontmatter, so nothing else changes.
-      components: { Banner: './src/components/AppBanner.astro' },
+      components: {
+        Banner: './src/components/AppBanner.astro',
+        // Default footer + a standing CC BY reuse notice on every page.
+        Footer: './src/components/Footer.astro',
+      },
       head: [
         // PWA: installable + offline (crisis pages precached; see tools/gen-sw.mjs)
         { tag: 'link', attrs: { rel: 'manifest', href: '/manifest.webmanifest' } },
