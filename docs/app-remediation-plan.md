@@ -247,6 +247,7 @@ dialable crisis number without sighted help, at any text size.
 | 2 | Quick actions, crisis button, status screen, saved pages, share | App Review readiness |
 | 3 | Dynamic Type bridge, in-app VoiceOver pass, native-chrome a11y, AT matrix | Ship-quality bar |
 | 4 | Fastlane lane, CI hardening, incident-runbook update | Operational close-out |
+| 5 | OTA hardening from the 2026-07-26 audit: contribute divergence, re-entrancy, client tests | Before build 7's installs update |
 
 Estimated shape: Phase 0 is a few focused sessions; 1A rides along with it; 1B is
 the largest single build (signing + swap + rollback deserves its own PR and
@@ -258,3 +259,145 @@ review); Phases 2–3 are parallelizable page-sized PRs; Phase 4 is glue.
    Plan assumes custom.
 2. **1A online-first scope** — crisis pages only (planned) vs. all HTML
    (simpler mentally, more data use for spoon/data-budgeted users).
+
+---
+
+## Phase 5 — OTA channel hardening (from the 2026-07-26 vertical-slice audit)
+
+Source: [`bas-platform/docs/testing/disability-wiki-ota-channel-audit-2026-07-26.md`](https://github.com/BeauAccessSolutions/bas-platform/blob/main/docs/testing/disability-wiki-ota-channel-audit-2026-07-26.md)
+(audited at `332772ec`). Phase 1B works — verified end to end through the real Cloudflare edge —
+so nothing here is about whether updates arrive. It is about what an update is allowed to
+*overwrite*, what happens when two run at once, and the fact that the client that can strand a
+device has no automated coverage at all.
+
+Ordering principle, same as Phase 0: **the thing that fires on its own goes first.** 5.1 is not a
+latent risk; it triggers on build 7's first successful update.
+
+### 5.1 — Stop OTA reverting the in-app contribute hand-off (F-1, P1)
+
+**The defect.** `app/tools/native-contribute.mjs` rewrites the *bundled* `/contribute` page into a
+live-site hand-off, because the web page's forms POST to a relative `/api/contributions` that 404s
+under `capacitor://`. `verify-bundle.mjs` enforces that — **at build time only.** The page is in the
+OTA manifest, so as soon as its bytes differ from the bundle's it is downloaded and the dead-end
+form overwrites the hand-off. It never self-heals: subsequent diffs run against the OTA root's
+manifest, which now carries the website hash.
+
+**Already armed.** Build 7 was cut at `eae4400`; the reuse-footer at `332772ec` changed the rendered
+bytes of all 1110 HTML pages. The hashes differ today, so this fires on build 7's first update.
+
+**Fix — move the native gate into the page, and delete the build-time rewrite.**
+Not a client patch. The root cause is that one URL has two different correct bodies, which is
+precisely what a content-hash update channel cannot express. Collapse it to one:
+
+- `/contribute` renders **both** the web forms and the hand-off card, with the card hidden by
+  default. A pre-paint inline script sets a `data-` flag when
+  `Capacitor.isNativePlatform()` or `location.protocol === 'capacitor:'` — the **same gate already
+  shipped and proven** in [`site/src/components/AppBanner.astro`](../site/src/components/AppBanner.astro)
+  (lines ~102 and ~177) — and CSS swaps which one is visible.
+- Default must favour the web: if the script never runs, web readers still get a working form.
+  In-app that degrades to today's dead-end, i.e. no worse than the bug being fixed. Write that
+  trade-off down in the component.
+- **Then retire `native-contribute.mjs`** and its step in `build-release.sh`. Keep the
+  `verify-bundle.mjs` assertion but invert it: the bundled page must now contain the hand-off
+  *markup* and the native gate, rather than contain no `action="/api/"` form.
+
+**Why this shape over the alternatives** (all considered, all rejected):
+- *Exclude `/contribute/**` from the manifest* — the staging loop copies only what the manifest
+  lists, so the OTA root would have **no** contribute page at all and the route would 404. It also
+  needs the client to learn a bundle-owned path list. Two new moving parts to paper over one.
+- *Re-apply the transform in Swift after staging* — reimplements a regex HTML rewrite in a second
+  language that must stay in lockstep with the first. Worst option.
+- *A separate native-only URL* — needs `WikiRouter` special-casing and a page that only exists in
+  one of the two artifacts, reintroducing divergence under a different name.
+
+**Acceptance:** a full `build-release.sh` produces a bundle whose `/contribute` page is
+byte-identical to `site/dist`'s; `verify-bundle` passes; the OTA manifest and the bundle agree on
+that path forever; in the simulator, `/contribute` shows the hand-off with no visible flash of the
+form, and the same file in a browser shows the form.
+
+### 5.2 — Serialise update checks (F-2, P2)
+
+Two callers — launch ([`WikiRouter.swift:129,133`](../app/ios/App/App/WikiRouter.swift)) and the
+sheet's *Check for updates now*
+([`NativeAffordances.swift:191`](../app/ios/App/App/NativeAffordances.swift)) — share one
+`versions/staging` directory with no lock, flag, actor, or task handle.
+
+- **Guard:** hold the in-flight `Task` on `OTAUpdater`. A second caller does not start a second run;
+  it attaches its completion to the running one, so *Check now* still reports a real outcome instead
+  of silently doing nothing. Access to that handle must be serialised (the calls come from the main
+  thread and a detached task).
+- **Belt and braces:** make the staging directory unique per run
+  (`staging-<uuid>`), and sweep leftover `staging-*` directories at the start of a check. Then even
+  a future second entry point cannot corrupt an in-flight stage.
+- **Related, same root:** `validate()` spot-checks three crisis pages plus `index.html`, which is
+  why a half-written root can pass. Keep the cheap launch check, but have the **staging** path
+  verify every file it just wrote against the manifest before `moveItem` — that is off the launch
+  path, so it costs nothing a reader feels.
+
+**Acceptance:** a test (see 5.3) starts a check, starts a second while the first is mid-stage, and
+asserts one root is produced, the second caller receives the first's outcome, and no staging
+directory survives.
+
+### 5.3 — Give the client automated coverage (F-3, P2)
+
+`find app/ios -iname '*test*'` returns nothing; the pbxproj has **0** `Test` references. The publish
+side has three checks; the code that can strand a device has none. This is the same class of gap
+that let the channel ship dead for its entire life — one layer up.
+
+Two steps, smallest first:
+
+1. **Pure-function unit tests, no refactor needed.** `decodeManifest` (schema 1/2, rejected paths
+   with `..`/no leading slash/trailing slash, non-hex and uppercase shas, negative size, missing
+   `blobPath`), `parseISO8601` (fractional **and** whole-second — the bug that silently disabled the
+   never-move-backwards guard), `classify(_:)` for each `URLError` and `OTAError`, and `blobURL`
+   construction.
+2. **Injectable roots for integration tests.** `contentDir` and `bundleRoot` are computed
+   properties; make them injectable so a test can stage into a temp directory. Then cover
+   delta computation, hard-link-vs-download, atomic activation, **rollback current → previous →
+   bundle** (last proven 2026-07-23, pre-refactor), and new-binary-wins.
+3. **CI:** run the test target on a macOS runner. Advisory first — macOS minutes are expensive and
+   a red advisory job is still a signal — promoted to blocking once stable, mirroring how
+   `verify-bundle` was introduced.
+
+**Acceptance:** `xcodebuild test` passes locally and in CI; each of the three findings in this phase
+has a test that fails against the current code.
+
+### 5.4 — Close the verification gaps the audit could not
+
+The audit's own verdict names its largest gap: **none of this has run on real hardware.** Build 7 is
+in App Review; a TestFlight install is the cheapest way to close most of these.
+
+| Gap | How to close |
+|---|---|
+| Real device, any | TestFlight build 7 → long-press Crisis → Content status; confirm Source and outcome |
+| Rollback after the refactor | 5.3 integration test, plus one on-device corrupt-root run |
+| `noNetwork` classification | Airplane mode on device — the sim cannot produce a true `notConnectedToInternet` |
+| Network lost mid-download | Device, toggle airplane mode during a large delta |
+| `storageFailed` | Fill the container, or inject a write failure via 5.3 |
+| `manifestInvalid` | Serve malformed JSON locally with `-OTABaseURL` |
+| VoiceOver / Dynamic Type on the status sheet | Device pass; the sim's VoiceOver toggle wedges the daemon (known) |
+| "Content from" date across timezones/DST | Unit test around `DateFormatter` with fixed locales |
+
+### 5.5 — Risks recorded, not scheduled
+
+Real but low-probability; fix opportunistically, do not gate on them.
+
+- **R-1** `activeContentRoot()` mutates state (it can delete `contentDir`) and is called mid-session
+  from the background task, while the WebView is serving from that directory. Needs a root that
+  passed at launch to fail later. Consider splitting it into a pure `resolve()` and an explicit
+  `repair()` so only launch may destroy.
+- **R-3** Rollback is two silent `try?` steps; if the first succeeds and the second fails the pointer
+  state is briefly inconsistent. It converges on the next launch and the bundle is always the final
+  fallback — worth a comment saying so.
+- **R-4** A staged update is only discoverable by seeking out the status sheet. Low impact:
+  activation happens on the next launch regardless.
+
+### Sequencing
+
+**5.1 before build 8 ships, and ideally before build 7's installs update.** 5.2 and 5.3 can land
+together in one PR (the guard is small and 5.3 is what proves it). 5.4 rides along with whatever
+device time the App Review outcome creates. 5.5 is opportunistic.
+
+**Acceptance for the phase:** an OTA update can no longer change the behaviour of a page the bundle
+deliberately owns; two concurrent checks cannot produce a partial root; and every finding above has
+a test that would have caught it.
