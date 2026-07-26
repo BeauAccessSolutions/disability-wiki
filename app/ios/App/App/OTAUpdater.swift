@@ -99,6 +99,13 @@ final class OTAUpdater {
     private var servingVersion: String?
     private var didCaptureServingVersion = false
 
+    // Launch and the status sheet's "Check now" both land here. They shared one
+    // staging directory with nothing serialising them, so a reader tapping "check
+    // now" mid-download could have the second run wipe the first's partial work —
+    // and because launch validation is a four-file spot check, the resulting
+    // incomplete root could pass and activate. See OTASingleFlight.
+    private let flight = OTASingleFlight()
+
     // MARK: - Serving root (called before the webview loads)
 
     /// The content root the webview should serve, or nil to use the app bundle.
@@ -187,6 +194,14 @@ final class OTAUpdater {
     /// `then` runs on the main queue once the check has settled, so a
     /// user-initiated "check now" can show what actually happened.
     func checkForUpdateInBackground(then completion: (@Sendable () -> Void)? = nil) {
+        // A second caller does NOT start a rival run — it attaches to the one in
+        // flight and is answered when that finishes. Attaching rather than dropping
+        // matters: a "Check now" that silently does nothing is how an update channel
+        // stays broken without anyone noticing.
+        guard flight.begin(completion: completion) else {
+            CAPLog.print("⚡️  OTA: check already in flight — attached to it")
+            return
+        }
         Task.detached(priority: .utility) { [self] in
             do {
                 let outcome = try await checkForUpdate()
@@ -198,7 +213,10 @@ final class OTAUpdater {
                 // Never fatal: the app keeps serving its last-known-good content.
                 CAPLog.print("⚡️  OTA: check finished as \(outcome.rawValue) — \(detail)")
             }
-            if let completion { await MainActor.run { completion() } }
+            let waiting = flight.finish()
+            if !waiting.isEmpty {
+                await MainActor.run { for done in waiting { done() } }
+            }
         }
     }
 
@@ -294,8 +312,16 @@ final class OTAUpdater {
         CAPLog.print("⚡️  OTA: update \(manifest.builtAt) — \(delta.count) files, \(deltaBytes / 1024) KB")
 
         // 4. Stage: hard-link unchanged files from the active root, download the rest.
-        try? fm.removeItem(at: versionsDir.appendingPathComponent("staging"))
-        let staging = versionsDir.appendingPathComponent("staging", isDirectory: true)
+        // Unique per run, and sweep anything a previous run left behind (killed
+        // mid-stage by suspension or a crash). Belt and braces alongside the
+        // single-flight guard: even a future third entry point cannot now collide
+        // with an in-progress stage, because no two runs share a directory name.
+        try fm.createDirectory(at: versionsDir, withIntermediateDirectories: true)
+        for item in (try? fm.contentsOfDirectory(atPath: versionsDir.path)) ?? []
+        where item.hasPrefix("staging") {
+            try? fm.removeItem(at: versionsDir.appendingPathComponent(item))
+        }
+        let staging = versionsDir.appendingPathComponent("staging-\(UUID().uuidString)", isDirectory: true)
         try fm.createDirectory(at: staging, withIntermediateDirectories: true)
         // Content roots are re-downloadable; keeping them out of iCloud backups
         // saves the reader's storage quota. (Applies to the whole content dir.)
@@ -317,6 +343,22 @@ final class OTAUpdater {
             } else {
                 let src = activeRoot.appendingPathComponent(String(path.dropFirst()))
                 do { try fm.linkItem(at: src, to: dest) } catch { try fm.copyItem(at: src, to: dest) }
+            }
+        }
+
+        // 4b. Every path the manifest promises must be present at the size it
+        //     promises. Changed files were already hash-verified inline as they
+        //     downloaded, and re-hashing the ~87 MB of hard-linked ones would cost
+        //     real seconds of CPU to re-prove something already proven. What this
+        //     catches is a root that is MISSING files or truncated — the partial
+        //     stage — which the four-file launch validation would wave through.
+        //     It runs here, off the launch path, so a reader never waits on it.
+        for (path, entry) in manifest.files {
+            let staged = staging.appendingPathComponent(String(path.dropFirst()))
+            let size = (try? fm.attributesOfItem(atPath: staged.path)[.size]) as? Int
+            guard size == entry.size else {
+                CAPLog.print("⚡️  OTA: staged root incomplete at \(path) — refusing to activate")
+                throw OTAError.stagedRootInvalid
             }
         }
 

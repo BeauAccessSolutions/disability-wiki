@@ -202,3 +202,59 @@ public enum OTAOutcome: String, CaseIterable, Equatable {
         }
     }
 }
+
+// MARK: - Single-flight
+
+/// Collapses concurrent requests for the same work into one run.
+///
+/// The OTA check has two entry points — app launch and the status sheet's "Check
+/// for updates now" — and they shared one staging directory with nothing
+/// serialising them. A reader who taps "check now" during a launch-time download
+/// (an invitation the sheet makes explicitly, and the natural move for someone who
+/// just reconnected) could have a second run wipe the first's partial work
+/// mid-stage. Because launch-time validation is a four-file spot check, an
+/// incomplete root could then pass and activate, and keep passing.
+///
+/// The waiting caller must still get an answer — firing a check that silently does
+/// nothing is how a broken update channel stays invisible — so completions attach
+/// to the running flight rather than being dropped.
+///
+/// Lives here rather than in OTAUpdater because this is the part that can be
+/// tested without a device or a network.
+public final class OTASingleFlight {
+    private let lock = NSLock()
+    private var running = false
+    private var waiters: [() -> Void] = []
+
+    public init() {}
+
+    /// Register interest in the work.
+    /// - Returns: `true` if the caller should perform it, `false` if a run was
+    ///   already in flight and this completion was attached to it instead.
+    @discardableResult
+    public func begin(completion: (() -> Void)? = nil) -> Bool {
+        lock.lock()
+        defer { lock.unlock() }
+        if let completion { waiters.append(completion) }
+        if running { return false }
+        running = true
+        return true
+    }
+
+    /// Mark the run finished and hand back everyone waiting on it. The caller is
+    /// responsible for invoking them (on whichever queue is appropriate).
+    public func finish() -> [() -> Void] {
+        lock.lock()
+        defer { lock.unlock() }
+        let done = waiters
+        waiters = []
+        running = false
+        return done
+    }
+
+    public var isRunning: Bool {
+        lock.lock()
+        defer { lock.unlock() }
+        return running
+    }
+}
