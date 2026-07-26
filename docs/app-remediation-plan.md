@@ -338,7 +338,7 @@ sheet's *Check for updates now*
 asserts one root is produced, the second caller receives the first's outcome, and no staging
 directory survives.
 
-### 5.3 — Give the client automated coverage (F-3, P2)
+### 5.3 — Give the client automated coverage (F-3, P2) — 🟡 step 1 DONE 2026-07-26, steps 2–3 open
 
 `find app/ios -iname '*test*'` returns nothing; the pbxproj has **0** `Test` references. The publish
 side has three checks; the code that can strand a device has none. This is the same class of gap
@@ -346,16 +346,25 @@ that let the channel ship dead for its entire life — one layer up.
 
 Two steps, smallest first:
 
-1. **Pure-function unit tests, no refactor needed.** `decodeManifest` (schema 1/2, rejected paths
+1. ✅ **DONE.** The pure logic was extracted to `app/ota-core` — a Foundation-only Swift
+   package (no CryptoKit, no Capacitor, no UIKit) that the iOS target compiles *directly*, so
+   there is one definition rather than a copy that drifts. 27 tests cover manifest decoding
+   (schema, path traversal, hash shape, negative size, blob-path escape), timestamp parsing,
+   blob addressing, and the full outcome taxonomy. **Both regression tests were verified to
+   fail against the original code** — reverting the fractional-seconds fix produces 2 failures,
+   collapsing the taxonomy produces 5. Runs in CI as a blocking `ota-core-tests` job.
+   Original scope, for the record: `decodeManifest` (schema 1/2, rejected paths
    with `..`/no leading slash/trailing slash, non-hex and uppercase shas, negative size, missing
    `blobPath`), `parseISO8601` (fractional **and** whole-second — the bug that silently disabled the
    never-move-backwards guard), `classify(_:)` for each `URLError` and `OTAError`, and `blobURL`
    construction.
-2. **Injectable roots for integration tests.** `contentDir` and `bundleRoot` are computed
+2. ⬜ **Still open. Injectable roots for integration tests.** `contentDir` and `bundleRoot` are computed
    properties; make them injectable so a test can stage into a temp directory. Then cover
    delta computation, hard-link-vs-download, atomic activation, **rollback current → previous →
    bundle** (last proven 2026-07-23, pre-refactor), and new-binary-wins.
-3. **CI:** run the test target on a macOS runner. Advisory first — macOS minutes are expensive and
+3. 🟡 **Partly done** — `ota-core-tests` runs blocking on `macos-latest`. Remaining: move it to
+   a `swift:6` container on ubuntu once someone can verify swift-corelibs-foundation parity
+   (the conditional `FoundationNetworking` import is already in place). Original note: Advisory first — macOS minutes are expensive and
    a red advisory job is still a signal — promoted to blocking once stable, mirroring how
    `verify-bundle` was introduced.
 

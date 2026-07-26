@@ -11,6 +11,7 @@
 		50379B232058CBB4000EE86E /* capacitor.config.json in Resources */ = {isa = PBXBuildFile; fileRef = 50379B222058CBB4000EE86E /* capacitor.config.json */; };
 		504EC3081FED79650016851F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 504EC3071FED79650016851F /* AppDelegate.swift */; };
 		7A1C4E2A2C0000010016851F /* WikiRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A1C4E292C0000010016851F /* WikiRouter.swift */; };
+		7A1C4E342C0000010016851F /* OTACore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A1C4E332C0000010016851F /* OTACore.swift */; };
 		7A1C4E2C2C0000010016851F /* OTAUpdater.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A1C4E2B2C0000010016851F /* OTAUpdater.swift */; };
 		7A1C4E2E2C0000010016851F /* NativeAffordances.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A1C4E2D2C0000010016851F /* NativeAffordances.swift */; };
 		7A1C4E302C0000010016851F /* PageActions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A1C4E2F2C0000010016851F /* PageActions.swift */; };
@@ -28,6 +29,7 @@
 		504EC3041FED79650016851F /* App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = App.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		504EC3071FED79650016851F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7A1C4E292C0000010016851F /* WikiRouter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WikiRouter.swift; sourceTree = "<group>"; };
+		7A1C4E332C0000010016851F /* OTACore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = OTACore.swift; path = "../../../ota-core/Sources/OTACore/OTACore.swift"; sourceTree = "<group>"; };
 		7A1C4E2B2C0000010016851F /* OTAUpdater.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OTAUpdater.swift; sourceTree = "<group>"; };
 		7A1C4E2D2C0000010016851F /* NativeAffordances.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NativeAffordances.swift; sourceTree = "<group>"; };
 		7A1C4E2F2C0000010016851F /* PageActions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageActions.swift; sourceTree = "<group>"; };
@@ -86,6 +88,7 @@
 				50379B222058CBB4000EE86E /* capacitor.config.json */,
 				504EC3071FED79650016851F /* AppDelegate.swift */,
 				7A1C4E292C0000010016851F /* WikiRouter.swift */,
+				7A1C4E332C0000010016851F /* OTACore.swift */,
 				7A1C4E2B2C0000010016851F /* OTAUpdater.swift */,
 				7A1C4E2D2C0000010016851F /* NativeAffordances.swift */,
 				7A1C4E2F2C0000010016851F /* PageActions.swift */,
@@ -226,6 +229,7 @@
 			files = (
 				504EC3081FED79650016851F /* AppDelegate.swift in Sources */,
 				7A1C4E2A2C0000010016851F /* WikiRouter.swift in Sources */,
+				7A1C4E342C0000010016851F /* OTACore.swift in Sources */,
 				7A1C4E2C2C0000010016851F /* OTAUpdater.swift in Sources */,
 				7A1C4E2E2C0000010016851F /* NativeAffordances.swift in Sources */,
 				7A1C4E302C0000010016851F /* PageActions.swift in Sources */,
