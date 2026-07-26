@@ -315,7 +315,7 @@ byte-identical to `site/dist`'s; `verify-bundle` passes; the OTA manifest and th
 that path forever; in the simulator, `/contribute` shows the hand-off with no visible flash of the
 form, and the same file in a browser shows the form.
 
-### 5.2 — Serialise update checks (F-2, P2)
+### 5.2 — Serialise update checks (F-2, P2) — ✅ DONE 2026-07-26
 
 Two callers — launch ([`WikiRouter.swift:129,133`](../app/ios/App/App/WikiRouter.swift)) and the
 sheet's *Check for updates now*

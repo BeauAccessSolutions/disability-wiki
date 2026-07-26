@@ -211,3 +211,72 @@ final class OutcomeClassificationTests: XCTestCase {
         }
     }
 }
+
+final class SingleFlightTests: XCTestCase {
+    /// The core guarantee: a second caller does not start a rival run.
+    func testSecondCallerDoesNotGetToRun() {
+        let flight = OTASingleFlight()
+        XCTAssertTrue(flight.begin(), "first caller runs")
+        XCTAssertFalse(flight.begin(), "second caller must attach, not run")
+        XCTAssertFalse(flight.begin(), "and so must a third")
+    }
+
+    /// A "Check now" that silently does nothing is how a broken update channel
+    /// stays invisible — every attached caller must still be answered.
+    func testEveryAttachedCallerIsAnsweredByTheRunInFlight() {
+        let flight = OTASingleFlight()
+        var answered: [String] = []
+        XCTAssertTrue(flight.begin { answered.append("launch") })
+        XCTAssertFalse(flight.begin { answered.append("checkNow") })
+        XCTAssertFalse(flight.begin { answered.append("thirdTap") })
+
+        XCTAssertTrue(answered.isEmpty, "nobody is answered before the run finishes")
+        for done in flight.finish() { done() }
+        XCTAssertEqual(answered.sorted(), ["checkNow", "launch", "thirdTap"])
+    }
+
+    func testANewRunMayStartOnceThePreviousFinished() {
+        let flight = OTASingleFlight()
+        XCTAssertTrue(flight.begin())
+        _ = flight.finish()
+        XCTAssertFalse(flight.isRunning)
+        XCTAssertTrue(flight.begin(), "the gate reopens — it must not latch shut")
+    }
+
+    func testFinishDoesNotReplayCompletionsToTheNextRun() {
+        let flight = OTASingleFlight()
+        var count = 0
+        XCTAssertTrue(flight.begin { count += 1 })
+        for done in flight.finish() { done() }
+        XCTAssertTrue(flight.begin())
+        XCTAssertTrue(flight.finish().isEmpty, "stale waiters must not leak into the next run")
+        XCTAssertEqual(count, 1)
+    }
+
+    /// The real shape of the bug: launch and "check now" arrive on different
+    /// threads. Exactly one caller may win, whatever the interleaving.
+    func testExactlyOneWinnerUnderConcurrentCallers() {
+        for _ in 0..<200 {
+            let flight = OTASingleFlight()
+            let winners = NSMutableArray()
+            let lock = NSLock()
+            DispatchQueue.concurrentPerform(iterations: 8) { i in
+                if flight.begin(completion: {}) {
+                    lock.lock(); winners.add(i); lock.unlock()
+                }
+            }
+            XCTAssertEqual(winners.count, 1, "exactly one run may start")
+            XCTAssertEqual(flight.finish().count, 8, "all 8 completions attached")
+        }
+    }
+
+    func testConcurrentBeginAndFinishDoNotLoseCompletions() {
+        let flight = OTASingleFlight()
+        XCTAssertTrue(flight.begin())
+        let attached = 64
+        DispatchQueue.concurrentPerform(iterations: attached) { _ in
+            _ = flight.begin(completion: {})
+        }
+        XCTAssertEqual(flight.finish().count, attached, "no completion may be dropped")
+    }
+}

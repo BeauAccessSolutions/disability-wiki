@@ -25,6 +25,26 @@ All notable changes to the Disability Wiki project are documented in this file.
   fail is decoration, and an always-passing check is the exact failure mode being fixed here.
 
 ### Fixed
+- **Two concurrent OTA checks could activate an incomplete content root** (2026-07-26,
+  [`app/ota-core/`](app/ota-core/), [`app/ios/App/App/OTAUpdater.swift`](app/ios/App/App/OTAUpdater.swift)):
+  the update check has two entry points — app launch and the status sheet's *Check for updates
+  now* — and they shared one `versions/staging` directory with no lock, flag, or task handle
+  between them. A reader who tapped "check now" during a launch-time download (an invitation the
+  sheet makes explicitly, and the natural move for someone who just reconnected) could have the
+  second run wipe the first's partial work mid-stage; because launch validation is a four-file
+  spot check, the resulting **incomplete root could pass and activate — and keep passing**, until
+  the next successful update. F-2 from the
+  [2026-07-26 slice audit](https://github.com/BeauAccessSolutions/bas-platform/blob/main/docs/testing/disability-wiki-ota-channel-audit-2026-07-26.md).
+  Checks are now single-flight: a second caller **attaches** to the run already in progress rather
+  than starting a rival one, and is answered when it finishes — dropping the completion instead
+  would make "check now" silently do nothing, which is how a broken channel stays invisible.
+  Staging directories are per-run (`staging-<uuid>`) with leftovers swept, so even a future third
+  entry point cannot collide. And before any root can be activated, every path the manifest
+  promises is confirmed present at the promised size — the exhaustive check runs off the launch
+  path, so the cheap four-file check a reader waits on stays cheap. The guard lives in
+  `OTACore` as `OTASingleFlight` precisely so it could be tested: 6 tests including a
+  200-iteration concurrent race, **3 of which fail against the unguarded code**.
+
 - **OTA updates could silently reinstate the in-app contribute dead-end** (2026-07-26,
   [`site/src/pages/contribute.astro`](site/src/pages/contribute.astro),
   [`app/tools/verify-bundle.mjs`](app/tools/verify-bundle.mjs),
