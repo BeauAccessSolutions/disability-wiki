@@ -9,7 +9,8 @@
     "build": "astro build && node tools/gen-index-redirects.mjs && node tools/gen-sw.mjs && node tools/gen-ota-manifest.mjs",
     "preview": "astro preview",
     "astro": "astro",
-    "check:sw": "node tools/check-sw.mjs"
+    "check:sw": "node tools/check-sw.mjs",
+    "test": "node --test \"src/**/*.test.ts\" \"functions/**/*.test.ts\""
   },
   "dependencies": {
     "@astrojs/starlight": "^0.40.0",

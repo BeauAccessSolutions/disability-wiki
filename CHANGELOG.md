@@ -7,6 +7,39 @@ All notable changes to the Disability Wiki project are documented in this file.
 ## [Unreleased]
 
 ### Added
+- **"Was this page helpful?" — an anonymous per-page tally** (2026-07-27,
+  [`site/src/components/PageFeedback.astro`](site/src/components/PageFeedback.astro),
+  [`site/functions/api/feedback.ts`](site/functions/api/feedback.ts),
+  [`privacy.md`](privacy.md), [`docs/deploy-feedback.md`](docs/deploy-feedback.md)):
+  the wiki's known failure mode is confident wrong detail in areas that are hard to check, and
+  a page that reads fluently while being useless looks identical to a good one from the inside.
+  A thumbs-down is the cheapest way for a reader to say a page needs a human to look again.
+  **Two integers per page is the entire record** — no IP (not hashed, not truncated), no cookie,
+  no session, no identifier, no per-vote timestamp, and deliberately **no free-text box**, because
+  on this site a comment field collects disclosures about people's health and safety that the
+  project should not be holding. The consequence is stated rather than hidden: with no identifier
+  there is no server-side deduplication, so the counts are a pointer for a human, not a metric.
+  **The privacy policy was rewritten in the same change**, not left to quietly rot — the bold
+  "Nothing" claim would have become untrue the moment a vote was transmitted, and on a site whose
+  audience is unusually sensitive to being tracked that is not a detail to paper over. Every other
+  surface repeating the claim was corrected too (`start/app.md`, `CONTRIBUTING.md`), and the App
+  Review notes gained an explicit answer for the reviewer, since the linked policy changed while
+  build 7 was in review.
+  **Not on crisis pages** — same call as the install announcement, for a stronger reason: someone
+  reading a hotline list may be in acute distress and does not owe anyone a review. **Not in the
+  app** — the action is a relative `/api/` path, which under `capacitor://` is the 404 that ate
+  contribute drafts, so it is gated off natively. It is a real `<form>`: with no JavaScript it
+  POSTs and the endpoint 303s back, so the vote still counts. Storage is Cloudflare D1 (the
+  platform already in use, no new vendor); until the binding is provisioned the endpoint returns
+  503 and the widget says the answer did not record rather than showing a thank-you for a vote
+  that went nowhere.
+- **The site's unit tests now run in CI** ([`.github/workflows/ci.yml`](.github/workflows/ci.yml)):
+  they existed and **nothing executed them** — including `resolve.test.ts`, which covers the
+  fail-closed gate deciding whether an unauthenticated contribution can be written. A security
+  test nobody runs is a comment. 50 tests, blocking, plus new coverage for the feedback
+  endpoint's path validation (the guard between an open POST route and both arbitrary rows and
+  an open redirect on the no-JS path).
+
 - **The OTA client's decision logic is now unit-tested** (2026-07-26,
   [`app/ota-core/`](app/ota-core/), [`.github/workflows/ci.yml`](.github/workflows/ci.yml)):
   the Swift client had **zero** automated coverage for its entire life — no test target, `0`

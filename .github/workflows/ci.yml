@@ -66,6 +66,16 @@ jobs:
       - name: OTA signing chain self-test
         run: bash app/tools/ota-sign.selftest.sh
 
+      # BLOCKING: the site's own unit tests. These EXISTED and nothing ran them —
+      # including resolve.test.ts, which covers the fail-closed gate that decides
+      # whether an unauthenticated contribution can be written. A security test
+      # nobody executes is a comment. Also covers the feedback endpoint's path
+      # validation, which is what stands between an open POST route and arbitrary
+      # rows in the tally (and an open redirect on the no-JS path).
+      - name: Site unit tests
+        working-directory: site
+        run: npm test
+
       # --- Content validators ------------------------------------------------
       - uses: actions/setup-python@v6
         with:

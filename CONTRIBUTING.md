@@ -42,8 +42,10 @@ a dollar figure — are free to state, and citing where you got them helps the n
 3. **Open a pull request.** Content lives as markdown in this repository if you prefer git.
 4. **Open an issue.** Describe what is wrong or missing on a page and someone will write it up.
 
-There are no accounts and no login — the site is static by design, so it stays fast, works
-offline, and collects nothing about you. In-browser suggested edits are
+There are no accounts and no login — the site is static by design, so it stays fast and
+works offline. Nothing about you is collected; the only thing the site records is an
+anonymous per-page count from the "Was this page helpful?" question, with no IP, cookie,
+identifier or timestamp ([detail](https://disabilitywiki.org/privacy)). In-browser suggested edits are
 [planned](docs/contribution-model.md) but not built yet; until then the routes above are how
 contributions arrive.
 

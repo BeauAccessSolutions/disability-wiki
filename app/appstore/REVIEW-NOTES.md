@@ -38,6 +38,15 @@ Answer: **"Data Not Collected."** The app has no backend that receives user data
 no analytics SDK, no accounts, and no ads. When asked "Do you or your third-party
 partners collect data from this app?" → **No.**
 
+- ⚠️ **If a reviewer raises the "Was this page helpful?" section of the privacy
+  policy:** that is a **website-only** feature and is not present in the app. The
+  linked policy at `disabilitywiki.org/privacy` covers both surfaces and says so
+  explicitly ("The app never asks"). The widget is gated off natively — it is not
+  rendered under the `capacitor://` origin — so the app still transmits nothing but
+  a signed content-update download. "Data Not Collected" remains the correct answer.
+  Added 2026-07-27; the policy changed while build 7 was in review, so expect the
+  question.
+
 - If asked about the OTA update mechanism: it is a one-way *download* of public
   content signed by you; the app sends no user data to fetch it (a standard HTTPS
   GET of public files). It does not constitute data collection.

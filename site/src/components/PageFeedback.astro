@@ -1,0 +1,237 @@
+---
+// "Was this page helpful?" — an anonymous per-page tally.
+//
+// WHAT IT SENDS: the page path and one bit. Nothing else. No IP is stored, no
+// cookie is set, no identifier is generated, and there is no session. Two readers
+// voting on the same page are indistinguishable from one reader voting twice.
+// privacy.md says exactly this, in those terms — the policy was rewritten when
+// this shipped rather than left to quietly become untrue.
+//
+// WHY IT EXISTS: the wiki's known failure mode is confident wrong detail in areas
+// that are hard to check (cross-jurisdiction law, benefit deadlines). A page that
+// reads fluently and is useless looks identical to a good one from the inside. A
+// thumbs-down is the cheapest signal that a page is failing the person in front
+// of it.
+//
+// NOT ON CRISIS PAGES. Same call as the install announcement in AppBanner.astro,
+// and for a stronger reason: someone reading a hotline list may be in acute
+// distress, and "was this helpful?" is a demand for reflection they do not owe us.
+//
+// NOT IN THE NATIVE APP. The action is a relative /api/ path, which under
+// capacitor://localhost resolves to a route the bundle does not contain — the
+// router answers with the 404 page and a full navigation. That is the exact
+// failure that ate contribute drafts (remediation plan #2), and the exact thing
+// OTA silently reinstated (Phase 5.1). It is gated off rather than handed off:
+// there is nothing useful for an offline-first app to hand off *to* here.
+//
+// PROGRESSIVE ENHANCEMENT: this is a real <form>. With no JavaScript it POSTs and
+// the endpoint 303s back to this page — the vote still counts, at the cost of a
+// navigation. The inline script upgrades that to a fetch so the reader keeps their
+// place and their scroll position. An accessibility project should not require a
+// scripting engine to answer a yes/no question.
+const routeId = Astro.locals.starlightRoute.id;
+const isCrisis = /^(es\/)?crisis(\/|$)/.test(routeId);
+const isSpanish = Astro.locals.starlightRoute?.locale === 'es';
+
+// The path the reader is actually on, which is what a maintainer needs in order to
+// find the page again. Derived server-side so it cannot be spoofed by the client
+// into recording a vote against some other page.
+const page = new URL(Astro.request.url).pathname;
+
+const t = isSpanish
+  ? {
+      q: '¿Te sirvió esta página?',
+      yes: 'Sí',
+      no: 'No',
+      thanksYes: 'Gracias. Nos ayuda a saber qué mantener.',
+      thanksNo: '¿Falta algo o hay un error?',
+      suggest: 'Cuéntanos qué cambiarías',
+      failed: 'No se pudo registrar tu respuesta. La página no cambia.',
+      note: 'Anónimo: solo se cuenta la respuesta y la página.',
+    }
+  : {
+      q: 'Was this page helpful?',
+      yes: 'Yes',
+      no: 'No',
+      thanksYes: 'Thank you — that tells us what to keep.',
+      thanksNo: 'Is something missing or wrong?',
+      suggest: 'Tell us what you would change',
+      failed: "That didn't record. Nothing about the page has changed.",
+      note: 'Anonymous: only the answer and the page are counted.',
+    };
+const contribute = isSpanish ? '/es/contribute/' : '/contribute/';
+---
+
+{
+  !isCrisis && (
+    <>
+      {/*
+        Runs before the widget is parsed so the app never paints it. Same gate as
+        the contribute page and the install announcement.
+      */}
+      <script is:inline>
+        if (
+          (window.Capacitor &&
+            typeof window.Capacitor.isNativePlatform === 'function' &&
+            window.Capacitor.isNativePlatform()) ||
+          location.protocol === 'capacitor:'
+        ) {
+          document.documentElement.dataset.dwNative = 'true';
+        }
+      </script>
+
+      <aside class="dw-feedback" data-pagefind-ignore aria-labelledby="dw-feedback-q">
+        <form method="post" action="/api/feedback" class="dw-feedback__form">
+          <input type="hidden" name="page" value={page} />
+          {/* Where to come back to when there is no JS to keep us here. */}
+          <input type="hidden" name="return" value={page} />
+          <p id="dw-feedback-q" class="dw-feedback__q">
+            {t.q}
+          </p>
+          <div class="dw-feedback__buttons">
+            <button type="submit" name="helpful" value="yes">
+              {t.yes}
+            </button>
+            <button type="submit" name="helpful" value="no">
+              {t.no}
+            </button>
+          </div>
+          <p class="dw-feedback__note">{t.note}</p>
+        </form>
+
+        {/*
+          The response region. `aria-live` so a screen-reader user hears the outcome
+          of a fetch that replaces no visible focus — and it is in the DOM from the
+          start, because a live region inserted at announce time is not announced.
+        */}
+        <div class="dw-feedback__result" role="status" aria-live="polite" hidden>
+          <p class="dw-feedback__result-text" />
+          <a class="dw-feedback__suggest" href={contribute} hidden>
+            {t.suggest}
+          </a>
+        </div>
+      </aside>
+
+      <script is:inline define:vars={{ t, contribute }}>
+        (function () {
+          const root = document.querySelector('.dw-feedback');
+          if (!root) return;
+          const form = root.querySelector('.dw-feedback__form');
+          const result = root.querySelector('.dw-feedback__result');
+          const text = root.querySelector('.dw-feedback__result-text');
+          const suggest = root.querySelector('.dw-feedback__suggest');
+
+          // Not security — hygiene. Keeps one reader's repeated taps out of the
+          // tally. Stored locally and never transmitted; the server has no idea
+          // this exists and cannot tell repeat voters apart regardless.
+          const key = 'dw-feedback:' + location.pathname;
+          try {
+            if (localStorage.getItem(key)) {
+              form.hidden = true;
+              result.hidden = false;
+              text.textContent = t.thanksYes;
+              return;
+            }
+          } catch (e) {
+            /* private mode: just let them vote, the tally tolerates noise */
+          }
+
+          form.addEventListener('submit', function (event) {
+            const choice = event.submitter && event.submitter.value;
+            if (!choice) return; // no submitter (rare): let the native POST happen
+            event.preventDefault();
+
+            const body = new URLSearchParams({ page: location.pathname, helpful: choice });
+            form.hidden = true;
+            result.hidden = false;
+
+            fetch('/api/feedback', {
+              method: 'POST',
+              headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+              body: body,
+            })
+              .then(function (res) {
+                if (!res.ok) throw new Error('HTTP ' + res.status);
+                text.textContent = choice === 'yes' ? t.thanksYes : t.thanksNo;
+                if (choice === 'no') suggest.hidden = false;
+                try {
+                  localStorage.setItem(key, choice);
+                } catch (e) {}
+              })
+              .catch(function () {
+                // Say so rather than showing a thank-you for a vote that vanished.
+                text.textContent = t.failed;
+              });
+          });
+        })();
+      </script>
+    </>
+  )
+}
+
+<style>
+  /* Hidden in the native app: the POST target does not exist in the bundle. */
+  :global([data-dw-native]) .dw-feedback {
+    display: none;
+  }
+
+  .dw-feedback {
+    margin-top: 2rem;
+    padding-top: 1.25rem;
+    border-top: 1px solid var(--sl-color-gray-5);
+  }
+
+  .dw-feedback__q {
+    margin: 0 0 0.75rem;
+    font-weight: 600;
+  }
+
+  .dw-feedback__buttons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+  }
+
+  .dw-feedback__buttons button {
+    /* ≥44pt target, and it stays ≥44pt when the label wraps at large text sizes —
+       the line-height trick gives every wrapped line its own 44px box. */
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 5.5rem;
+    min-height: 44px;
+    padding: 0.5rem 1.25rem;
+    font: inherit;
+    font-weight: 600;
+    color: var(--sl-color-white);
+    background: transparent;
+    border: 1px solid var(--sl-color-gray-4);
+    border-radius: 0.4rem;
+    cursor: pointer;
+  }
+
+  .dw-feedback__buttons button:hover {
+    border-color: var(--sl-color-text-accent);
+    color: var(--sl-color-text-accent);
+  }
+
+  /* Never remove the focus ring: keyboard users need to see where they are. */
+  .dw-feedback__buttons button:focus-visible {
+    outline: 2px solid var(--sl-color-text-accent);
+    outline-offset: 2px;
+  }
+
+  .dw-feedback__note,
+  .dw-feedback__result-text {
+    margin: 0.75rem 0 0;
+    font-size: var(--sl-text-sm);
+    color: var(--sl-color-gray-2);
+  }
+
+  .dw-feedback__suggest {
+    display: inline-block;
+    margin-top: 0.5rem;
+    /* Underlined, not colour-only — colour is never the sole signal here. */
+    text-decoration: underline;
+  }
+</style>
