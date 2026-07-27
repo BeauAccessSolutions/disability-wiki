@@ -338,7 +338,7 @@ sheet's *Check for updates now*
 asserts one root is produced, the second caller receives the first's outcome, and no staging
 directory survives.
 
-### 5.3 — Give the client automated coverage (F-3, P2) — 🟡 step 1 DONE 2026-07-26, steps 2–3 open
+### 5.3 — Give the client automated coverage (F-3, P2) — ✅ DONE 2026-07-26
 
 `find app/ios -iname '*test*'` returns nothing; the pbxproj has **0** `Test` references. The publish
 side has three checks; the code that can strand a device has none. This is the same class of gap
@@ -358,7 +358,11 @@ Two steps, smallest first:
    `blobPath`), `parseISO8601` (fractional **and** whole-second — the bug that silently disabled the
    never-move-backwards guard), `classify(_:)` for each `URLError` and `OTAError`, and `blobURL`
    construction.
-2. ⬜ **Still open. Injectable roots for integration tests.** `contentDir` and `bundleRoot` are computed
+2. ✅ **DONE.** `OTAContentStore` in OTACore takes an injected content dir, bundle root and
+   hasher, so the whole state machine — pointer chase, validation, **rollback**, new-binary-wins,
+   activation, pruning — is exercised against a real temp filesystem. Rollback was the audit's
+   only `UNVERIFIED` chain link; it is now covered by unit tests *and* verified on a simulator
+   against production content. Original scope: `contentDir` and `bundleRoot` are computed
    properties; make them injectable so a test can stage into a temp directory. Then cover
    delta computation, hard-link-vs-download, atomic activation, **rollback current → previous →
    bundle** (last proven 2026-07-23, pre-refactor), and new-binary-wins.

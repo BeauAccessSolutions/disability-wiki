@@ -258,3 +258,158 @@ public final class OTASingleFlight {
         return running
     }
 }
+
+// MARK: - Content store
+
+/// The content-root state machine: which root the webview serves, how a staged
+/// root becomes current, and how a broken one is rolled back.
+///
+/// Everything here is filesystem and logic — no CryptoKit, no Capacitor, no
+/// Bundle. The two things it genuinely cannot do without are injected: hashing
+/// (CryptoKit on device, anything in a test) and the app-bundle location. That is
+/// what lets rollback finally be covered.
+///
+/// Rollback was the one link the 2026-07-26 slice audit could not verify: it was
+/// last proven on 2026-07-23, *before* the refactor that rewrote it, and there was
+/// no way to exercise it short of corrupting a real device's container.
+public final class OTAContentStore {
+    private let fm = FileManager.default
+    private let contentDir: URL
+    private let bundleRoot: URL?
+    private let sha256Hex: (Data) -> String
+    private let log: (String) -> Void
+
+    public init(
+        contentDir: URL,
+        bundleRoot: URL?,
+        sha256Hex: @escaping (Data) -> String,
+        log: @escaping (String) -> Void = { _ in }
+    ) {
+        self.contentDir = contentDir
+        self.bundleRoot = bundleRoot
+        self.sha256Hex = sha256Hex
+        self.log = log
+    }
+
+    public var versionsDir: URL { contentDir.appendingPathComponent("versions", isDirectory: true) }
+    public var currentPointer: URL { contentDir.appendingPathComponent("current") }
+    public var previousPointer: URL { contentDir.appendingPathComponent("previous") }
+
+    /// What the resolution actually did — so a caller can log it, and a test can
+    /// assert on the decision rather than only on its side effects.
+    public enum Resolution: Equatable {
+        case servingCurrent(String)
+        case rolledBackToPrevious(String)
+        case revertedToBundle
+        case newBinaryWins
+        case noOTAState
+    }
+
+    /// Resolve the root the webview should serve. May MUTATE state: it promotes a
+    /// good previous root over a bad current one, and discards OTA state entirely
+    /// when the bundle is newer or nothing is salvageable. The bundle is never
+    /// touched — there is always a last-known-good.
+    public func resolveActiveRoot() -> (root: URL?, resolution: Resolution) {
+        // A new binary always wins: an App Store update shipped, so an older OTA
+        // root must not shadow it.
+        if let bundleBuilt = builtAt(inRoot: bundleRoot),
+           let otaRoot = pointedRoot(currentPointer),
+           let otaBuilt = builtAt(inRoot: otaRoot),
+           bundleBuilt > otaBuilt {
+            try? fm.removeItem(at: contentDir)
+            log("OTA: bundle is newer than the OTA content — discarded OTA state")
+            return (nil, .newBinaryWins)
+        }
+        if let root = pointedRoot(currentPointer), validate(root: root) {
+            return (root, .servingCurrent(root.lastPathComponent))
+        }
+        // Current is broken: promote previous so the bad root is never retried.
+        if let prev = pointedRoot(previousPointer), validate(root: prev) {
+            let name = prev.lastPathComponent
+            try? fm.removeItem(at: currentPointer)
+            try? fm.moveItem(at: previousPointer, to: currentPointer)
+            log("OTA: current content failed validation — rolled back to previous")
+            return (prev, .rolledBackToPrevious(name))
+        }
+        if fm.fileExists(atPath: contentDir.path) {
+            try? fm.removeItem(at: contentDir)
+            log("OTA: content state invalid — reverted to app bundle")
+            return (nil, .revertedToBundle)
+        }
+        return (nil, .noOTAState)
+    }
+
+    /// Point `current` at `version`, keeping the outgoing root as `previous`, then
+    /// prune everything that is neither. Returns the version it displaced, if any.
+    @discardableResult
+    public func activate(version: String) throws -> String? {
+        let outgoing = (try? String(contentsOf: currentPointer, encoding: .utf8))?
+            .trimmingCharacters(in: .whitespacesAndNewlines)
+        try? fm.removeItem(at: previousPointer)
+        if let outgoing, !outgoing.isEmpty {
+            try outgoing.write(to: previousPointer, atomically: true, encoding: .utf8)
+        }
+        try version.write(to: currentPointer, atomically: true, encoding: .utf8)
+
+        let keep: Set<String> = [version, outgoing ?? ""]
+        for item in (try? fm.contentsOfDirectory(atPath: versionsDir.path)) ?? [] where !keep.contains(item) {
+            try? fm.removeItem(at: versionsDir.appendingPathComponent(item))
+        }
+        return outgoing?.isEmpty == false ? outgoing : nil
+    }
+
+    public func pointedRoot(_ pointer: URL) -> URL? {
+        guard let name = try? String(contentsOf: pointer, encoding: .utf8) else { return nil }
+        let root = versionsDir.appendingPathComponent(
+            name.trimmingCharacters(in: .whitespacesAndNewlines), isDirectory: true)
+        var isDir: ObjCBool = false
+        guard fm.fileExists(atPath: root.path, isDirectory: &isDir), isDir.boolValue else { return nil }
+        return root
+    }
+
+    /// Structural + spot-hash validation. Full verification happens at staging;
+    /// this is the launch-time check, deliberately cheap — it catches truncation
+    /// and corruption of the pages this app exists to serve, not every file.
+    public func validate(root: URL) -> Bool {
+        guard let data = try? Data(contentsOf: root.appendingPathComponent("ota/manifest.json")),
+              let manifest = try? OTAManifest.decode(data) else { return false }
+        guard let probes = Self.validationProbes(for: manifest) else { return false }
+        for path in probes {
+            let f = root.appendingPathComponent(String(path.dropFirst()))
+            guard let bytes = try? Data(contentsOf: f),
+                  sha256Hex(bytes) == manifest.files[path]?.sha256 else { return false }
+        }
+        return fm.fileExists(atPath: root.appendingPathComponent("index.html").path)
+    }
+
+    /// Which paths the launch-time check hashes.
+    ///
+    /// This used to be "whichever three crisis pages sort first", which is a
+    /// sample of the alphabet rather than a sample of what matters — and it
+    /// meant the crisis HUB (`/crisis/index.html`) was never checked, because it
+    /// sorts after every `/crisis/<topic>/` page. Verified on device 2026-07-26:
+    /// corrupting the hub left the app happily serving the corrupted root.
+    ///
+    /// The hubs are now always probed, plus a couple of deep pages to keep some
+    /// spread. Still a spot check by design — full verification happens at staging,
+    /// and a reader waits on this one.
+    static func validationProbes(for manifest: OTAManifest) -> [String]? {
+        let crisisPages = manifest.files.keys
+            .filter { $0.hasPrefix("/crisis/") || $0.hasPrefix("/es/crisis/") }
+            .filter { $0.hasSuffix("/index.html") }
+        guard !crisisPages.isEmpty else { return nil }
+
+        let hubs = ["/crisis/index.html", "/es/crisis/index.html"].filter { manifest.files[$0] != nil }
+        let rest = crisisPages.filter { !hubs.contains($0) }.sorted().prefix(3)
+        let probes = hubs + rest
+        return probes.isEmpty ? nil : probes
+    }
+
+    public func builtAt(inRoot root: URL?) -> Date? {
+        guard let root,
+              let data = try? Data(contentsOf: root.appendingPathComponent("app-build.json")),
+              let obj = try? JSONSerialization.jsonObject(with: data) as? [String: Any],
+              let s = obj["builtAt"] as? String else { return nil }
+        return OTAManifest.parseISO8601(s)
+    }
+}

@@ -25,6 +25,25 @@ All notable changes to the Disability Wiki project are documented in this file.
   fail is decoration, and an always-passing check is the exact failure mode being fixed here.
 
 ### Fixed
+- **A corrupted crisis hub could keep serving, and rollback had never been tested** (2026-07-26,
+  [`app/ota-core/`](app/ota-core/), [`app/ios/App/App/OTAUpdater.swift`](app/ios/App/App/OTAUpdater.swift)):
+  the launch-time check hashed "whichever three crisis pages sort first", which samples the
+  alphabet rather than what matters — `/crisis/index.html`, the crisis hub, sorts after every
+  `/crisis/<topic>/` page and so was **never checked**. Confirmed on a simulator: corrupting the
+  hub left the app happily serving the corrupted root. The hubs (EN + ES) are now always probed,
+  plus deep pages for spread; it remains a deliberate spot check, because a reader waits on it.
+  Alongside that, the content-root state machine — pointer chase, validation, rollback,
+  new-binary-wins, activation, pruning — moved to `OTAContentStore` in `OTACore` behind an
+  injected content directory, bundle root and hasher. **Rollback was the one chain link the
+  [2026-07-26 audit](https://github.com/BeauAccessSolutions/bas-platform/blob/main/docs/testing/disability-wiki-ota-channel-audit-2026-07-26.md)
+  had to mark `UNVERIFIED`** — last proven before the refactor that rewrote it, with no way to
+  exercise it short of corrupting a real device. It now has 18 integration tests against a real
+  temp filesystem (corrupt current → promote previous → never retry the bad root; both corrupt →
+  revert to bundle and clear state; newer bundle discards OTA state; activation keeps exactly
+  current + previous), **and** was verified end to end on a simulator against production content:
+  a staged update activated, was corrupted, and the corrupt root was rejected and removed on the
+  next launch. Suite now 51 tests.
+
 - **Two concurrent OTA checks could activate an incomplete content root** (2026-07-26,
   [`app/ota-core/`](app/ota-core/), [`app/ios/App/App/OTAUpdater.swift`](app/ios/App/App/OTAUpdater.swift)):
   the update check has two entry points — app launch and the status sheet's *Check for updates
