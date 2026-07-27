@@ -58,6 +58,20 @@ All notable changes to the Disability Wiki project are documented in this file.
   fail is decoration, and an always-passing check is the exact failure mode being fixed here.
 
 ### Fixed
+- **The page-feedback D1 binding must live in `wrangler.jsonc`, not the dashboard** (2026-07-27,
+  [`site/wrangler.jsonc`](site/wrangler.jsonc), [`docs/deploy-feedback.md`](docs/deploy-feedback.md)):
+  the runbook shipped with the feature said to add the binding in the Pages dashboard. That is
+  wrong here, and wrong in a way that looks right — because `site/wrangler.jsonc` exists, Cloudflare
+  is in wrangler-managed mode and **silently drops dashboard-set bindings and plaintext vars**. The
+  repo already recorded this (it is why `/api/auth/*` 404'd after every redeploy); the guidance
+  simply wasn't applied to the binding being documented. Two dashboard actions that both look
+  correct and both fail are now written down: adding `PAGE_FEEDBACK` under *Environment variables*
+  makes it a **string**, which is truthy — so the endpoint's "not configured" guard passes and
+  `.prepare()` then throws, turning an honest 503 into a confusing 500 — and a dashboard D1 binding
+  is ignored outright. Encrypted Pages *Secrets* remain the exception and still apply, which is how
+  `OTA_SIGNING_KEY` works. Binds by `database_id` rather than name, because an identically-named
+  orphan database exists in the other Cloudflare account.
+
 - **The post-merge deploy probe went red on a healthy deploy** (2026-07-27,
   [`site/tools/check-live-deploy.mjs`](site/tools/check-live-deploy.mjs)): the blob check treated
   "a new manifest is live" as "the deployment finished", but Cloudflare Pages serves a deployment's
