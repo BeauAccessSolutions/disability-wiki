@@ -58,6 +58,17 @@ All notable changes to the Disability Wiki project are documented in this file.
   fail is decoration, and an always-passing check is the exact failure mode being fixed here.
 
 ### Fixed
+- **The post-merge deploy probe went red on a healthy deploy** (2026-07-27,
+  [`site/tools/check-live-deploy.mjs`](site/tools/check-live-deploy.mjs)): the blob check treated
+  "a new manifest is live" as "the deployment finished", but Cloudflare Pages serves a deployment's
+  assets per-PoP, so for a short window the manifest is up while a blob it references still 404s at
+  whichever edge you hit. On the PR #79 merge it failed on a crisis-page blob that returned **200
+  moments later** with the channel healthy. A blocking check that cries wolf trains people to ignore
+  it — which is precisely the failure this job exists to prevent — so the blob check now keeps
+  retrying inside its existing budget and only reports at the deadline. The timeout message also
+  distinguishes "never published" from "published but the channel never verified": different causes,
+  different fixes, and the second one is not a dead Pages hook.
+
 - **A corrupted crisis hub could keep serving, and rollback had never been tested** (2026-07-26,
   [`app/ota-core/`](app/ota-core/), [`app/ios/App/App/OTAUpdater.swift`](app/ios/App/App/OTAUpdater.swift)):
   the launch-time check hashed "whichever three crisis pages sort first", which samples the

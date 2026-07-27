@@ -127,6 +127,7 @@ console.log(
 );
 
 let lastSeen = 'nothing (manifest 404)';
+let lastChannelFailure = null;
 while (Date.now() < deadline) {
   try {
     const res = await fetch(`${LIVE}/ota/manifest.json`, { cache: 'no-store' });
@@ -159,19 +160,23 @@ while (Date.now() < deadline) {
         // preview and `wrangler pages dev` both serve unrewritten origin bytes).
         const failure = await checkBlobStore(manifest);
         if (failure) {
-          console.error(
-            `✗ live deploy found (${lastSeen}) with a valid signature, but the OTA\n` +
-              `  content channel is broken: ${failure}\n` +
-              `  Installed apps cannot apply updates — a crisis-number fix would not\n` +
-              `  reach them. See "Why blobs" in app/README.md.`
+          // A new manifest does NOT mean the deployment finished propagating.
+          // Pages serves a deployment's assets per-PoP, so for a short window the
+          // manifest is live while a blob it references still 404s at the edge you
+          // happen to hit — observed 2026-07-27, where the blob returned 200 moments
+          // later and the channel was healthy. Failing on the first miss makes this
+          // job flaky, and a blocking check that cries wolf trains people to ignore
+          // it, which is the exact failure this job exists to prevent. So keep
+          // retrying inside the budget and only report at the deadline.
+          lastChannelFailure = failure;
+          console.log(`  … deploy is live but ${failure} — retrying, may still be propagating`);
+        } else {
+          console.log(
+            `✓ live site serves ${isExpected ? 'this commit' : 'a newer deploy'} ` +
+              `(${lastSeen}) with a valid OTA signature and a fetchable blob store.`
           );
-          process.exit(1);
+          process.exit(0);
         }
-        console.log(
-          `✓ live site serves ${isExpected ? 'this commit' : 'a newer deploy'} ` +
-            `(${lastSeen}) with a valid OTA signature and a fetchable blob store.`
-        );
-        process.exit(0);
       }
     }
   } catch {
@@ -180,6 +185,16 @@ while (Date.now() < deadline) {
   const left = Math.ceil((deadline - Date.now()) / 60_000);
   console.log(`  … still serving ${lastSeen} (${left} min left)`);
   await sleep(30_000);
+}
+
+if (lastChannelFailure) {
+  console.error(
+    `✗ the deploy published (${lastSeen}) but after ${TIMEOUT_MIN} min the OTA content channel\n` +
+      `  still fails: ${lastChannelFailure}\n` +
+      `  This is no longer propagation delay. Installed apps cannot apply updates — a\n` +
+      `  crisis-number fix would not reach them. See "Why blobs" in app/README.md.`
+  );
+  process.exit(1);
 }
 
 console.error(
