@@ -35,25 +35,103 @@ browser.
 
 Requires Cloudflare credentials, so it cannot be done from a PR.
 
+### 0. Get on the right account first — this is where it goes wrong
+
+This machine has **two** Cloudflare accounts, and the site lives in only one:
+
+| Account | ID | Holds the Pages project? |
+|---|---|---|
+| `Beaudoin0zach@aol.com` | `39d7ced651572ee48cca6a29e1feebe9` | **yes** |
+| `Airboat-webcast.5u@icloud.com` | `3b752cee282808bcfcebc84aaea9a1c3` | no |
+
+**D1 bindings are account-scoped.** A database created in the wrong account cannot
+be bound to the Pages project at all — it will not appear in the dropdown, and no
+amount of fixing the binding name will help. This has already happened once: the
+first `d1 create` succeeded, looked completely normal, and produced an unusable
+database (`f15076aa-…`, still orphaned in the iCloud account).
+
+Two independent things have to be right, and they fail differently:
+
+**(a) The token.** Switching accounts in the *dashboard does nothing* — wrangler
+caches its own OAuth token in `~/.wrangler/config/default.toml`. There is no
+"switch account" command; log out and back in:
+
 ```bash
-npx wrangler d1 create disability-wiki-feedback
+npx wrangler logout && npx wrangler login --browser=false
 ```
 
-Note the returned `database_id`, then create the table:
+`--browser=false` prints the URL instead of auto-opening. Use it: auto-open goes to
+your *default* browser, and if that profile is signed into Cloudflare as the wrong
+account you will silently re-authorise the wrong one. Paste the URL into a window
+signed in as **beaudoin0zach@aol.com**.
+
+**(b) The account ID.** Even with the right token, some wrangler subcommands
+resolve a *stale* account ID and fail with `Authentication error [code: 10000]`
+naming the old account — observed 2026-07-27, where `d1 create` used the correct
+account while `d1 list` used the old one in the same session. It is not in any
+config file (`wrangler.jsonc`, both `default.toml`s and the project `.wrangler/`
+state dirs were all checked; only the logs mention it). Set it explicitly:
 
 ```bash
+export CLOUDFLARE_ACCOUNT_ID=39d7ced651572ee48cca6a29e1feebe9
+```
+
+Worth putting in your shell profile — this is the same account-id gotcha the Pages
+deploy work hit.
+
+**Verify before creating anything.** If this prints the wrong ID, stop; otherwise
+you make a second orphan:
+
+```bash
+npx wrangler whoami     # Account ID must be 39d7ced651572ee48cca6a29e1feebe9
+```
+
+### 1. Create the database and the table
+
+```bash
+npx wrangler d1 create disability-wiki-feedback
 npx wrangler d1 execute disability-wiki-feedback --remote --file=site/schema/page_feedback.sql
 ```
 
-Then bind it in the Pages project — **Settings → Functions → D1 database bindings**,
-for both Production and Preview:
+Confirm the table is really there — `_cf_KV` is Cloudflare's own, `page_feedback` is ours:
+
+```bash
+npx wrangler d1 execute disability-wiki-feedback --remote \
+  --command "SELECT name FROM sqlite_master WHERE type='table'"
+```
+
+### 2. Bind it
+
+**Settings → Functions → D1 database bindings**, for **both** Production and Preview:
 
 | Variable name | Database |
 |---|---|
 | `PAGE_FEEDBACK` | `disability-wiki-feedback` |
 
 The binding name is what `functions/api/feedback.ts` reads as `env.PAGE_FEEDBACK`.
-Getting it wrong is not silent: the endpoint 503s.
+**Ignore the `"binding": "disability_wiki_feedback"` snippet `d1 create` prints** —
+that is for a Worker config file this project does not use, and using it as the
+variable name leaves the endpoint permanently 503ing.
+
+### 3. Redeploy
+
+Bindings apply to **new deployments only** — the currently-live one will keep
+503ing until you redeploy (re-run the latest deployment from the Pages dashboard,
+or merge anything).
+
+### 4. Verify end to end
+
+```bash
+curl -s -X POST https://disabilitywiki.org/api/feedback \
+  -d 'page=/reuse/&helpful=yes' | head -1          # expect {"ok":true}
+curl -s -X POST https://disabilitywiki.org/api/feedback \
+  -d 'page=/crisis/&helpful=yes' | head -1          # expect a 400 — crisis pages are never counted
+npx wrangler d1 execute disability-wiki-feedback --remote \
+  --command "SELECT * FROM page_feedback"
+```
+
+A 503 from the first call means the binding did not take — check the variable name
+and that you redeployed.
 
 ## Read the results
 
@@ -74,6 +152,16 @@ working, and a quiet page with 3 no and 0 yes is the one to go and read.
 pageview number to compare against, by design). The action it should trigger is a
 human reading the page against
 [the accuracy discipline](../docs/CLAIMS.md) — not an edit driven by the number.
+
+## Known state (2026-07-27)
+
+- Database `disability-wiki-feedback` = `6cdba0c9-0f42-4da1-a991-f1520b9394ef`, in the
+  **aol** account, table created and empty.
+- An orphan `disability-wiki-feedback` (`f15076aa-…`) still exists in the **iCloud**
+  account from the first, wrong-account attempt. Empty and harmless, but delete it
+  while logged into that account if you want it gone —
+  `npx wrangler d1 delete disability-wiki-feedback`. Note the names are identical, so
+  check `whoami` before running that or you will delete the live one.
 
 ## Turning it off
 
