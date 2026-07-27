@@ -8,12 +8,15 @@
 // are already reading. This site's whole reason for existing is that the information
 // spreads, so the permission travels on every page.
 import Default from '@astrojs/starlight/components/Footer.astro';
+import PageFeedback from './PageFeedback.astro';
 
 const isSpanish = Astro.locals.starlightRoute?.locale === 'es';
 const reuseHref = isSpanish ? '/es/reuse/' : '/reuse/';
 ---
 
 <Default><slot /></Default>
+
+<PageFeedback />
 
 <div class="dw-reuse-note" data-pagefind-ignore>
   {

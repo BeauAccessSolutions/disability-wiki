@@ -67,7 +67,11 @@ There is no Android app yet either.
 ## Questions
 
 - **Does it cost anything?** No. There is no paid version and no ads.
-- **Does it track me?** No. The wiki has no analytics, no account, and no tracking.
+- **Does it track me?** No. There are no accounts, no analytics, and no tracking, in
+  the app or on the website. The app sends nothing at all. On the website, the only
+  thing that sends anything is the "Was this page helpful?" question at the bottom of
+  most pages — it adds one to a count for that page and records no IP, cookie, ID, or
+  time. [Full detail](/privacy).
 - **Will it use a lot of storage?** No. The offline crisis pages are text and take up
   very little space.
 - **How do I remove it?** Delete it like any other app — press and hold the icon, then
