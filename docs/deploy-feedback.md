@@ -100,18 +100,38 @@ npx wrangler d1 execute disability-wiki-feedback --remote \
   --command "SELECT name FROM sqlite_master WHERE type='table'"
 ```
 
-### 2. Bind it
+### 2. Bind it — in `site/wrangler.jsonc`, NOT the dashboard
 
-**Settings → Functions → D1 database bindings**, for **both** Production and Preview:
+**This project is in wrangler-managed mode.** Because `site/wrangler.jsonc` exists,
+Cloudflare **ignores dashboard-set bindings and plaintext vars and drops them
+silently** — the same trap that made `/api/auth/*` 404 after every redeploy. A D1
+binding added in the dashboard looks completely correct in the UI and never reaches
+the Function.
 
-| Variable name | Database |
-|---|---|
-| `PAGE_FEEDBACK` | `disability-wiki-feedback` |
+So the binding is committed, and is already there:
 
-The binding name is what `functions/api/feedback.ts` reads as `env.PAGE_FEEDBACK`.
-**Ignore the `"binding": "disability_wiki_feedback"` snippet `d1 create` prints** —
-that is for a Worker config file this project does not use, and using it as the
-variable name leaves the endpoint permanently 503ing.
+```jsonc
+"d1_databases": [
+  { "binding": "PAGE_FEEDBACK",
+    "database_name": "disability-wiki-feedback",
+    "database_id": "6cdba0c9-0f42-4da1-a991-f1520b9394ef" }
+]
+```
+
+`binding` is what `functions/api/feedback.ts` reads as `env.PAGE_FEEDBACK`. Bind by
+**id**, not name alone — an identically-named orphan exists in the other account.
+
+Two dashboard mistakes that both look right and both fail:
+
+- **Adding `PAGE_FEEDBACK` under Settings → Environment variables** (Plaintext). That
+  is a *string*, not a database. It is truthy, so the endpoint's "not configured"
+  guard passes and then `.prepare()` throws — turning an honest 503 into a confusing
+  **500**. Delete it if present.
+- **Adding a D1 binding in the dashboard.** Ignored in wrangler-managed mode.
+
+Secrets are the exception: encrypted Pages *Secrets* still apply (that is how
+`SUPABASE_SERVICE_ROLE_KEY` and `OTA_SIGNING_KEY` work). Bindings and plaintext vars
+do not.
 
 ### 3. Redeploy
 
@@ -165,5 +185,6 @@ human reading the page against
 
 ## Turning it off
 
-Remove the binding. The endpoint starts returning 503 and the widget says so.
+Remove the `d1_databases` block from `site/wrangler.jsonc` and redeploy. The endpoint
+starts returning 503 and the widget says so.
 Nothing else breaks, and no reader-facing page depends on it.

@@ -16,6 +16,22 @@
   // The SUPABASE_SERVICE_ROLE_KEY is a secret and is NOT here — never commit secrets.
   // It's set as an encrypted Pages *Secret* in the dashboard, which still applies in
   // wrangler-managed mode. See docs/deploy-contribution-backend.md.
+  // D1 binding for the page-feedback tally (docs/deploy-feedback.md). It lives HERE,
+  // not in the dashboard, for the same reason the vars below do: with a wrangler
+  // config file present, Cloudflare ignores dashboard-set bindings and vars, and
+  // drops them silently. A dashboard D1 binding named PAGE_FEEDBACK looks correct in
+  // the UI and never reaches the Function.
+  //
+  // The database is `disability-wiki-feedback` in the Beaudoin0zach@aol.com account
+  // (39d7ced6…). The id is not a secret. NOTE: an identically-named orphan exists in
+  // the other Cloudflare account — bind by id, not by name, so there is no ambiguity.
+  "d1_databases": [
+    {
+      "binding": "PAGE_FEEDBACK",
+      "database_name": "disability-wiki-feedback",
+      "database_id": "6cdba0c9-0f42-4da1-a991-f1520b9394ef"
+    }
+  ],
   "vars": {
     "KEYCLOAK_ISSUER": "https://id.beauaccesssolutions.com/realms/bas",
     "KEYCLOAK_CLIENT_ID": "disability-wiki-web",
