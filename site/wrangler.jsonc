@@ -2,29 +2,44 @@
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "disability-wiki",
   "compatibility_date": "2026-06-01",
-  "assets": {
-    "directory": "./dist",
-    "not_found_handling": "404-page",
-    "html_handling": "auto-trailing-slash"
-  },
-  // Runtime env for the Pages Functions (the contribution/auth BFF). Because this
-  // wrangler config file exists, Cloudflare IGNORES dashboard-set plaintext vars —
-  // so these are the source of truth (dashboard vars were silently dropped, which is
-  // why /api/auth/* 404'd after every redeploy). Non-secret values only:
-  //   - Keycloak public client on the BAS realm (issuer/client_id/redirect_uri)
-  //   - the Supabase project URL (the anon key isn't used; the queue is server-only)
-  // The SUPABASE_SERVICE_ROLE_KEY is a secret and is NOT here — never commit secrets.
-  // It's set as an encrypted Pages *Secret* in the dashboard, which still applies in
-  // wrangler-managed mode. See docs/deploy-contribution-backend.md.
-  // D1 binding for the page-feedback tally (docs/deploy-feedback.md). It lives HERE,
-  // not in the dashboard, for the same reason the vars below do: with a wrangler
-  // config file present, Cloudflare ignores dashboard-set bindings and vars, and
-  // drops them silently. A dashboard D1 binding named PAGE_FEEDBACK looks correct in
-  // the UI and never reaches the Function.
+
+  // REQUIRED, and its absence is why this whole file did nothing until 2026-07-28.
   //
-  // The database is `disability-wiki-feedback` in the Beaudoin0zach@aol.com account
-  // (39d7ced6…). The id is not a secret. NOTE: an identically-named orphan exists in
-  // the other Cloudflare account — bind by id, not by name, so there is no ambiguity.
+  // Without `pages_build_output_dir` Cloudflare does not recognise the file as a Pages
+  // config. It does not fail the build — it prints one line and carries on:
+  //
+  //   Found wrangler.json file. Reading build configuration...
+  //   A Wrangler configuration file was found but it does not appear to be valid.
+  //   Did you mean to use wrangler.toml to configure Pages? If so, then make sure the
+  //   file is valid and contains the `pages_build_output_dir` property.
+  //   Skipping file and continuing.
+  //
+  // "Skipping file and continuing" — every deploy, silently as far as anything
+  // reader-facing goes. The vars below never applied; the site ran on the dashboard's
+  // copies of them, which happen to be identical. That coincidence is what made the
+  // mistake invisible, and it is why the D1 binding added in PR #82 produced a 503
+  // from a config that looked perfectly correct in the repo AND in the dashboard.
+  //
+  // The dashboard's "managed through wrangler.toml — only Secrets can be managed here"
+  // banner shows on file *detection*, not validity, so it agreed with the wrong story.
+  // The build log is the only place that tells the truth. Check it after changing this
+  // file: `Found wrangler.json file` with no "does not appear to be valid" after it.
+  //
+  // Relative to this file, so ./dist == site/dist.
+  "pages_build_output_dir": "./dist",
+
+  // NOTE: no `assets` block. That key is Workers-only; including it in a Pages config
+  // is itself invalid. It never took effect here (nothing in this file did), so
+  // removing it changes no live behaviour — Pages' own asset handling and
+  // public/_redirects are what have actually been serving the site all along.
+
+  // D1 binding for the page-feedback tally (docs/deploy-feedback.md).
+  //
+  // Bound by database_id, not name alone: an identically-named orphan
+  // (f15076aa-…) exists in the other Cloudflare account from a wrong-account
+  // provisioning attempt, and name-only would be ambiguous between them.
+  // `binding` is the name functions/api/feedback.ts reads as env.PAGE_FEEDBACK.
+  // The id is not a secret.
   "d1_databases": [
     {
       "binding": "PAGE_FEEDBACK",
@@ -32,10 +47,49 @@
       "database_id": "6cdba0c9-0f42-4da1-a991-f1520b9394ef"
     }
   ],
+
+  // Runtime env for the Pages Functions (the contribution/auth BFF). Non-secret
+  // values only:
+  //   - Keycloak public client on the BAS realm (issuer/client_id/redirect_uri)
+  //   - the Supabase project URL (the anon key isn't used; the queue is server-only)
+  //
+  // SUPABASE_SERVICE_ROLE_KEY and OTA_SIGNING_KEY are NOT here and never should be.
+  // They are encrypted Pages *Secrets*, which apply from the dashboard either way.
+  //
+  // These four are byte-identical to the dashboard copies that have been doing the
+  // real work. Now that the file is valid the dashboard's plaintext vars go inert and
+  // these take over — that swap is the one behavioural risk in this change, and it is
+  // why the values were diffed against the dashboard before shipping rather than
+  // assumed. See docs/deploy-contribution-backend.md.
   "vars": {
     "KEYCLOAK_ISSUER": "https://id.beauaccesssolutions.com/realms/bas",
     "KEYCLOAK_CLIENT_ID": "disability-wiki-web",
     "KEYCLOAK_REDIRECT_URI": "https://disabilitywiki.org/api/auth/callback",
     "SUPABASE_URL": "https://wtptitohnlnargboxadq.supabase.co"
+  },
+
+  // Preview deploys (every PR) get the same bindings and vars, spelled out rather than
+  // assumed to inherit. A preview that silently loses D1 would make the feedback
+  // endpoint 503 on branch previews only — the exact class of environment-shaped bug
+  // this file just spent a week demonstrating.
+  //
+  // KEYCLOAK_REDIRECT_URI stays pointed at the production callback: the Keycloak client
+  // only whitelists that URI, so auth is not exercisable from a preview either way.
+  "env": {
+    "preview": {
+      "d1_databases": [
+        {
+          "binding": "PAGE_FEEDBACK",
+          "database_name": "disability-wiki-feedback",
+          "database_id": "6cdba0c9-0f42-4da1-a991-f1520b9394ef"
+        }
+      ],
+      "vars": {
+        "KEYCLOAK_ISSUER": "https://id.beauaccesssolutions.com/realms/bas",
+        "KEYCLOAK_CLIENT_ID": "disability-wiki-web",
+        "KEYCLOAK_REDIRECT_URI": "https://disabilitywiki.org/api/auth/callback",
+        "SUPABASE_URL": "https://wtptitohnlnargboxadq.supabase.co"
+      }
+    }
   }
 }
