@@ -146,4 +146,7 @@ check on a PR is the early warning that a merge would break the live site.
 *Last updated: 2026-07-10 — droplet decommissioned; static-site reality.*
 
 ---
+<!-- Shared cross-project lessons. Edit the canonical file, not here. -->
 @~/.claude/shared/LESSONS.md
+<!-- BAS-platform-only lessons. Canonical file lives in bas-platform. -->
+@~/projects/bas-platform/LESSONS.md
