@@ -58,12 +58,27 @@ In the platform Keycloak admin (`id.kindredaccess.org` / the `bas` realm):
 
 ## 3. Cloudflare Pages environment variables
 
-> **Gotcha (this bit us):** because the Pages project has a `wrangler` config file
-> (`site/wrangler.jsonc`), Cloudflare **ignores dashboard-set plaintext variables** —
-> only encrypted **Secrets** still apply from the dashboard. So the non-secret vars must
-> live in `wrangler.jsonc`, *not* the dashboard. (Symptom if you get this wrong:
+> **Gotcha (this bit us, then bit us again for the opposite reason):** because
+> `site/wrangler.jsonc` exists, Cloudflare **ignores dashboard-set plaintext variables**
+> — only encrypted **Secrets** still apply from the dashboard. So the non-secret vars
+> must live in `wrangler.jsonc`, *not* the dashboard. (Symptom if you get this wrong:
 > `/api/auth/*` 404s after every redeploy because `keycloakConfigured()` never sees the
 > vars.)
+>
+> **That is only true when the config file is valid**, and from its introduction until
+> **2026-07-28** it was not — it was missing `pages_build_output_dir`, so every build
+> printed *"does not appear to be valid … Skipping file and continuing"* and used the
+> dashboard vars instead. The values in both places were identical, so nothing looked
+> broken and the wrong lesson got written down here. It surfaced when a D1 binding was
+> added to the same file and produced a 503 from config that read correctly everywhere
+> except the build log.
+>
+> **So: keep both copies in sync, and trust the build log over the dashboard.** The
+> dashboard's *"managed through wrangler.toml — only Secrets can be managed here"*
+> banner appears when a config file is **detected**, not when it is valid, so it will
+> cheerfully confirm a file Cloudflare is discarding. After changing `wrangler.jsonc`,
+> open the deployment's Build log and confirm `Found wrangler.json file` is **not**
+> followed by `does not appear to be valid`.
 
 **Non-secret vars → `site/wrangler.jsonc`** under `"vars"` (this is the source of truth):
 

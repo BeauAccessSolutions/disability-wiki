@@ -58,6 +58,27 @@ All notable changes to the Disability Wiki project are documented in this file.
   fail is decoration, and an always-passing check is the exact failure mode being fixed here.
 
 ### Fixed
+- **Cloudflare had been discarding `site/wrangler.jsonc` on every build since it was added**
+  (2026-07-28, [`site/wrangler.jsonc`](site/wrangler.jsonc), [`site/.nvmrc`](site/.nvmrc),
+  [`docs/deploy-feedback.md`](docs/deploy-feedback.md),
+  [`docs/deploy-contribution-backend.md`](docs/deploy-contribution-backend.md)): the file was
+  missing the required `pages_build_output_dir` property, so every deploy logged *"A Wrangler
+  configuration file was found but it does not appear to be valid … **Skipping file and
+  continuing**"* and used the dashboard's variables instead. Because the two copies held identical
+  values, nothing ever looked broken — the project believed it was in wrangler-managed mode while
+  running entirely on the dashboard. It surfaced only when the D1 binding from the entry below
+  shipped and `/api/feedback` still returned 503 from config that read correctly in the repo *and*
+  in the dashboard UI. **Three surfaces agreed with the wrong story and one told the truth:** the
+  committed config looked right, the dashboard's *"managed through wrangler.toml"* banner (which
+  appears on file **detection**, not validity) confirmed it, and CI was green because CI never
+  inspects the deployment. The build log said otherwise, and the deployment's *Functions* tab
+  showed an empty Bindings card. Also removes the `assets` block (a Workers-only key that is
+  invalid in a Pages config and never took effect), declares bindings and vars explicitly for the
+  preview environment rather than assuming inheritance, and adds `site/.nvmrc` — with the file now
+  valid the dashboard's `NODE_VERSION` goes inert, and the build should not depend on a variable
+  this change is deliberately switching off. Reverting this commit restores the previous behaviour
+  exactly, since it returns the file to being ignored.
+
 - **The page-feedback D1 binding must live in `wrangler.jsonc`, not the dashboard** (2026-07-27,
   [`site/wrangler.jsonc`](site/wrangler.jsonc), [`docs/deploy-feedback.md`](docs/deploy-feedback.md)):
   the runbook shipped with the feature said to add the binding in the Pages dashboard. That is
@@ -71,6 +92,9 @@ All notable changes to the Disability Wiki project are documented in this file.
   is ignored outright. Encrypted Pages *Secrets* remain the exception and still apply, which is how
   `OTA_SIGNING_KEY` works. Binds by `database_id` rather than name, because an identically-named
   orphan database exists in the other Cloudflare account.
+  *(Correct but not sufficient: the config file it moved the binding into was itself being
+  discarded — see the entry above. The claim that this repo was in wrangler-managed mode was false
+  at the time it was written.)*
 
 - **The post-merge deploy probe went red on a healthy deploy** (2026-07-27,
   [`site/tools/check-live-deploy.mjs`](site/tools/check-live-deploy.mjs)): the blob check treated

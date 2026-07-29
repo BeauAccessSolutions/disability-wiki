@@ -102,11 +102,18 @@ npx wrangler d1 execute disability-wiki-feedback --remote \
 
 ### 2. Bind it — in `site/wrangler.jsonc`, NOT the dashboard
 
-**This project is in wrangler-managed mode.** Because `site/wrangler.jsonc` exists,
-Cloudflare **ignores dashboard-set bindings and plaintext vars and drops them
-silently** — the same trap that made `/api/auth/*` 404 after every redeploy. A D1
-binding added in the dashboard looks completely correct in the UI and never reaches
-the Function.
+**This project is in wrangler-managed mode**, which means Cloudflare **ignores
+dashboard-set bindings and plaintext vars and drops them silently**. A D1 binding
+added in the dashboard looks completely correct in the UI and never reaches the
+Function.
+
+> **It only works because the config file is valid — check that first.** This binding
+> was committed on 2026-07-27 and still 503'd, because `site/wrangler.jsonc` was
+> missing `pages_build_output_dir` and Cloudflare had been discarding the entire file
+> on every build with one line in the build log: *"does not appear to be valid …
+> Skipping file and continuing."* Fixed 2026-07-28. The dashboard banner claiming
+> wrangler is managing your variables appears on file **detection**, not validity, so
+> it is not evidence of anything. **The build log is.**
 
 So the binding is committed, and is already there:
 
@@ -150,8 +157,18 @@ npx wrangler d1 execute disability-wiki-feedback --remote \
   --command "SELECT * FROM page_feedback"
 ```
 
-A 503 from the first call means the binding did not take — check the variable name
-and that you redeployed.
+A 503 from the first call means the binding did not take. In order of how often it
+has actually been the cause:
+
+1. **Cloudflare discarded `wrangler.jsonc`.** Open the deployment → Build log and
+   search for `does not appear to be valid`. This was the cause the first time, and
+   nothing in the repo or the dashboard hints at it.
+2. **You did not redeploy** — bindings apply to new deployments only.
+3. **The binding name** does not match what `functions/api/feedback.ts` reads.
+
+The deployment's **Functions** tab lists the bindings that deployment actually
+received. An empty Bindings card there is the fastest confirmation that the problem
+is upstream of the binding's name or id.
 
 ## Read the results
 
