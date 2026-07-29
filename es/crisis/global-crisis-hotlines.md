@@ -392,7 +392,7 @@ Razones por las que los servicios pueden ser perjudiciales:
 - Las oficinas regionales cubren todos los continentes
 
 ### Mental Health Europe
-- Sitio web: https://www.mhe-smi.org
+- Sitio web: https://www.mentalhealtheurope.org
 - Defensa y recursos de salud mental en Europa
 
 ### Africa Mental Health Foundation

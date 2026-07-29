@@ -593,7 +593,7 @@ This page connects you to crisis resources across Europe.
 - Information about 112 emergency services across Europe
 
 ### Mental Health Europe
-- Website: https://www.mhe-smi.org
+- Website: https://www.mentalhealtheurope.org
 - Mental health advocacy and resources across Europe
 
 ---

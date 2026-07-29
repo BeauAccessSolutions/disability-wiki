@@ -468,6 +468,18 @@ All notable changes to the Disability Wiki project are documented in this file.
   both themes (accent tracks the theme; 5.19:1 against the banner surface in dark).
 
 ### Fixed
+- **Dead Mental Health Europe link on two crisis pages** (2026-07-19,
+  [`crisis/global-crisis-hotlines.md`](crisis/global-crisis-hotlines.md),
+  [`crisis/crisis-hotlines/europe.md`](crisis/crisis-hotlines/europe.md), and both `es/`
+  twins): the pages linked `mhe-smi.org`, which no longer resolves — zero DNS records,
+  so genuinely dead rather than bot-blocked. Mental Health Europe still exists and moved
+  to `mentalhealtheurope.org`; the destination was confirmed to be the same organization
+  in a real browser (active site, news dated 2026-07-16, the European NGO network for the
+  rights of persons with psychosocial disabilities) rather than inferred from the name.
+  All four occurrences fixed, EN and `es/` together. **Found by the new archive-coverage
+  scan**, and it is the argument for that tooling: the link was dead *and* had no Wayback
+  snapshot, so absent the scan both the resource and any record of what it pointed to
+  would have been lost silently.
 - **Restored two pieces the abuse-page merge dropped** (2026-07-18,
   [`crisis/abuse-neglect-exploitation.md`](crisis/abuse-neglect-exploitation.md),
   [`es/crisis/abuse-neglect-exploitation.md`](es/crisis/abuse-neglect-exploitation.md)):
@@ -640,6 +652,25 @@ All notable changes to the Disability Wiki project are documented in this file.
   originally got wrong **and** given a negative control. All three failures were false
   *negatives*; since the dangerous direction here is a check that passes on a broken crisis
   page, the skill now prefers set-difference assertions over `if X in html`.
+- **Source-archive tracking for external links** (2026-07-19,
+  [`scripts/archive_sources.py`](scripts/archive_sources.py),
+  [`docs/source-archives.json`](docs/source-archives.json)): borrowed from the
+  Langworthywatch fact-check validator, whose sharpest idea is that external links die
+  and evidence has to outlive them. This wiki has the same exposure and had no defence:
+  **349 unique external URLs** across English content, 12 still on plain `http://`.
+  First scan of the crisis pages — where a dead link does the most harm — found **121
+  URLs, 62% archived, 46 with no Wayback snapshot at all**, and several snapshots so old
+  they predate the site (mhuganda.com last captured **13.1 years ago**,
+  lifelinebotswana.org 9.7 years). Two deliberate departures from the source design:
+  snapshots go in a manifest rather than inline beside links, because a crisis page
+  listing hotlines should not carry archive URLs as clutter, and `--save` (which submits
+  to a third-party service) is opt-in and never runs in CI, while `--check` is read-only.
+  **Building this exposed a bug in the claim-integrity checker added the same day**: its
+  org-URL liveness check matched only markdown-style `](url)` links, but the crisis pages
+  write org URLs as bare text — on `crisis/` that pattern catches **4 of 121 URLs**, so
+  the check would have skipped 97% of the highest-stakes links while reporting a clean
+  pass. A check that looks like coverage and isn't is worse than no check; the bare-URL
+  extractor here is the fix to port back.
 - **Iron lung and political-economy history pages** (2026-07-19,
   [`history/iron-lung.md`](history/iron-lung.md),
   [`history/political-economy.md`](history/political-economy.md), plus enrichment of

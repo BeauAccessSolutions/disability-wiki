@@ -1,0 +1,763 @@
+{
+  "archived": 75,
+  "coverage_pct": 62,
+  "generated": "2026-07-19",
+  "sections": [
+    "crisis"
+  ],
+  "snapshots": {
+    "http://rozan.org": {
+      "age_days": 115,
+      "archive": "http://web.archive.org/web/20260326165013/https://rozan.org/",
+      "captured": "20260326",
+      "cited_in": [
+        "crisis/crisis-hotlines/asian-pacific.md"
+      ]
+    },
+    "http://snehaindia.org": {
+      "age_days": 136,
+      "archive": "http://web.archive.org/web/20260305193810/http://www.snehaindia.org/",
+      "captured": "20260305",
+      "cited_in": [
+        "crisis/crisis-hotlines/asian-pacific.md"
+      ]
+    },
+    "http://www.aasra.info": {
+      "age_days": 97,
+      "archive": "http://web.archive.org/web/20260413155231/http://www.aasra.info/",
+      "captured": "20260413",
+      "cited_in": [
+        "crisis/crisis-hotlines/asian-pacific.md"
+      ]
+    },
+    "http://www.klimaka.org.gr": {
+      "age_days": 61,
+      "archive": "http://web.archive.org/web/20260519225358/https://www.klimaka.org.gr/",
+      "captured": "20260519",
+      "cited_in": [
+        "crisis/crisis-hotlines/europe.md"
+      ]
+    },
+    "http://www.life1995.org.tw": {
+      "age_days": 155,
+      "archive": "http://web.archive.org/web/20260214235626/https://www.life1995.org.tw/",
+      "captured": "20260214",
+      "cited_in": [
+        "crisis/crisis-hotlines/asian-pacific.md"
+      ]
+    },
+    "http://www.lifeline.org.na": {
+      "age_days": 2475,
+      "archive": "http://web.archive.org/web/20191009223939/http://www.lifeline.org.na/",
+      "captured": "20191009",
+      "cited_in": [
+        "crisis/crisis-hotlines/africa.md"
+      ]
+    },
+    "http://www.lifelinebotswana.org": {
+      "age_days": 3535,
+      "archive": "http://web.archive.org/web/20161113171106/http://www.lifelinebotswana.org/",
+      "captured": "20161113",
+      "cited_in": [
+        "crisis/crisis-hotlines/africa.md"
+      ]
+    },
+    "http://www.niebieskalinia.pl": {
+      "age_days": 91,
+      "archive": "http://web.archive.org/web/20260419181107/https://www.niebieskalinia.pl/",
+      "captured": "20260419",
+      "cited_in": [
+        "crisis/crisis-hotlines/europe.md"
+      ]
+    },
+    "http://www.sumithrayo.org": {
+      "age_days": 60,
+      "archive": "http://web.archive.org/web/20260520110309/https://sumithrayo.org/",
+      "captured": "20260520",
+      "cited_in": [
+        "crisis/crisis-hotlines/asian-pacific.md"
+      ]
+    },
+    "https://116111.pl": {
+      "age_days": 9,
+      "archive": "http://web.archive.org/web/20260710125058/https://116111.pl/",
+      "captured": "20260710",
+      "cited_in": [
+        "crisis/crisis-hotlines/europe.md"
+      ]
+    },
+    "https://988.ca": {
+      "age_days": 4,
+      "archive": "http://web.archive.org/web/20260715094856/https://988.ca/",
+      "captured": "20260715",
+      "cited_in": [
+        "crisis/crisis-hotlines/north-america.md"
+      ]
+    },
+    "https://988lifeline.org/chat": {
+      "age_days": 547,
+      "archive": "http://web.archive.org/web/20250118123637/https://988lifeline.org/chat/",
+      "captured": "20250118",
+      "cited_in": [
+        "crisis/crisis-hotlines/north-america.md"
+      ]
+    },
+    "https://befrienders.org": {
+      "age_days": 1,
+      "archive": "http://web.archive.org/web/20260718055951/https://befrienders.org/",
+      "captured": "20260718",
+      "cited_in": [
+        "crisis/crisis-hotlines/africa.md",
+        "crisis/crisis-hotlines/asian-pacific.md",
+        "crisis/crisis-hotlines/europe.md",
+        "crisis/crisis-hotlines/north-america.md",
+        "crisis/global-crisis-hotlines.md"
+      ]
+    },
+    "https://bornetelefonen.dk": {
+      "age_days": 26,
+      "archive": "http://web.archive.org/web/20260623105938/https://bornetelefonen.dk/",
+      "captured": "20260623",
+      "cited_in": [
+        "crisis/crisis-hotlines/europe.md"
+      ]
+    },
+    "https://eena.org": {
+      "age_days": 61,
+      "archive": "http://web.archive.org/web/20260519220600/https://eena.org/",
+      "captured": "20260519",
+      "cited_in": [
+        "crisis/crisis-hotlines/europe.md"
+      ]
+    },
+    "https://findahelpline.com": {
+      "age_days": 8,
+      "archive": "http://web.archive.org/web/20260711110723/https://findahelpline.com/",
+      "captured": "20260711",
+      "cited_in": [
+        "crisis/global-crisis-hotlines.md"
+      ]
+    },
+    "https://giveusashout.org": {
+      "age_days": 1,
+      "archive": "http://web.archive.org/web/20260718053659/https://giveusashout.org/",
+      "captured": "20260718",
+      "cited_in": [
+        "crisis/crisis-hotlines/europe.md"
+      ]
+    },
+    "https://hrabritelefon.hr": {
+      "age_days": 89,
+      "archive": "http://web.archive.org/web/20260421101752/https://hrabritelefon.hr/",
+      "captured": "20260421",
+      "cited_in": [
+        "crisis/crisis-hotlines/europe.md"
+      ]
+    },
+    "https://kaanpeteroi.org": {
+      "age_days": 13,
+      "archive": "http://web.archive.org/web/20260706223840/https://www.kaanpeteroi.org/",
+      "captured": "20260706",
+      "cited_in": [
+        "crisis/crisis-hotlines/asian-pacific.md"
+      ]
+    },
+    "https://kek-vonal.hu": {
+      "age_days": 19,
+      "archive": "http://web.archive.org/web/20260630133936/https://kek-vonal.hu/",
+      "captured": "20260630",
+      "cited_in": [
+        "crisis/crisis-hotlines/europe.md"
+      ]
+    },
+    "https://kidshelpline.com.au": {
+      "age_days": 1,
+      "archive": "http://web.archive.org/web/20260718001213/https://www.kidshelpline.com.au/",
+      "captured": "20260718",
+      "cited_in": [
+        "crisis/crisis-hotlines/asian-pacific.md"
+      ]
+    },
+    "https://kidshelpphone.ca": {
+      "age_days": 3,
+      "archive": "http://web.archive.org/web/20260716100350/https://kidshelpphone.ca/",
+      "captured": "20260716",
+      "cited_in": [
+        "crisis/crisis-hotlines/north-america.md"
+      ]
+    },
+    "https://lasteabi.ee": {
+      "age_days": 1105,
+      "archive": "http://web.archive.org/web/20230710190738/https://lasteabi.ee/",
+      "captured": "20230710",
+      "cited_in": [
+        "crisis/crisis-hotlines/europe.md"
+      ]
+    },
+    "https://mentalhelse.no": {
+      "age_days": 17,
+      "archive": "http://web.archive.org/web/20260702221501/https://mentalhelse.no/",
+      "captured": "20260702",
+      "cited_in": [
+        "crisis/crisis-hotlines/europe.md"
+      ]
+    },
+    "https://mhuganda.com": {
+      "age_days": 4784,
+      "archive": "http://web.archive.org/web/20130613081455/http://mhuganda.com/",
+      "captured": "20130613",
+      "cited_in": [
+        "crisis/crisis-hotlines/africa.md"
+      ]
+    },
+    "https://mieli.fi": {
+      "age_days": 19,
+      "archive": "http://web.archive.org/web/20260630222634/https://mieli.fi/",
+      "captured": "20260630",
+      "cited_in": [
+        "crisis/crisis-hotlines/europe.md"
+      ]
+    },
+    "https://saptel.org.mx": {
+      "age_days": 12,
+      "archive": "http://web.archive.org/web/20260707011808/http://www.saptel.org.mx/",
+      "captured": "20260707",
+      "cited_in": [
+        "crisis/crisis-hotlines/north-america.md"
+      ]
+    },
+    "https://sosviolenceconjugale.ca": {
+      "age_days": 2065,
+      "archive": "http://web.archive.org/web/20201122110438/http://www.sosviolenceconjugale.ca/",
+      "captured": "20201122",
+      "cited_in": [
+        "crisis/crisis-hotlines/north-america.md"
+      ]
+    },
+    "https://srvcanadavrs.ca/en/": {
+      "age_days": 16,
+      "archive": "http://web.archive.org/web/20260703101326/https://srvcanadavrs.ca/en/",
+      "captured": "20260703",
+      "cited_in": [
+        "crisis/index.md"
+      ]
+    },
+    "https://telljp.com": {
+      "age_days": 6,
+      "archive": "http://web.archive.org/web/20260713043755/https://telljp.com/",
+      "captured": "20260713",
+      "cited_in": [
+        "crisis/crisis-hotlines/asian-pacific.md"
+      ]
+    },
+    "https://womensrefuge.org.nz": {
+      "age_days": 1,
+      "archive": "http://web.archive.org/web/20260718001204/https://womensrefuge.org.nz/",
+      "captured": "20260718",
+      "cited_in": [
+        "crisis/crisis-hotlines/asian-pacific.md"
+      ]
+    },
+    "https://www.116111.no": {
+      "age_days": 8,
+      "archive": "http://web.archive.org/web/20260711144153/https://www.116111.no/",
+      "captured": "20260711",
+      "cited_in": [
+        "crisis/crisis-hotlines/europe.md"
+      ]
+    },
+    "https://www.143.ch": {
+      "age_days": 4,
+      "archive": "http://web.archive.org/web/20260715094857/https://www.143.ch/",
+      "captured": "20260715",
+      "cited_in": [
+        "crisis/crisis-hotlines/europe.md"
+      ]
+    },
+    "https://www.1800respect.org.au": {
+      "age_days": 1,
+      "archive": "http://web.archive.org/web/20260718001307/https://1800respect.org.au/",
+      "captured": "20260718",
+      "cited_in": [
+        "crisis/crisis-hotlines/asian-pacific.md"
+      ]
+    },
+    "https://www.454545.lu": {
+      "age_days": 59,
+      "archive": "http://web.archive.org/web/20260521110940/https://454545.lu/",
+      "captured": "20260521",
+      "cited_in": [
+        "crisis/crisis-hotlines/europe.md"
+      ]
+    },
+    "https://www.africamentalhealthfoundation.org": {
+      "age_days": 67,
+      "archive": "http://web.archive.org/web/20260513040024/http://www.africamentalhealthfoundation.org/",
+      "captured": "20260513",
+      "cited_in": [
+        "crisis/crisis-hotlines/africa.md",
+        "crisis/global-crisis-hotlines.md"
+      ]
+    },
+    "https://www.afro.who.int": {
+      "age_days": 8,
+      "archive": "http://web.archive.org/web/20260711091859/https://www.afro.who.int/",
+      "captured": "20260711",
+      "cited_in": [
+        "crisis/crisis-hotlines/africa.md"
+      ]
+    },
+    "https://www.bahamascrisiscentre.org": {
+      "age_days": 32,
+      "archive": "http://web.archive.org/web/20260617125749/http://www.bahamascrisiscentre.org/",
+      "captured": "20260617",
+      "cited_in": [
+        "crisis/crisis-hotlines/north-america.md"
+      ]
+    },
+    "https://www.beyondblue.org.au": {
+      "age_days": 1,
+      "archive": "http://web.archive.org/web/20260718000711/https://www.beyondblue.org.au/",
+      "captured": "20260718",
+      "cited_in": [
+        "crisis/crisis-hotlines/asian-pacific.md"
+      ]
+    },
+    "https://www.callblackline.com": {
+      "age_days": 7,
+      "archive": "http://web.archive.org/web/20260712164052/https://www.callblackline.com/",
+      "captured": "20260712",
+      "cited_in": [
+        "crisis/crisis-hotlines/north-america.md"
+      ]
+    },
+    "https://www.cecodap.org": {
+      "age_days": 10,
+      "archive": "http://web.archive.org/web/20260709185346/https://cecodap.org/",
+      "captured": "20260709",
+      "cited_in": [
+        "crisis/crisis-hotlines/south-america.md"
+      ]
+    },
+    "https://www.centarsrce.org": {
+      "age_days": 60,
+      "archive": "http://web.archive.org/web/20260520214841/https://centarsrce.org/",
+      "captured": "20260520",
+      "cited_in": [
+        "crisis/crisis-hotlines/europe.md"
+      ]
+    },
+    "https://www.childhelp.org": {
+      "age_days": 1,
+      "archive": "http://web.archive.org/web/20260718014829/https://childhelp.org/",
+      "captured": "20260718",
+      "cited_in": [
+        "crisis/crisis-hotlines/north-america.md"
+      ]
+    },
+    "https://www.childline.org.uk": {
+      "age_days": 3,
+      "archive": "http://web.archive.org/web/20260716072412/https://www.childline.org.uk/",
+      "captured": "20260716",
+      "cited_in": [
+        "crisis/crisis-hotlines/europe.md"
+      ]
+    },
+    "https://www.crisistextline.org": {
+      "age_days": 3,
+      "archive": "http://web.archive.org/web/20260716052711/https://www.crisistextline.org/",
+      "captured": "20260716",
+      "cited_in": [
+        "crisis/crisis-hotlines/north-america.md"
+      ]
+    },
+    "https://www.cvv.org.br": {
+      "age_days": 25,
+      "archive": "http://web.archive.org/web/20260624233129/https://cvv.org.br/",
+      "captured": "20260624",
+      "cited_in": [
+        "crisis/crisis-hotlines/south-america/brazil.md"
+      ]
+    },
+    "https://www.e-tom.si": {
+      "age_days": 66,
+      "archive": "http://web.archive.org/web/20260514164626/https://e-tom.si/",
+      "captured": "20260514",
+      "cited_in": [
+        "crisis/crisis-hotlines/europe.md"
+      ]
+    },
+    "https://www.hamogelo.gr": {
+      "age_days": 19,
+      "archive": "http://web.archive.org/web/20260630040901/https://www.hamogelo.gr/",
+      "captured": "20260630",
+      "cited_in": [
+        "crisis/crisis-hotlines/europe.md"
+      ]
+    },
+    "https://www.inochinodenwa.org": {
+      "age_days": 25,
+      "archive": "http://web.archive.org/web/20260624140209/https://inochinodenwa.org/",
+      "captured": "20260624",
+      "cited_in": [
+        "crisis/crisis-hotlines/asian-pacific.md"
+      ]
+    },
+    "https://www.jaunimolinija.lt": {
+      "age_days": 3,
+      "archive": "http://web.archive.org/web/20260716030104/https://jaunimolinija.lt/",
+      "captured": "20260716",
+      "cited_in": [
+        "crisis/crisis-hotlines/europe.md"
+      ]
+    },
+    "https://www.lifeline.org.au": {
+      "age_days": 1,
+      "archive": "http://web.archive.org/web/20260718001200/https://www.lifeline.org.au/",
+      "captured": "20260718",
+      "cited_in": [
+        "crisis/crisis-hotlines/asian-pacific.md"
+      ]
+    },
+    "https://www.lifeline.org.nz": {
+      "age_days": 1,
+      "archive": "http://web.archive.org/web/20260718001219/https://www.lifeline.org.nz/",
+      "captured": "20260718",
+      "cited_in": [
+        "crisis/crisis-hotlines/asian-pacific.md"
+      ]
+    },
+    "https://www.linkaduvery.cz": {
+      "age_days": 281,
+      "archive": "http://web.archive.org/web/20251011015526/http://www.linkaduvery.cz/",
+      "captured": "20251011",
+      "cited_in": [
+        "crisis/crisis-hotlines/europe.md"
+      ]
+    },
+    "https://www.livslinien.dk": {
+      "age_days": 26,
+      "archive": "http://web.archive.org/web/20260623110342/https://www.livslinien.dk/",
+      "captured": "20260623",
+      "cited_in": [
+        "crisis/crisis-hotlines/europe.md"
+      ]
+    },
+    "https://www.nationaldahelpline.org.uk": {
+      "age_days": 3,
+      "archive": "http://web.archive.org/web/20260716030343/https://www.nationaldahelpline.org.uk/",
+      "captured": "20260716",
+      "cited_in": [
+        "crisis/crisis-hotlines/europe.md"
+      ]
+    },
+    "https://www.opferhilfe-schweiz.ch": {
+      "age_days": 2665,
+      "archive": "http://web.archive.org/web/20190402214353/http://www.opferhilfe-schweiz.ch:80/",
+      "captured": "20190402",
+      "cited_in": [
+        "crisis/crisis-hotlines/europe.md"
+      ]
+    },
+    "https://www.paho.org": {
+      "age_days": 197,
+      "archive": "http://web.archive.org/web/20260103010013/https://www1.paho.org/",
+      "captured": "20260103",
+      "cited_in": [
+        "crisis/crisis-hotlines/north-america.md",
+        "crisis/crisis-hotlines/south-america.md",
+        "crisis/global-crisis-hotlines.md"
+      ]
+    },
+    "https://www.pieta.ie": {
+      "age_days": 8,
+      "archive": "http://web.archive.org/web/20260711182732/https://www.pieta.ie/",
+      "captured": "20260711",
+      "cited_in": [
+        "crisis/crisis-hotlines/europe.md"
+      ]
+    },
+    "https://www.rainlily.org.hk": {
+      "age_days": 31,
+      "archive": "http://web.archive.org/web/20260618070746/https://rainlily.org.hk/",
+      "captured": "20260618",
+      "cited_in": [
+        "crisis/crisis-hotlines/asian-pacific.md"
+      ]
+    },
+    "https://www.rataufdraht.at": {
+      "age_days": 5,
+      "archive": "http://web.archive.org/web/20260714050608/https://www.rataufdraht.at/",
+      "captured": "20260714",
+      "cited_in": [
+        "crisis/crisis-hotlines/europe.md"
+      ]
+    },
+    "https://www.redcross.or.ke": {
+      "age_days": 51,
+      "archive": "http://web.archive.org/web/20260529032955/https://redcross.or.ke/",
+      "captured": "20260529",
+      "cited_in": [
+        "crisis/crisis-hotlines/africa.md"
+      ]
+    },
+    "https://www.sos-amitie.com": {
+      "age_days": 438,
+      "archive": "http://web.archive.org/web/20250507021956/https://www.sos-amitie.com/",
+      "captured": "20250507",
+      "cited_in": [
+        "crisis/crisis-hotlines/europe.md"
+      ]
+    },
+    "https://www.sos.org.sg": {
+      "age_days": 59,
+      "archive": "http://web.archive.org/web/20260521194058/https://www.sos.org.sg/",
+      "captured": "20260521",
+      "cited_in": [
+        "crisis/crisis-hotlines/asian-pacific.md"
+      ]
+    },
+    "https://www.sosvozamiga.org": {
+      "age_days": 50,
+      "archive": "http://web.archive.org/web/20260530053356/https://www.sosvozamiga.org/",
+      "captured": "20260530",
+      "cited_in": [
+        "crisis/crisis-hotlines/europe.md"
+      ]
+    },
+    "https://www.strongheartshelpline.org": {
+      "age_days": 4,
+      "archive": "http://web.archive.org/web/20260715215224/https://strongheartshelpline.org/",
+      "captured": "20260715",
+      "cited_in": [
+        "crisis/crisis-hotlines/north-america.md"
+      ]
+    },
+    "https://www.suicidecallbackservice.org.au": {
+      "age_days": 1,
+      "archive": "http://web.archive.org/web/20260718001217/https://www.suicidecallbackservice.org.au/",
+      "captured": "20260718",
+      "cited_in": [
+        "crisis/crisis-hotlines/asian-pacific.md"
+      ]
+    },
+    "https://www.surpinng.com/": {
+      "age_days": 66,
+      "archive": "http://web.archive.org/web/20260514233232/https://www.surpinng.com/",
+      "captured": "20260514",
+      "cited_in": [
+        "crisis/crisis-hotlines/africa/nigeria.md"
+      ]
+    },
+    "https://www.tele-onthaal.be": {
+      "age_days": 16,
+      "archive": "http://web.archive.org/web/20260703084248/https://www.tele-onthaal.be/",
+      "captured": "20260703",
+      "cited_in": [
+        "crisis/crisis-hotlines/europe.md"
+      ]
+    },
+    "https://www.telefonoamico.it": {
+      "age_days": 59,
+      "archive": "http://web.archive.org/web/20260521010009/https://www.telefonoamico.it/",
+      "captured": "20260521",
+      "cited_in": [
+        "crisis/crisis-hotlines/europe.md"
+      ]
+    },
+    "https://www.telefonulcopilului.ro": {
+      "age_days": 67,
+      "archive": "http://web.archive.org/web/20260513034707/https://telefonulcopilului.ro/",
+      "captured": "20260513",
+      "cited_in": [
+        "crisis/crisis-hotlines/europe.md"
+      ]
+    },
+    "https://www.thecalmzone.net": {
+      "age_days": 8,
+      "archive": "http://web.archive.org/web/20260711064958/https://www.thecalmzone.net/",
+      "captured": "20260711",
+      "cited_in": [
+        "crisis/crisis-hotlines/europe.md"
+      ]
+    },
+    "https://www.thehotline.org": {
+      "age_days": 2,
+      "archive": "http://web.archive.org/web/20260717214504/https://www.thehotline.org/",
+      "captured": "20260717",
+      "cited_in": [
+        "crisis/crisis-hotlines/north-america.md"
+      ]
+    },
+    "https://www.who.int/health-topics/mental-health": {
+      "age_days": 5,
+      "archive": "http://web.archive.org/web/20260714161118/https://www.who.int/health-topics/mental-health",
+      "captured": "20260714",
+      "cited_in": [
+        "crisis/global-crisis-hotlines.md"
+      ]
+    },
+    "https://www.who.int/southeastasia": {
+      "age_days": 3,
+      "archive": "http://web.archive.org/web/20260716172746/https://www.who.int/southeastasia",
+      "captured": "20260716",
+      "cited_in": [
+        "crisis/crisis-hotlines/asian-pacific.md"
+      ]
+    },
+    "https://www.youthline.co.nz": {
+      "age_days": 1,
+      "archive": "http://web.archive.org/web/20260718001227/https://youthline.co.nz/",
+      "captured": "20260718",
+      "cited_in": [
+        "crisis/crisis-hotlines/asian-pacific.md"
+      ]
+    }
+  },
+  "total_urls": 121,
+  "unarchived": {
+    "http://www.casbuenosaires.com.ar": [
+      "crisis/crisis-hotlines/south-america.md"
+    ],
+    "http://www.zaupni-telefon.si": [
+      "crisis/crisis-hotlines/europe.md"
+    ],
+    "https://lineapaspr.com": [
+      "crisis/crisis-hotlines/north-america.md"
+    ],
+    "https://mha-ghana.com": [
+      "crisis/crisis-hotlines/africa.md"
+    ],
+    "https://mind.se": [
+      "crisis/crisis-hotlines/europe.md"
+    ],
+    "https://power2u.org/warmline-directory": [
+      "crisis/crisis-hotlines/north-america.md",
+      "crisis/global-crisis-hotlines.md"
+    ],
+    "https://translifeline.org": [
+      "crisis/crisis-hotlines/north-america.md"
+    ],
+    "https://umang.com.pk": [
+      "crisis/crisis-hotlines/asian-pacific.md"
+    ],
+    "https://www.113.nl": [
+      "crisis/crisis-hotlines/europe.md"
+    ],
+    "https://www.116111.bg": [
+      "crisis/crisis-hotlines/europe.md"
+    ],
+    "https://www.1717.is": [
+      "crisis/crisis-hotlines/europe.md"
+    ],
+    "https://www.apdfonline.org": [
+      "crisis/crisis-hotlines/asian-pacific.md"
+    ],
+    "https://www.azzurro.it": [
+      "crisis/crisis-hotlines/europe.md"
+    ],
+    "https://www.befrienders.org.my": [
+      "crisis/crisis-hotlines/asian-pacific.md"
+    ],
+    "https://www.bris.se": [
+      "crisis/crisis-hotlines/europe.md"
+    ],
+    "https://www.eluliin.ee": [
+      "crisis/crisis-hotlines/europe.md"
+    ],
+    "https://www.fcc.gov/consumers/guides/video-relay-services-vrs": [
+      "crisis/index.md"
+    ],
+    "https://www.gob.pe/chat100": [
+      "crisis/crisis-hotlines/south-america.md"
+    ],
+    "https://www.hopeforwellness.ca": [
+      "crisis/crisis-hotlines/north-america.md"
+    ],
+    "https://www.iasp.info": [
+      "crisis/crisis-hotlines/north-america.md",
+      "crisis/crisis-hotlines/south-america.md",
+      "crisis/global-crisis-hotlines.md"
+    ],
+    "https://www.kjt.lu": [
+      "crisis/crisis-hotlines/europe.md"
+    ],
+    "https://www.lifelinefiji.com": [
+      "crisis/crisis-hotlines/asian-pacific.md"
+    ],
+    "https://www.linealibre.cl": [
+      "crisis/crisis-hotlines/south-america.md"
+    ],
+    "https://www.linkabezpeci.cz": [
+      "crisis/crisis-hotlines/europe.md"
+    ],
+    "https://www.linkadovery.sk": [
+      "crisis/crisis-hotlines/europe.md"
+    ],
+    "https://www.mhe-smi.org": [
+      "crisis/crisis-hotlines/europe.md",
+      "crisis/global-crisis-hotlines.md"
+    ],
+    "https://www.mieli.fi/fi/tukea-ja-apua/kriisipuhelin": [
+      "crisis/crisis-hotlines/europe.md"
+    ],
+    "https://www.nummergegenkummer.de": [
+      "crisis/crisis-hotlines/europe.md"
+    ],
+    "https://www.preventionsuicide.be": [
+      "crisis/crisis-hotlines/europe.md"
+    ],
+    "https://www.rainn.org": [
+      "crisis/abuse/what-is-it.md",
+      "crisis/crisis-hotlines/north-america.md"
+    ],
+    "https://www.samaritans.org": [
+      "crisis/crisis-hotlines/europe.md"
+    ],
+    "https://www.samaritans.org/ireland": [
+      "crisis/crisis-hotlines/europe.md"
+    ],
+    "https://www.samaritansbarbados.org": [
+      "crisis/crisis-hotlines/north-america.md"
+    ],
+    "https://www.sbhk.org.hk": [
+      "crisis/crisis-hotlines/asian-pacific.md"
+    ],
+    "https://www.skalbes.lv": [
+      "crisis/crisis-hotlines/europe.md"
+    ],
+    "https://www.spckorea.or.kr": [
+      "crisis/crisis-hotlines/asian-pacific.md"
+    ],
+    "https://www.sprc.org": [
+      "crisis/global-crisis-hotlines.md"
+    ],
+    "https://www.telefondesuflet.ro": [
+      "crisis/crisis-hotlines/europe.md"
+    ],
+    "https://www.telefonodelaesperanza.org": [
+      "crisis/crisis-hotlines/europe.md"
+    ],
+    "https://www.telefonseelsorge.at": [
+      "crisis/crisis-hotlines/europe.md"
+    ],
+    "https://www.telefonseelsorge.de": [
+      "crisis/crisis-hotlines/europe.md"
+    ],
+    "https://www.thetrevorproject.org": [
+      "crisis/crisis-hotlines/north-america.md"
+    ],
+    "https://www.tspc.tw": [
+      "crisis/crisis-hotlines/asian-pacific.md"
+    ],
+    "https://www.vandrevalafoundation.com": [
+      "crisis/crisis-hotlines/asian-pacific.md"
+    ],
+    "https://www.who.int/westernpacific": [
+      "crisis/crisis-hotlines/asian-pacific.md"
+    ],
+    "https://www.womensaid.ie": [
+      "crisis/crisis-hotlines/europe.md"
+    ]
+  }
+}
