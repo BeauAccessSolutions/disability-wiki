@@ -151,14 +151,23 @@ if (!/^https:\/\//.test(origin) && !(isLoopback && ALLOW_PREVIEW)) {
     `✗ COULD NOT VERIFY — manifest origin must be https, got ${origin}.\n` +
     '  (http is accepted only for a 127.0.0.1/localhost fixture under --allow-preview.)');
 }
-const isPreview = isLoopback || /\.pages\.dev$|\.workers\.dev$/.test(host);
-if (isPreview && !ALLOW_PREVIEW) {
+// *.pages.dev / *.workers.dev are usually a preview — but for a Worker with no custom
+// domain, <name>.workers.dev IS production (page-repair's extension calls exactly that
+// host). So the manifest can assert it, in writing, and the reason is printed into the CI
+// log. A flag on a command line hides; a sentence in the committed manifest does not.
+const canonicalReason = typeof manifest.originIsCanonical === 'string'
+  ? manifest.originIsCanonical.trim() : '';
+const isPreviewHost = /\.pages\.dev$|\.workers\.dev$/.test(host);
+if ((isLoopback || isPreviewHost) && !ALLOW_PREVIEW && !(isPreviewHost && canonicalReason)) {
   die(EXIT_UNVERIFIED,
-    `✗ COULD NOT VERIFY — ${host} is a preview/local origin.\n` +
-    '  wrangler pages dev, a static server and *.pages.dev previews all serve unrewritten\n' +
-    '  origin bytes with the zone features OFF, so a green run there proves nothing about\n' +
-    '  production. Point this at the production hostname, or pass --allow-preview if you\n' +
-    '  genuinely mean to probe the preview.');
+    `✗ COULD NOT VERIFY — ${host} looks like a preview/local origin.\n` +
+    '  wrangler pages dev, a static server and per-deploy *.pages.dev previews all serve\n' +
+    '  unrewritten origin bytes with the zone features OFF, so a green run there proves\n' +
+    '  nothing about production.\n' +
+    '  If this host really IS production (a Worker with no custom domain is reached at\n' +
+    '  <name>.workers.dev), say so in the manifest and the reason will be printed here:\n' +
+    '      "originIsCanonical": "no custom domain — the extension calls this host directly"\n' +
+    '  For a genuinely throwaway run, pass --allow-preview.');
 }
 
 const findings = [];   // static observations, not per-probe
@@ -310,6 +319,9 @@ if (AS_JSON) {
 if (!AS_JSON) {
   console.log(`live-config probe → ${origin}`);
   console.log(`  config: ${configPath}`);
+  if (isPreviewHost && canonicalReason) {
+    console.log(`  origin asserted canonical: ${canonicalReason}`);
+  }
   if (declaredBindings.length) console.log(`  bindings declared: ${declaredBindings.join(', ')}`);
   console.log('');
   for (const { probe, result } of results) {
