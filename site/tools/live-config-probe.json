@@ -12,6 +12,25 @@
     "Never add a secret here. SUPABASE_SERVICE_ROLE_KEY is a Pages Secret and is asserted",
     "only by its effect (the queue answers instead of 500ing)."
   ],
+  "_unproven": [
+    "PAGE_FEEDBACK (D1) is declared in wrangler.jsonc and no probe exercises it. The runner",
+    "says so on every run; that is deliberate, not an oversight.",
+    "",
+    "WHY IT CANNOT BE PROBED SAFELY FROM OUTSIDE: functions/api/feedback.ts validates the",
+    "submission BEFORE it checks the binding — method, encoding, answer, path shape, then the",
+    "crisis-path exclusion, and only then `if (!env.PAGE_FEEDBACK) return 503`. So any request",
+    "that can reach the 503 branch is also a request that, when the binding IS present, writes",
+    "a row into the live tally. There is no read-only D1 path: the only consumer is this POST.",
+    "A probe that polluted the tally on every deploy would corrupt the one signal the endpoint",
+    "exists to produce.",
+    "",
+    "TO CLOSE IT, the same way the page-repair proxy's Durable Object was closed: give the site",
+    "a read-only deep-health route (GET /api/health?deep=1) that runs `SELECT 1` through",
+    "PAGE_FEEDBACK and returns 503 naming the binding if it fails. Read-only, writes nothing,",
+    "needs no credential — make the binding observable rather than the observer privileged.",
+    "Not built here because it adds a public endpoint to the site, which is a bigger decision",
+    "than wiring a probe."
+  ],
   "config": "../wrangler.jsonc",
   "kind": "pages",
   "origin": "https://disabilitywiki.org",
@@ -62,6 +81,17 @@
       "expectHeaderContains": { "allow": ["POST"] },
       "proves": [],
       "whenMissing": "a 404 here means static asset handling answered the path — the Function is not deployed at all. This is why the check asserts 405 rather than 'not 5xx'."
+    },
+    {
+      "name": "feedback Function is deployed and validating (writes nothing — crisis paths are rejected before the D1 branch)",
+      "path": "/api/feedback",
+      "method": "POST",
+      "headers": { "content-type": "application/x-www-form-urlencoded" },
+      "body": "helpful=yes&page=/crisis/",
+      "expectStatus": 400,
+      "expectBodyContains": ["not collected for crisis pages"],
+      "proves": [],
+      "whenMissing": "404 means the Function did not deploy; 503 'feedback store not configured' would mean the D1 binding did not resolve — but note this probe CANNOT reach that branch, by design. See _unproven below."
     }
   ]
 }
