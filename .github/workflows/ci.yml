@@ -158,3 +158,26 @@ jobs:
       - name: Live site serves this merge (signed)
         working-directory: site
         run: TIMEOUT_MIN=10 node tools/check-live-deploy.mjs ${{ github.sha }}
+
+      # BLOCKING, and it runs AFTER the step above on purpose: that one proves the
+      # deploy LANDED, this one proves the deployed thing has its CONFIG. Cloudflare
+      # does not reject a wrangler config it cannot use — it SKIPS it, one build-log
+      # line, and the site keeps running on dashboard settings. That hid here for
+      # weeks because the file's vars duplicated the dashboard's with IDENTICAL
+      # values; nothing broke until a binding existed in only one source, and then the
+      # endpoint needing it returned 503. Three surfaces agreed with the wrong story
+      # (the committed file, the dashboard's file-DETECTION banner, green CI) while
+      # only the build log was honest.
+      #
+      # Every expectation in tools/live-config-probe.json interpolates ${VAR} from
+      # wrangler.jsonc itself, so this asserts "production reflects what THAT FILE
+      # declares" rather than re-stating values here. And it asserts the CONFIGURED
+      # response, not `status < 500`: when the vars go missing, /api/auth/login answers
+      # a perfectly plausible 404 "sign-in is not configured" — a health check would
+      # call that green while sign-in was dead for every contributor.
+      #
+      # Exit 2 (could-not-verify — DNS/network) is distinct from exit 1 and also fails
+      # the job: an unreachable production site is not a pass.
+      - name: Live config is actually in effect
+        working-directory: site
+        run: npm run check:live-config

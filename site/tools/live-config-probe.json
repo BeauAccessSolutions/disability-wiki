@@ -1,0 +1,67 @@
+{
+  "_comment": [
+    "Post-deploy proof that site/wrangler.jsonc is ACTUALLY IN EFFECT in production.",
+    "Runner: ~/.claude/skills/wrangler/probe_live_config.mjs (machine-wide, shared with",
+    "page-repair/proxy). Run it with `npm run check:live-config`.",
+    "",
+    "Every expectation below interpolates ${VAR} from wrangler.jsonc's own vars block, so",
+    "these assert 'production reflects what THAT FILE declares' rather than re-stating the",
+    "values here. Change a var in the config and this probe follows it automatically; if the",
+    "config stops being read and the dashboard holds different values, this goes red.",
+    "",
+    "Never add a secret here. SUPABASE_SERVICE_ROLE_KEY is a Pages Secret and is asserted",
+    "only by its effect (the queue answers instead of 500ing)."
+  ],
+  "config": "../wrangler.jsonc",
+  "kind": "pages",
+  "origin": "https://disabilitywiki.org",
+  "probes": [
+    {
+      "name": "auth BFF received KEYCLOAK_* — login redirects to the declared issuer and client",
+      "path": "/api/auth/login",
+      "method": "GET",
+      "expectStatus": 302,
+      "expectHeaderContains": {
+        "location": [
+          "${KEYCLOAK_ISSUER}/protocol/openid-connect/auth",
+          "client_id=${KEYCLOAK_CLIENT_ID}",
+          "redirect_uri=${KEYCLOAK_REDIRECT_URI:urlencoded}",
+          "code_challenge_method=S256"
+        ]
+      },
+      "proves": ["KEYCLOAK_ISSUER", "KEYCLOAK_CLIENT_ID", "KEYCLOAK_REDIRECT_URI"],
+      "whenMissing": "keycloakConfigured() goes false and login.ts answers 404 'sign-in is not configured' — a plausible status that a `status < 500` health check would call green while sign-in is dead for every contributor."
+    },
+    {
+      "name": "auth BFF sets the PKCE/CSRF cookies the callback reads back",
+      "path": "/api/auth/login",
+      "method": "GET",
+      "expectStatus": 302,
+      "expectHeaderContains": {
+        "set-cookie": ["dw_oidc_state=", "HttpOnly", "Secure", "Path=/api/auth"]
+      },
+      "proves": [],
+      "whenMissing": "a 302 with no cookies means the redirect was manufactured somewhere other than login.ts — the flow would fail at the callback with a state mismatch."
+    },
+    {
+      "name": "contributions Function runs and fails CLOSED (not static-404, not 503)",
+      "path": "/api/contributions",
+      "method": "POST",
+      "headers": { "content-type": "application/json" },
+      "body": "{}",
+      "expectStatus": 401,
+      "expectBodyContains": ["contributions require sign-in"],
+      "proves": ["SUPABASE_URL"],
+      "whenMissing": "404 means the Function did not deploy or its env is absent; 503 means a declared binding did not resolve; a 200/303 would mean the fail-closed guard is gone."
+    },
+    {
+      "name": "contributions Function rejects non-POST explicitly (proves the dispatcher, not asset handling)",
+      "path": "/api/contributions",
+      "method": "GET",
+      "expectStatus": 405,
+      "expectHeaderContains": { "allow": ["POST"] },
+      "proves": [],
+      "whenMissing": "a 404 here means static asset handling answered the path — the Function is not deployed at all. This is why the check asserts 405 rather than 'not 5xx'."
+    }
+  ]
+}

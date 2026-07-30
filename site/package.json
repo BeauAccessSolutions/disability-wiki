@@ -10,7 +10,8 @@
     "preview": "astro preview",
     "astro": "astro",
     "check:sw": "node tools/check-sw.mjs",
-    "test": "node --test \"src/**/*.test.ts\" \"functions/**/*.test.ts\""
+    "test": "node --test \"src/**/*.test.ts\" \"functions/**/*.test.ts\"",
+    "check:live-config": "node tools/probe-live-config.mjs tools/live-config-probe.json"
   },
   "dependencies": {
     "@astrojs/starlight": "^0.40.0",
