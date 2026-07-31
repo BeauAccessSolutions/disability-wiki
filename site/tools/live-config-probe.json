@@ -13,23 +13,19 @@
     "only by its effect (the queue answers instead of 500ing)."
   ],
   "_unproven": [
-    "PAGE_FEEDBACK (D1) is declared in wrangler.jsonc and no probe exercises it. The runner",
-    "says so on every run; that is deliberate, not an oversight.",
+    "Nothing. Every var and binding wrangler.jsonc declares is now exercised by a probe above,",
+    "and the runner will start naming anything newly declared that is not.",
     "",
-    "WHY IT CANNOT BE PROBED SAFELY FROM OUTSIDE: functions/api/feedback.ts validates the",
-    "submission BEFORE it checks the binding — method, encoding, answer, path shape, then the",
-    "crisis-path exclusion, and only then `if (!env.PAGE_FEEDBACK) return 503`. So any request",
-    "that can reach the 503 branch is also a request that, when the binding IS present, writes",
-    "a row into the live tally. There is no read-only D1 path: the only consumer is this POST.",
-    "A probe that polluted the tally on every deploy would corrupt the one signal the endpoint",
-    "exists to produce.",
+    "PAGE_FEEDBACK was the last gap and it closed on 2026-07-30. It could not be probed through",
+    "the feedback endpoint: functions/api/feedback.ts validates method, encoding, answer, path",
+    "shape and the crisis exclusion BEFORE `if (!env.PAGE_FEEDBACK) return 503`, so any request",
+    "able to reach that branch also writes a row to the live tally when the binding is present —",
+    "and that POST is D1's only consumer. Probing it would have corrupted the one signal the",
+    "endpoint exists to produce.",
     "",
-    "TO CLOSE IT, the same way the page-repair proxy's Durable Object was closed: give the site",
-    "a read-only deep-health route (GET /api/health?deep=1) that runs `SELECT 1` through",
-    "PAGE_FEEDBACK and returns 503 naming the binding if it fails. Read-only, writes nothing,",
-    "needs no credential — make the binding observable rather than the observer privileged.",
-    "Not built here because it adds a public endpoint to the site, which is a bigger decision",
-    "than wiring a probe."
+    "So the binding was made observable instead of the observer privileged: functions/api/health.ts",
+    "serves GET /api/health?deep=1, read-only, no credential, no data disclosed. Same move that",
+    "closed the page-repair proxy's Durable Object."
   ],
   "config": "../wrangler.jsonc",
   "kind": "pages",
@@ -81,6 +77,24 @@
       "expectHeaderContains": { "allow": ["POST"] },
       "proves": [],
       "whenMissing": "a 404 here means static asset handling answered the path — the Function is not deployed at all. This is why the check asserts 405 rather than 'not 5xx'."
+    },
+    {
+      "name": "Functions layer is up (shallow health, touches no binding — a discriminator, not a config check)",
+      "path": "/api/health",
+      "method": "GET",
+      "expectStatus": 200,
+      "expectBodyContains": ["disability-wiki", "\"status\":\"ok\""],
+      "proves": [],
+      "whenMissing": "a non-200 here means the Functions layer itself is not serving; the deep check below would also fail, for a reason that has nothing to do with the config. Verified in a real Pages runtime with the D1 table absent: this route still answered 200, which is exactly why it is kept separate from the deep one."
+    },
+    {
+      "name": "PAGE_FEEDBACK (D1) resolved — deep binding liveness, read-only, no credential",
+      "path": "/api/health?deep=1",
+      "method": "GET",
+      "expectStatus": 200,
+      "expectBodyContains": ["\"PAGE_FEEDBACK\":\"ok\""],
+      "proves": ["PAGE_FEEDBACK"],
+      "whenMissing": "503 {\"status\":\"degraded\"} naming the binding: \"unavailable\" means env.PAGE_FEEDBACK was undefined, i.e. the config was not applied to this deployment; \"unreachable\" means the binding resolved but the query failed — D1 down, or the page_feedback table missing/renamed. Two different faults with two different fixes, deliberately not collapsed into one word. This route runs SELECT 1 ... LIMIT 1: it proves the binding AND the schema while reading no tally value and writing nothing."
     },
     {
       "name": "feedback Function is deployed and validating (writes nothing — crisis paths are rejected before the D1 branch)",
