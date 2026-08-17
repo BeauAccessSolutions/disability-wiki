@@ -7,6 +7,17 @@ All notable changes to the Disability Wiki project are documented in this file.
 ## [Unreleased]
 
 ### Changed
+- **Driving page: primary sources linked for all four countries** (2026-08-17,
+  [`transport/driving-and-adaptive-driving.md`](transport/driving-and-adaptive-driving.md),
+  [`es/transport/driving-and-adaptive-driving.md`](es/transport/driving-and-adaptive-driving.md)):
+  the page was substantive but linkless — org names sat as bare text and the Canada
+  section cited nothing. Added verified links: ADED, NMEDA, NHTSA Adapted Vehicles, the
+  JAN state-VR directory, and the VA adaptive-equipment program (US); CCMTA NSC-6, the
+  CMA Driver's Guide, the CAOT directory, and the CRA gasoline tax refund (Canada);
+  Driving Mobility, GOV.UK medical-conditions reporting, and Motability (UK); Austroads
+  Assessing Fitness to Drive and the NDIS (Australia). Also removed the "Help Build This
+  Page" block with its broken `[contribution form]` placeholder. Every URL verified live
+  (curl, or a real-browser check for the four bot-blocked sites). Spanish page synced.
 - **Canada benefits page: primary sources linked, CDB status corrected** (2026-08-17,
   [`benefits/canada/benefits.md`](benefits/canada/benefits.md),
   [`es/benefits/canada/benefits.md`](es/benefits/canada/benefits.md)): the page had zero
