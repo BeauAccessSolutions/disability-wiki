@@ -20,12 +20,20 @@ Canadá cuenta con una combinación de prestaciones por discapacidad **federales
 
 Algunos ejemplos de los principales apoyos federales incluyen:
 
-- **CPP Disability (CPP-D)** – Prestación por discapacidad a través del Canada Pension Plan para personas con un historial de aportaciones suficiente que cumplen con la definición de discapacidad del CPP.  
-- **Canada Disability Benefit** (cuando se implemente o donde corresponda) – Una prestación federal destinada a reducir la pobreza entre las personas con discapacidad en edad laboral.  
-- **Disability Tax Credit (DTC)** – Un crédito fiscal no reembolsable para personas con impedimentos graves y prolongados, que también puede dar acceso a la elegibilidad para apoyos relacionados.  
-- **Registered Disability Savings Plan (RDSP)** – Un plan de ahorro a largo plazo con subvenciones y bonos del gobierno para ayudar a las personas con discapacidad a ahorrar para el futuro.
+- **[CPP Disability (CPP-D)](https://www.canada.ca/en/services/benefits/publicpensions/cpp-disability-benefit.html)** (en inglés) – Prestación por discapacidad a través del Canada Pension Plan para personas con un historial de aportaciones suficiente que cumplen con la definición de discapacidad del CPP.  
+- **[Canada Disability Benefit (CDB)](https://www.canada.ca/en/services/benefits/disability/canada-disability-benefit.html)** (en inglés) – Una prestación federal para personas con discapacidad de 18 a 64 años con ingresos bajos, destinada a reducir la pobreza; los pagos comenzaron en julio de 2025. La elegibilidad está vinculada al Disability Tax Credit.  
+- **[Disability Tax Credit (DTC)](https://www.canada.ca/en/revenue-agency/services/tax/individuals/segments/tax-credits-deductions-persons-disabilities/disability-tax-credit.html)** (en inglés) – Un crédito fiscal no reembolsable para personas con impedimentos graves y prolongados, que también puede dar acceso a la elegibilidad para apoyos relacionados.  
+- **[Registered Disability Savings Plan (RDSP)](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/registered-disability-savings-plan-rdsp.html)** (en inglés) – Un plan de ahorro a largo plazo con subvenciones y bonos del gobierno para ayudar a las personas con discapacidad a ahorrar para el futuro.
 
-También existen prestaciones federales relacionadas con los hijos y con el cuidado que pueden ser mayores cuando hay una discapacidad de por medio.
+También existen prestaciones federales relacionadas con los hijos y con el cuidado que pueden ser mayores cuando hay una discapacidad de por medio, como el [Canada caregiver amount](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/canada-caregiver-amount.html) (en inglés).
+
+### Créditos y deducciones fiscales relacionados con la discapacidad
+
+La Canada Revenue Agency (CRA) mantiene una lista completa de [créditos y deducciones fiscales para personas con discapacidad](https://www.canada.ca/en/revenue-agency/services/tax/individuals/segments/tax-credits-deductions-persons-disabilities.html) (en inglés). Además del DTC, estos incluyen:
+
+- **[Disability supports deduction](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-21500-disability-supports-deduction.html)** (en inglés) – Permite deducir el costo de los apoyos por discapacidad (como asistencia personal o dispositivos de asistencia) necesarios para trabajar o estudiar.  
+- **[Home accessibility expenses](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-31285-home-accessibility-expenses.html)** (en inglés) – Un crédito fiscal por renovaciones que hacen que una vivienda sea más accesible o segura para una persona elegible.  
+- **[Federal excise gasoline tax refund](https://www.canada.ca/en/revenue-agency/services/tax/individuals/segments/tax-credits-deductions-persons-disabilities/excise-gasoline-tax-refund.html)** (en inglés) – Un reembolso parcial del impuesto federal a la gasolina para personas con un impedimento permanente de movilidad que no pueden usar el transporte público de manera segura.
 
 ---
 

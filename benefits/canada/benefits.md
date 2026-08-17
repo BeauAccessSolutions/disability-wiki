@@ -20,12 +20,20 @@ Canada has a mix of **federal** and **provincial/territorial** disability benefi
 
 Examples of major federal supports include:
 
-- **CPP Disability (CPP-D)** – Disability benefit through the Canada Pension Plan for people with a sufficient contribution history who meet CPP’s disability definition.  
-- **Canada Disability Benefit** (when implemented/where applicable) – A federal benefit intended to reduce poverty among working-age persons with disabilities.  
-- **Disability Tax Credit (DTC)** – A non-refundable tax credit for people with severe and prolonged impairments, which can also open eligibility for related supports.  
-- **Registered Disability Savings Plan (RDSP)** – A long-term savings plan with government grants and bonds to help people with disabilities save for the future.
+- **[CPP Disability (CPP-D)](https://www.canada.ca/en/services/benefits/publicpensions/cpp-disability-benefit.html)** – Disability benefit through the Canada Pension Plan for people with a sufficient contribution history who meet CPP’s disability definition.  
+- **[Canada Disability Benefit (CDB)](https://www.canada.ca/en/services/benefits/disability/canada-disability-benefit.html)** – A federal benefit for low-income persons with disabilities aged 18–64, intended to reduce poverty; payments began in July 2025. Eligibility is tied to the Disability Tax Credit.  
+- **[Disability Tax Credit (DTC)](https://www.canada.ca/en/revenue-agency/services/tax/individuals/segments/tax-credits-deductions-persons-disabilities/disability-tax-credit.html)** – A non-refundable tax credit for people with severe and prolonged impairments, which can also open eligibility for related supports.  
+- **[Registered Disability Savings Plan (RDSP)](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/registered-disability-savings-plan-rdsp.html)** – A long-term savings plan with government grants and bonds to help people with disabilities save for the future.
 
-There are also federal child and caregiver-related benefits that may be higher when disability is involved.
+There are also federal child and caregiver-related benefits that may be higher when disability is involved, such as the [Canada caregiver amount](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/canada-caregiver-amount.html).
+
+### Disability-related tax credits and deductions
+
+The Canada Revenue Agency (CRA) maintains a full list of [tax credits and deductions for persons with disabilities](https://www.canada.ca/en/revenue-agency/services/tax/individuals/segments/tax-credits-deductions-persons-disabilities.html). Beyond the DTC, these include:
+
+- **[Disability supports deduction](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-21500-disability-supports-deduction.html)** – Deducts the cost of disability supports (such as attendant care or assistive devices) needed to work or study.  
+- **[Home accessibility expenses](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-31285-home-accessibility-expenses.html)** – A tax credit for renovations that make a home more accessible or safer for an eligible person.  
+- **[Federal excise gasoline tax refund](https://www.canada.ca/en/revenue-agency/services/tax/individuals/segments/tax-credits-deductions-persons-disabilities/excise-gasoline-tax-refund.html)** – A partial refund of the federal gasoline tax for people with a permanent mobility impairment who cannot safely use public transportation.
 
 ---
 

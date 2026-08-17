@@ -6,6 +6,19 @@ All notable changes to the Disability Wiki project are documented in this file.
 
 ## [Unreleased]
 
+### Changed
+- **Canada benefits page: primary sources linked, CDB status corrected** (2026-08-17,
+  [`benefits/canada/benefits.md`](benefits/canada/benefits.md),
+  [`es/benefits/canada/benefits.md`](es/benefits/canada/benefits.md)): the page had zero
+  external links — the thinnest-sourced benefits page. Added official canada.ca links for
+  CPP-D, the Canada Disability Benefit, the DTC, the RDSP, and the Canada caregiver amount,
+  plus a new CRA subsection (disability supports deduction, home accessibility expenses,
+  federal gasoline excise tax refund). Corrected the stale "when implemented" hedge on the
+  Canada Disability Benefit — it launched, with payments beginning July 2025. All URLs
+  verified against canada.ca; Spanish page synced in the same change. (Prompted by
+  link-building outreach from a law firm — the guide didn't meet the primary-source bar,
+  but the primary sources it cited did.)
+
 ### Added
 - **"Was this page helpful?" — an anonymous per-page tally** (2026-07-27,
   [`site/src/components/PageFeedback.astro`](site/src/components/PageFeedback.astro),
