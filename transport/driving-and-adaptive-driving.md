@@ -118,8 +118,8 @@ A driver rehabilitation specialist is a professional (often an occupational ther
 - Help with licensing process
 
 *Finding a DRS:*
-- Association for Driver Rehabilitation Specialists (ADED): aded.net
-- Your state vocational rehabilitation agency
+- [Association for Driver Rehabilitation Specialists (ADED)](https://www.aded.net/) — the credentialing body for driver rehabilitation in the US and Canada; has a provider directory
+- Your [state vocational rehabilitation agency](https://askjan.org/concerns/State-Vocational-Rehabilitation-Agencies.cfm) (directory via the Job Accommodation Network)
 - Rehabilitation hospitals
 - VA medical centers (for veterans)
 
@@ -163,13 +163,15 @@ You may need periodic medical review or driving assessment for renewal.
 
 ### Getting Equipment
 
+[NHTSA's Adapted Vehicles hub](https://www.nhtsa.gov/road-safety/adapted-vehicles) walks through the full process (evaluation, choosing equipment, dealer selection, and training) from the federal safety agency's perspective.
+
 **Paying for adaptations:**
 
 *Vocational Rehabilitation:*
 If you need to drive for work or to get to work, state VR agencies may fund evaluations, training, and equipment.
 
 *Veterans Affairs:*
-Veterans with service-connected disabilities may receive vehicle modifications and adaptive equipment through VA.
+Veterans with service-connected disabilities may receive vehicle modifications and adaptive equipment through the [VA automobile allowance and adaptive equipment program](https://www.va.gov/disability/eligibility/special-claims/automobile-allowance-adaptive-equipment/).
 
 *Private insurance:*
 Auto insurance rarely covers adaptive equipment. Health insurance generally doesn't either.
@@ -186,7 +188,7 @@ Many people pay for equipment themselves. Costs range from hundreds for simple m
 **Selecting a vehicle modifier:**
 
 *NMEDA members:*
-The National Mobility Equipment Dealers Association (NMEDA) has quality assurance programs. Members meet certain standards.
+The [National Mobility Equipment Dealers Association (NMEDA)](https://www.nmeda.com/) has quality assurance programs. Members meet certain standards.
 
 *Questions to ask:*
 - What certifications do you have?
@@ -256,7 +258,8 @@ Some people drive while remaining in their wheelchairs. This requires:
 Each province has certified driver assessment services.
 
 *Finding services:*
-- Occupational therapists specializing in driver rehabilitation
+- Occupational therapists specializing in driver rehabilitation — the [CAOT "Find an OT" directory](https://caot.ca/site/find_ot/find-an-ot) can help locate one
+- [ADED](https://www.aded.net/) credentials driver rehabilitation specialists in Canada as well as the US
 - Rehabilitation hospitals
 - Provincial motor vehicle offices for referrals
 
@@ -272,7 +275,10 @@ Licensing is provincial. Generally:
 
 **Medical fitness requirements:**
 
-Each province has medical standards for driving. Report requirements vary.
+Each province has medical standards for driving. Report requirements vary. Two national references underpin most provincial standards:
+
+- The [CCMTA National Safety Code Standard 6](https://www.ccmta.ca/web/default/files/PDF/NSC-6%E2%80%93Standard-Determining-Driver-Fitness-in-Canada.pdf) (PDF), the standard licensing bodies use to determine driver fitness
+- The [CMA Driver's Guide](https://driversguide.ca/), the medical reference physicians use when assessing fitness to drive
 
 ### Funding Equipment
 
@@ -289,6 +295,7 @@ Each province has medical standards for driving. Report requirements vary.
 - Veterans Affairs Canada
 - Private insurance
 - Charitable organizations
+- The [federal excise gasoline tax refund](https://www.canada.ca/en/revenue-agency/services/tax/individuals/segments/tax-credits-deductions-persons-disabilities/excise-gasoline-tax-refund.html) (CRA): a partial gas-tax refund for people with a permanent mobility impairment who cannot safely use public transportation
 
 **Vehicle acquisition:**
 Programs are limited. Most vehicle costs are out of pocket.
@@ -301,7 +308,7 @@ Programs are limited. Most vehicle costs are out of pocket.
 
 **Driving Assessment Centers:**
 
-*Driving Mobility:*
+*[Driving Mobility](https://www.drivingmobility.org.uk/):*
 National network of driving assessment centers. Provides:
 - Assessment of ability to drive
 - Advice on adaptations
@@ -317,7 +324,7 @@ National network of driving assessment centers. Provides:
 
 **DVLA (Driver and Vehicle Licensing Agency):**
 
-You must declare certain medical conditions to DVLA. Conditions that must be reported include:
+You must declare certain medical conditions to DVLA ([check your condition on GOV.UK](https://www.gov.uk/driving-medical-conditions)). Conditions that must be reported include:
 - Epilepsy
 - Stroke
 - Diabetes (if taking certain medications)
@@ -342,7 +349,7 @@ Your license may have codes indicating:
 
 ### Funding Equipment
 
-**Motability Scheme:**
+**[Motability Scheme](https://www.motability.co.uk/):**
 
 *What it is:*
 Scheme allowing you to lease a car, wheelchair-accessible vehicle, or scooter using mobility component of PIP, DLA, AFIP, or WPP.
@@ -381,7 +388,7 @@ Conducted by occupational therapists trained in driver assessment.
 
 **State-based licensing:**
 
-Each state has its own licensing authority and requirements:
+The national medical standards are set by [Austroads' Assessing Fitness to Drive](https://austroads.gov.au/drivers-and-vehicles/assessing-fitness-to-drive), which health professionals and licensing authorities use across Australia. Each state has its own licensing authority and requirements:
 - NSW: Transport for NSW
 - Victoria: VicRoads
 - Queensland: Queensland Transport
@@ -398,7 +405,7 @@ Each state has its own licensing authority and requirements:
 
 **NDIS:**
 
-The National Disability Insurance Scheme may fund:
+The [National Disability Insurance Scheme](https://www.ndis.gov.au/) may fund:
 - Vehicle modifications
 - Driver rehabilitation
 - Some equipment
@@ -547,33 +554,28 @@ Driving with epilepsy or seizure conditions:
 ## Resources
 
 ### United States
-- Association for Driver Rehabilitation Specialists (ADED): aded.net
-- NMEDA: nmeda.com
-- State Vocational Rehabilitation agencies
-- VA Automobile Adaptive Equipment program
+- [Association for Driver Rehabilitation Specialists (ADED)](https://www.aded.net/) — credentialing body and provider directory
+- [NMEDA](https://www.nmeda.com/) — vehicle modification dealer association
+- [NHTSA Adapted Vehicles](https://www.nhtsa.gov/road-safety/adapted-vehicles) — federal guidance on the whole process
+- [State Vocational Rehabilitation agencies](https://askjan.org/concerns/State-Vocational-Rehabilitation-Agencies.cfm) — directory via the Job Accommodation Network
+- [VA automobile allowance and adaptive equipment](https://www.va.gov/disability/eligibility/special-claims/automobile-allowance-adaptive-equipment/) — for veterans with service-connected disabilities
 
 ### Canada
-- Provincial licensing authorities
-- Assistive Devices Programs by province
-- Driving rehabilitation services
+- [CCMTA National Safety Code Standard 6](https://www.ccmta.ca/web/default/files/PDF/NSC-6%E2%80%93Standard-Determining-Driver-Fitness-in-Canada.pdf) (PDF) — the national driver-fitness standard
+- [CMA Driver's Guide](https://driversguide.ca/) — the medical fitness-to-drive reference
+- [CAOT Find an OT](https://caot.ca/site/find_ot/find-an-ot) — locate an occupational therapist
+- [CRA excise gasoline tax refund](https://www.canada.ca/en/revenue-agency/services/tax/individuals/segments/tax-credits-deductions-persons-disabilities/excise-gasoline-tax-refund.html) — partial gas-tax refund for permanent mobility impairment
+- Provincial licensing authorities and Assistive Devices Programs (vary by province)
 
 ### United Kingdom
-- Driving Mobility: drivingmobility.org.uk
-- DVLA medical fitness information
-- Motability: motability.co.uk
+- [Driving Mobility](https://www.drivingmobility.org.uk/) — national assessment center network
+- [GOV.UK: medical conditions and driving](https://www.gov.uk/driving-medical-conditions) — DVLA reporting requirements
+- [Motability](https://www.motability.co.uk/) — vehicle lease scheme using mobility benefits
 
 ### Australia
-- State licensing authorities
-- NDIS
-- State motoring organization assessments
-
----
-
-## Help Build This Page
-
-What's your experience with adaptive driving? What resources should be added? What questions should be answered?
-
-Share through our [contribution form] or email wiki@disabilitywiki.org.
+- [Austroads Assessing Fitness to Drive](https://austroads.gov.au/drivers-and-vehicles/assessing-fitness-to-drive) — national medical standards
+- [NDIS](https://www.ndis.gov.au/) — may fund modifications and driver rehabilitation
+- State licensing authorities and motoring organization assessments
 
 ---
 
