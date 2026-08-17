@@ -118,8 +118,8 @@ Un especialista en rehabilitación de la conducción es un profesional (a menudo
 - Ayuda con el proceso de licencia
 
 *Cómo encontrar un DRS:*
-- Association for Driver Rehabilitation Specialists (ADED): aded.net
-- La agencia estatal de rehabilitación vocacional
+- [Association for Driver Rehabilitation Specialists (ADED)](https://www.aded.net/) (en inglés), el organismo de acreditación en rehabilitación de conductores en EE. UU. y Canadá, con un directorio de proveedores
+- La [agencia estatal de rehabilitación vocacional](https://askjan.org/concerns/State-Vocational-Rehabilitation-Agencies.cfm) (directorio en inglés, del Job Accommodation Network)
 - Hospitales de rehabilitación
 - Centros médicos de VA (para veteranos)
 
@@ -169,7 +169,7 @@ Es posible que necesites una revisión médica periódica o una evaluación de c
 Si necesitas conducir para trabajar o para llegar al trabajo, las agencias estatales de VR pueden financiar evaluaciones, entrenamiento y equipo.
 
 *Veterans Affairs:*
-Los veteranos con discapacidades relacionadas con el servicio pueden recibir modificaciones de vehículos y equipo adaptado a través de VA.
+Los veteranos con discapacidades relacionadas con el servicio pueden recibir modificaciones de vehículos y equipo adaptado a través del [programa de asignación para automóvil y equipo adaptado de VA](https://www.va.gov/disability/eligibility/special-claims/automobile-allowance-adaptive-equipment/) (en inglés).
 
 *Seguro privado:*
 El seguro de auto rara vez cubre el equipo adaptado. El seguro de salud por lo general tampoco.
@@ -186,7 +186,7 @@ Muchas personas pagan el equipo por su cuenta. Los costos van desde cientos por 
 **Seleccionar a un modificador de vehículos:**
 
 *Miembros de NMEDA:*
-La National Mobility Equipment Dealers Association (NMEDA) tiene programas de aseguramiento de la calidad. Los miembros cumplen ciertos estándares.
+La [National Mobility Equipment Dealers Association (NMEDA)](https://www.nmeda.com/) (en inglés) tiene programas de aseguramiento de la calidad. Los miembros cumplen ciertos estándares.
 
 *Preguntas que debes hacer:*
 - ¿Qué certificaciones tienen?
@@ -256,7 +256,8 @@ Algunas personas conducen mientras permanecen en sus sillas de ruedas. Esto requ
 Cada provincia tiene servicios certificados de evaluación de conductores.
 
 *Cómo encontrar servicios:*
-- Terapeutas ocupacionales especializados en rehabilitación de la conducción
+- Terapeutas ocupacionales especializados en rehabilitación de la conducción: el directorio [«Find an OT» de la CAOT](https://caot.ca/site/find_ot/find-an-ot) (en inglés) puede ayudarte a encontrar uno
+- [ADED](https://www.aded.net/) (en inglés) acredita especialistas en rehabilitación de conductores tanto en Canadá como en EE. UU.
 - Hospitales de rehabilitación
 - Oficinas provinciales de vehículos automotores para derivaciones
 
@@ -272,7 +273,10 @@ La licencia es provincial. En general:
 
 **Requisitos de aptitud médica:**
 
-Cada provincia tiene estándares médicos para conducir. Los requisitos de reporte varían.
+Cada provincia tiene estándares médicos para conducir. Los requisitos de reporte varían. Dos referencias nacionales sustentan la mayoría de los estándares provinciales:
+
+- El [CCMTA National Safety Code Standard 6](https://www.ccmta.ca/web/default/files/PDF/NSC-6%E2%80%93Standard-Determining-Driver-Fitness-in-Canada.pdf) (PDF, en inglés), el estándar que usan las autoridades de licencias para determinar la aptitud para conducir
+- La [CMA Driver's Guide](https://driversguide.ca/) (en inglés), la referencia médica que usan los médicos al evaluar la aptitud para conducir
 
 ### Cómo financiar el equipo
 
@@ -289,6 +293,7 @@ Cada provincia tiene estándares médicos para conducir. Los requisitos de repor
 - Veterans Affairs Canada
 - Seguro privado
 - Organizaciones benéficas
+- El [reembolso del impuesto federal a la gasolina](https://www.canada.ca/en/revenue-agency/services/tax/individuals/segments/tax-credits-deductions-persons-disabilities/excise-gasoline-tax-refund.html) (CRA, en inglés): un reembolso parcial del impuesto a la gasolina para personas con un impedimento permanente de movilidad que no pueden usar el transporte público de manera segura
 
 **Adquisición de vehículos:**
 Los programas son limitados. La mayoría de los costos del vehículo corren por tu cuenta.
@@ -302,7 +307,7 @@ Los programas son limitados. La mayoría de los costos del vehículo corren por 
 **Centros de evaluación de la conducción:**
 
 *Driving Mobility:*
-Red nacional de centros de evaluación de la conducción. Ofrece:
+[Red nacional de centros de evaluación de la conducción](https://www.drivingmobility.org.uk/) (en inglés). Ofrece:
 - Evaluación de la capacidad de conducir
 - Asesoría sobre adaptaciones
 - Clases con vehículos adaptados
@@ -317,7 +322,7 @@ Red nacional de centros de evaluación de la conducción. Ofrece:
 
 **DVLA (Driver and Vehicle Licensing Agency):**
 
-Debes declarar ciertas condiciones médicas a la DVLA. Las condiciones que deben reportarse incluyen:
+Debes declarar ciertas condiciones médicas a la DVLA ([consulta tu condición en GOV.UK](https://www.gov.uk/driving-medical-conditions), en inglés). Las condiciones que deben reportarse incluyen:
 - Epilepsia
 - Accidente cerebrovascular
 - Diabetes (si tomas ciertos medicamentos)
@@ -342,7 +347,7 @@ Tu licencia puede tener códigos que indican:
 
 ### Cómo financiar el equipo
 
-**Esquema Motability:**
+**[Esquema Motability](https://www.motability.co.uk/)** (en inglés):
 
 *Qué es:*
 Un esquema que te permite arrendar un auto, un vehículo accesible para silla de ruedas o un scooter usando el componente de movilidad de PIP, DLA, AFIP o WPP.
@@ -381,7 +386,7 @@ Realizada por terapeutas ocupacionales capacitados en evaluación de conductores
 
 **Licencia por estado:**
 
-Cada estado tiene su propia autoridad de licencias y requisitos:
+Los estándares médicos nacionales los establece [Assessing Fitness to Drive de Austroads](https://austroads.gov.au/drivers-and-vehicles/assessing-fitness-to-drive) (en inglés), que usan los profesionales de la salud y las autoridades de licencias en toda Australia. Cada estado tiene su propia autoridad de licencias y requisitos:
 - NSW: Transport for NSW
 - Victoria: VicRoads
 - Queensland: Queensland Transport
@@ -398,7 +403,7 @@ Cada estado tiene su propia autoridad de licencias y requisitos:
 
 **NDIS:**
 
-El National Disability Insurance Scheme puede financiar:
+El [National Disability Insurance Scheme](https://www.ndis.gov.au/) (en inglés) puede financiar:
 - Modificaciones del vehículo
 - Rehabilitación de la conducción
 - Parte del equipo
@@ -546,34 +551,31 @@ Conducir con epilepsia o condiciones convulsivas:
 
 ## Recursos
 
-### Estados Unidos {#united-states}
-- Association for Driver Rehabilitation Specialists (ADED): aded.net
-- NMEDA: nmeda.com
-- Agencias estatales de rehabilitación vocacional
-- Programa de VA Automobile Adaptive Equipment
+*Los recursos oficiales enlazados están en inglés.*
 
-### Canadá {#canada}
-- Autoridades provinciales de licencias
-- Programas de dispositivos de asistencia por provincia
-- Servicios de rehabilitación de la conducción
+### Estados Unidos {#recursos-estados-unidos}
+- [Association for Driver Rehabilitation Specialists (ADED)](https://www.aded.net/) — organismo de acreditación y directorio de proveedores
+- [NMEDA](https://www.nmeda.com/) — asociación de instaladores de modificaciones vehiculares
+- [NHTSA Adapted Vehicles](https://www.nhtsa.gov/road-safety/adapted-vehicles) — guía federal sobre todo el proceso
+- [Agencias estatales de rehabilitación vocacional](https://askjan.org/concerns/State-Vocational-Rehabilitation-Agencies.cfm) — directorio del Job Accommodation Network
+- [Asignación para automóvil y equipo adaptado de VA](https://www.va.gov/disability/eligibility/special-claims/automobile-allowance-adaptive-equipment/) — para veteranos con discapacidades relacionadas con el servicio
 
-### Reino Unido {#united-kingdom}
-- Driving Mobility: drivingmobility.org.uk
-- Información de aptitud médica de la DVLA
-- Motability: motability.co.uk
+### Canadá {#recursos-canada}
+- [CCMTA National Safety Code Standard 6](https://www.ccmta.ca/web/default/files/PDF/NSC-6%E2%80%93Standard-Determining-Driver-Fitness-in-Canada.pdf) (PDF) — el estándar nacional de aptitud para conducir
+- [CMA Driver's Guide](https://driversguide.ca/) — la referencia médica de aptitud para conducir
+- [CAOT Find an OT](https://caot.ca/site/find_ot/find-an-ot) — para encontrar un terapeuta ocupacional
+- [Reembolso del impuesto a la gasolina (CRA)](https://www.canada.ca/en/revenue-agency/services/tax/individuals/segments/tax-credits-deductions-persons-disabilities/excise-gasoline-tax-refund.html) — reembolso parcial por impedimento permanente de movilidad
+- Autoridades provinciales de licencias y programas de dispositivos de asistencia (varían según la provincia)
 
-### Australia {#australia}
-- Autoridades estatales de licencias
-- NDIS
-- Evaluaciones de las organizaciones automovilísticas estatales
+### Reino Unido {#recursos-reino-unido}
+- [Driving Mobility](https://www.drivingmobility.org.uk/) — red nacional de centros de evaluación
+- [GOV.UK: condiciones médicas y conducción](https://www.gov.uk/driving-medical-conditions) — requisitos de reporte de la DVLA
+- [Motability](https://www.motability.co.uk/) — esquema de arrendamiento de vehículos con beneficios de movilidad
 
----
-
-## Ayuda a construir esta página
-
-¿Cuál es tu experiencia con la conducción adaptada? ¿Qué recursos deberían agregarse? ¿Qué preguntas deberían responderse?
-
-Comparte a través de nuestro [formulario de contribución] o por correo electrónico a wiki@disabilitywiki.org.
+### Australia {#recursos-australia}
+- [Assessing Fitness to Drive de Austroads](https://austroads.gov.au/drivers-and-vehicles/assessing-fitness-to-drive) — estándares médicos nacionales
+- [NDIS](https://www.ndis.gov.au/) — puede financiar modificaciones y rehabilitación de la conducción
+- Autoridades estatales de licencias y evaluaciones de las organizaciones automovilísticas
 
 ---
 
