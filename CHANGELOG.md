@@ -18,7 +18,11 @@ All notable changes to the Disability Wiki project are documented in this file.
   did not exist. Working While on Disability carries every 2026 SSA figure verified against
   ssa.gov directly rather than from secondary sources, and Disabled Parking Placards quotes
   the six federal criteria in 23 CFR 1235.2(b) verbatim, since the common belief that
-  placards are "for wheelchair users" is wrong in both directions. Spanish counterparts
+  placards are "for wheelchair users" is wrong in both directions. A pre-publish slop
+  sweep caught one unsourced load-bearing claim on the adjusting page (an asserted
+  temporal peak in suicide risk after acquiring a disability); the elevated risk is now
+  cited to CDC and the unsupported temporal claim removed, carrying CDC's own
+  "limited data" caveat through rather than dropping it. Spanish counterparts
   deliberately deferred until the English is approved.
 - **Long-Term Disability Insurance page, EN + ES** (2026-08-18,
   [`benefits/long-term-disability-insurance.md`](benefits/long-term-disability-insurance.md),
