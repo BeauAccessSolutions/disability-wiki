@@ -48,6 +48,8 @@ Cuéntanos qué te gustaría aportar — contenido, comentarios, correcciones, t
 
 ¿Te manejas con Git y quieres editar las páginas directamente? Consulta la **[Guía de contribución técnica](/es/glossary/how-to-contribute)**.
 
+¿Quieres sugerir un recurso o enlace externo? Lee primero nuestra [Política de enlaces externos](/es/start/link-policy): solo enlazamos fuentes primarias y organizaciones lideradas por personas con discapacidad.
+
 ## Qué esperar
 
 - Leeremos cada propuesta

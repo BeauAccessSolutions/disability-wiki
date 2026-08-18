@@ -6,6 +6,18 @@ All notable changes to the Disability Wiki project are documented in this file.
 
 ## [Unreleased]
 
+### Added
+- **External Link Policy page, EN + ES** (2026-08-18,
+  [`start/link-policy.md`](start/link-policy.md),
+  [`es/start/link-policy.md`](es/start/link-policy.md)): the wiki keeps receiving
+  SEO link-building outreach (two law firms in one week), and every decline was being
+  written from scratch. The page states the standing rule — primary official sources
+  and disability-led organizations only; no commercial content marketing, middleman
+  pages, or affiliate/SEO content — and answers outreach senders directly, so a
+  decline is now a one-line reply with a link. Cross-linked from both contribute
+  pages. Also invites readers to suggest primary sources, especially from outside the
+  US and Europe.
+
 ### Changed
 - **Driving page: primary sources linked for all four countries** (2026-08-17,
   [`transport/driving-and-adaptive-driving.md`](transport/driving-and-adaptive-driving.md),

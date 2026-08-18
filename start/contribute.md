@@ -48,6 +48,8 @@ Tell us what you'd like to contribute — content, feedback, corrections, transl
 
 Comfortable with Git and want to edit pages directly? See the **[Technical Contribution Guide](/glossary/how-to-contribute)**.
 
+Suggesting an external resource or link? Read our [External Link Policy](/start/link-policy) first — we link primary sources and disability-led organizations only.
+
 ## What to Expect
 
 - We'll read every submission
