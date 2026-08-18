@@ -7,6 +7,19 @@ All notable changes to the Disability Wiki project are documented in this file.
 ## [Unreleased]
 
 ### Added
+- **Three Tier-1 backlog pages drafted for review** (2026-08-18,
+  [`foundations/adjusting-to-acquired-disability.md`](foundations/adjusting-to-acquired-disability.md),
+  [`transport/disabled-parking-placards.md`](transport/disabled-parking-placards.md),
+  [`benefits/us/working-while-on-disability.md`](benefits/us/working-while-on-disability.md)):
+  the three highest-confidence remaining gaps from `CONTENT_GAPS_2026-06-05.md`, after
+  reconciling that backlog against the current tree (pacing, autistic burnout, and ADHD
+  medication access have since been built). Adjusting to a Newly Acquired Disability closes
+  a real routing hole: six pages already send "newly disabled" readers toward a page that
+  did not exist. Working While on Disability carries every 2026 SSA figure verified against
+  ssa.gov directly rather than from secondary sources, and Disabled Parking Placards quotes
+  the six federal criteria in 23 CFR 1235.2(b) verbatim, since the common belief that
+  placards are "for wheelchair users" is wrong in both directions. Spanish counterparts
+  deliberately deferred until the English is approved.
 - **Long-Term Disability Insurance page, EN + ES** (2026-08-18,
   [`benefits/long-term-disability-insurance.md`](benefits/long-term-disability-insurance.md),
   [`es/benefits/long-term-disability-insurance.md`](es/benefits/long-term-disability-insurance.md)):
