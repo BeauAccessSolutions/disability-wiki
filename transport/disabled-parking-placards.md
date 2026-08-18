@@ -97,7 +97,16 @@ Blue Badges work differently from US placards in one important way: in some area
 
 Accessible parking permits are issued **provincially and territorially**, not federally, and the program names, eligibility wording, application forms, and renewal periods all differ. Most provinces require certification by a physician or another regulated health professional, and most issue both long-term and temporary permits.
 
-Because there is no single national program or national criteria, the reliable route is your provincial or territorial licensing body, which is the same agency that handles driver licensing. See [driving and adaptive driving](/transport/driving-and-adaptive-driving) for the Canadian licensing landscape more broadly.
+Because there is no single national program or national criteria, the reliable route is your provincial or territorial body. In most provinces that is the licensing or registry agency, but not everywhere. The four largest provinces, covering most of the population:
+
+- **Ontario** — [Accessible Parking Permit](https://www.ontario.ca/page/get-accessible-parking-permit) through ServiceOntario. There is no cost to get, renew, or replace one. Permanent permits are valid five years and can be renewed without being re-certified by a health practitioner.
+- **Quebec** — the [parking permit for persons with disabilities](https://saaq.gouv.qc.ca/en/persons-mobility-impairment/parking-permit) is issued by the SAAQ, the provincial auto insurance board, rather than a licensing registry.
+- **British Columbia** — the program is run by [SPARC BC](https://www.sparc.bc.ca/parking-permits/), a nonprofit that has administered it since 1984, not by a government agency. Permanent permits run three years and are renewable; temporary permits run one to twelve months. A processing fee applies.
+- **Alberta** — [parking placards](https://www.alberta.ca/get-parking-placard-people-disabilities) are issued through registry agent offices. Alberta's written threshold is being unable to walk more than **50 metres (164 feet)**, or vision loss that substantially limits safe and independent mobility in parking areas.
+
+That last detail is worth noting generally: Alberta's 50 metre threshold is far shorter than the 200 foot (about 61 metre) distance in the US federal criteria, so qualifying in one jurisdiction does not tell you whether you qualify in another. Check the criteria where you live rather than assuming they match what you have read elsewhere.
+
+For other provinces and territories, start with your provincial licensing or registry body. See [driving and adaptive driving](/transport/driving-and-adaptive-driving) for the Canadian licensing landscape more broadly.
 
 Permits from other provinces and from other countries are generally recognized, but the concessions attached to a space are set locally.
 
@@ -128,6 +137,12 @@ If you know how this works where you live, that section is missing here and we w
 ### United States
 - [23 CFR Part 1235](https://www.ecfr.gov/current/title-23/chapter-II/subchapter-B/part-1235) — the federal criteria, placard specifications, and reciprocity rule
 - [USA.gov: state motor vehicle services](https://www.usa.gov/motor-vehicle-services) — directory of state agencies that issue placards
+
+### Canada
+- [Ontario Accessible Parking Permit](https://www.ontario.ca/page/get-accessible-parking-permit) — free; ServiceOntario
+- [Quebec parking permit (SAAQ)](https://saaq.gouv.qc.ca/en/persons-mobility-impairment/parking-permit) — issued by the provincial auto insurance board
+- [SPARC BC parking permits](https://www.sparc.bc.ca/parking-permits/) — British Columbia's program, run by a nonprofit
+- [Alberta parking placards](https://www.alberta.ca/get-parking-placard-people-disabilities) — issued through registry agents
 
 ### United Kingdom
 - [Apply for a Blue Badge](https://www.gov.uk/apply-blue-badge) — official service, routes to your council
