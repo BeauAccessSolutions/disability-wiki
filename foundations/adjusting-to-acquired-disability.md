@@ -84,7 +84,7 @@ Distress after becoming disabled is expected. It can also become something that 
 
 Worth taking seriously: being unable to function for weeks rather than days, losing interest in everything including things still available to you, sleeping or eating in ways that are clearly harmful, using substances to get through the day, or thinking about ending your life.
 
-Newly disabled people are at elevated risk of suicide, and that risk is highest in the earlier period after a change in health or function. If you are having thoughts of suicide, that is a reason to reach for support now, not a character flaw and not an inevitable consequence of your diagnosis.
+Disabled adults report suicidal thoughts and attempts at substantially higher rates than non-disabled adults. CDC cites a 2022 study finding adults with any type of disability were roughly two to three times more likely to report suicidal thoughts, while noting that [data on suicide among disabled people is limited](https://www.cdc.gov/suicide/disparities/index.html). If you are having thoughts of suicide, that is a reason to reach for support now, not a character flaw and not an inevitable consequence of your diagnosis.
 
 - [Crisis support](/crisis) for hotlines by country, kept current
 - [Disability-specific crisis support](/crisis/disabled-crisis-support) for what to expect and how to ask for accessible help
