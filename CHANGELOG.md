@@ -22,8 +22,12 @@ All notable changes to the Disability Wiki project are documented in this file.
   sweep caught one unsourced load-bearing claim on the adjusting page (an asserted
   temporal peak in suicide risk after acquiring a disability); the elevated risk is now
   cited to CDC and the unsupported temporal claim removed, carrying CDC's own
-  "limited data" caveat through rather than dropping it. Spanish counterparts
-  deliberately deferred until the English is approved.
+  "limited data" caveat through rather than dropping it. The placards page's Canada
+  section now names the four largest provinces with individually verified official links
+  (Ontario, Quebec, BC, Alberta), including that BC's program is run by SPARC BC, a
+  nonprofit, rather than a government agency, and that Alberta's 50 metre threshold is
+  materially shorter than the US federal 200 foot criterion. Spanish counterparts added
+  for all three pages.
 - **Long-Term Disability Insurance page, EN + ES** (2026-08-18,
   [`benefits/long-term-disability-insurance.md`](benefits/long-term-disability-insurance.md),
   [`es/benefits/long-term-disability-insurance.md`](es/benefits/long-term-disability-insurance.md)):
