@@ -101,7 +101,7 @@ For many people this is the decisive provision, because losing Medicaid, not los
 
 Most overpayment problems trace back to reporting rather than to earning.
 
-Report your work and your earnings promptly, keep records of every report you make including dates and confirmation, and do not assume that an employer reporting wages means SSA has processed the information. Overpayments arise when SSA pays you for months you were not entitled, discovers it later, and asks for the money back, sometimes years later and in a lump sum.
+Report your work and your earnings promptly, keep records of every report you make including dates and confirmation, and do not assume that an employer reporting wages means SSA has processed the information. Report even when you are unsure whether the work counts, because reporting something that turns out not to matter costs you nothing. Overpayments arise when SSA pays you for months you were not entitled, discovers it later, and asks for the money back, sometimes years later and in a lump sum.
 
 If you receive an overpayment notice, it can be appealed, and a waiver can be requested when the overpayment was not your fault and repaying would be unfair or unaffordable. Do not ignore the letter, because collection proceeds by default. See [benefit denials and appeals](/benefits/benefit-denials-and-appeals).
 
