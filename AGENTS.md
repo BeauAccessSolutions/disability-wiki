@@ -70,7 +70,7 @@ repo's source of truth — no content is copied or moved.
   never hand-listed); HTML is **network-first** so a stale crisis number is never
   served while online. `site/public/_headers` keeps `sw.js` out of the edge cache.
 - Because the build only includes what's symlinked under `site/src/content/docs/`,
-  non-content files (`.Codex/`, `docs/`, root `*.md`) are **not** published — unlike
+  non-content files (`.agents/`, `.claude/`, `docs/`, root `*.md`) are **not** published — unlike
   the Wiki.js era, there is no leak-and-sweep problem.
 
 To edit, create, delete, or publish content, use the **disability-wiki-edit** skill;
@@ -98,7 +98,7 @@ disability-wiki/
 ├── scripts/                  # Python utilities (link validator, a11y check, …)
 ├── backups/                  # git-ignored; final-droplet-archive/ lives here
 ├── .github/workflows/ci.yml  # merge-gate CI
-├── .Codex/skills/           # project skills
+├── .agents/skills/          # project skills (Codex mirror of .claude/skills/)
 ├── CHANGELOG.md
 └── AGENTS.md                 # this file
 ```
@@ -146,4 +146,7 @@ check on a PR is the early warning that a merge would break the live site.
 *Last updated: 2026-07-10 — droplet decommissioned; static-site reality.*
 
 ---
-@~/.Codex/shared/LESSONS.md
+<!-- Shared cross-project lessons. Edit the canonical file, not here. -->
+@~/.claude/shared/LESSONS.md
+<!-- BAS-platform-only lessons. Canonical file lives in bas-platform. -->
+@~/projects/bas-platform/LESSONS.md

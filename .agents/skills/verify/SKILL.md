@@ -67,9 +67,9 @@ out to be an unrelated commit from a concurrent session sitting on the branch.)
 | **Redirects** | `site-pages` (`wrangler pages dev`, :8788) | **`astro preview` does NOT honour `site/public/_redirects`** |
 | Pages Functions / auth | `site-pages` | needs the workerd runtime |
 
-`site-preview` is in `.Codex/launch.json`; start it with `preview_start`.
+`site-preview` is in `.claude/launch.json`; start it with `preview_start`.
 
-**`.Codex/launch.json` is gitignored** (`.gitignore` tracks only `.Codex/skills/`
+**`.claude/launch.json` is gitignored** (`.gitignore` tracks only `.claude/skills/`
 and `settings.json`), so a `site-pages` entry does not travel between machines.
 Add it locally with this — or just run the command directly:
 

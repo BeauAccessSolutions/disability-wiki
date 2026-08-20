@@ -49,7 +49,7 @@ how the same mistakes get repeated across hundreds of pages:
 6. **Write the result** to `es/<same relative path>.md` — same path, `es/`
    prefix. English stays at the repo root as the default locale; only Spanish is
    prefixed.
-7. **Validate**: run `python3 .Codex/skills/spanish-wiki-translation/scripts/check_translation.py es/<path>.md` (path is relative to the repo root) and resolve any
+7. **Validate**: run `python3 .agents/skills/spanish-wiki-translation/scripts/check_translation.py es/<path>.md` (path is relative to the repo root) and resolve any
    warnings.
 
 ## Workflow for syncing an already-translated page
@@ -80,7 +80,7 @@ the same changes** to the existing Spanish page so unrelated prose stays stable.
 5. **Stay faithful — still flag, never edit English.** If the English diff itself
    looks wrong, apply it faithfully to Spanish and flag the English (see below).
    Don't let a sync become a place where the two locales silently diverge.
-6. **Validate** every touched file: `python3 .Codex/skills/spanish-wiki-translation/scripts/check_translation.py es/<path>.md` (path is relative to the repo root).
+6. **Validate** every touched file: `python3 .agents/skills/spanish-wiki-translation/scripts/check_translation.py es/<path>.md` (path is relative to the repo root).
 7. **Record the sync** in `docs/translation-source-accuracy-flags.md` (mark the
    page synced + note the English commit) so the parity state stays auditable.
 

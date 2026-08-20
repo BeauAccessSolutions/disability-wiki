@@ -11,9 +11,12 @@ All notable changes to the Disability Wiki project are documented in this file.
   `.codex/hooks.json`): mirrors the existing `.claude/` config for non-Claude harnesses,
   consistent with the convention already encoded in `.gitignore` (which un-ignores
   `.claude/skills/` and `.claude/settings.json`). None of it publishes. Committed as
-  generated; note that the generator's `claude` to `Codex` find-replace left internal
-  paths pointing at `.Codex/skills/`, while the files actually live in `.agents/skills/`,
-  so those paths do not resolve.
+  A blanket `claude` to `Codex` find-replace had left seven broken internal paths
+  pointing at `.Codex/`, a directory holding only `hooks.json`; these are corrected so
+  mirror-relative paths resolve to `.agents/skills/`, while statements describing the
+  real repo config (`.claude/launch.json`, the `.gitignore` rule) correctly say
+  `.claude/` again. The find-replace had also dropped the bas-platform LESSONS import
+  and mangled the shared-lessons home path; both are restored.
 
 - **Three Tier-1 backlog pages drafted for review** (2026-08-18,
   [`foundations/adjusting-to-acquired-disability.md`](foundations/adjusting-to-acquired-disability.md),
