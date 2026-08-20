@@ -7,6 +7,23 @@ All notable changes to the Disability Wiki project are documented in this file.
 ## [Unreleased]
 
 ### Added
+- **Long-Term Disability Insurance page, EN + ES** (2026-08-18,
+  [`benefits/long-term-disability-insurance.md`](benefits/long-term-disability-insurance.md),
+  [`es/benefits/long-term-disability-insurance.md`](es/benefits/long-term-disability-insurance.md)):
+  a verified gap. Searches for "long-term disability insurance", "own occupation",
+  "independent medical exam", and "income protection" returned nothing across the whole
+  content tree; the only non-SSDI "disability insurance" matches were Australia's NDIS.
+  Private income-replacement insurance sat in the hole between `benefit-denials-and-appeals`
+  (government benefits) and `healthcare/insurance-claims-appeals` (medical claims), even
+  though for many working people it is the main thing replacing income after they stop
+  working. Covers how LTD differs from government benefits, ERISA and the closed
+  administrative record, the disability-specific protections in 29 CFR 2560.503-1, Canada's
+  contract-claim posture and short provincial limitation periods, the patterns insurers
+  apply (own-occupation switch, mental health caps, offsets, IMEs, surveillance), and
+  practical steps to protect a claim. Every regulatory statement was checked verbatim
+  against the current eCFR text rather than paraphrased from memory, no Canadian limitation
+  period is stated as a number (they vary and the start date is contested), and the page
+  carries an explicit not-legal-advice section.
 - **External Link Policy page, EN + ES** (2026-08-18,
   [`start/link-policy.md`](start/link-policy.md),
   [`es/start/link-policy.md`](es/start/link-policy.md)): the wiki keeps receiving
