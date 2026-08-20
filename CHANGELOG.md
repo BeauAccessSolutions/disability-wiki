@@ -7,6 +7,14 @@ All notable changes to the Disability Wiki project are documented in this file.
 ## [Unreleased]
 
 ### Added
+- **Codex agent tooling tracked in-repo** (2026-08-18, `AGENTS.md`, `.agents/skills/`,
+  `.codex/hooks.json`): mirrors the existing `.claude/` config for non-Claude harnesses,
+  consistent with the convention already encoded in `.gitignore` (which un-ignores
+  `.claude/skills/` and `.claude/settings.json`). None of it publishes. Committed as
+  generated; note that the generator's `claude` to `Codex` find-replace left internal
+  paths pointing at `.Codex/skills/`, while the files actually live in `.agents/skills/`,
+  so those paths do not resolve.
+
 - **Three Tier-1 backlog pages drafted for review** (2026-08-18,
   [`foundations/adjusting-to-acquired-disability.md`](foundations/adjusting-to-acquired-disability.md),
   [`transport/disabled-parking-placards.md`](transport/disabled-parking-placards.md),
