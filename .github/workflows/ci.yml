@@ -95,6 +95,14 @@ jobs:
         run: python3 scripts/check_accessibility.py --summary
         continue-on-error: true
 
+      # ADVISORY: section indexes drift from the content (7 pages were found
+      # unlisted on 2026-08-18; a full scan found ~115 across EN+ES). The
+      # sidebar autogenerates but index.md pages do not. Advisory until the
+      # backlog is cleared, then consider --strict.
+      - name: Index parity check (advisory)
+        run: python3 scripts/check_index_parity.py
+        continue-on-error: true
+
       # BLOCKING (regressions only): claim integrity. Fails if a claim recorded
       # as rejected in docs/CLAIMS.md reappears in published content. Verification
       # knowledge otherwise dies with the session that produced it, and the same
