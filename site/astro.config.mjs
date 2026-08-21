@@ -34,6 +34,7 @@ export default defineConfig({
         Banner: './src/components/AppBanner.astro',
         // Default footer + a standing CC BY reuse notice on every page.
         Footer: './src/components/Footer.astro',
+        LastUpdated: './src/components/LastUpdated.astro',
       },
       head: [
         // PWA: installable + offline (crisis pages precached; see tools/gen-sw.mjs)

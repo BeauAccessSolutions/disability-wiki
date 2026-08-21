@@ -1,0 +1,26 @@
+---
+/**
+ * Overrides Starlight's LastUpdated. Starlight's own git lookup cannot see
+ * through the directory symlinks our content lives behind (and Cloudflare
+ * builds from a shallow clone), so tools/gen-last-updated.mjs precomputes a
+ * {docsRelativePath: epochMs} map before the build. Unknown page => render
+ * nothing. Same markup and i18n string as the default component.
+ */
+import dates from '../generated/last-updated.json';
+
+const { lang, entry } = Astro.locals.starlightRoute;
+const key = (entry.filePath ?? '').replace(/^src\/content\/docs\//, '');
+const ms = (dates as Record<string, number>)[key];
+const lastUpdated = ms ? new Date(ms) : undefined;
+---
+
+{
+	lastUpdated && (
+		<p>
+			{Astro.locals.t('page.lastUpdated')}{' '}
+			<time datetime={lastUpdated.toISOString()}>
+				{lastUpdated.toLocaleDateString(lang, { dateStyle: 'medium', timeZone: 'UTC' })}
+			</time>
+		</p>
+	)
+}

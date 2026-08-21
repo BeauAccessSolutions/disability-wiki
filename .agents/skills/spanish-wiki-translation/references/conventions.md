@@ -67,8 +67,9 @@ dateCreated: <unchanged>
 ---
 ```
 
-The footer line `*Last updated: January 2026*` becomes
-`*Última actualización: enero de 2026*` (Spanish months are lowercase).
+Do not add or translate a hand-written `*Last updated:*` footer. The site renders the
+last-updated date automatically from git (see `site/tools/gen-last-updated.mjs`); a
+hand-written date goes stale and contradicts it.
 
 ## Accuracy vs. translation are two different jobs
 

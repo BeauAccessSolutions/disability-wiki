@@ -22,3 +22,5 @@ pnpm-debug.log*
 
 # wrangler pages dev local cache
 .wrangler/
+# generated at build by tools/gen-last-updated.mjs
+src/generated/
