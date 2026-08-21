@@ -200,7 +200,7 @@ Cuando tienes discapacidades múltiples, las necesidades de acceso pueden:
 - La SSA considera todas las condiciones en conjunto para determinar la discapacidad
 - Documenta todas las condiciones al presentar la solicitud
 - Tener varias condiciones puede fortalecer tu caso
-- Consulta [SSDI](/es/benefits/us-ssdi.md), [SSI](/es/benefits/us-ssi.md)
+- Consulta [SSDI](/es/benefits/us/ssdi), [SSI](/es/benefits/us/ssi)
 
 **Servicios**:
 - Los programas de exención (waiver) de Medicaid pueden cubrir varias necesidades
@@ -219,7 +219,7 @@ Cuando tienes discapacidades múltiples, las necesidades de acceso pueden:
 **Prestaciones**:
 - Los programas provinciales de discapacidad evalúan la función general
 - Documenta todas las condiciones
-- Consulta [Prestaciones en Canadá](/es/benefits/canada-benefits.md)
+- Consulta [Prestaciones en Canadá](/es/benefits/canada/benefits)
 
 ---
 
@@ -234,7 +234,7 @@ Cuando tienes discapacidades múltiples, las necesidades de acceso pueden:
 **Prestaciones**:
 - La evaluación del PIP debería considerar todas las condiciones
 - Describe el impacto acumulado
-- Consulta [Prestaciones en el Reino Unido](/es/benefits/uk-benefits.md)
+- Consulta [Prestaciones en el Reino Unido](/es/benefits/united-kingdom/benefits)
 
 ---
 
@@ -244,7 +244,7 @@ Cuando tienes discapacidades múltiples, las necesidades de acceso pueden:
 - Los planes pueden atender varias discapacidades
 - La evaluación debería considerar todas las condiciones
 - Puede ser necesario abogar por un plan integral
-- Consulta [Prestaciones en Australia](/es/benefits/australia-benefits.md)
+- Consulta [Prestaciones en Australia](/es/benefits/australia/benefits)
 
 ---
 
@@ -255,7 +255,7 @@ Los enfoques sobre las discapacidades múltiples varían. Preguntas clave:
 - ¿Puedes acceder a servicios para distintos tipos de discapacidad?
 - ¿Cómo se maneja la coordinación de los cuidados?
 
-Consulta [Panorama de prestaciones internacionales](/es/benefits/international-benefits-overview.md).
+Consulta [Panorama de prestaciones internacionales](/es/benefits/international/benefits-overview).
 
 ---
 

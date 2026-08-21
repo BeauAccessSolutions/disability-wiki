@@ -181,10 +181,10 @@ Muchas otras afecciones pueden implicar discapacidad intelectual o del desarroll
 - [Sección 504](/es/rights/us/section-504.md): adaptaciones
 
 **Prestaciones**:
-- [SSI](/es/benefits/us-ssi.md): ingresos para personas con discapacidad que no han trabajado
-- [SSDI](/es/benefits/us-ssdi.md): para quienes han trabajado (o SSDI con base en el historial de un padre o madre en algunos casos)
-- [Medicaid](/es/benefits/us-medicaid.md): cobertura de atención médica
-- [Cuentas ABLE](/es/benefits/us-able-accounts.md): ahorros con ventajas fiscales
+- [SSI](/es/benefits/us/ssi): ingresos para personas con discapacidad que no han trabajado
+- [SSDI](/es/benefits/us/ssdi): para quienes han trabajado (o SSDI con base en el historial de un padre o madre en algunos casos)
+- [Medicaid](/es/benefits/us/medicaid): cobertura de atención médica
+- [Cuentas ABLE](/es/benefits/us/able-accounts): ahorros con ventajas fiscales
 - Las prestaciones suplementarias estatales varían
 
 **Listas de espera**: Muchos estados tienen largas listas de espera para los servicios. A menudo se necesita incidencia.
@@ -209,7 +209,7 @@ Muchas otras afecciones pueden implicar discapacidad intelectual o del desarroll
 - Programas provinciales de asistencia por discapacidad
 - Canada Pension Plan Disability (para algunas personas)
 - Créditos fiscales
-- Consulta [Prestaciones de Canadá](/es/benefits/canada-benefits.md)
+- Consulta [Prestaciones de Canadá](/es/benefits/canada/benefits)
 
 **Organizaciones**:
 - **People First of Canada**: autogestión
@@ -235,7 +235,7 @@ Muchas otras afecciones pueden implicar discapacidad intelectual o del desarroll
 - Personal Independence Payment (PIP)
 - Universal Credit o Employment and Support Allowance
 - Prestaciones de vivienda
-- Consulta [Prestaciones del Reino Unido](/es/benefits/uk-benefits.md)
+- Consulta [Prestaciones del Reino Unido](/es/benefits/united-kingdom/benefits)
 
 **Organizaciones**:
 - Grupos de **People First** en todo el Reino Unido: autogestión
@@ -251,7 +251,7 @@ Muchas otras afecciones pueden implicar discapacidad intelectual o del desarroll
 - El National Disability Insurance Scheme cubre muchos apoyos
 - Incluye coordinación de apoyos, terapia, vida con apoyo y apoyo al empleo
 - Opciones de gestión del plan: autogestionado, gestionado por un plan o gestionado por la NDIA
-- Consulta [Prestaciones de Australia](/es/benefits/australia-benefits.md)
+- Consulta [Prestaciones de Australia](/es/benefits/australia/benefits)
 
 **Organizaciones**:
 - **Inclusion Australia**

@@ -1,11 +1,15 @@
 #!/usr/bin/env python3
 """
 Internal Link Validator for Disability Wiki (Wiki.js content)
-Checks English markdown pages for broken internal links and missing descriptions.
+Checks English and Spanish markdown pages for broken internal links and
+missing descriptions.
 
 Content lives at the repository root (benefits/, rights/, crisis/, ...), so
-BASE_DIR is the repo root (this file is in scripts/). Non-content trees and the
-Spanish locale are excluded so the broken-link total is trustworthy.
+BASE_DIR is the repo root (this file is in scripts/). Non-content trees are
+excluded so the broken-link total is trustworthy. The Spanish locale (es/) is
+scanned as a separate tree with its own totals: /es/<path> links resolve to
+es/<path>.md, and /<path> links resolve to the English tree (es pages
+intentionally link some shared English assets).
 """
 
 import re
@@ -16,10 +20,10 @@ from collections import defaultdict
 # Repo root is the parent of scripts/. Content pages live directly under it.
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-# Directories that are not English content pages — excluded from the scan so
-# the totals reflect real, fixable links rather than locale/docs/backup noise.
+# Directories that are not English content pages — excluded from the English
+# scan so its totals reflect real, fixable links rather than docs/backup noise.
 EXCLUDE_DIRS = {
-    'es',                     # Spanish locale (separate tree; /es/* links)
+    'es',                     # Spanish locale (scanned separately below)
     'docs', 'scripts', 'backups', 'node_modules', '.git', '.claude',
     'archetypes',             # template scaffolding
     'page-review-2026-06-05', # point-in-time review snapshot
@@ -118,26 +122,21 @@ def find_potential_links(content, all_pages):
 
     return suggestions
 
-def main():
-    print("=" * 80)
-    print("DISABILITY WIKI - INTERNAL LINK VALIDATOR")
-    print("=" * 80)
-    print()
+def scan_files(md_files, collect_suggestions=False):
+    """Scan published pages for broken internal links and missing descriptions.
 
-    # Find English content markdown files (skip excluded top-level trees).
-    md_files = [
-        f for f in BASE_DIR.glob('**/*.md')
-        if f.relative_to(BASE_DIR).parts[0] not in EXCLUDE_DIRS
-    ]
-    print(f"Found {len(md_files)} content markdown files (excluding {', '.join(sorted(EXCLUDE_DIRS))})\n")
+    Link targets resolve against the repo root, so /es/<path> links land in the
+    es/ tree and /<path> links land in the English tree regardless of which
+    tree the linking page lives in.
+    """
+    results = {
+        'broken_links': [],
+        'all_links': [],
+        'files_without_description': [],
+        'suggestions_by_file': defaultdict(list),
+        'scanned': 0,
+    }
 
-    broken_links = []
-    all_links = []
-    files_without_description = []
-    suggestions_by_file = defaultdict(list)
-    scanned = 0
-
-    # Check each file
     for md_file in md_files:
         rel_path = md_file.relative_to(BASE_DIR)
         content = md_file.read_text(encoding='utf-8')
@@ -151,34 +150,65 @@ def main():
         # reflects what's actually on the live site.
         if frontmatter.get('published', '').strip().lower() != 'true':
             continue
-        scanned += 1
+        results['scanned'] += 1
 
         # Check for missing description
         if not frontmatter.get('description') or frontmatter.get('description').strip() == '':
-            files_without_description.append(str(rel_path))
+            results['files_without_description'].append(str(rel_path))
 
         # Extract links from body
         links = extract_links(body)
 
         for text, url in links:
             if is_internal_link(url):
-                all_links.append((str(rel_path), text, url))
+                results['all_links'].append((str(rel_path), text, url))
 
                 # Normalize and check
                 target = normalize_wiki_path(url)
 
                 if not check_link_exists(target):
-                    broken_links.append({
+                    results['broken_links'].append({
                         'file': str(rel_path),
                         'text': text,
                         'url': url,
                         'target': f"{target}.md"
                     })
 
-        # Find suggestions
-        suggestions = find_potential_links(body, md_files)
-        if suggestions:
-            suggestions_by_file[str(rel_path)] = suggestions
+        # Find suggestions (English-keyword heuristic; skipped for es/)
+        if collect_suggestions:
+            suggestions = find_potential_links(body, md_files)
+            if suggestions:
+                results['suggestions_by_file'][str(rel_path)] = suggestions
+
+    return results
+
+
+def main():
+    print("=" * 80)
+    print("DISABILITY WIKI - INTERNAL LINK VALIDATOR")
+    print("=" * 80)
+    print()
+
+    # Find English content markdown files (skip excluded top-level trees).
+    md_files = [
+        f for f in BASE_DIR.glob('**/*.md')
+        if f.relative_to(BASE_DIR).parts[0] not in EXCLUDE_DIRS
+    ]
+    print(f"Found {len(md_files)} content markdown files (excluding {', '.join(sorted(EXCLUDE_DIRS))})")
+
+    # Spanish locale is a separate tree with its own totals so the English
+    # baseline (0 broken) stays comparable across runs.
+    es_files = sorted((BASE_DIR / 'es').glob('**/*.md'))
+    print(f"Found {len(es_files)} Spanish (es/) markdown files\n")
+
+    en = scan_files(md_files, collect_suggestions=True)
+    es = scan_files(es_files)
+
+    broken_links = en['broken_links']
+    all_links = en['all_links']
+    files_without_description = en['files_without_description']
+    suggestions_by_file = en['suggestions_by_file']
+    scanned = en['scanned']
 
     # Report results
     print("=" * 80)
@@ -197,6 +227,24 @@ def main():
             print(f"  ... and {len(broken_links) - 10} more (see report file)\n")
     else:
         print("\n✓ No broken internal links found!\n")
+
+    # Spanish tree, reported separately.
+    print("=" * 80)
+    print("SPANISH (es/) LINK VALIDATION RESULTS")
+    print("=" * 80)
+
+    if es['broken_links']:
+        print(f"\n❌ {len(es['broken_links'])} BROKEN INTERNAL LINKS FOUND IN es/:\n")
+        for link in es['broken_links'][:10]:  # Show first 10
+            print(f"File: {link['file']}")
+            print(f"  Text: '{link['text']}'")
+            print(f"  URL: {link['url']}")
+            print(f"  Target not found: {link['target']}\n")
+
+        if len(es['broken_links']) > 10:
+            print(f"  ... and {len(es['broken_links']) - 10} more (see report file)\n")
+    else:
+        print("\n✓ No broken internal links found in es/!\n")
 
     # Report missing descriptions
     print("=" * 80)
@@ -220,6 +268,10 @@ def main():
     print(f"Broken links: {len(broken_links)}")
     print(f"Files missing descriptions: {len(files_without_description)}")
     print(f"Files with link suggestions: {len(suggestions_by_file)}")
+    print(f"[es] Published pages scanned: {es['scanned']} (of {len(es_files)} candidate files)")
+    print(f"[es] Total internal links: {len(es['all_links'])}")
+    print(f"[es] Broken links: {len(es['broken_links'])}")
+    print(f"[es] Files missing descriptions: {len(es['files_without_description'])}")
 
     # Suggestions sample
     if suggestions_by_file:
@@ -247,6 +299,15 @@ def main():
                 f.write(f"  URL: {link['url']}\n")
                 f.write(f"  Target: {link['target']}\n")
 
+        if es['broken_links']:
+            f.write(f"\nBROKEN LINKS IN es/ ({len(es['broken_links'])} found):\n")
+            f.write("-" * 80 + "\n")
+            for link in es['broken_links']:
+                f.write(f"\nFile: {link['file']}\n")
+                f.write(f"  Text: '{link['text']}'\n")
+                f.write(f"  URL: {link['url']}\n")
+                f.write(f"  Target: {link['target']}\n")
+
         f.write("\n" + "=" * 80 + "\n")
         f.write(f"FILES MISSING DESCRIPTIONS ({len(files_without_description)}):\n")
         f.write("-" * 80 + "\n")
@@ -269,15 +330,20 @@ def main():
         f.write(f"Total internal links: {len(all_links)}\n")
         f.write(f"Broken links: {len(broken_links)}\n")
         f.write(f"Files missing descriptions: {len(files_without_description)}\n")
+        f.write(f"[es] Published pages scanned: {es['scanned']} (of {len(es_files)} candidates)\n")
+        f.write(f"[es] Total internal links: {len(es['all_links'])}\n")
+        f.write(f"[es] Broken links: {len(es['broken_links'])}\n")
 
     print(f"\n✓ Detailed report saved to: {report_file}")
     print()
 
-    # CI gate: with --strict, exit non-zero when broken internal links exist so
-    # a GitHub Action can block the merge (publishing = merge to main, no review
-    # gate otherwise). Missing-description and suggestion output stay advisory.
-    if '--strict' in sys.argv and broken_links:
-        print(f"✗ STRICT: {len(broken_links)} broken internal link(s) — failing.")
+    # CI gate: with --strict, exit non-zero when broken internal links exist in
+    # either tree so a GitHub Action can block the merge (publishing = merge to
+    # main, no review gate otherwise). Missing-description and suggestion
+    # output stay advisory.
+    if '--strict' in sys.argv and (broken_links or es['broken_links']):
+        print(f"✗ STRICT: {len(broken_links)} broken internal link(s) in English, "
+              f"{len(es['broken_links'])} in es/ — failing.")
         sys.exit(1)
 
 if __name__ == '__main__':

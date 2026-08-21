@@ -322,7 +322,7 @@ Consulta [Discapacidades múltiples](/es/conditions/multiple-disabilities.md), [
 - Consulta [Adaptaciones en el lugar de trabajo](/es/employment/workplace-accommodations.md)
 
 **Prestaciones**:
-- [SSI](/es/benefits/us-ssi.md) y [SSDI](/es/benefits/us-ssdi.md) pueden estar disponibles para algunas personas
+- [SSI](/es/benefits/us/ssi) y [SSDI](/es/benefits/us/ssdi) pueden estar disponibles para algunas personas
 - Servicios estatales de discapacidad del desarrollo (varían mucho según el estado)
 
 **Organizaciones**:
@@ -349,7 +349,7 @@ Consulta [Discapacidades múltiples](/es/conditions/multiple-disabilities.md), [
 - Programas provinciales de discapacidad
 - Crédito tributario por discapacidad (Disability Tax Credit)
 - Algunos programas de financiamiento específicos para el autismo (varían según la provincia)
-- Consulta [Prestaciones en Canadá](/es/benefits/canada-benefits.md)
+- Consulta [Prestaciones en Canadá](/es/benefits/canada/benefits)
 
 **Organizaciones**:
 - **Autistics United Canada**
@@ -378,7 +378,7 @@ Consulta [Discapacidades múltiples](/es/conditions/multiple-disabilities.md), [
 **Prestaciones**:
 - Personal Independence Payment (PIP)
 - Universal Credit
-- Consulta [Prestaciones en el Reino Unido](/es/benefits/uk-benefits.md)
+- Consulta [Prestaciones en el Reino Unido](/es/benefits/united-kingdom/benefits)
 
 **Organizaciones**:
 - **National Autistic Society**: organización benéfica grande (opiniones encontradas en la comunidad)
@@ -398,7 +398,7 @@ Consulta [Discapacidades múltiples](/es/conditions/multiple-disabilities.md), [
 - El autismo suele ser una categoría elegible
 - El TDAH por sí solo no suele ser elegible para el NDIS, salvo que tenga un impacto funcional significativo
 - El NDIS puede financiar terapias, personas de apoyo, etc.
-- Consulta [Prestaciones en Australia](/es/benefits/australia-benefits.md)
+- Consulta [Prestaciones en Australia](/es/benefits/australia/benefits)
 
 **Educación**:
 - Programas estatales de educación para la discapacidad
