@@ -6,6 +6,21 @@ All notable changes to the Disability Wiki project are documented in this file.
 
 ## [Unreleased]
 
+### Fixed
+- **Link validator now checks Spanish pages; 60 broken es/ links repaired** (2026-08-20,
+  [`scripts/validate_wiki_links.py`](scripts/validate_wiki_links.py), 12 `es/` pages):
+  the validator excluded `es/` entirely, so a broken `/es/*` link shipped silently past
+  the `--strict` CI merge gate — confirmed empirically with a link to a nonexistent es
+  page that validated clean. The validator now scans `es/` as a separate tree with its
+  own report section and totals (the English 0-broken baseline stays comparable), and
+  `--strict` fails on broken links in either tree; `/es/<path>` resolves to
+  `es/<path>.md` while `/<path>` links from es pages resolve to the English tree. The
+  new check surfaced 60 pre-existing broken Spanish links, all fixed: 54 stale flat
+  Wiki.js-era slugs (`/es/benefits/us-ssi.md` → `/es/benefits/us/ssi`, etc., mostly in
+  `es/conditions/`) and 6 links to the never-translated `/es/foundations/welcome`,
+  retargeted to the English `/foundations/welcome` until a Spanish translation lands
+  (follow-up task spawned). Both trees now validate at 0 broken links.
+
 ### Added
 - **Index-parity backlog cleared; checker promoted to blocking** (2026-08-20, 18
   section `index.md` files across EN + ES,

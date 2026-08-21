@@ -265,8 +265,8 @@ Enfermedad renal crónica, enfermedad hepática, VIH/sida (ahora una afección c
 - Consulta [Navegación del seguro](/es/healthcare/insurance-navigation.md)
 
 **Prestaciones**:
-- [SSDI](/es/benefits/us-ssdi.md) y [SSI](/es/benefits/us-ssi.md) para las prestaciones por discapacidad
-- [Medicaid](/es/benefits/us-medicaid.md): la elegibilidad varía según el estado
+- [SSDI](/es/benefits/us/ssdi) y [SSI](/es/benefits/us/ssi) para las prestaciones por discapacidad
+- [Medicaid](/es/benefits/us/medicaid): la elegibilidad varía según el estado
 - FMLA para una licencia médica con protección del empleo
 - Programas farmacéuticos de asistencia al paciente
 
@@ -290,7 +290,7 @@ Enfermedad renal crónica, enfermedad hepática, VIH/sida (ahora una afección c
 - Canada Pension Plan Disability (CPP-D)
 - Programas provinciales de asistencia por discapacidad
 - Créditos fiscales por discapacidad y gastos médicos
-- Consulta [Prestaciones de Canadá](/es/benefits/canada-benefits.md)
+- Consulta [Prestaciones de Canadá](/es/benefits/canada/benefits)
 
 **Organizaciones**:
 - Chronic Disease Network and Access
@@ -311,7 +311,7 @@ Enfermedad renal crónica, enfermedad hepática, VIH/sida (ahora una afección c
 - Personal Independence Payment (PIP)
 - Employment and Support Allowance (ESA) o Universal Credit
 - Access to Work para el apoyo al empleo
-- Consulta [Prestaciones del Reino Unido](/es/benefits/uk-benefits.md)
+- Consulta [Prestaciones del Reino Unido](/es/benefits/united-kingdom/benefits)
 
 **Organizaciones**:
 - Pain Concern
@@ -333,7 +333,7 @@ Enfermedad renal crónica, enfermedad hepática, VIH/sida (ahora una afección c
 - Disability Support Pension (DSP)
 - NDIS para participantes elegibles
 - Programas estatales
-- Consulta [Prestaciones de Australia](/es/benefits/australia-benefits.md)
+- Consulta [Prestaciones de Australia](/es/benefits/australia/benefits)
 
 **Organizaciones**:
 - Chronic Pain Australia
@@ -352,7 +352,7 @@ Los sistemas de atención médica y el apoyo a la enfermedad crónica varían dr
 - ¿Hay prestaciones por discapacidad disponibles para afecciones crónicas?
 - ¿Qué organizaciones de pacientes existen?
 
-Consulta [Panorama internacional de prestaciones](/es/benefits/international-benefits-overview.md).
+Consulta [Panorama internacional de prestaciones](/es/benefits/international/benefits-overview).
 
 ---
 

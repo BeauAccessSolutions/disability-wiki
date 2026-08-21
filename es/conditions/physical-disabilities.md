@@ -155,8 +155,8 @@ Esta lista no es exhaustiva. Otras discapacidades físicas incluyen: enfermedad 
 - [Navegación del seguro](/es/healthcare/insurance-navigation.md) para orientación sobre la cobertura
 
 **Prestaciones**:
-- [SSDI](/es/benefits/us-ssdi.md) y [SSI](/es/benefits/us-ssi.md) para el apoyo de ingresos
-- [Medicaid](/es/benefits/us-medicaid.md) puede cubrir asistentes de cuidado personal, modificaciones del hogar y equipo médico duradero
+- [SSDI](/es/benefits/us/ssdi) y [SSI](/es/benefits/us/ssi) para el apoyo de ingresos
+- [Medicaid](/es/benefits/us/medicaid) puede cubrir asistentes de cuidado personal, modificaciones del hogar y equipo médico duradero
 - Los programas estatales de exención (waiver) de Medicaid varían mucho; algunos ofrecen amplios servicios en el hogar y la comunidad
 
 **Equipo y ayudas para la movilidad**:
@@ -182,7 +182,7 @@ Esta lista no es exhaustiva. Otras discapacidades físicas incluyen: enfermedad 
 **Prestaciones**:
 - Canada Pension Plan Disability (CPP-D) para quienes han trabajado
 - Programas provinciales de asistencia por discapacidad (ODSP en Ontario, AISH en Alberta, PWD en Columbia Británica, etc.)
-- Consulta [Prestaciones en Canadá](/es/benefits/canada-benefits.md)
+- Consulta [Prestaciones en Canadá](/es/benefits/canada/benefits)
 
 **Organizaciones**:
 - **DisAbled Women's Network Canada (DAWN)**: Liderada por mujeres con discapacidad
@@ -203,7 +203,7 @@ Esta lista no es exhaustiva. Otras discapacidades físicas incluyen: enfermedad 
 - Personal Independence Payment (PIP): no sujeto a comprobación de recursos
 - Employment and Support Allowance (ESA) o Universal Credit
 - Access to Work para adaptaciones en el empleo
-- Consulta [Prestaciones en el Reino Unido](/es/benefits/uk-benefits.md)
+- Consulta [Prestaciones en el Reino Unido](/es/benefits/united-kingdom/benefits)
 
 **Organizaciones**:
 - **Disability Rights UK**: Información y defensa
@@ -223,7 +223,7 @@ Esta lista no es exhaustiva. Otras discapacidades físicas incluyen: enfermedad 
 - Cubre tecnología de apoyo, modificaciones del hogar, cuidado personal y terapia
 - Requiere una discapacidad "permanente y significativa" que afecte la vida diaria
 - La gestión del plan importa: considera la autogestión o la gestión por plan frente a la gestión por agencia
-- Consulta [Prestaciones en Australia](/es/benefits/australia-benefits.md)
+- Consulta [Prestaciones en Australia](/es/benefits/australia/benefits)
 
 **Organizaciones**:
 - **People with Disability Australia (PWDA)**: Defensa sistémica transversal a las discapacidades
@@ -244,7 +244,7 @@ Los marcos varían según el país, pero la estrategia de discapacidad de la UE 
 - **Países Bajos**: La WMO (Ley de Apoyo Social) para modificaciones del hogar y ayudas
 - **Países nórdicos**: Por lo general, sistemas de apoyo social sólidos
 
-Consulta [Prestaciones en la UE](/es/benefits/eu-benefits.md) y [Derechos internacionales](/es/rights/international-rights.md).
+Consulta [Prestaciones en la UE](/es/benefits/european-union/benefits) y [Derechos internacionales](/es/rights/international-rights.md).
 
 ---
 
@@ -258,7 +258,7 @@ La Convención sobre los Derechos de las Personas con Discapacidad (CDPD) de la 
 - ¿Hay Centros para la Vida Independiente u organizaciones similares lideradas por pares?
 - ¿Qué protecciones legales existen para la accesibilidad y la no discriminación?
 
-Consulta [Panorama de prestaciones internacionales](/es/benefits/international-benefits-overview.md) y [Prestaciones de otros países](/es/benefits/other-countries-benefits.md).
+Consulta [Panorama de prestaciones internacionales](/es/benefits/international/benefits-overview) y [Prestaciones de otros países](/es/benefits/other-countries-benefits.md).
 
 ---
 

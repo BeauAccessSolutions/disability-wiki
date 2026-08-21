@@ -197,7 +197,7 @@ Afectan el equilibrio y la orientación espacial:
 - Los Centros para la Vida Independiente a menudo tienen servicios para personas Sordas/ciegas
 
 **Prestaciones**:
-- [SSDI](/es/benefits/us-ssdi.md) y [SSI](/es/benefits/us-ssi.md)
+- [SSDI](/es/benefits/us/ssdi) y [SSI](/es/benefits/us/ssi)
 - Algunos estados tienen programas específicos de pensión para personas ciegas
 - El Seguro Social tiene reglas específicas para la ceguera estatutaria
 
@@ -226,7 +226,7 @@ Afectan el equilibrio y la orientación espacial:
 - Canada Pension Plan Disability
 - Asistencia provincial por discapacidad
 - Crédito tributario por discapacidad (Disability Tax Credit)
-- Consulta [Prestaciones en Canadá](/es/benefits/canada-benefits.md)
+- Consulta [Prestaciones en Canadá](/es/benefits/canada/benefits)
 
 **Organizaciones**:
 - **Canadian Association of the Deaf (CAD)**
@@ -247,7 +247,7 @@ Afectan el equilibrio y la orientación espacial:
 - Personal Independence Payment (PIP)
 - Employment and Support Allowance (ESA) o Universal Credit
 - Access to Work para adaptaciones en el empleo
-- Consulta [Prestaciones en el Reino Unido](/es/benefits/uk-benefits.md)
+- Consulta [Prestaciones en el Reino Unido](/es/benefits/united-kingdom/benefits)
 
 **Acceso a la comunicación**:
 - El BSL fue reconocido como lengua (BSL Act de 2022)
@@ -275,7 +275,7 @@ Afectan el equilibrio y la orientación espacial:
 - Perros guía y su entrenamiento
 - Capacitación en orientación y movilidad
 - Modificaciones del hogar
-- Consulta [Prestaciones en Australia](/es/benefits/australia-benefits.md)
+- Consulta [Prestaciones en Australia](/es/benefits/australia/benefits)
 
 **Organizaciones**:
 - **Deaf Australia** (liderada por personas Sordas)
