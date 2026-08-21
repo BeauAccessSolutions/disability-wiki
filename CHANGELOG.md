@@ -7,6 +7,17 @@ All notable changes to the Disability Wiki project are documented in this file.
 ## [Unreleased]
 
 ### Added
+- **Spanish translation of the pacing page** (2026-08-18,
+  [`es/daily-living/pacing-and-energy-management.md`](es/daily-living/pacing-and-energy-management.md)):
+  closes the last Spanish gap in `daily-living/`, which was the only English page in that
+  directory without a counterpart. It mattered more than most: pacing is one of only two
+  pages in the content backlog with *measured* demand behind it, so its absence in Spanish
+  was among the costlier gaps. Numbers were diffed against the English source to confirm
+  none drifted in translation, and the load-bearing distinctions are preserved intact,
+  including the PEM-versus-non-PEM split the page opens with, Workwell's caution against
+  the age-based heart-rate formula, and the NICE NG206 wording that says "energy
+  management" rather than "pacing".
+
 - **Codex agent tooling tracked in-repo** (2026-08-18, `AGENTS.md`, `.agents/skills/`,
   `.codex/hooks.json`): mirrors the existing `.claude/` config for non-Claude harnesses,
   consistent with the convention already encoded in `.gitignore` (which un-ignores
@@ -17,7 +28,6 @@ All notable changes to the Disability Wiki project are documented in this file.
   real repo config (`.claude/launch.json`, the `.gitignore` rule) correctly say
   `.claude/` again. The find-replace had also dropped the bas-platform LESSONS import
   and mangled the shared-lessons home path; both are restored.
-
 - **Three Tier-1 backlog pages drafted for review** (2026-08-18,
   [`foundations/adjusting-to-acquired-disability.md`](foundations/adjusting-to-acquired-disability.md),
   [`transport/disabled-parking-placards.md`](transport/disabled-parking-placards.md),
