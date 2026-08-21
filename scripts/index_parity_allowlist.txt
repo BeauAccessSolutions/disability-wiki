@@ -1,0 +1,4 @@
+# Pages intentionally NOT listed on their section's index.md.
+# One slug per line, English form (the es/ mirror is excused automatically).
+# Add an entry only when the omission is deliberate (e.g. a curated hub index
+# that links a subset by design), not to silence a page someone forgot to list.

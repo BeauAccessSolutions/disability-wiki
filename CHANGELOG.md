@@ -7,6 +7,21 @@ All notable changes to the Disability Wiki project are documented in this file.
 ## [Unreleased]
 
 ### Added
+- **Index-parity checker + page-wiring step in the authoring skill** (2026-08-18,
+  [`scripts/check_index_parity.py`](scripts/check_index_parity.py),
+  [`scripts/index_parity_allowlist.txt`](scripts/index_parity_allowlist.txt),
+  [`.github/workflows/ci.yml`](.github/workflows/ci.yml),
+  `.claude/skills/disability-wiki-page/SKILL.md` + its `.agents/` mirror): the sidebar
+  autogenerates but section `index.md` pages do not, and nothing noticed the drift —
+  seven pages were found unlisted on 2026-08-18, and the new checker's first full scan
+  found roughly 115 unlisted pages across EN and ES. The checker diffs every index
+  against the pages on disk using nearest-index ownership (sub-indexes own their
+  subtrees), normalizes legacy `.md`-suffixed links and the `Rights/`-vs-`/rights/`
+  case split, skips drafts, and supports an explicit allowlist for deliberately
+  curated hubs. Wired into CI as advisory (like the a11y check) until the backlog is
+  cleared; `--strict` exits nonzero for later promotion. The authoring skill gains a
+  "Wire the page in" section so new pages get listed at creation time, including the
+  warning that `validate_wiki_links.py` skips the `es/` tree entirely.
 - **Spanish translation of the pacing page** (2026-08-18,
   [`es/daily-living/pacing-and-energy-management.md`](es/daily-living/pacing-and-energy-management.md)):
   closes the last Spanish gap in `daily-living/`, which was the only English page in that

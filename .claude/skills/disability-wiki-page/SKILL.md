@@ -96,6 +96,29 @@ the email contact). The `/glossary/how-to-contribute` page is the separate techn
 Git contribution guide; don't use it as the general "How to Contribute" link, and avoid
 `forms.gle` placeholders.
 
+## Wire the page in (a page nobody can find doesn't exist)
+
+The **sidebar autogenerates; section `index.md` pages do NOT.** A new page is
+invisible to index readers until you list it. On 2026-08-18 seven pages (one
+shipped weeks earlier) were found missing from their indexes. For every new or
+renamed page:
+
+- **Section index**: add an entry to the owning `index.md` (nearest ancestor
+  with one), matching that index's own style — some are exhaustive lists,
+  others (e.g. `foundations/`) are curated hubs with quick-start blocks.
+- **Entry points**: add quick-start / "Quick Links by Need" lines where the
+  page answers one of those needs.
+- **Sibling links**: check which existing pages' Related Pages sections should
+  now point at the new page, not just the reverse.
+- **Spanish mirror**: repeat all of the above on the `es/` index counterparts
+  (or flag it for the translation pass if the page itself isn't translated yet).
+- **Verify mechanically**: run `python3 scripts/check_index_parity.py` — it
+  diffs every index against the pages on disk, EN and ES, and CI runs it as an
+  advisory step. Intentional omissions go in
+  `scripts/index_parity_allowlist.txt`, not ignored.
+- Note: `validate_wiki_links.py` **skips the `es/` tree**, so check Spanish
+  link targets by hand (`[ -f es/<path>.md ]`).
+
 ## Before publishing
 - **Verify every internal link** resolves to a real page (check the `.md` exists at
   that path, accounting for nested paths like `/benefits/us/ssi` not `/benefits/us-ssi`).
