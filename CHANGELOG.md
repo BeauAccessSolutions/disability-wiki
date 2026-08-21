@@ -7,6 +7,28 @@ All notable changes to the Disability Wiki project are documented in this file.
 ## [Unreleased]
 
 ### Fixed
+- **"Last updated" now renders on every page, with the real date** (2026-08-21,
+  [`site/tools/gen-last-updated.mjs`](site/tools/gen-last-updated.mjs),
+  [`site/src/components/LastUpdated.astro`](site/src/components/LastUpdated.astro),
+  [`site/astro.config.mjs`](site/astro.config.mjs), [`site/package.json`](site/package.json),
+  [`.github/workflows/ci.yml`](.github/workflows/ci.yml)): `lastUpdated: true` had been
+  configured since the migration and rendered on almost nothing. Two independent causes.
+  Starlight dates pages with one `git log -- src/content/docs`, keyed by the paths git lists
+  under that prefix; our content lives behind directory symlinks, so git never lists those
+  files and no date appears — while the handful of individually-symlinked root files showed
+  the *symlink's* commit date (June 11). Separately, Cloudflare Pages builds from a shallow
+  clone, where every file's last commit is HEAD, so the live root pages claimed "Aug 21" —
+  the day of the latest deploy. A pre-build generator now resolves real paths, runs the git
+  log against them, and unshallows the clone first when needed; a `LastUpdated` override
+  reads the resulting map. It fails closed: if history is genuinely unavailable it writes an
+  empty map and no date renders — a missing date is honest, a wrong one is not. Verified:
+  552 pages dated in a local build with the correct dates (e.g. the Canada benefits page
+  says Aug 17, its last edit), plus simulated shallow clones for both the recoverable and
+  unrecoverable cases. CI checks out full history so it renders dates deterministically.
+  The translation skill's instruction to hand-translate a `*Last updated:*` footer is
+  replaced with "don't" (both harness mirrors). Frontmatter `date:`/`dateCreated:` remain
+  as inert Wiki.js leftovers — stripping them across 540 files would itself bump every
+  page's real last-updated to the day of the sweep.
 - **Link validator now checks Spanish pages; 60 broken es/ links repaired** (2026-08-20,
   [`scripts/validate_wiki_links.py`](scripts/validate_wiki_links.py), 12 `es/` pages):
   the validator excluded `es/` entirely, so a broken `/es/*` link shipped silently past

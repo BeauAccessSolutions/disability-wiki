@@ -102,4 +102,3 @@ they all describe the same people. Repeat the noun to disambiguate:
 - The "Have lived experience or expertise…" paragraph and the
   "[Suggest an edit or addition →]" link have fixed Spanish forms used across all
   pilot pages — reuse the wording in the existing `es/` pages for consistency.
-- `*Last updated: January 2026*` → `*Última actualización: enero de 2026*`

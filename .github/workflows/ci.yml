@@ -21,6 +21,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0  # full history: tools/gen-last-updated.mjs dates pages from git
 
       # --- Site build (BLOCKING) ---------------------------------------------
       # The exact build Cloudflare Pages runs (project `disability-wiki`, root
