@@ -78,6 +78,20 @@ All notable changes to the Disability Wiki project are documented in this file.
   US and Europe.
 
 ### Changed
+- **Section indexes caught up with the content; 1619(b) misplacement fixed** (2026-08-18,
+  [`benefits/index.md`](benefits/index.md), [`transport/index.md`](transport/index.md),
+  [`daily-living/index.md`](daily-living/index.md), [`foundations/index.md`](foundations/index.md),
+  and their `es/` counterparts): the sidebar autogenerates, but the hand-written section
+  indexes had drifted — none of the recent pages (Working While on Disability, LTD,
+  parking placards, adjusting to acquired disability) were listed, and neither were three
+  older ones (`proving-disability`, `poverty-and-benefits-trap`, `mobility-aid-stigma`).
+  All seven added in both languages, with quick-start entries, and the foundations
+  "newly disabled and feeling overwhelmed" quick link now leads with the adjusting page.
+  One factual correction rode along in both languages: the benefits index listed Section
+  1619(b) under SSDI work incentives, but it is an SSI provision (per the SSA Red Book);
+  moved and reworded. Also noted for the record: `validate_wiki_links.py` skips the `es/`
+  tree entirely, so the added Spanish links were verified by hand — a validator extension
+  is queued as a follow-up task.
 - **Driving page: primary sources linked for all four countries** (2026-08-17,
   [`transport/driving-and-adaptive-driving.md`](transport/driving-and-adaptive-driving.md),
   [`es/transport/driving-and-adaptive-driving.md`](es/transport/driving-and-adaptive-driving.md)):

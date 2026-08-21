@@ -30,6 +30,7 @@ Introduction to major U.S. disability and need-based benefits, how they work tog
 
 - [SSDI (Social Security Disability Insurance)](/benefits/us/ssdi): For people with work history
 - [SSI (Supplemental Security Income)](/benefits/us/ssi): For people with low income/assets
+- [Working While on Disability](/benefits/us/working-while-on-disability): How SSDI and SSI treat earnings, and how to try work without losing everything
 - [Medicaid](/benefits/us/medicaid): Health insurance for low-income people
 - [Medicare](/benefits/us/medicare): Health insurance for people 65+ or with certain disabilities
 - [ABLE Accounts](/benefits/us/able-accounts): Savings accounts for disabled people
@@ -55,6 +56,18 @@ Managing disability and financial hardship. Covers medical debt, credit issues, 
 
 What to do when you're denied benefits. Includes how to appeal, what evidence to gather, working with advocates, and understanding reconsideration, hearing, and appeals council levels.
 
+### [Proving Disability](/benefits/proving-disability)
+
+The evidence problem that runs through every system: how to document what you can and cannot do, and how to work with clinicians on records that hold up.
+
+### [Long-Term Disability Insurance](/benefits/long-term-disability-insurance)
+
+Private and employer LTD insurance: how it differs from government benefits, why claims get denied, and how to protect a claim in the US and Canada.
+
+### [Poverty and the Benefits Trap](/benefits/poverty-and-benefits-trap)
+
+How benefit rules can hold people in poverty through asset limits, marriage penalties, and earnings cliffs, and what people do about it.
+
 ---
 
 ## Quick Start: Finding Your Programs
@@ -76,6 +89,12 @@ You might qualify for [SSI →](/benefits/us/ssi)
 
 ### I was denied benefits
 [Benefit Denials & Appeals →](/benefits/benefit-denials-and-appeals)
+
+### I want to work without losing my benefits
+[Working While on Disability →](/benefits/us/working-while-on-disability)
+
+### I have disability insurance through my job
+[Long-Term Disability Insurance →](/benefits/long-term-disability-insurance)
 
 ### I live outside the U.S.
 [International Programs →](/benefits/international/benefits-overview)
@@ -146,11 +165,13 @@ Many disabled people want to work but are afraid of losing benefits. Important t
 **SSDI Work Incentives**:
 - Trial Work Period: 9 months where you can work and earn any amount without losing benefits
 - Expedited Reinstatement: If you lose benefits due to work, you can get them back quickly if work doesn't work out
-- Section 1619(b): Medicaid can continue even when SSDI stops due to work earnings
 
 **SSI Work Incentives**:
 - Plan to Achieve Self-Support (PASS): Set aside income/resources for work goal
 - Impairment Related Work Expenses (IRWE): Deduct disability-related work expenses
+- Section 1619(b): Medicaid can continue even when SSI cash payments stop because of earnings
+
+[Learn more →](/benefits/us/working-while-on-disability)
 
 **Medicaid Coverage**:
 - Medicaid won't automatically end if you work (understand "Medicaid Buy-In" in your state)
