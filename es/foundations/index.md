@@ -24,7 +24,7 @@ Ya sea que tengas una discapacidad recientemente, que apoyes a alguien que la ti
 
 ## Páginas de esta sección
 
-### [Bienvenida a DisabilityWiki](/es/foundations/how-to-use-this-wiki)
+### [Bienvenida a DisabilityWiki](/es/foundations/welcome)
 
 Tu punto de partida. Aprende a navegar por este recurso, qué funciones de accesibilidad están disponibles y las pautas comunitarias de este espacio.
 

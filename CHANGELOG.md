@@ -118,6 +118,13 @@ All notable changes to the Disability Wiki project are documented in this file.
   US and Europe.
 
 ### Changed
+- **Home page: direct entry point for newly disabled readers, EN + ES** (2026-08-18,
+  [`home.md`](home.md), [`es/home.md`](es/home.md)): the "Get Started" section offered
+  only conceptual paths (foundations overview, disability models). The adjusting page
+  exists because six pages funneled "newly disabled" readers toward nothing, and the
+  home page is the biggest funnel of all. It now opens Get Started with a direct
+  "Newly disabled?" line pointing at the adjusting page, in both languages.
+
 - **Section indexes caught up with the content; 1619(b) misplacement fixed** (2026-08-18,
   [`benefits/index.md`](benefits/index.md), [`transport/index.md`](transport/index.md),
   [`daily-living/index.md`](daily-living/index.md), [`foundations/index.md`](foundations/index.md),
