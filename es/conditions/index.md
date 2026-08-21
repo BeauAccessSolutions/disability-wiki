@@ -66,13 +66,13 @@ Afecciones que afectan a poblaciones pequeñas, a menudo con investigación limi
 
 Páginas más detalladas sobre afecciones individuales y experiencias transversales:
 
-### [Síndromes de Ehlers-Danlos (EDS)](/es/conditions/eds)
+### [Síndromes de Ehlers-Danlos (EDS)](/es/conditions/EDS)
 Un grupo de trastornos del tejido conectivo que afectan cómo tu cuerpo construye y mantiene la estructura que te sostiene. Cubre los tipos, el diagnóstico, las afecciones concurrentes y los recursos comunitarios.
 
-### [Síndrome de taquicardia postural ortostática (POTS)](/es/conditions/pots)
+### [Síndrome de taquicardia postural ortostática (POTS)](/es/conditions/POTS)
 Una forma de disautonomía que hace que tu frecuencia cardíaca aumente de manera excesiva cuando te pones de pie. Cubre los síntomas, el diagnóstico, el manejo y la vida con intolerancia ortostática.
 
-### [Síndrome de activación de los mastocitos (MCAS)](/es/conditions/mcas)
+### [Síndrome de activación de los mastocitos (MCAS)](/es/conditions/MCAS)
 Una condición en la que los mastocitos liberan sus sustancias químicas de forma inapropiada, causando reacciones similares a las alergias en varios sistemas del cuerpo. A menudo coexiste con el EDS y el POTS.
 
 ### [Agotamiento autista (autistic burnout)](/es/conditions/autistic-burnout)

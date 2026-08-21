@@ -66,13 +66,13 @@ Conditions affecting small populations, often with limited research, few special
 
 Deeper pages on individual conditions and cross-cutting experiences:
 
-### [Ehlers-Danlos Syndromes (EDS)](/conditions/eds)
+### [Ehlers-Danlos Syndromes (EDS)](/conditions/EDS)
 A group of connective tissue disorders affecting how your body builds and maintains the structure that holds you together. Covers types, diagnosis, comorbid conditions, and community resources.
 
-### [Postural Orthostatic Tachycardia Syndrome (POTS)](/conditions/pots)
+### [Postural Orthostatic Tachycardia Syndrome (POTS)](/conditions/POTS)
 A form of dysautonomia that causes your heart rate to increase excessively when you stand up. Covers symptoms, diagnosis, management, and living with orthostatic intolerance.
 
-### [Mast Cell Activation Syndrome (MCAS)](/conditions/mcas)
+### [Mast Cell Activation Syndrome (MCAS)](/conditions/MCAS)
 A condition where mast cells release their chemicals inappropriately, causing allergy-like reactions across multiple body systems. Often co-occurs with EDS and POTS.
 
 ### [Autistic Burnout](/conditions/autistic-burnout)
