@@ -94,11 +94,11 @@ In the U.S., substance use disorder in recovery is generally a protected disabil
 - Are participating in supervised treatment, including medication treatment
 - Are regarded (even wrongly) as having an addiction
 
-It does **not** protect current illegal drug use. Alcoholism is treated somewhat differently: people with alcohol use disorder are generally covered, though employers can hold everyone to the same conduct standards. The U.S. Department of Justice has also stated explicitly that the ADA protects people taking prescribed medication for opioid use disorder (methadone, buprenorphine), and it has taken enforcement action against treatment programs, courts, and employers that exclude them. See [Americans with Disabilities Act](/rights/us/ada).
+It does **not** protect current illegal drug use. Alcoholism is treated somewhat differently: people with alcohol use disorder are generally covered, though employers can hold everyone to the same conduct standards. The U.S. Department of Justice has also stated explicitly that the ADA protects people taking prescribed medication for opioid use disorder (methadone, buprenorphine, naltrexone), and it has taken enforcement action against treatment programs, courts, and employers that exclude them. See [Americans with Disabilities Act](/rights/us/ada).
 
 ### Recovery Takes Many Forms
 
-- **Medication for opioid use disorder (MOUD)**, meaning methadone and buprenorphine, is the evidence-based standard of care, not "replacing one addiction with another." People on MOUD are in recovery, full stop. Requiring people to come off these medications to access housing, treatment programs, or drug court is both bad medicine and, in many cases, illegal discrimination.
+- **Medication for opioid use disorder (MOUD)**, meaning methadone, buprenorphine, and naltrexone, is the evidence-based standard of care, not "replacing one addiction with another." People on MOUD are in recovery, full stop. Requiring people to come off these medications to access housing, treatment programs, or drug court is both bad medicine and, in many cases, illegal discrimination.
 - **Mutual aid:** AA, NA, and secular alternatives like SMART Recovery. Online and phone meetings, which expanded enormously after 2020, have made mutual aid radically more accessible to people who can't travel, can't sit through in-person meetings, or need captioning.
 - **Harm reduction:** meeting people where they are. Safer use supplies, naloxone, drug checking, and non-judgmental support. Harm reduction saves lives whether or not abstinence ever becomes the goal.
 
