@@ -27,6 +27,9 @@ El principio fundamental que recorre cada página: **"Nada Sobre Nosotros Sin No
 ### [Educadores](/es/professionals/educators)
 Crear entornos de aprendizaje genuinamente inclusivos mediante el Diseño Universal para el Aprendizaje, la enseñanza con perspectiva del trauma, presumir competencia y apoyar a estudiantes con marginación múltiple.
 
+### [Diseñar un curso accesible](/es/professionals/accessible-course-design)
+Una guía práctica complementaria para docentes: integrar el acceso en un curso o programa desde el inicio — modalidades, plazos flexibles, materiales accesibles y tratar las adaptaciones como un piso, no un techo.
+
 ### [Proveedores de atención médica](/es/professionals/healthcare-providers)
 Poner en el centro la autonomía y el acceso del paciente evitando el ensombrecimiento diagnóstico, prácticas de examen accesibles, comunicación entre distintos tipos de discapacidad y respeto a la autodeterminación.
 
@@ -44,6 +47,9 @@ Planificación de emergencias para toda la comunidad que incluye a las personas 
 
 ### [Agentes de seguridad pública](/es/professionals/public-safety-officers)
 Desescalada, estrategias de comunicación, reconocer la discapacidad frente a la intoxicación, evitar el uso de la fuerza y alternativas a la respuesta policial en crisis de salud mental.
+
+### [Funcionarios públicos](/es/professionals/public-officials)
+Atender a votantes con discapacidad — al menos entre el 15 y el 20 % de cada comunidad. Servicios accesibles para la ciudadanía, gestión de casos de beneficios y servicios, reuniones públicas y formulación de políticas con las personas con discapacidad en la mesa.
 
 ---
 

@@ -28,6 +28,14 @@ Making websites accessible. Covers WCAG standards, common barriers (images witho
 
 Accessibility in phones and operating systems. Covers screen readers (iOS, Android, Windows), magnification, voice control, keyboard navigation, and accessibility settings on different devices.
 
+### [Screen Reader Comparison Guide](/tech/screen-reader-comparison)
+
+Screen readers turn visual interfaces into audio and braille output. Compares JAWS, NVDA, VoiceOver, TalkBack, and Narrator — cost, platforms, strengths, and how to choose.
+
+### [Which Browsers Work Best With Assistive Technology](/tech/browsers-assistive-tech)
+
+Your browser choice affects how well your assistive technology works. What disabled users report about browser and screen reader pairings, and how to test what works for you.
+
 ### [Communication Access & AAC](/tech/communication-access-and-aac)
 
 Technology enabling communication for people who can't speak. Covers AAC devices (speech-generating devices), typing-based communication, visual supports, captions, and sign language interpretation.

@@ -38,6 +38,14 @@ Crisis hotlines by region: US, Canada, UK/Ireland, EU, Africa, Middle East, Sout
 
 **Note**: Crisis lines vary in accessibility. We've noted which lines offer text/chat, TTY/video relay, and other accommodations where known.
 
+Regional pages, with country-specific guides:
+
+- [Crisis Help: Africa](/crisis/crisis-hotlines/africa) — [Kenya](/crisis/crisis-hotlines/africa/kenya), [Nigeria](/crisis/crisis-hotlines/africa/nigeria), [South Africa](/crisis/crisis-hotlines/africa/south-africa)
+- [Crisis Help: Asia & Pacific](/crisis/crisis-hotlines/asian-pacific) — [Australia](/crisis/crisis-hotlines/asian-pacific/australia), [India](/crisis/crisis-hotlines/asian-pacific/india), [Indonesia](/crisis/crisis-hotlines/asian-pacific/indonesia), [Philippines](/crisis/crisis-hotlines/asian-pacific/philippines), [Thailand](/crisis/crisis-hotlines/asian-pacific/thailand)
+- [Crisis Help: Europe](/crisis/crisis-hotlines/europe) — [United Kingdom](/crisis/crisis-hotlines/europe/united-kingdom)
+- [Crisis Help: North America](/crisis/crisis-hotlines/north-america) — [Canada](/crisis/crisis-hotlines/north-america/canada), [Mexico](/crisis/crisis-hotlines/north-america/mexico), [United States](/crisis/crisis-hotlines/north-america/united-states)
+- [Crisis Help: South America](/crisis/crisis-hotlines/south-america) — [Argentina](/crisis/crisis-hotlines/south-america/argentina), [Brazil](/crisis/crisis-hotlines/south-america/brazil)
+
 ### [Crisis Support for Disabled People](/crisis/disabled-crisis-support)
 
 Disability-specific crisis resources including AAC-accessible lines, services for Deaf and hard-of-hearing people, crisis support during chronic illness flare-ups, navigating psychiatric vs. medical crises, and support when communication is limited.
@@ -46,9 +54,19 @@ Disability-specific crisis resources including AAC-accessible lines, services fo
 
 Resources for domestic violence, caregiver abuse, institutional abuse, and exploitation by guardians. Includes information on reporting safely when you're disabled, recognizing abuse in different care settings, and accessing support.
 
-### [Emergency & Disaster Preparedness](/crisis/emergency/emergency-preparedness)
+Two companion guides go deeper: [Recognizing Abuse: A Guide for Disabled People](/crisis/abuse/what-is-it) on patterns of abuse that specifically target disabled people, and [What Does Violence Look Like](/crisis/abuse/recognizing-violence), a visual and practical guide to violence that is often invisible.
+
+### [Emergency Preparedness & Safety Planning](/crisis/emergency/emergency-preparedness)
 
 Create a disability-specific emergency plan. Covers evacuation with mobility devices, backup power for medical equipment, service animal evacuation, emergency information cards, and preparing for different types of emergencies.
+
+### [Medical Emergency Cards & Info Sheets](/crisis/emergency/medical-cards)
+
+Medical emergency cards help first responders and emergency staff understand your disability and medical needs quickly when you can't communicate.
+
+### [Emergency and Disaster Preparedness](/crisis/emergency-disaster-preparedness)
+
+Planning for emergencies and climate-driven disasters, which are not experienced equally. Covers assessing your own risks, inaccessible evacuation, staying connected to mobility aids and medication, and organizing with your community.
 
 ---
 

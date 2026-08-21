@@ -22,6 +22,27 @@ All notable changes to the Disability Wiki project are documented in this file.
   (follow-up task spawned). Both trees now validate at 0 broken links.
 
 ### Added
+- **Index-parity backlog cleared; checker promoted to blocking** (2026-08-20, 18
+  section `index.md` files across EN + ES,
+  [`.github/workflows/ci.yml`](.github/workflows/ci.yml)): listed all ~99 pages the
+  parity checker still reported unlisted after PR #93, in each index's existing entry
+  style, in both languages — conditions (EDS/POTS/MCAS/autistic burnout/invisible-
+  fluctuating-episodic as a new "Specific Conditions" group), crisis (regional and
+  country hotline pages surfaced as a compact directory under Global Crisis Hotlines,
+  the two abuse sub-guides, both preparedness pages and medical cards now listed in
+  both locales, resolving an EN/ES asymmetry where each language linked a different
+  preparedness page), foundations (three identity/epistemic pages; the "Welcome"
+  entry had duplicated the how-to-use-this-wiki link and now points at
+  `/foundations/welcome`; the ES entry followed once the Spanish welcome
+  translation landed), glossary (the Technical Contribution Guide, which the
+  index had conflated with `/start/contribute`), healthcare (all seven bias/
+  navigation pages), history, professionals, rights (the three new self-advocacy
+  pages, with the index's inline "file a complaint"/"find legal aid" pointers
+  retargeted from the generic advocacy page to the dedicated ones), and tech. Every
+  added `/es/` link was verified against a file on disk (the link validator skips
+  `es/`). No allowlist entries were needed: every omission was drift, not curation.
+  With the checker at zero, the CI step flips from advisory to `--strict` blocking,
+  so an unlisted new page now fails the PR instead of drifting silently.
 - **Spanish translation of the foundations welcome page** (2026-08-20,
   [`es/foundations/welcome.md`](es/foundations/welcome.md)): closes the follow-up
   spawned by the validator fix above. The six links in
@@ -46,7 +67,6 @@ All notable changes to the Disability Wiki project are documented in this file.
   cleared; `--strict` exits nonzero for later promotion. The authoring skill gains a
   "Wire the page in" section so new pages get listed at creation time, including the
   warning that `validate_wiki_links.py` skips the `es/` tree entirely.
->>>>>>> origin/main
 - **Spanish translation of the pacing page** (2026-08-18,
   [`es/daily-living/pacing-and-energy-management.md`](es/daily-living/pacing-and-energy-management.md)):
   closes the last Spanish gap in `daily-living/`, which was the only English page in that
@@ -118,6 +138,22 @@ All notable changes to the Disability Wiki project are documented in this file.
   US and Europe.
 
 ### Changed
+- **Wrap-up fixes: YAML frontmatter gate + stale skill claim corrected** (2026-08-20,
+  `.claude/skills/spanish-wiki-translation/scripts/check_translation.py` + `.agents/` mirror,
+  `.claude/skills/disability-wiki-page/SKILL.md` + mirror): the translation validator now
+  parses each page's frontmatter with the same strictness as the site build, because an
+  unquoted colon in a translated description broke the build this session despite the rule
+  being documented — a gate at the moment of risk beats re-stated prose. Tested both
+  directions (clean page passes; unquoted colon flagged). Also corrected the page skill's
+  "Wire the page in" note, which still claimed `validate_wiki_links.py` skips the `es/`
+  tree; since #94 it validates Spanish links too.
+
+- **Home page: direct entry point for newly disabled readers, EN + ES** (2026-08-18,
+  [`home.md`](home.md), [`es/home.md`](es/home.md)): the "Get Started" section offered
+  only conceptual paths (foundations overview, disability models). The adjusting page
+  exists because six pages funneled "newly disabled" readers toward nothing, and the
+  home page is the biggest funnel of all. It now opens Get Started with a direct
+  "Newly disabled?" line pointing at the adjusting page, in both languages.
 - **Section indexes caught up with the content; 1619(b) misplacement fixed** (2026-08-18,
   [`benefits/index.md`](benefits/index.md), [`transport/index.md`](transport/index.md),
   [`daily-living/index.md`](daily-living/index.md), [`foundations/index.md`](foundations/index.md),

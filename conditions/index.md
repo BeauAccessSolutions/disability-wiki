@@ -62,6 +62,27 @@ Conditions affecting small populations, often with limited research, few special
 
 ---
 
+## Specific Conditions & Experiences
+
+Deeper pages on individual conditions and cross-cutting experiences:
+
+### [Ehlers-Danlos Syndromes (EDS)](/conditions/EDS)
+A group of connective tissue disorders affecting how your body builds and maintains the structure that holds you together. Covers types, diagnosis, comorbid conditions, and community resources.
+
+### [Postural Orthostatic Tachycardia Syndrome (POTS)](/conditions/POTS)
+A form of dysautonomia that causes your heart rate to increase excessively when you stand up. Covers symptoms, diagnosis, management, and living with orthostatic intolerance.
+
+### [Mast Cell Activation Syndrome (MCAS)](/conditions/MCAS)
+A condition where mast cells release their chemicals inappropriately, causing allergy-like reactions across multiple body systems. Often co-occurs with EDS and POTS.
+
+### [Autistic Burnout](/conditions/autistic-burnout)
+Chronic exhaustion, skill loss, and sensory overwhelm after too long pushing through and masking. It's not laziness, and recovery is possible.
+
+### [Invisible, Fluctuating, and Episodic Disabilities](/conditions/invisible-fluctuating-episodic)
+Systems designed around disability typically assume impairments are visible, constant, and stable. This page covers navigating benefits, work, and daily life when they aren't.
+
+---
+
 ## Understanding This Section
 
 ### Why "Conditions" and Not Just "Disabilities"?

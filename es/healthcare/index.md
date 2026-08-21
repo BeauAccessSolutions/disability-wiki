@@ -53,6 +53,34 @@ Manejo del dolor crónico y la fatiga. Cubre opciones de manejo del dolor (médi
 
 Asistentes de cuidado personal (PCA), enfermería domiciliaria, exenciones de servicios en el hogar y la comunidad (Home and Community-Based Services, HCBS), atención autodirigida y alternativas a la institucionalización.
 
+### [Cómo prepararte para el hospital como persona con discapacidad](/es/healthcare/hospital-preparation)
+
+Los hospitales están diseñados para la rapidez y los cuerpos normativos, no para pacientes con discapacidad. Qué empacar, cómo documentar tus necesidades, el acceso a la comunicación y cómo defenderte (o que alguien te defienda) durante una estadía.
+
+### [Reclamaciones y apelaciones de seguros](/es/healthcare/insurance-claims-appeals)
+
+Los sistemas de seguros están diseñados para ser complejos: navegar las reclamaciones y las apelaciones es una habilidad de supervivencia, no una falla personal. Orientación paso a paso para presentar reclamaciones, leer las denegaciones y ganar apelaciones.
+
+### [Entender el sesgo médico](/es/healthcare/medical-bias)
+
+Por qué ocurre el sesgo médico: la investigación sobre cómo la discapacidad, la raza, el género, el peso y otras identidades moldean la atención que reciben las personas. Para estrategias prácticas, consulta Luz de gas médica y trauma en la atención de salud.
+
+### [Cuando los médicos no te creen: navegar la invalidación médica](/es/healthcare/medical-dismissal)
+
+La invalidación médica ocurre cuando los proveedores descuentan, minimizan o se niegan a investigar los síntomas. Cómo reconocerla, documentarla y lograr que te tomen en serio.
+
+### [Luz de gas médica y trauma en la atención de salud](/es/healthcare/medical-gaslighting)
+
+Reconocimiento práctico, sanación y autodefensa después de haber sido invalidada/o o dañada/o en la atención médica. Para un análisis más profundo de por qué ocurren estos patrones, consulta Entender el sesgo médico.
+
+### [Trauma de los sistemas, no de las condiciones](/es/healthcare/systemic-trauma)
+
+Las personas con discapacidad a menudo viven trauma, pero no a causa de sus discapacidades. Sobre el trauma que crean los sistemas que se supone deben ayudar, y cómo se ve la sanación del daño sistémico.
+
+### [Sesgo de peso y discapacidad](/es/healthcare/weight-bias)
+
+Las personas gordas con discapacidad enfrentan una discriminación combinada. El sesgo de peso en la atención de salud lleva a diagnósticos no detectados, tratamientos tardíos y peores resultados — y hay maneras de resistirlo.
+
 ---
 
 ## Inicio rápido: encontrar atención médica

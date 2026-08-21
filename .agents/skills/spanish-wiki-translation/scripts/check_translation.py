@@ -75,6 +75,31 @@ def check_file(path: Path) -> list[str]:
     return warnings
 
 
+def check_frontmatter(text: str) -> list[str]:
+    """The site build uses a strict YAML parser: an unquoted colon in
+    title/description fails the whole build (hit 2026-08-18 on the pacing
+    translation). Catch it here instead of at deploy time."""
+    warns: list[str] = []
+    if not text.startswith("---\n"):
+        return ["no frontmatter block"]
+    end = text.find("\n---", 4)
+    if end == -1:
+        return ["unterminated frontmatter"]
+    block = text[4:end]
+    try:
+        import yaml
+        yaml.safe_load(block)
+    except ImportError:
+        for line in block.splitlines():
+            key, sep, val = line.partition(":")
+            v = val.strip()
+            if sep and ":" in v and not v.startswith(('"', "'")):
+                warns.append(f"frontmatter '{key.strip()}': unquoted colon in value — quote it")
+    except Exception as exc:
+        warns.append(f"frontmatter does not parse as YAML: {exc}")
+    return warns
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("files", nargs="*", help="es/ markdown files to check")
@@ -96,7 +121,7 @@ def main() -> int:
             print(f"✗ {p}: file not found")
             total += 1
             continue
-        warns = check_file(p)
+        warns = check_frontmatter(p.read_text(errors="replace")) + check_file(p)
         if warns:
             total += len(warns)
             print(f"✗ {p}")

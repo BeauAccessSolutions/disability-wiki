@@ -68,3 +68,29 @@ Searchable history of failures worth remembering, so cross-session patterns surf
 - **`~/.claude/shared/LESSONS.md` is 435 entry-lines against a 320 budget** — over by 115 even after a prune earlier in the session. → Not pruned here: adding an entry and then pruning the same file in one pass is how peer sessions' work gets clobbered. Recommended `/prune-lessons` as a separate pass.
 
 ---
+## Session: 2026-08-20
+
+**Project:** disability-wiki (content wave: outreach-mining → LTD/Tier-1 pages → index sync → parity tooling)
+
+### Failures
+- [grep, zsh]: multi-file scan passed filenames in one unquoted var — zsh doesn't word-split, so grep searched a nonexistent single file and the `|| echo "none found"` fallback masked the error as a clean result → caught via ugrep's warning line; re-ran with explicit paths. The `|| echo` pattern defeats null-result guards.
+- [background merge script]: printed "MERGED-90" unconditionally after `gh pr merge` while the merge had actually failed on a conflict → all later merges verified via `gh pr view --json state` (API confirm), never the command's own output.
+- [gh pr merge --delete-branch]: merging #88 deleted the base branch of stacked #89, which GitHub auto-closed with no retarget possible → replacement PR #91 from the surviving branch. Check for stacked PRs before deleting a base.
+- [live probe]: curl without -L on a site that 308-redirects to trailing slashes → permanent false-negative "not live" loop for a deployed page (also logged in memory).
+- [astro build]: read "N pages built" as a per-file tally and a stale dist/ entry as proof of build success while the build had errored on YAML → check build exit/errors; dist presence only counts on a build that succeeded.
+- [es frontmatter]: unquoted colon in a translated description broke the strict-YAML build — the edit skill documents this rule and it was missed anyway → mechanical gate added to check_translation.py this session.
+- [validator blind spot]: asserted "0 broken links" repeatedly while validate_wiki_links.py silently excluded the whole es/ tree → manual target checks covered it; gap closed properly by PR #94 (60 broken es links found).
+
+---
+## Session: 2026-08-21
+
+**Project:** disability-wiki (es welcome translation, PR #96)
+
+### Failures
+- [task premise vs repo]: the task said the validator "now validates es/" and that six links had been retargeted to English — neither was on main or this branch at the time, so I reported the premise as wrong. Both were in a peer's open PR (#94) that merged mid-session → surfaced as a CHANGELOG merge conflict; retargeted the six links in the merge commit. Check `gh pr list` when the repo contradicts the task description.
+- [validate_wiki_links.py]: relied on `--strict` to vouch for es/ links while it still excluded the tree → ad-hoc es-link resolution check + full build until the es-aware validator landed via the merge.
+- [npm run build / cd site]: persisted cwd made `cd site` fail and `ls site/dist/...` miss; first build failed with `astro: command not found` in the fresh worktree → `npm ci` then build, paths relative to cwd.
+- [gh pr merge]: first attempt blocked by a CHANGELOG `[Unreleased]` conflict with main → merged origin/main, kept both entries, re-ran CI; the second attempt found the PR already merged by a peer/Zach — confirmed via `gh pr view --json state`.
+- [live probe, repeat]: bare `curl -o /dev/null -w %{http_code}` looped on 308 for a deployed page — the same trailing-slash trap already in memory and the previous session's log → `curl -sL`; fix graduated into the disability-wiki-edit checklist this session.
+
+---

@@ -59,6 +59,12 @@ Fechas e hitos clave en la historia de la discapacidad en distintos países y re
 ### [La discapacidad en la historia de los medios](/es/history/disability-in-media-history)
 Cómo las personas con discapacidad han sido representadas —y tergiversadas— en los medios a lo largo del tiempo, y cómo las creadoras y creadores con discapacidad han contado sus propias historias.
 
+### [Historia y cultura sorda](/es/history/deaf-history-culture)
+La historia sorda es historia de la comunidad de la discapacidad. Cubre las lenguas de señas, las escuelas y comunidades sordas, la lucha contra el oralismo y la comunidad de la discapacidad más antigua y más desarrollada culturalmente.
+
+### [Las adaptaciones a lo largo de la historia](/es/history/accommodations)
+Adaptaciones específicas y concretas que las personas con discapacidad han usado y que las comunidades han provisto a lo largo de la historia, mucho antes de que la adaptación fuera una categoría legal.
+
 ---
 
 ## Cómo usar esta sección
