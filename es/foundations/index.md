@@ -44,6 +44,10 @@ Comprende los principales marcos para pensar la discapacidad: el modelo médico,
 
 Aprende por qué el lenguaje importa. Aborda el lenguaje centrado en la identidad frente al centrado en la persona, los términos que conviene evitar, el lenguaje culturalmente específico de las comunidades Sorda, autista, usuaria de CAA y Loca (Mad), y cómo el lenguaje refleja el poder y la autonomía.
 
+### [Adaptarse a una discapacidad adquirida recientemente](/es/foundations/adjusting-to-acquired-disability)
+
+Para los primeros meses después de quedar con una discapacidad: el duelo sin guion, el papeleo que llega en el peor momento y cómo las personas vuelven a encontrar su lugar.
+
 ### [Cultura de la discapacidad](/es/foundations/disability-culture)
 
 La discapacidad no es solo una condición médica: es una cultura. Explora las artes de la discapacidad, las tradiciones comunitarias, las culturas en línea y fuera de línea, la historia colectiva, los símbolos y lo que significa el orgullo de la discapacidad.
@@ -57,7 +61,7 @@ Si apoyas a personas con discapacidad, aprende a escuchar, a defender sus derech
 ## Enlaces rápidos según tu necesidad
 
 **Tengo una discapacidad reciente y me siento abrumado/a**
-Comienza con [¿Qué es la discapacidad?](/es/foundations/what-is-disability) y [Lenguaje, terminología e identidad](/es/foundations/language-terminology-identity)
+Comienza con [Adaptarse a una discapacidad adquirida recientemente](/es/foundations/adjusting-to-acquired-disability), y luego [¿Qué es la discapacidad?](/es/foundations/what-is-disability) y [Lenguaje, terminología e identidad](/es/foundations/language-terminology-identity)
 
 **Quiero apoyar a una persona con discapacidad**
 Lee [Para personas aliadas](/es/foundations/for-allies) y [Cultura de la discapacidad](/es/foundations/disability-culture)

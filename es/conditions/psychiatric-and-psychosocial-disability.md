@@ -251,8 +251,8 @@ Trastornos por consumo de sustancias, trastorno esquizoafectivo, trastornos de a
 - Los programas de apoyo entre pares están creciendo, pero no están disponibles en todas partes
 
 **Prestaciones**:
-- [SSDI](/es/benefits/us-ssdi.md) y [SSI](/es/benefits/us-ssi.md) para discapacidades psiquiátricas
-- [Medicaid](/es/benefits/us-medicaid.md) cubre los servicios de salud mental
+- [SSDI](/es/benefits/us/ssdi) y [SSI](/es/benefits/us/ssi) para discapacidades psiquiátricas
+- [Medicaid](/es/benefits/us/medicaid) cubre los servicios de salud mental
 - Medicare cubre la salud mental con copagos
 - FMLA para licencia por salud mental
 
@@ -286,7 +286,7 @@ Trastornos por consumo de sustancias, trastorno esquizoafectivo, trastornos de a
 **Prestaciones**:
 - Programas provinciales de asistencia por discapacidad
 - Canada Pension Plan Disability
-- Consulta [Prestaciones en Canadá](/es/benefits/canada-benefits.md)
+- Consulta [Prestaciones en Canadá](/es/benefits/canada/benefits)
 
 **Derechos**:
 - Protecciones de derechos humanos para las condiciones de salud mental
@@ -312,7 +312,7 @@ Trastornos por consumo de sustancias, trastorno esquizoafectivo, trastornos de a
 - Personal Independence Payment (PIP): las condiciones psiquiátricas pueden calificar
 - Universal Credit o Employment and Support Allowance
 - Access to Work para adaptaciones en el empleo
-- Consulta [Prestaciones en el Reino Unido](/es/benefits/uk-benefits.md)
+- Consulta [Prestaciones en el Reino Unido](/es/benefits/united-kingdom/benefits)
 
 **Derechos**:
 - La Mental Health Act rige el tratamiento involuntario
@@ -339,7 +339,7 @@ Trastornos por consumo de sustancias, trastorno esquizoafectivo, trastornos de a
 - La discapacidad psicosocial es una categoría elegible
 - Puede financiar personas de apoyo, terapia y apoyo al empleo
 - La elegibilidad requiere una discapacidad "permanente", lo cual es controvertido para condiciones que pueden fluctuar o tener recuperación
-- Consulta [Prestaciones en Australia](/es/benefits/australia-benefits.md)
+- Consulta [Prestaciones en Australia](/es/benefits/australia/benefits)
 
 **Derechos**:
 - Leyes de salud mental de cada estado/territorio
@@ -487,7 +487,7 @@ Si no puedes trabajar debido a una discapacidad psiquiátrica:
 - Las apelaciones son comunes: no te rindas tras la primera denegación
 - Tu valor no se determina por tu capacidad de trabajo
 
-Consulta [Prestaciones](/es/benefits/index.md), [SSDI](/es/benefits/us-ssdi.md), [SSI](/es/benefits/us-ssi.md).
+Consulta [Prestaciones](/es/benefits/index.md), [SSDI](/es/benefits/us/ssdi), [SSI](/es/benefits/us/ssi).
 
 ---
 

@@ -42,7 +42,7 @@ Cómo encontrar vivienda accesible, evaluar características de accesibilidad, u
 Tus protecciones legales: comienzan con los marcos internacionales (artículo 19 de la CDPD) que se aplican a nivel global, y luego se organizan por país o región (EE. UU., Canadá, UE, Reino Unido, Australia y otros). Encuentra tu ubicación y conoce qué derechos existen, cómo hacerlos valer y dónde obtener ayuda. Consulta también: [Derechos internacionales de vivienda](/es/housing/international-housing-rights.md) para profundizar en los marcos globales.
 
 **[Modificaciones del hogar](/es/housing/home-modifications.md)**
-Cómo financiar modificaciones, qué programas cubren los costos (incluidos [Medicaid](/es/benefits/us-medicaid.md) y [prestaciones para veteranos](/es/benefits/us-veterans-benefits.md)), beneficios fiscales, cómo encontrar contratistas calificados y cómo solicitar modificaciones como inquilino.
+Cómo financiar modificaciones, qué programas cubren los costos (incluidos [Medicaid](/es/benefits/us/medicaid) y [prestaciones para veteranos](/es/benefits/us/veterans-benefits)), beneficios fiscales, cómo encontrar contratistas calificados y cómo solicitar modificaciones como inquilino.
 
 **[Derechos de los inquilinos con discapacidad](/es/housing/tenants-rights-with-disabilities.md)**
 Solicitar adaptaciones razonables, animales de servicio y animales de apoyo (consulta también [Animales de servicio](/es/transport/service-animals.md)), enfrentar incumplimientos y protegerte del desalojo. Hace referencia a [Derechos de vivienda](/es/housing/housing-rights.md).

@@ -6,17 +6,47 @@ All notable changes to the Disability Wiki project are documented in this file.
 
 ## [Unreleased]
 
+### Fixed
+- **Link validator now checks Spanish pages; 60 broken es/ links repaired** (2026-08-20,
+  [`scripts/validate_wiki_links.py`](scripts/validate_wiki_links.py), 12 `es/` pages):
+  the validator excluded `es/` entirely, so a broken `/es/*` link shipped silently past
+  the `--strict` CI merge gate — confirmed empirically with a link to a nonexistent es
+  page that validated clean. The validator now scans `es/` as a separate tree with its
+  own report section and totals (the English 0-broken baseline stays comparable), and
+  `--strict` fails on broken links in either tree; `/es/<path>` resolves to
+  `es/<path>.md` while `/<path>` links from es pages resolve to the English tree. The
+  new check surfaced 60 pre-existing broken Spanish links, all fixed: 54 stale flat
+  Wiki.js-era slugs (`/es/benefits/us-ssi.md` → `/es/benefits/us/ssi`, etc., mostly in
+  `es/conditions/`) and 6 links to the never-translated `/es/foundations/welcome`,
+  retargeted to the English `/foundations/welcome` until a Spanish translation lands
+  (follow-up task spawned). Both trees now validate at 0 broken links.
+
 ### Added
 - **Spanish translation of the foundations welcome page** (2026-08-20,
-  [`es/foundations/welcome.md`](es/foundations/welcome.md)): six links in
+  [`es/foundations/welcome.md`](es/foundations/welcome.md)): closes the follow-up
+  spawned by the validator fix above. The six links in
   [`es/start/faq.md`](es/start/faq.md) and
   [`es/start/disability-culture--pride.md`](es/start/disability-culture--pride.md)
-  already pointed at `/es/foundations/welcome`, so Spanish readers following any of
-  them landed on a missing page. Translated with the project glossary and
-  conventions (English slugs, `/es/` link rewriting, sentence-case headings); every
-  internal `/es/` link on the new page was checked to resolve — the strict link
-  validator excludes the `es/` tree, so this was verified with an ad-hoc check plus
-  a full site build.
+  that were interim-retargeted to the English `/foundations/welcome` now point back
+  to `/es/foundations/welcome`. Translated with the project glossary and conventions
+  (English slugs, `/es/` link rewriting, sentence-case headings); verified with the
+  now es-aware `validate_wiki_links.py --strict` plus a full site build.
+- **Index-parity checker + page-wiring step in the authoring skill** (2026-08-18,
+  [`scripts/check_index_parity.py`](scripts/check_index_parity.py),
+  [`scripts/index_parity_allowlist.txt`](scripts/index_parity_allowlist.txt),
+  [`.github/workflows/ci.yml`](.github/workflows/ci.yml),
+  `.claude/skills/disability-wiki-page/SKILL.md` + its `.agents/` mirror): the sidebar
+  autogenerates but section `index.md` pages do not, and nothing noticed the drift —
+  seven pages were found unlisted on 2026-08-18, and the new checker's first full scan
+  found roughly 115 unlisted pages across EN and ES. The checker diffs every index
+  against the pages on disk using nearest-index ownership (sub-indexes own their
+  subtrees), normalizes legacy `.md`-suffixed links and the `Rights/`-vs-`/rights/`
+  case split, skips drafts, and supports an explicit allowlist for deliberately
+  curated hubs. Wired into CI as advisory (like the a11y check) until the backlog is
+  cleared; `--strict` exits nonzero for later promotion. The authoring skill gains a
+  "Wire the page in" section so new pages get listed at creation time, including the
+  warning that `validate_wiki_links.py` skips the `es/` tree entirely.
+>>>>>>> origin/main
 - **Spanish translation of the pacing page** (2026-08-18,
   [`es/daily-living/pacing-and-energy-management.md`](es/daily-living/pacing-and-energy-management.md)):
   closes the last Spanish gap in `daily-living/`, which was the only English page in that
@@ -88,6 +118,20 @@ All notable changes to the Disability Wiki project are documented in this file.
   US and Europe.
 
 ### Changed
+- **Section indexes caught up with the content; 1619(b) misplacement fixed** (2026-08-18,
+  [`benefits/index.md`](benefits/index.md), [`transport/index.md`](transport/index.md),
+  [`daily-living/index.md`](daily-living/index.md), [`foundations/index.md`](foundations/index.md),
+  and their `es/` counterparts): the sidebar autogenerates, but the hand-written section
+  indexes had drifted — none of the recent pages (Working While on Disability, LTD,
+  parking placards, adjusting to acquired disability) were listed, and neither were three
+  older ones (`proving-disability`, `poverty-and-benefits-trap`, `mobility-aid-stigma`).
+  All seven added in both languages, with quick-start entries, and the foundations
+  "newly disabled and feeling overwhelmed" quick link now leads with the adjusting page.
+  One factual correction rode along in both languages: the benefits index listed Section
+  1619(b) under SSDI work incentives, but it is an SSI provision (per the SSA Red Book);
+  moved and reworded. Also noted for the record: `validate_wiki_links.py` skips the `es/`
+  tree entirely, so the added Spanish links were verified by hand — a validator extension
+  is queued as a follow-up task.
 - **Driving page: primary sources linked for all four countries** (2026-08-17,
   [`transport/driving-and-adaptive-driving.md`](transport/driving-and-adaptive-driving.md),
   [`es/transport/driving-and-adaptive-driving.md`](es/transport/driving-and-adaptive-driving.md)):

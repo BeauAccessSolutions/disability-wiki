@@ -44,6 +44,10 @@ Understand the major frameworks for thinking about disability: Medical Model, So
 
 Learn why language matters. Covers identity-first vs. person-first language, terms to avoid, culturally specific language from Deaf, Autistic, AAC-using, and Mad communities, and how language reflects power and autonomy.
 
+### [Adjusting to a Newly Acquired Disability](/foundations/adjusting-to-acquired-disability)
+
+For the first months after becoming disabled: grief without a script, the paperwork arriving at the worst time, and how people find their footing again.
+
 ### [Disability Culture](/foundations/disability-culture)
 
 Disability is not just a medical condition—it's a culture. Explore disability arts, community traditions, online and offline cultures, collective history, symbols, and what disability pride means.
@@ -57,7 +61,7 @@ If you're supporting disabled people, learn how to listen, advocate, and avoid c
 ## Quick Links by Need
 
 **I'm newly disabled and feeling overwhelmed**
-Start with [What Is Disability?](/foundations/what-is-disability) and [Language, Terminology & Identity](/foundations/language-terminology-identity)
+Start with [Adjusting to a Newly Acquired Disability](/foundations/adjusting-to-acquired-disability), then [What Is Disability?](/foundations/what-is-disability) and [Language, Terminology & Identity](/foundations/language-terminology-identity)
 
 **I want to support a disabled person**
 Read [For Allies](/foundations/for-allies) and [Disability Culture](/foundations/disability-culture)

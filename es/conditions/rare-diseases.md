@@ -249,7 +249,7 @@ Para condiciones muy raras, puede no haber una comunidad organizada:
 **Prestaciones**:
 - Las enfermedades raras pueden calificar para prestaciones por discapacidad
 - Documenta las limitaciones funcionales
-- Consulta [SSDI](/es/benefits/us-ssdi.md), [SSI](/es/benefits/us-ssi.md)
+- Consulta [SSDI](/es/benefits/us/ssdi), [SSI](/es/benefits/us/ssi)
 
 **Organizaciones**:
 - **NORD (National Organization for Rare Disorders)**: Defensa, educación, programas para pacientes
@@ -272,7 +272,7 @@ Para condiciones muy raras, puede no haber una comunidad organizada:
 
 **Prestaciones**:
 - Programas provinciales de discapacidad
-- Consulta [Prestaciones en Canadá](/es/benefits/canada-benefits.md)
+- Consulta [Prestaciones en Canadá](/es/benefits/canada/benefits)
 
 **Organizaciones**:
 - **Canadian Organization for Rare Disorders (CORD)**
@@ -295,7 +295,7 @@ Para condiciones muy raras, puede no haber una comunidad organizada:
 
 **Prestaciones**:
 - PIP para enfermedades raras que causan limitaciones funcionales
-- Consulta [Prestaciones en el Reino Unido](/es/benefits/uk-benefits.md)
+- Consulta [Prestaciones en el Reino Unido](/es/benefits/united-kingdom/benefits)
 
 **Organizaciones**:
 - **Genetic Alliance UK**
@@ -329,7 +329,7 @@ Para condiciones muy raras, puede no haber una comunidad organizada:
 - Rare Diseases Action Plan
 - National Strategic Action Plan for Rare Diseases en proceso de implementación
 
-**NDIS**: Puede cubrir apoyos para enfermedades raras con un impacto significativo. Consulta [Prestaciones en Australia](/es/benefits/australia-benefits.md).
+**NDIS**: Puede cubrir apoyos para enfermedades raras con un impacto significativo. Consulta [Prestaciones en Australia](/es/benefits/australia/benefits).
 
 **Organizaciones**:
 - **Rare Voices Australia**
