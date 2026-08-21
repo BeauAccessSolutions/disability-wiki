@@ -7,6 +7,16 @@ All notable changes to the Disability Wiki project are documented in this file.
 ## [Unreleased]
 
 ### Added
+- **Spanish translation of the foundations welcome page** (2026-08-20,
+  [`es/foundations/welcome.md`](es/foundations/welcome.md)): six links in
+  [`es/start/faq.md`](es/start/faq.md) and
+  [`es/start/disability-culture--pride.md`](es/start/disability-culture--pride.md)
+  already pointed at `/es/foundations/welcome`, so Spanish readers following any of
+  them landed on a missing page. Translated with the project glossary and
+  conventions (English slugs, `/es/` link rewriting, sentence-case headings); every
+  internal `/es/` link on the new page was checked to resolve — the strict link
+  validator excludes the `es/` tree, so this was verified with an ad-hoc check plus
+  a full site build.
 - **Spanish translation of the pacing page** (2026-08-18,
   [`es/daily-living/pacing-and-energy-management.md`](es/daily-living/pacing-and-energy-management.md)):
   closes the last Spanish gap in `daily-living/`, which was the only English page in that
