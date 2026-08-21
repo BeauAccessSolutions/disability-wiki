@@ -344,7 +344,7 @@ Sigue intentándolo. Pide recomendaciones de profesionales en comunidades de pac
 
 ### "Me cortaron mi medicamento para el dolor"
 
-Esto está ocurriendo debido a las restricciones de opioides. Pregunta por alternativas. Consigue una derivación a un especialista en dolor. Considera una persona defensora de pacientes. Conoce tus derechos: la reducción debe ser gradual y con tu participación.
+Esto está ocurriendo debido a las restricciones de opioides. Pregunta por alternativas. Consigue una derivación a un especialista en dolor. Considera una persona defensora de pacientes. Conoce tus derechos: la reducción debe ser gradual y con tu participación. Para el panorama completo —reducciones forzadas de dosis, dependencia versus adicción, la guía vigente de los CDC y la FDA, y qué hacer— ver [Consumo de sustancias, adicción y discapacidad](/es/healthcare/substance-use-and-addiction).
 
 ### "Sigo forzándome y colapsando"
 
