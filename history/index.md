@@ -59,6 +59,18 @@ Key dates and milestones in disability history across different countries and re
 ### [Disability in Media History](/history/disability-in-media-history)
 How disabled people have been represented—and misrepresented—in media over time, and how disabled creators have told their own stories. 
 
+### [Deaf History & Culture](/history/deaf-history-culture)
+Deaf history is disability community history. Covers sign languages, Deaf schools and communities, the fight against oralism, and the oldest and most culturally developed disability community.
+
+### [The Iron Lung and the Polio Survivor Movement](/history/iron-lung)
+How the iron lung created a population that had not existed before, who controlled access to it, and how polio survivors built the foundations of the independent living movement.
+
+### [The Political Economy of Disability](/history/political-economy)
+How states across capitalist, social-democratic, state-socialist, and post-colonial systems have structured disabled people's lives through productivity norms, institutions, welfare design, sub-waged labor, and classification.
+
+### [Accommodations Throughout History](/history/accommodations)
+Specific, concrete accommodations disabled people have used and communities have provided across history—long before accommodation became a legal category.
+
 ---
 
 ## How to Use This Section

@@ -38,6 +38,14 @@ Líneas de crisis por región: EE. UU., Canadá, Reino Unido/Irlanda, la UE, Áf
 
 **Nota**: Las líneas de crisis varían en accesibilidad. Hemos indicado cuáles ofrecen texto/chat, TTY/relevo de video y otras adaptaciones cuando se conocen.
 
+Páginas regionales, con guías específicas por país:
+
+- [Ayuda en crisis: África](/es/crisis/crisis-hotlines/africa) — [Kenia](/es/crisis/crisis-hotlines/africa/kenya), [Nigeria](/es/crisis/crisis-hotlines/africa/nigeria), [Sudáfrica](/es/crisis/crisis-hotlines/africa/south-africa)
+- [Ayuda en crisis: Asia y el Pacífico](/es/crisis/crisis-hotlines/asian-pacific) — [Australia](/es/crisis/crisis-hotlines/asian-pacific/australia), [India](/es/crisis/crisis-hotlines/asian-pacific/india), [Indonesia](/es/crisis/crisis-hotlines/asian-pacific/indonesia), [Filipinas](/es/crisis/crisis-hotlines/asian-pacific/philippines), [Tailandia](/es/crisis/crisis-hotlines/asian-pacific/thailand)
+- [Ayuda en crisis: Europa](/es/crisis/crisis-hotlines/europe) — [Reino Unido](/es/crisis/crisis-hotlines/europe/united-kingdom)
+- [Ayuda en crisis: América del Norte](/es/crisis/crisis-hotlines/north-america) — [Canadá](/es/crisis/crisis-hotlines/north-america/canada), [México](/es/crisis/crisis-hotlines/north-america/mexico), [Estados Unidos](/es/crisis/crisis-hotlines/north-america/united-states)
+- [Ayuda en crisis: América del Sur](/es/crisis/crisis-hotlines/south-america) — [Argentina](/es/crisis/crisis-hotlines/south-america/argentina), [Brasil](/es/crisis/crisis-hotlines/south-america/brazil)
+
 ### [Apoyo en crisis para personas con discapacidad](/es/crisis/disabled-crisis-support)
 
 Recursos de crisis específicos para la discapacidad, incluidas líneas accesibles con AAC, servicios para personas sordas y con dificultades auditivas, apoyo en crisis durante los brotes de enfermedad crónica, cómo distinguir entre crisis psiquiátricas y médicas, y apoyo cuando la comunicación es limitada.
@@ -46,9 +54,19 @@ Recursos de crisis específicos para la discapacidad, incluidas líneas accesibl
 
 Recursos sobre violencia doméstica, abuso de la persona cuidadora, abuso institucional y explotación por parte de tutores. Incluye información sobre cómo denunciar de forma segura cuando eres una persona con discapacidad, cómo reconocer el abuso en distintos entornos de cuidado y cómo acceder a apoyo.
 
-### [Preparación para emergencias y desastres](/es/crisis/emergency-disaster-preparedness)
+Dos guías complementarias profundizan en el tema: [Reconocer el abuso: una guía para personas con discapacidad](/es/crisis/abuse/what-is-it), sobre los patrones de abuso dirigidos específicamente a las personas con discapacidad, y [¿Cómo se ve la violencia?](/es/crisis/abuse/recognizing-violence), una guía visual y práctica sobre la violencia que a menudo es invisible.
+
+### [Preparación para emergencias y planificación de seguridad](/es/crisis/emergency/emergency-preparedness)
 
 Crea un plan de emergencia específico para la discapacidad. Cubre la evacuación con dispositivos de movilidad, la energía de respaldo para el equipo médico, la evacuación del animal de servicio, las tarjetas de información de emergencia y la preparación para distintos tipos de emergencias.
+
+### [Tarjetas médicas de emergencia e información](/es/crisis/emergency/medical-cards)
+
+Las tarjetas médicas de emergencia ayudan al personal de primeros auxilios y de emergencias a entender rápidamente tu discapacidad y tus necesidades médicas cuando no puedes comunicarte.
+
+### [Preparación para emergencias y desastres](/es/crisis/emergency-disaster-preparedness)
+
+Planificación para emergencias y desastres provocados por el clima, que no se viven por igual. Cubre cómo evaluar tus propios riesgos, la evacuación inaccesible, cómo mantenerte con tus ayudas de movilidad y medicamentos, y cómo organizarte con tu comunidad.
 
 ---
 

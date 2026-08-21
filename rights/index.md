@@ -44,6 +44,18 @@ Rights frameworks outside the U.S., including CRPD, Marrakesh Treaty (copyright 
 
 How to advocate for your rights: filing ADA complaints, Section 504 complaints, Fair Housing complaints, workplace discrimination claims. Includes working with legal aid, organizing strategies, and disability justice principles.
 
+### [Filing a Disability Complaint](/rights/filing-a-disability-complaint)
+
+If your disability rights are violated, you have options. Which agency handles which kind of complaint, what to include, deadlines to watch, and what happens after you file.
+
+### [Finding Legal Aid](/rights/finding-legal-aid)
+
+Legal help is often available for free or low cost if you're pursuing disability rights violations. Where to look: legal aid organizations, protection and advocacy systems, pro bono programs, and law school clinics.
+
+### [Why Sign Language Interpreters Are Needed](/rights/sign-language-interpreters)
+
+Healthcare providers, employers, educators, and public services routinely deny interpreter requests, offering written notes or lip-reading instead. Why those "alternatives" fail, and the legal basis for insisting on interpreters.
+
 ---
 
 ## Detailed Law Pages
@@ -125,7 +137,7 @@ Different agencies handle complaints depending on the law:
 
 **IDEA Complaints**: File with your state Department of Education.
 
-[Step-by-step guide to filing →](/rights/advocacy-and-self-advocacy)
+[Step-by-step guide to filing →](/rights/filing-a-disability-complaint)
 
 ---
 
@@ -171,7 +183,7 @@ You don't need to hire a lawyer. Resources include:
 - **Law school clinics**: Law students supervised by professors
 - **State bar associations**: Can connect you with resources
 
-[Find legal aid in your area →](/rights/advocacy-and-self-advocacy)
+[Find legal aid in your area →](/rights/finding-legal-aid)
 
 ---
 

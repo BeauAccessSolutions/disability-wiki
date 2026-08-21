@@ -24,9 +24,9 @@ Whether you're newly disabled, supporting someone who is, researching for profes
 
 ## Pages in This Section
 
-### [Welcome to DisabilityWiki](/foundations/how-to-use-this-wiki)
+### [Welcome to DisabilityWiki](/foundations/welcome)
 
-Your starting point. Learn how to navigate this resource, what accessibility features are available, and community guidelines for this space.
+Your starting point. An introduction to what this project is, who it's for, and how it's built.
 
 ### [How to Use This Wiki](/foundations/how-to-use-this-wiki)
 
@@ -43,6 +43,18 @@ Understand the major frameworks for thinking about disability: Medical Model, So
 ### [Language, Terminology & Identity](/foundations/language-terminology-identity)
 
 Learn why language matters. Covers identity-first vs. person-first language, terms to avoid, culturally specific language from Deaf, Autistic, AAC-using, and Mad communities, and how language reflects power and autonomy.
+
+### [Disability Identity and Visibility](/foundations/disability-identity)
+
+What does it mean to be disabled? When do you "count"? Who decides? On claiming (or not claiming) disability identity, visibility, and gatekeeping.
+
+### [Epistemic Injustice in Disability](/foundations/epistemic-injustice)
+
+Why disabled people are so often disbelieved or left without words for their own experience — the concepts of testimonial and hermeneutical injustice, and how they show up in healthcare and daily life.
+
+### [Handling Inappropriate and Intrusive Questions](/foundations/handling-intrusive-questions)
+
+Disabled people are treated as public property — strangers ask questions they'd never ask non-disabled people. Scripts and strategies for deciding what to share, deflecting, and setting boundaries.
 
 ### [Adjusting to a Newly Acquired Disability](/foundations/adjusting-to-acquired-disability)
 

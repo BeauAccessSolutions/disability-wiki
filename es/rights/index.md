@@ -44,6 +44,18 @@ Marcos de derechos fuera de EE. UU., incluidos la CDPD, el Tratado de Marrakech 
 
 Cómo defender tus derechos: presentar quejas bajo la ADA, quejas bajo la Sección 504, quejas de vivienda justa, reclamos por discriminación laboral. Incluye trabajar con asistencia legal, estrategias de organización y principios de justicia para las personas con discapacidad.
 
+### [Presentar una queja por discapacidad](/es/rights/filing-a-disability-complaint)
+
+Si se violan tus derechos como persona con discapacidad, tienes opciones. Qué agencia atiende cada tipo de queja, qué incluir, los plazos a tener en cuenta y qué sucede después de presentarla.
+
+### [Encontrar asistencia legal](/es/rights/finding-legal-aid)
+
+La ayuda legal suele estar disponible de forma gratuita o a bajo costo si buscas reparación por violaciones a los derechos de las personas con discapacidad. Dónde buscar: organizaciones de asistencia legal, sistemas de protección y defensa, programas pro bono y clínicas jurídicas universitarias.
+
+### [Por qué se necesitan intérpretes de lengua de señas](/es/rights/sign-language-interpreters)
+
+Los proveedores de atención médica, los empleadores, el personal educativo y los servicios públicos rechazan de forma rutinaria las solicitudes de intérpretes, ofreciendo notas escritas o lectura de labios en su lugar. Por qué esas "alternativas" fallan, y la base legal para insistir en intérpretes.
+
 ---
 
 ## Páginas detalladas de leyes
@@ -125,7 +137,7 @@ Distintas agencias atienden las quejas según la ley:
 
 **Quejas bajo IDEA**: Preséntala ante el Department of Education de tu estado.
 
-[Guía paso a paso para presentar una queja →](/es/rights/advocacy-and-self-advocacy)
+[Guía paso a paso para presentar una queja →](/es/rights/filing-a-disability-complaint)
 
 ---
 
@@ -171,7 +183,7 @@ No necesitas contratar a un abogado. Entre los recursos están:
 - **Clínicas de facultades de derecho**: Estudiantes de derecho supervisados por profesorado
 - **Colegios de abogados estatales**: Pueden conectarte con recursos
 
-[Encuentra asistencia legal en tu zona →](/es/rights/advocacy-and-self-advocacy)
+[Encuentra asistencia legal en tu zona →](/es/rights/finding-legal-aid)
 
 ---
 

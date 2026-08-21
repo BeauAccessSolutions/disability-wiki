@@ -40,6 +40,10 @@ Cómo citar páginas de este wiki en trabajos académicos o textos formales. Inc
 
 Instrucciones para contribuir al wiki. Cubre las distintas formas de contribuir, el proceso de contribución y las pautas de contenido.
 
+### [Guía de contribución técnica](/es/glossary/how-to-contribute)
+
+Para quienes editan el wiki directamente con Git: el flujo de fork, rama, edición y pull request. Para contribuir por correo, consulta Cómo contribuir más arriba.
+
 ### [Pautas editoriales](/es/glossary/editorial-guidelines)
 
 Estándares que se mantienen en todo el wiki. Cubren el lenguaje sencillo, la accesibilidad, la voz y el tono, y el mantenimiento de la calidad.

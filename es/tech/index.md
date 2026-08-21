@@ -28,6 +28,14 @@ Cómo hacer que los sitios web sean accesibles. Cubre los estándares WCAG, las 
 
 La accesibilidad en teléfonos y sistemas operativos. Cubre lectores de pantalla (iOS, Android, Windows), ampliación, control por voz, navegación por teclado y los ajustes de accesibilidad en distintos dispositivos.
 
+### [Guía comparativa de lectores de pantalla](/es/tech/screen-reader-comparison)
+
+Los lectores de pantalla convierten las interfaces visuales en salida de audio y braille. Compara JAWS, NVDA, VoiceOver, TalkBack y Narrator: costo, plataformas, fortalezas y cómo elegir.
+
+### [Qué navegadores funcionan mejor con la tecnología de apoyo](/es/tech/browsers-assistive-tech)
+
+La elección del navegador afecta qué tan bien funciona tu tecnología de apoyo. Lo que las personas usuarias con discapacidad reportan sobre las combinaciones de navegador y lector de pantalla, y cómo probar qué funciona para ti.
+
 ### [Acceso a la comunicación y AAC](/es/tech/communication-access-and-aac)
 
 Tecnología que permite la comunicación para personas que no pueden hablar. Cubre los dispositivos de AAC (dispositivos generadores de habla), la comunicación basada en escritura, los apoyos visuales, los subtítulos y la interpretación en lengua de señas.
