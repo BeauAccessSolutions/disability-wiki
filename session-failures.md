@@ -68,3 +68,17 @@ Searchable history of failures worth remembering, so cross-session patterns surf
 - **`~/.claude/shared/LESSONS.md` is 435 entry-lines against a 320 budget** — over by 115 even after a prune earlier in the session. → Not pruned here: adding an entry and then pruning the same file in one pass is how peer sessions' work gets clobbered. Recommended `/prune-lessons` as a separate pass.
 
 ---
+## Session: 2026-08-20
+
+**Project:** disability-wiki (content wave: outreach-mining → LTD/Tier-1 pages → index sync → parity tooling)
+
+### Failures
+- [grep, zsh]: multi-file scan passed filenames in one unquoted var — zsh doesn't word-split, so grep searched a nonexistent single file and the `|| echo "none found"` fallback masked the error as a clean result → caught via ugrep's warning line; re-ran with explicit paths. The `|| echo` pattern defeats null-result guards.
+- [background merge script]: printed "MERGED-90" unconditionally after `gh pr merge` while the merge had actually failed on a conflict → all later merges verified via `gh pr view --json state` (API confirm), never the command's own output.
+- [gh pr merge --delete-branch]: merging #88 deleted the base branch of stacked #89, which GitHub auto-closed with no retarget possible → replacement PR #91 from the surviving branch. Check for stacked PRs before deleting a base.
+- [live probe]: curl without -L on a site that 308-redirects to trailing slashes → permanent false-negative "not live" loop for a deployed page (also logged in memory).
+- [astro build]: read "N pages built" as a per-file tally and a stale dist/ entry as proof of build success while the build had errored on YAML → check build exit/errors; dist presence only counts on a build that succeeded.
+- [es frontmatter]: unquoted colon in a translated description broke the strict-YAML build — the edit skill documents this rule and it was missed anyway → mechanical gate added to check_translation.py this session.
+- [validator blind spot]: asserted "0 broken links" repeatedly while validate_wiki_links.py silently excluded the whole es/ tree → manual target checks covered it; gap closed properly by PR #94 (60 broken es links found).
+
+---

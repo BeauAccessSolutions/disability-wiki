@@ -116,8 +116,9 @@ renamed page:
   diffs every index against the pages on disk, EN and ES, and CI runs it as an
   advisory step. Intentional omissions go in
   `scripts/index_parity_allowlist.txt`, not ignored.
-- Note: `validate_wiki_links.py` **skips the `es/` tree**, so check Spanish
-  link targets by hand (`[ -f es/<path>.md ]`).
+- Note: since PR #94, `validate_wiki_links.py` validates the `es/` tree too
+  (reported separately). Still check by hand when the target page lives on an
+  unmerged branch — the validator only sees the working tree.
 
 ## Before publishing
 - **Verify every internal link** resolves to a real page (check the `.md` exists at

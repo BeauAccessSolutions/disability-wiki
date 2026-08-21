@@ -138,13 +138,22 @@ All notable changes to the Disability Wiki project are documented in this file.
   US and Europe.
 
 ### Changed
+- **Wrap-up fixes: YAML frontmatter gate + stale skill claim corrected** (2026-08-20,
+  `.claude/skills/spanish-wiki-translation/scripts/check_translation.py` + `.agents/` mirror,
+  `.claude/skills/disability-wiki-page/SKILL.md` + mirror): the translation validator now
+  parses each page's frontmatter with the same strictness as the site build, because an
+  unquoted colon in a translated description broke the build this session despite the rule
+  being documented — a gate at the moment of risk beats re-stated prose. Tested both
+  directions (clean page passes; unquoted colon flagged). Also corrected the page skill's
+  "Wire the page in" note, which still claimed `validate_wiki_links.py` skips the `es/`
+  tree; since #94 it validates Spanish links too.
+
 - **Home page: direct entry point for newly disabled readers, EN + ES** (2026-08-18,
   [`home.md`](home.md), [`es/home.md`](es/home.md)): the "Get Started" section offered
   only conceptual paths (foundations overview, disability models). The adjusting page
   exists because six pages funneled "newly disabled" readers toward nothing, and the
   home page is the biggest funnel of all. It now opens Get Started with a direct
   "Newly disabled?" line pointing at the adjusting page, in both languages.
-
 - **Section indexes caught up with the content; 1619(b) misplacement fixed** (2026-08-18,
   [`benefits/index.md`](benefits/index.md), [`transport/index.md`](transport/index.md),
   [`daily-living/index.md`](daily-living/index.md), [`foundations/index.md`](foundations/index.md),
