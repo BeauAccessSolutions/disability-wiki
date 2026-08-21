@@ -22,6 +22,15 @@ All notable changes to the Disability Wiki project are documented in this file.
   (follow-up task spawned). Both trees now validate at 0 broken links.
 
 ### Added
+- **Spanish translation of the foundations welcome page** (2026-08-20,
+  [`es/foundations/welcome.md`](es/foundations/welcome.md)): closes the follow-up
+  spawned by the validator fix above. The six links in
+  [`es/start/faq.md`](es/start/faq.md) and
+  [`es/start/disability-culture--pride.md`](es/start/disability-culture--pride.md)
+  that were interim-retargeted to the English `/foundations/welcome` now point back
+  to `/es/foundations/welcome`. Translated with the project glossary and conventions
+  (English slugs, `/es/` link rewriting, sentence-case headings); verified with the
+  now es-aware `validate_wiki_links.py --strict` plus a full site build.
 - **Index-parity checker + page-wiring step in the authoring skill** (2026-08-18,
   [`scripts/check_index_parity.py`](scripts/check_index_parity.py),
   [`scripts/index_parity_allowlist.txt`](scripts/index_parity_allowlist.txt),
@@ -37,6 +46,7 @@ All notable changes to the Disability Wiki project are documented in this file.
   cleared; `--strict` exits nonzero for later promotion. The authoring skill gains a
   "Wire the page in" section so new pages get listed at creation time, including the
   warning that `validate_wiki_links.py` skips the `es/` tree entirely.
+>>>>>>> origin/main
 - **Spanish translation of the pacing page** (2026-08-18,
   [`es/daily-living/pacing-and-energy-management.md`](es/daily-living/pacing-and-energy-management.md)):
   closes the last Spanish gap in `daily-living/`, which was the only English page in that

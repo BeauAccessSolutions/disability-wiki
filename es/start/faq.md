@@ -38,7 +38,7 @@ Una guía creada por la comunidad sobre recursos, derechos y cultura de la disca
 
 Es un punto de partida y un mapa de navegación cuando los sistemas se sienten dispersos.
 
-**Más información:** [Bienvenida a DisabilityWiki](/foundations/welcome)
+**Más información:** [Bienvenida a DisabilityWiki](/es/foundations/welcome)
 
 ---
 
@@ -54,7 +54,7 @@ Es un punto de partida y un mapa de navegación cuando los sistemas se sienten d
 
 El wiki está escrito desde el punto de vista de las personas con discapacidad, no de manera neutral ni "desde arriba". Las personas aliadas son bienvenidas, pero las personas con discapacidad lideran.
 
-**Más información:** [Bienvenida a DisabilityWiki](/foundations/welcome)
+**Más información:** [Bienvenida a DisabilityWiki](/es/foundations/welcome)
 
 ---
 
@@ -77,7 +77,7 @@ El wiki está escrito desde el punto de vista de las personas con discapacidad, 
 Elige según tu necesidad inmediata:
 
 **Nuevo en los conceptos de la discapacidad:**
-1. [Bienvenida](/foundations/welcome)
+1. [Bienvenida](/es/foundations/welcome)
 2. [¿Qué es la discapacidad?](/es/foundations/what-is-disability)
 3. [Lenguaje y terminología](/es/start/language-and-terminology)
 
@@ -329,7 +329,7 @@ A medida que el proyecto crece:
 
 **Consulta:**
 - Registro de cambios y actualizaciones (planificado)
-- La página de [Bienvenida](/foundations/welcome)
+- La página de [Bienvenida](/es/foundations/welcome)
 
 ---
 
@@ -369,7 +369,7 @@ Estas preguntas frecuentes no pueden cubrirlo todo.
 ---
 
 **Páginas relacionadas:**
-- [Bienvenida a DisabilityWiki](/foundations/welcome)
+- [Bienvenida a DisabilityWiki](/es/foundations/welcome)
 - [Cómo usar este wiki](/es/start/how-to-use)
 - [Contáctanos](/es/start/contact)
 - [Crisis y ayuda inmediata](/es/crisis/global-crisis-hotlines)
