@@ -66,6 +66,13 @@ Al agregar recursos a esta página, por favor:
 
 El objetivo no es prometer seguridad, sino **compartir opciones** y contexto para que las personas puedan tomar decisiones informadas.
 
+## A dónde ir ahora
+
+- **Necesitas una línea ahora mismo** — [líneas de crisis por país](/es/crisis/global-crisis-hotlines), incluidas cuáles aceptan texto, chat y servicios de retransmisión en lugar de voz.
+- **Estás construyendo apoyo antes de una crisis** — vuelve a la sección sobre tu propia red de crisis más arriba y anota los nombres mientras las cosas están en calma. Esa es la parte que nadie puede hacer por ti.
+- **La crisis involucra a alguien que te brinda cuidados** — [abuso, negligencia y explotación](/es/crisis/abuse-neglect-exploitation) cubre cómo denunciar cuando dependes de la persona a la que denunciarías.
+- **Quieres que el personal de emergencias te entienda cuando no puedas explicarte** — [tarjetas médicas de emergencia](/es/crisis/emergency/medical-cards).
+
 ---
 
 ## Contribuye a esta página

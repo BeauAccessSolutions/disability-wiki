@@ -1008,6 +1008,17 @@ La violencia es:
 
 **Esta información está creada por personas con discapacidad, para personas con discapacidad. Tu realidad importa. Tu seguridad importa.**
 
+## A dónde ir ahora
+
+Si reconociste algo en esta página, no tienes que decidirlo todo de una vez. Elige la opción que coincida con dónde estás:
+
+- **Estás en peligro inmediato** — [líneas de crisis por país](/es/crisis/global-crisis-hotlines). Muchas aceptan mensajes de texto y chat, no solo llamadas.
+- **Quieres ponerle nombre a lo que está pasando antes de hacer nada** — [¿Qué es el abuso?](/es/crisis/abuse/what-is-it)
+- **Estás lista para planificar, pero no para irte** — [planificación de seguridad](/es/crisis/abuse-neglect-exploitation), incluido qué hacer cuando la persona que te hace daño es también la que te brinda cuidados.
+- **Quieres denunciar, o necesitas abogado o abogada** — [conoce tus derechos](/es/rights) y [cómo encontrar ayuda legal](/es/rights/finding-legal-aid).
+
+Leer esta página no es un compromiso de hacer nada de esto. Puedes volver cuando quieras.
+
 ---
 
 ## Contribuye a esta página

@@ -22,6 +22,19 @@ All notable changes to the Disability Wiki project are documented in this file.
   (follow-up task spawned). Both trees now validate at 0 broken links.
 
 ### Added
+- **Spanish sync gate, blocking for crisis pages; four crisis pages synced** (2026-08-21,
+  [`scripts/check_es_sync.py`](scripts/check_es_sync.py), [`.github/workflows/ci.yml`](.github/workflows/ci.yml),
+  `es/crisis/abuse/recognizing-violence.md`, `es/crisis/disabled-crisis-support.md`,
+  `es/crisis/emergency/medical-cards.md`, `es/crisis/emergency-disaster-preparedness.md`):
+  the wiki keeps a near-complete `es/` mirror, but nothing noticed when an English page changed
+  and its Spanish twin did not. A scan found eight drifted pairs, four of them crisis pages whose
+  English versions gained "Where to go next" closers and a worked medical-card example on
+  2026-07-19 that Spanish readers never got. The checker compares last-commit dates per pair and
+  fails CI only under `crisis/` (a stale Spanish hotline page is the failure the offline precache
+  exists to prevent); elsewhere it reports. The four crisis pages are synced in this change, so
+  the gate is blocking from day one rather than advisory-with-a-backlog. The lone hand-written
+  "Last updated: January 2026" footer (EN and ES disaster-preparedness page) is removed; it was
+  seven months stale and the site's automatic date is being fixed separately.
 - **Index-parity backlog cleared; checker promoted to blocking** (2026-08-20, 18
   section `index.md` files across EN + ES,
   [`.github/workflows/ci.yml`](.github/workflows/ci.yml)): listed all ~99 pages the

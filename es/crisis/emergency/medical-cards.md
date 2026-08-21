@@ -177,6 +177,50 @@ Esta página cubre:
 
 **Diseño de ejemplo:**
 
+Frente de la tarjeta: lo que el personal de emergencias necesita en los primeros diez segundos:
+
+```
+INFORMACIÓN MÉDICA DE EMERGENCIA
+
+NOMBRE:  Jordan Reyes            FECHA DE NAC.: 00/00/0000
+CONDICIONES:  Diabetes tipo 1, epilepsia
+ALERGIAS:  Penicilina, látex
+
+⚠ NO RETIRAR LOS AUDÍFONOS
+⚠ USO CAA — DENME MI DISPOSITIVO O PAPEL
+
+CONTACTO DE EMERGENCIA
+  Sam Reyes (hermana)        000-000-0000
+  Dana Okonkwo (cuidadora)   000-000-0000
+```
+
+Reverso de la tarjeta: el detalle que importa una vez que estás estable:
+
+```
+MEDICAMENTOS
+  Insulina (escala móvil) — ver instrucciones
+  Levetiracetam 500 mg, 2 veces al día
+
+ACCESIBILIDAD
+  Usuaria de silla de ruedas — no levantar sin preguntar
+  Mi perro de servicio viaja conmigo
+
+VALORES BASALES
+  PA 90/60 es normal para mí
+  Las caídas frecuentes son esperables, no algo nuevo
+
+MÉDICO:  Dra. A. Fields, neurología  000-000-0000
+SEGURO:  Nombre del proveedor / número de póliza
+```
+
+Reemplaza cada marcador con tus propios datos. Deja en el frente solo las tres o cuatro cosas que cambian lo que hace el personal de emergencias en el primer minuto; todo lo demás va en el reverso.
+
+## A dónde ir ahora
+
+- **Haz la tarjeta ahora, aunque sea imperfecta.** Una ficha con tus condiciones, alergias y un contacto ya hace la mayor parte del trabajo. Puedes pulirla después.
+- **Pon la tarjeta dentro de un plan más amplio** — [preparación para emergencias](/es/crisis/emergency/emergency-preparedness) cubre la reserva de medicamentos, la energía de respaldo y la evacuación con equipo de movilidad o con un animal de servicio.
+- **Si la crisis está ocurriendo ahora** — [líneas de crisis por país](/es/crisis/global-crisis-hotlines).
+
 ---
 
 ## Contribuye a esta página
