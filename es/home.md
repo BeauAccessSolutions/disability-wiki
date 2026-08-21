@@ -26,6 +26,8 @@ DisabilityWiki existe para centralizar recursos sobre discapacidad, promover la 
 
 ## Comienza aquí (¿Es tu primera vez?)
 
+**¿Tienes una discapacidad reciente?** Comienza con [Adaptarse a una discapacidad adquirida recientemente](/es/foundations/adjusting-to-acquired-disability), escrita para los primeros meses, cuando el papeleo y el duelo llegan al mismo tiempo.
+
 **¿Eres nuevo/a en este wiki? Comienza aquí:**
 - [Fundamentos: Resumen](/es/foundations/index)
 - [Cómo Usar Este Wiki](/es/foundations/how-to-use-this-wiki)

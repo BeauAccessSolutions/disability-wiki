@@ -26,6 +26,8 @@ DisabilityWiki exists to centralize disability resources, promote accessibility 
 
 ## Get Started (First Time Here?)
 
+**Newly disabled?** Start with [Adjusting to a Newly Acquired Disability](/foundations/adjusting-to-acquired-disability) — written for the first months, when the paperwork and the grief arrive at the same time.
+
 **New to this wiki? Start here:**
 - [Foundations Overview](/foundations/index)
 - [How to Use This Wiki](/foundations/how-to-use-this-wiki)
