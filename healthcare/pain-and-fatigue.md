@@ -344,7 +344,7 @@ Keep trying. Ask in patient communities for recommended providers. Consider tele
 
 ### "My pain medication was cut off"
 
-This is happening due to opioid restrictions. Ask about alternatives. Get a pain specialist referral. Consider a patient advocate. Know your rights—tapering should be gradual and with your input.
+This is happening due to opioid restrictions. Ask about alternatives. Get a pain specialist referral. Consider a patient advocate. Know your rights—tapering should be gradual and with your input. For the full picture—forced tapers, dependence vs. addiction, current CDC/FDA guidance, and what to do—see [Substance Use, Addiction & Disability](/healthcare/substance-use-and-addiction).
 
 ### "I keep pushing through and crashing"
 

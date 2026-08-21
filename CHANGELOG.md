@@ -1059,6 +1059,8 @@ All notable changes to the Disability Wiki project are documented in this file.
 ### Changed
 - **Shared cross-project lessons wired into `claude.md`** (2026-06-22): `@import` of `~/.claude/shared/LESSONS.md`, and three transferable wiki lessons pushed back to it (Cloudflare edge-cache `?v=` doesn't bust it; auto-deploy needs a CI gate; machine translation reproduces source errors).
 
+- **New page: Substance Use, Addiction, and Disability** (`healthcare/substance-use-and-addiction.md`, EN + es) — covers addiction/recovery as disabled people experience them and the distinct situation of chronic pain patients in the opioid crackdown (forced tapers, dependence vs. addiction, CDC 2022 / FDA 2019 guidance, MOUD and ADA recovery rights, treatment-program accessibility, harm reduction). Linked from the healthcare index Quick Start and the pain-and-fatigue page. All org URLs and the SAMHSA helpline number verified live. Em-dash density reduced per maintainer review.
+
 ### Security
 - **Stale `sitemap-*` DNS-only A record deleted** (2026-06-12): it pointed at the old droplet and was the last record exposing the origin IP (flagged by Cloudflare's "origin IP partially exposed" recommendation). Remaining post-cutover DNS item: DMARC record (tracked for the 2026-07-10 decommission checklist).
 
