@@ -30,6 +30,7 @@ Introducción a las principales prestaciones por discapacidad y basadas en la ne
 
 - [SSDI (Social Security Disability Insurance)](/es/benefits/us/ssdi): Para personas con historial laboral
 - [SSI (Supplemental Security Income)](/es/benefits/us/ssi): Para personas con bajos ingresos/recursos
+- [Trabajar mientras recibes prestaciones por discapacidad](/es/benefits/us/working-while-on-disability): Cómo tratan los ingresos el SSDI y el SSI, y cómo probar el trabajo sin perderlo todo
 - [Medicaid](/es/benefits/us/medicaid): Seguro de salud para personas de bajos ingresos
 - [Medicare](/es/benefits/us/medicare): Seguro de salud para personas de 65 años o más o con ciertas discapacidades
 - [Cuentas ABLE](/es/benefits/us/able-accounts): Cuentas de ahorro para personas con discapacidad
@@ -55,6 +56,18 @@ Cómo manejar la discapacidad y las dificultades económicas. Cubre la deuda mé
 
 Qué hacer cuando te deniegan prestaciones. Incluye cómo apelar, qué pruebas reunir, cómo trabajar con personas defensoras y cómo entender los niveles de reconsideración, audiencia y consejo de apelaciones.
 
+### [Demostrar la discapacidad](/es/benefits/proving-disability)
+
+El problema de la evidencia que atraviesa todos los sistemas: cómo documentar lo que puedes y no puedes hacer, y cómo trabajar con tu equipo clínico para que los expedientes se sostengan.
+
+### [Seguro de discapacidad a largo plazo](/es/benefits/long-term-disability-insurance)
+
+El seguro LTD privado y laboral: en qué se diferencia de las prestaciones del gobierno, por qué se deniegan las reclamaciones y cómo proteger la tuya en EE. UU. y Canadá.
+
+### [Pobreza y la trampa de las prestaciones](/es/benefits/poverty-and-benefits-trap)
+
+Cómo las reglas de las prestaciones pueden mantener a las personas en la pobreza mediante límites de recursos, penalizaciones por matrimonio y precipicios de ingresos, y qué hace la gente al respecto.
+
 ---
 
 ## Inicio rápido: cómo encontrar tus programas
@@ -76,6 +89,12 @@ Podrías reunir los requisitos para [SSI →](/es/benefits/us/ssi)
 
 ### Me denegaron prestaciones
 [Denegaciones de prestaciones y apelaciones →](/es/benefits/benefit-denials-and-appeals)
+
+### Quiero trabajar sin perder mis prestaciones
+[Trabajar mientras recibes prestaciones por discapacidad →](/es/benefits/us/working-while-on-disability)
+
+### Tengo seguro de discapacidad a través de mi trabajo
+[Seguro de discapacidad a largo plazo →](/es/benefits/long-term-disability-insurance)
 
 ### Vivo fuera de EE. UU.
 [Programas internacionales →](/es/benefits/international/benefits-overview)
@@ -146,11 +165,13 @@ Muchas personas con discapacidad quieren trabajar pero temen perder sus prestaci
 **Incentivos laborales del SSDI**:
 - Período de prueba de trabajo (Trial Work Period): 9 meses en los que puedes trabajar y ganar cualquier cantidad sin perder las prestaciones
 - Restablecimiento acelerado (Expedited Reinstatement): Si pierdes las prestaciones por trabajar, puedes recuperarlas rápidamente si el trabajo no funciona
-- Sección 1619(b): Medicaid puede continuar incluso cuando el SSDI se detiene por los ingresos del trabajo
 
 **Incentivos laborales del SSI**:
 - Plan para Lograr la Autosuficiencia (Plan to Achieve Self-Support, PASS): Apartar ingresos/recursos para una meta laboral
 - Gastos de Trabajo Relacionados con el Impedimento (Impairment Related Work Expenses, IRWE): Deducir gastos laborales relacionados con la discapacidad
+- Sección 1619(b): Medicaid puede continuar incluso cuando los pagos en efectivo del SSI se detienen por los ingresos del trabajo
+
+[Más información →](/es/benefits/us/working-while-on-disability)
 
 **Cobertura de Medicaid**:
 - Medicaid no terminará automáticamente si trabajas (infórmate sobre el "Medicaid Buy-In" en tu estado)

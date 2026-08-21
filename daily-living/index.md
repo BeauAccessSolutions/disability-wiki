@@ -36,6 +36,10 @@ Strategies for staying on top of medication when memory, energy, and schedules a
 
 Plain-language help for the US stimulant shortage—pharmacy-hunting, refill and transfer rules, and coping during a gap.
 
+### [Pacing and Energy Management](/daily-living/pacing-and-energy-management)
+
+How pacing works in practice: finding your baseline, staying inside your energy envelope, and the crucial difference between pacing with and without post-exertional malaise.
+
 ### [Assistive Technology Overview](/daily-living/assistive-technology-overview)
 
 What assistive technology is, the range of tools available, and how to find what fits your needs.
@@ -47,6 +51,10 @@ Low-cost, homemade adaptations that support independence when commercial options
 ### [Wheelchair Maintenance and Everyday Repairs](/daily-living/wheelchair-maintenance)
 
 Keeping your mobility working—routine maintenance and fixes for common problems.
+
+### [Mobility Aid Stigma](/daily-living/mobility-aid-stigma)
+
+Why using a cane, walker, or wheelchair earlier is an energy decision, not a defeat, and how people deal with the judgment that comes with visible aids.
 
 ### [Cooking and Nutrition](/daily-living/cooking-and-nutrition)
 

@@ -36,6 +36,10 @@ Estrategias para no perder el hilo de la medicación cuando la memoria, la energ
 
 Ayuda en lenguaje sencillo para la escasez de estimulantes en EE. UU.: buscar en farmacias, reglas de resurtido y transferencia, y cómo sobrellevar una interrupción.
 
+### [Dosificación y manejo de la energía](/es/daily-living/pacing-and-energy-management)
+
+Cómo funciona la dosificación en la práctica: encontrar tu línea base, mantenerte dentro de tu margen de energía y la diferencia crucial entre dosificar con y sin malestar posesfuerzo.
+
 ### [Panorama general de la tecnología de apoyo](/es/daily-living/assistive-technology-overview)
 
 Qué es la tecnología de apoyo, la variedad de herramientas disponibles y cómo encontrar la que se ajusta a tus necesidades.
@@ -47,6 +51,10 @@ Adaptaciones caseras y de bajo costo que apoyan la independencia cuando las opci
 ### [Mantenimiento de la silla de ruedas y reparaciones cotidianas](/es/daily-living/wheelchair-maintenance)
 
 Mantener tu movilidad en funcionamiento: mantenimiento de rutina y arreglos para problemas comunes.
+
+### [Estigma de las ayudas de movilidad](/es/daily-living/mobility-aid-stigma)
+
+Por qué usar un bastón, una andadera o una silla de ruedas antes es una decisión de energía y no una derrota, y cómo la gente maneja el juicio que acompaña a las ayudas visibles.
 
 ### [Cocina y nutrición](/es/daily-living/cooking-and-nutrition)
 
