@@ -85,6 +85,15 @@ Si puedes, averigua con anticipación:
 
 Documenta las fallas de accesibilidad cuando sea seguro hacerlo. Son problemas de política pública, no desgracias individuales.
 
+## A dónde ir ahora
+
+Esta página es el panorama general. El trabajo práctico ocurre en otras dos:
+
+- **Arma el plan propiamente dicho** — [preparación para emergencias](/es/crisis/emergency/emergency-preparedness) tiene las listas de verificación para medicamentos, energía de respaldo, equipo de movilidad y animales de servicio.
+- **Prepárate para el momento en que no puedas hablar por ti** — [tarjetas médicas de emergencia](/es/crisis/emergency/medical-cards).
+
+Si solo haces una cosa hoy, haz la tarjeta médica. Toma quince minutos y funciona incluso cuando nada más de tu plan sobrevive al contacto con la emergencia.
+
 ---
 
 ## Contribuye a esta página
@@ -97,4 +106,3 @@ Documenta las fallas de accesibilidad cuando sea seguro hacerlo. Son problemas d
 
 *Esta página pone en el centro los conocimientos de las personas con discapacidad y se basa en la organización liderada por personas con discapacidad a nivel global. Para preguntas o para sugerir agregados, consulta [Cómo Contribuir](/es/start/contribute).*
 
-*Última actualización: enero de 2026*

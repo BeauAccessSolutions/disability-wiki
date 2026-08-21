@@ -103,6 +103,13 @@ jobs:
       - name: Index parity check
         run: python3 scripts/check_index_parity.py --strict
 
+      # BLOCKING for crisis/, advisory elsewhere: an English page edited after
+      # its Spanish counterpart. A stale Spanish hotline list is the exact
+      # failure the offline precache exists to prevent. Eight pairs had drifted
+      # unnoticed on 2026-08-21, four of them crisis pages (synced same day).
+      - name: Spanish sync check (blocking for crisis/)
+        run: python3 scripts/check_es_sync.py --strict-prefix crisis
+
       # BLOCKING (regressions only): claim integrity. Fails if a claim recorded
       # as rejected in docs/CLAIMS.md reappears in published content. Verification
       # knowledge otherwise dies with the session that produced it, and the same
