@@ -36,6 +36,10 @@ Flying with a disability. Covers accessibility accommodations, service animals, 
 
 Options for disabled drivers. Covers adaptive equipment, driving evaluations, hand controls, modified vehicles, licensing, and alternatives to driving.
 
+### [Disabled Parking Placards](/transport/disabled-parking-placards)
+
+Who qualifies (the criteria are about walking distance, not wheelchairs), how to apply, temporary permits, and how placards are honored across states and countries.
+
 ### [Mobility Aids](/transport/mobility-aids)
 
 Equipment for mobility: wheelchairs, scooters, walkers, canes, etc. Covers choosing equipment, funding, maintenance, air travel with mobility aids, and accessibility considerations.
@@ -59,6 +63,9 @@ Rights to travel with service animals. Covers service animal training, access ri
 
 ### I drive or might drive
 [Adaptive Driving →](/transport/driving-and-adaptive-driving)
+
+### I need accessible parking
+[Disabled Parking Placards →](/transport/disabled-parking-placards)
 
 ### I use a wheelchair, scooter, or walker
 [Mobility Aids →](/transport/mobility-aids)

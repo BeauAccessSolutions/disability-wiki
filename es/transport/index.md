@@ -36,6 +36,10 @@ Volar con una discapacidad. Cubre las adaptaciones de accesibilidad, los animale
 
 Opciones para conductores con discapacidad. Cubre el equipo adaptado, las evaluaciones de conducción, los controles manuales, los vehículos modificados, las licencias y las alternativas a conducir.
 
+### [Permisos de estacionamiento para personas con discapacidad](/es/transport/disabled-parking-placards)
+
+Quién califica (los criterios se refieren a la distancia que puedes caminar, no a la silla de ruedas), cómo solicitarlo, los permisos temporales y cómo se reconocen los permisos entre estados y países.
+
 ### [Apoyos de movilidad](/es/transport/mobility-aids)
 
 Equipos para la movilidad: sillas de ruedas, scooters, andadores, bastones, etc. Cubre la elección del equipo, el financiamiento, el mantenimiento, los viajes aéreos con apoyos de movilidad y las consideraciones de accesibilidad.
@@ -59,6 +63,9 @@ Derechos a viajar con animales de servicio. Cubre el entrenamiento de los animal
 
 ### Conduzco o podría conducir
 [Conducción adaptada →](/es/transport/driving-and-adaptive-driving)
+
+### Necesito estacionamiento accesible
+[Permisos de estacionamiento para personas con discapacidad →](/es/transport/disabled-parking-placards)
 
 ### Uso silla de ruedas, scooter o andador
 [Apoyos de movilidad →](/es/transport/mobility-aids)
