@@ -33,8 +33,8 @@ All notable changes to the Disability Wiki project are documented in this file.
   both locales, resolving an EN/ES asymmetry where each language linked a different
   preparedness page), foundations (three identity/epistemic pages; the "Welcome"
   entry had duplicated the how-to-use-this-wiki link and now points at
-  `/foundations/welcome` — the ES entry keeps the old target until the Spanish
-  welcome translation lands), glossary (the Technical Contribution Guide, which the
+  `/foundations/welcome`; the ES entry followed once the Spanish welcome
+  translation landed), glossary (the Technical Contribution Guide, which the
   index had conflated with `/start/contribute`), healthcare (all seven bias/
   navigation pages), history, professionals, rights (the three new self-advocacy
   pages, with the index's inline "file a complaint"/"find legal aid" pointers
@@ -43,6 +43,15 @@ All notable changes to the Disability Wiki project are documented in this file.
   `es/`). No allowlist entries were needed: every omission was drift, not curation.
   With the checker at zero, the CI step flips from advisory to `--strict` blocking,
   so an unlisted new page now fails the PR instead of drifting silently.
+- **Spanish translation of the foundations welcome page** (2026-08-20,
+  [`es/foundations/welcome.md`](es/foundations/welcome.md)): closes the follow-up
+  spawned by the validator fix above. The six links in
+  [`es/start/faq.md`](es/start/faq.md) and
+  [`es/start/disability-culture--pride.md`](es/start/disability-culture--pride.md)
+  that were interim-retargeted to the English `/foundations/welcome` now point back
+  to `/es/foundations/welcome`. Translated with the project glossary and conventions
+  (English slugs, `/es/` link rewriting, sentence-case headings); verified with the
+  now es-aware `validate_wiki_links.py --strict` plus a full site build.
 - **Index-parity checker + page-wiring step in the authoring skill** (2026-08-18,
   [`scripts/check_index_parity.py`](scripts/check_index_parity.py),
   [`scripts/index_parity_allowlist.txt`](scripts/index_parity_allowlist.txt),
