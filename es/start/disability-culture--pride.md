@@ -57,7 +57,7 @@ El **orgullo de la discapacidad** es la celebración de la identidad y la comuni
 - **Resistencia** (rechazar el capacitismo y las narrativas inspiradoras)
 - **Alegría** (las personas con discapacidad merecemos alegría, celebración y comunidad)
 
-**La bandera del orgullo de la discapacidad** representa a todas las personas con discapacidad y nuestras diversas experiencias (consulta la [página de bienvenida](/es/foundations/welcome) para ver los colores de la bandera).
+**La bandera del orgullo de la discapacidad** representa a todas las personas con discapacidad y nuestras diversas experiencias (consulta la [página de bienvenida](/foundations/welcome) para ver los colores de la bandera).
 
 ## La comunidad de la discapacidad a través de distintos tipos
 
