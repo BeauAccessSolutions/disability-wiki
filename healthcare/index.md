@@ -53,6 +53,34 @@ Managing chronic pain and fatigue. Covers pain management options (medical and n
 
 Personal care attendants (PCAs), home health nurses, HCBS (Home and Community-Based Services) Waivers, self-directed care, and alternatives to institutionalization.
 
+### [Preparing for the Hospital as a Disabled Person](/healthcare/hospital-preparation)
+
+Hospitals are designed for speed and normative bodies, not disabled patients. What to pack, how to document your needs, communication access, and advocating for yourself (or having someone advocate) during a stay.
+
+### [Insurance Claims and Appeals](/healthcare/insurance-claims-appeals)
+
+Insurance systems are designed to be complex — navigating claims and appeals is a survival skill, not a personal failing. Step-by-step guidance on filing claims, reading denials, and winning appeals.
+
+### [Understanding Medical Bias](/healthcare/medical-bias)
+
+Why medical bias happens: the research on how disability, race, gender, weight, and other identities shape the care people receive. For practical strategies, see Medical Gaslighting and Healthcare Trauma.
+
+### [When Doctors Don't Believe You: Navigating Medical Dismissal](/healthcare/medical-dismissal)
+
+Medical dismissal occurs when providers discount, minimize, or refuse to investigate symptoms. How to recognize it, document it, and get taken seriously.
+
+### [Medical Gaslighting and Healthcare Trauma](/healthcare/medical-gaslighting)
+
+Practical recognition, healing, and advocacy after being dismissed or harmed in healthcare. For deeper analysis of why these patterns happen, see Understanding Medical Bias.
+
+### [Trauma From Systems, Not Conditions](/healthcare/systemic-trauma)
+
+Disabled people are often traumatized — but not by their disabilities. On the trauma created by the systems meant to help, and what healing from systemic harm looks like.
+
+### [Weight Bias and Disability](/healthcare/weight-bias)
+
+Fat disabled people face compounded discrimination. Weight bias in healthcare leads to missed diagnoses, delayed treatment, and worse outcomes — and there are ways to push back.
+
 ---
 
 ## Quick Start: Finding Healthcare

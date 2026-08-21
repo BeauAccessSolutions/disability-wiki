@@ -7,6 +7,27 @@ All notable changes to the Disability Wiki project are documented in this file.
 ## [Unreleased]
 
 ### Added
+- **Index-parity backlog cleared; checker promoted to blocking** (2026-08-20, 18
+  section `index.md` files across EN + ES,
+  [`.github/workflows/ci.yml`](.github/workflows/ci.yml)): listed all ~99 pages the
+  parity checker still reported unlisted after PR #93, in each index's existing entry
+  style, in both languages — conditions (EDS/POTS/MCAS/autistic burnout/invisible-
+  fluctuating-episodic as a new "Specific Conditions" group), crisis (regional and
+  country hotline pages surfaced as a compact directory under Global Crisis Hotlines,
+  the two abuse sub-guides, both preparedness pages and medical cards now listed in
+  both locales, resolving an EN/ES asymmetry where each language linked a different
+  preparedness page), foundations (three identity/epistemic pages; the "Welcome"
+  entry had duplicated the how-to-use-this-wiki link and now points at
+  `/foundations/welcome` — the ES entry keeps the old target until the Spanish
+  welcome translation lands), glossary (the Technical Contribution Guide, which the
+  index had conflated with `/start/contribute`), healthcare (all seven bias/
+  navigation pages), history, professionals, rights (the three new self-advocacy
+  pages, with the index's inline "file a complaint"/"find legal aid" pointers
+  retargeted from the generic advocacy page to the dedicated ones), and tech. Every
+  added `/es/` link was verified against a file on disk (the link validator skips
+  `es/`). No allowlist entries were needed: every omission was drift, not curation.
+  With the checker at zero, the CI step flips from advisory to `--strict` blocking,
+  so an unlisted new page now fails the PR instead of drifting silently.
 - **Index-parity checker + page-wiring step in the authoring skill** (2026-08-18,
   [`scripts/check_index_parity.py`](scripts/check_index_parity.py),
   [`scripts/index_parity_allowlist.txt`](scripts/index_parity_allowlist.txt),

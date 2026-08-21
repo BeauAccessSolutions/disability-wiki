@@ -27,6 +27,9 @@ The foundational principle threading through every page: **"Nothing About Us Wit
 ### [Educators](/professionals/educators)
 Creating genuinely inclusive learning environments through Universal Design for Learning, trauma-informed teaching, presuming competence, and supporting multiply-marginalized students.
 
+### [Designing an Accessible Course](/professionals/accessible-course-design)
+A practical companion for educators: building access into a course or syllabus from the start — modalities, flexible deadlines, accessible materials, and treating accommodations as a floor, not a ceiling.
+
 ### [Healthcare Providers](/professionals/healthcare-providers)
 Centering patient autonomy and access through avoiding diagnostic overshadowing, accessible examination practices, communication across disability types, and respecting self-determination.
 
@@ -44,6 +47,9 @@ Whole community emergency planning that includes disabled people as planners, ac
 
 ### [Public Safety Officers](/professionals/public-safety-officers)
 De-escalation, communication strategies, recognizing disability versus intoxication, avoiding use of force, and alternatives to police response for mental health crises.
+
+### [Public Officials](/professionals/public-officials)
+Serving disabled constituents — at least 15–20% of every community. Accessible constituent services, casework on benefits and services, public meetings, and policymaking with disabled people at the table.
 
 ---
 

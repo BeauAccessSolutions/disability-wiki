@@ -44,6 +44,18 @@ Comprende los principales marcos para pensar la discapacidad: el modelo médico,
 
 Aprende por qué el lenguaje importa. Aborda el lenguaje centrado en la identidad frente al centrado en la persona, los términos que conviene evitar, el lenguaje culturalmente específico de las comunidades Sorda, autista, usuaria de CAA y Loca (Mad), y cómo el lenguaje refleja el poder y la autonomía.
 
+### [Identidad y visibilidad de la discapacidad](/es/foundations/disability-identity)
+
+¿Qué significa tener una discapacidad? ¿Cuándo "cuentas"? ¿Quién decide? Sobre reclamar (o no reclamar) la identidad de discapacidad, la visibilidad y el gatekeeping.
+
+### [Injusticia epistémica en la discapacidad](/es/foundations/epistemic-injustice)
+
+Por qué tan a menudo no se cree a las personas con discapacidad o se las deja sin palabras para su propia experiencia: los conceptos de injusticia testimonial y hermenéutica, y cómo aparecen en la atención médica y la vida diaria.
+
+### [Cómo manejar preguntas inapropiadas e intrusivas](/es/foundations/handling-intrusive-questions)
+
+A las personas con discapacidad se nos trata como propiedad pública: las personas extrañas hacen preguntas que nunca le harían a una persona sin discapacidad. Guiones y estrategias para decidir qué compartir, desviar preguntas y poner límites.
+
 ### [Adaptarse a una discapacidad adquirida recientemente](/es/foundations/adjusting-to-acquired-disability)
 
 Para los primeros meses después de quedar con una discapacidad: el duelo sin guion, el papeleo que llega en el peor momento y cómo las personas vuelven a encontrar su lugar.

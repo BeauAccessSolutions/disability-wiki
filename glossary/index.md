@@ -40,6 +40,10 @@ How to cite pages from this wiki in academic work or formal writing. Includes ML
 
 Instructions for contributing to the wiki. Covers different ways to contribute, the contribution process, and guidelines for content.
 
+### [Technical Contribution Guide](/glossary/how-to-contribute)
+
+For contributors editing the wiki directly via Git — the fork, branch, edit, and pull-request workflow. To contribute by email instead, see How to Contribute above.
+
 ### [Editorial Guidelines](/glossary/editorial-guidelines)
 
 Standards maintained across the wiki. Covers plain language, accessibility, voice and tone, and quality maintenance.
