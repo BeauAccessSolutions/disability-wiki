@@ -116,6 +116,16 @@ jobs:
       - name: Index parity check
         run: python3 scripts/check_index_parity.py --strict
 
+      # BLOCKING: the Disabled Creators Directory tables (EN + es) are generated
+      # from data/creators.yaml. Fails if a table was hand-edited, the data is
+      # malformed, or a new creator lacks a public disclosure_source link. The
+      # page names living people alongside their disabilities, so every new entry
+      # must point at the creator's own public disclosure.
+      - name: Creators directory check
+        run: |
+          pip install --quiet pyyaml
+          python3 scripts/creators_directory.py --check
+
       # BLOCKING for crisis/, advisory elsewhere: an English page edited after
       # its Spanish counterpart. A stale Spanish hotline list is the exact
       # failure the offline precache exists to prevent. Eight pairs had drifted

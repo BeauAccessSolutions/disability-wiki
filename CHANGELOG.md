@@ -6,6 +6,23 @@ All notable changes to the Disability Wiki project are documented in this file.
 
 ## [Unreleased]
 
+### Changed
+- **Disabled Creators Directory tables are generated from one data file** (2026-09-23,
+  [`data/creators.yaml`](data/creators.yaml),
+  [`scripts/creators_directory.py`](scripts/creators_directory.py), CI): every creator is
+  now one entry, and the script writes all 15 tables into both the English and `es/`
+  pages. Before, each row was typed twice (EN + es), and creators listed in several
+  tables had different labels in each. A blocking CI step fails if a table is edited by
+  hand, the data is malformed, or a new entry has no `disclosure_source` link to the
+  creator's own public disclosure. The 111 pre-existing entries are marked `legacy`
+  until they are sourced, and that number can only go down. Verified by round trip:
+  apart from the fixes below, every one of the 126 rows renders identically, and all
+  text outside the tables is byte-identical.
+  Fixed during the merge: Alice Wong, Leah Lakshmi Piepzna-Samarasinha and Judy Heumann
+  now show the same (fuller) label in every table. "Judith Heumann" and "Judy Heumann
+  (1947-2023)" are one entry. "Genderqueer" is removed from Eli Clare's disability
+  column. Rows are now sorted by name.
+
 ### Added
 - **Creator suggestion form + inclusion rules for the Disabled Creators Directory**
   (2026-09-23, [`.github/ISSUE_TEMPLATE/add-creator.yml`](.github/ISSUE_TEMPLATE/add-creator.yml),
