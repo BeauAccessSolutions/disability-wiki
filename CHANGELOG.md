@@ -6,6 +6,17 @@ All notable changes to the Disability Wiki project are documented in this file.
 
 ## [Unreleased]
 
+### Added
+- **Creator suggestion form + inclusion rules for the Disabled Creators Directory**
+  (2026-09-23, [`.github/ISSUE_TEMPLATE/add-creator.yml`](.github/ISSUE_TEMPLATE/add-creator.yml),
+  [`media/disabled-creators-directory.md`](media/disabled-creators-directory.md) + `es/`):
+  the page lists named, living people alongside their disabilities, so it now states the
+  rules for inclusion. A creator must have disclosed their disability publicly themselves,
+  their own words are used, and they can be removed on request with no reason needed.
+  Suggestions come in through a GitHub issue form or by email with the same six-item
+  checklist, so a submission arrives with a disclosure link that can be checked. This
+  replaces the older, looser "Contributing" section on the page.
+
 ### Fixed
 - **"Last updated" now renders on every page, with the real date** (2026-08-21,
   [`site/tools/gen-last-updated.mjs`](site/tools/gen-last-updated.mjs),
