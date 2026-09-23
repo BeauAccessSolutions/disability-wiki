@@ -35,3 +35,10 @@
 /es/conditions/EDS /es/conditions/eds 301
 /es/conditions/MCAS /es/conditions/mcas 301
 /es/conditions/POTS /es/conditions/pots 301
+
+# The contribute flow is single-locale (/contribute/ serves both languages and says
+# so in Spanish). Starlight's language picker and hreflang tags on those pages still
+# emit /es/contribute/…, so send them to the one form. 302, not 301: if a Spanish
+# flow is ever built, browsers must not have cached this permanently.
+/es/contribute /contribute/ 302
+/es/contribute/* /contribute/:splat 302

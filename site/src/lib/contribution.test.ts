@@ -21,6 +21,12 @@ test('valid suggest_edit passes and normalizes', () => {
   assert.equal((r.value as any).section, 'Eligibility'); // trimmed
 });
 
+test('suggest_edit accepts a Spanish page path', () => {
+  // Spanish pages link to the one /contribute/ form with their own /es/ path.
+  const r = validateSubmission({ kind: 'suggest_edit', page: '/es/benefits/us/ssi/', body: 'x'.repeat(20) });
+  assert.equal(r.ok, true);
+});
+
 test('suggest_edit rejects a non-internal or malformed page path', () => {
   for (const page of ['https://evil.test/x', '/../secret', 'benefits/ssi', '']) {
     const r = validateSubmission({ kind: 'suggest_edit', page, body: 'x'.repeat(20) });

@@ -39,6 +39,11 @@ const cap = (s: string) => s.charAt(0).toUpperCase() + s.slice(1);
     asked to come back.
   </p>
 
+  <p lang="es">
+    <strong>¿Vienes de una página en español?</strong> Puedes escribir tu sugerencia
+    en español. Si llegaste desde el enlace de una página, la ruta ya aparece abajo.
+  </p>
+
   {/*
     Runs before the forms below are parsed, so the swap happens without a frame of
     the wrong content. `is:inline` keeps it out of the bundle — a deferred module
@@ -98,6 +103,20 @@ const cap = (s: string) => s.charAt(0).toUpperCase() + s.slice(1);
       <button type="submit">Submit suggested edit</button>
     </fieldset>
   </form>
+
+  {/*
+    Prefill "Page to edit" from ?page= (PageFeedback's "tell us what you would
+    change" link passes the page the reader was on). Enhancement only: with no JS
+    the field is empty and the form still works. Only a value that already matches
+    the field's own pattern is used, and the server re-validates regardless.
+  */}
+  <script is:inline>
+    (function () {
+      var input = document.getElementById('se-page');
+      var page = new URLSearchParams(location.search).get('page');
+      if (input && page && !input.value && /^\/[a-z0-9/-]*$/i.test(page)) input.value = page;
+    })();
+  </script>
 
   <form method="post" action="/api/contributions" class="contribute-form">
     <input type="hidden" name="kind" value="propose_page" />
