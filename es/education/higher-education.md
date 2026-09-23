@@ -198,7 +198,7 @@ Las **organizaciones nacionales de discapacidad** de cada país abogan por una e
 
 ---
 
-## Australia {#australia}
+## Australia
 
 ### Tus derechos legales
 

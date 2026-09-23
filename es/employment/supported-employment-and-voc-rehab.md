@@ -54,7 +54,7 @@ Esto contrasta con los talleres protegidos, que a menudo pagan por debajo del sa
 
 ---
 
-## Estados Unidos {#estados-unidos}
+## Estados Unidos
 
 ### Rehabilitación vocacional (VR)
 
@@ -178,7 +178,7 @@ La mayoría de las provincias ofrecen:
 
 ---
 
-## Reino Unido {#reino-unido}
+## Reino Unido
 
 ### Servicios de empleo para la discapacidad
 
@@ -214,7 +214,7 @@ Las "fit notes" de las personas médicas pueden recomendar ajustes en el lugar d
 
 ---
 
-## Australia {#australia}
+## Australia
 
 ### Disability Employment Services (DES)
 

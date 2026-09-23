@@ -355,7 +355,7 @@ El Reino Unido tiene una población institucional significativa a pesar de déca
 
 ---
 
-## Australia {#australia}
+## Australia
 
 Australia ha desinstitucionalizado gran parte de su población con discapacidad del desarrollo a través del NDIS. Sin embargo, las prácticas y barreras institucionales permanecen.
 

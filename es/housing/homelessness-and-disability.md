@@ -340,7 +340,7 @@ El Reino Unido tiene aproximadamente entre 280,000 y 300,000 personas en situaci
 
 ---
 
-## Australia {#australia}
+## Australia
 
 Australia tiene aproximadamente 116,000 personas en situación de calle; una proporción significativa tiene alguna discapacidad. El NDIS busca apoyar la vida comunitaria, pero las brechas de implementación afectan a las personas con discapacidad en situación de calle.
 

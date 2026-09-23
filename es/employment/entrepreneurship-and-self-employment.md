@@ -61,7 +61,7 @@ Salta a tu país o región:
 
 ---
 
-## Estados Unidos {#estados-unidos}
+## Estados Unidos
 
 ### Prestaciones y trabajo por cuenta propia
 
@@ -162,7 +162,7 @@ El **ODSP (Ontario Disability Support Program)** y otros programas provinciales 
 
 ---
 
-## Reino Unido {#reino-unido}
+## Reino Unido
 
 ### Prestaciones y trabajo por cuenta propia
 
@@ -198,7 +198,7 @@ Regístrate ante el HMRC, comprende tus obligaciones fiscales y considera asesor
 
 ---
 
-## Australia {#australia}
+## Australia
 
 ### El NDIS y el trabajo por cuenta propia
 

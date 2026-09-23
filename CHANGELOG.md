@@ -17,6 +17,16 @@ All notable changes to the Disability Wiki project are documented in this file.
   checklist, so a submission arrives with a disclosure link that can be checked. This
   replaces the older, looser "Contributing" section on the page.
 
+### Changed
+- **Redundant `{#id}` heading suffixes removed from source** (2026-09-23, 50 pages, mostly
+  `es/`): 346 of the 701 Wiki.js-era suffixes pinned an id identical to the one Starlight
+  generates from the heading text anyway. Removed them so the source reads cleanly. The
+  other 355 set an id that differs from the text slug (English anchors on Spanish headings,
+  plus 4 on `transport/disabled-parking-placards.md` where repeated headings would shift the
+  duplicate numbering). Those stay, handled by `site/src/remark-heading-ids.mjs`, so no
+  existing deep link breaks. Verified: every heading id on all 1,133 built pages is
+  identical before and after; `npm run check:links` and the strict validator pass.
+
 ### Fixed
 - **Spanish "suggest an edit" link no longer 404s** (2026-09-23,
   [`site/src/components/PageFeedback.astro`](site/src/components/PageFeedback.astro),

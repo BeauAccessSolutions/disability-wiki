@@ -36,7 +36,7 @@ Este directorio destaca a atletas con discapacidad que han competido a alto nive
 
 ---
 
-## Leyendas paralímpicas {#leyendas-paralímpicas}
+## Leyendas paralímpicas
 
 Atletas con los logros paralímpicos más significativos.
 
@@ -84,7 +84,7 @@ Atletas con los logros paralímpicos más significativos.
 
 ---
 
-## Por deporte {#por-deporte}
+## Por deporte
 
 ### Natación
 
@@ -153,7 +153,7 @@ Atletas con los logros paralímpicos más significativos.
 
 ---
 
-## Por tipo de discapacidad {#por-tipo-de-discapacidad}
+## Por tipo de discapacidad
 
 ### Atletas con amputación
 
@@ -200,7 +200,7 @@ Atletas con los logros paralímpicos más significativos.
 
 ---
 
-## Atletas profesionales {#atletas-profesionales}
+## Atletas profesionales
 
 Atletas con discapacidad que compiten en deportes profesionales convencionales.
 
@@ -238,7 +238,7 @@ Atletas con discapacidad que compiten en deportes profesionales convencionales.
 
 ---
 
-## Pioneros y forjadores de historia {#pioneros-y-forjadores-de-historia}
+## Pioneros y forjadores de historia
 
 ### Innovadores
 
@@ -262,7 +262,7 @@ Atletas con discapacidad que compiten en deportes profesionales convencionales.
 
 ---
 
-## Estrellas emergentes {#estrellas-emergentes}
+## Estrellas emergentes
 
 Atletas a seguir (a 2025).
 
@@ -274,7 +274,7 @@ Atletas a seguir (a 2025).
 
 ---
 
-## Deaflímpicos {#deaflímpicos}
+## Deaflímpicos
 
 ### Atletas sordos notables
 
@@ -288,7 +288,7 @@ Atletas a seguir (a 2025).
 
 ---
 
-## Campeones de Special Olympics {#campeones-de-special-olympics}
+## Campeones de Special Olympics
 
 ### Atletas notables de Special Olympics
 
@@ -302,7 +302,7 @@ Atletas a seguir (a 2025).
 
 ---
 
-## Deportes extremos y de aventura {#deportes-extremos-y-de-aventura}
+## Deportes extremos y de aventura
 
 Atletas con discapacidad que llevan los límites más allá en los deportes de aventura.
 

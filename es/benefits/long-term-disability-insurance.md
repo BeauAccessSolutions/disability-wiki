@@ -40,7 +40,7 @@ Los dos sistemas están conectados de una forma que sorprende a muchas personas:
 
 ---
 
-## Estados Unidos {#estados-unidos}
+## Estados Unidos
 
 ### La mayoría de las pólizas laborales se rigen por ERISA
 

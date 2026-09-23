@@ -234,7 +234,7 @@ Las personas atletas compiten desde una posición estática, ya sea desde la sil
 
 ## Deportes de cancha y de precisión {#court--target-sports}
 
-### Boccia {#boccia}
+### Boccia
 
 Deporte de precisión con balones para personas atletas con impedimentos físicos graves.
 

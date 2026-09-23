@@ -35,7 +35,7 @@ Si tu condición fluctúa, los criterios se refieren a tu capacidad cuando está
 
 ---
 
-## Estados Unidos {#estados-unidos}
+## Estados Unidos
 
 Los permisos y las placas los emite cada estado, pero los estados siguen las pautas federales de [23 CFR Parte 1235](https://www.ecfr.gov/current/title-23/chapter-II/subchapter-B/part-1235) (en inglés), que fija una definición y un diseño comunes. Los estados pueden ser más generosos que ese piso federal y muchos lo son, así que toma lo siguiente como la base y no como la respuesta completa para tu estado.
 
@@ -85,7 +85,7 @@ Los ciclos de renovación varían por estado, y a veces se exige volver a certif
 
 ---
 
-## Reino Unido {#reino-unido}
+## Reino Unido
 
 El equivalente es la **Blue Badge**. Se solicita a través del [servicio Blue Badge de GOV.UK](https://www.gov.uk/apply-blue-badge) (en inglés), que deriva a tu ayuntamiento. La elegibilidad incluye una vía automática para algunas personas según ciertas prestaciones o evaluaciones, y una vía discrecional según cómo tu condición afecta la marcha o según el riesgo para ti o para otras personas. Desde 2019, la elegibilidad en Inglaterra incluye de forma explícita las condiciones no visibles, incluidas algunas condiciones de salud mental y cognitivas, lo que fue un cambio importante y todavía poco conocido.
 

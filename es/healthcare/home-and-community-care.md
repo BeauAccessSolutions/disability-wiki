@@ -234,7 +234,7 @@ El **movimiento de Vida Independiente** en el Reino Unido ha luchado por los pag
 
 ---
 
-## Australia {#australia}
+## Australia
 
 ### National Disability Insurance Scheme (NDIS)
 

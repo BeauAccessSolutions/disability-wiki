@@ -27,7 +27,7 @@ Las personas atletas sordas tienen su propia rica tradición deportiva, separada
 
 ---
 
-## Deportes para personas sordas frente a los Juegos Paralímpicos {#deportes-para-personas-sordas-frente-a-los-juegos-paralímpicos}
+## Deportes para personas sordas frente a los Juegos Paralímpicos
 
 **¿Por qué separados?** La comunidad sorda mantiene su propio movimiento deportivo por razones culturales y prácticas:
 
@@ -47,7 +47,7 @@ Las personas atletas sordas tienen su propia rica tradición deportiva, separada
 
 ---
 
-## Las Deaflympics {#las-deaflympics}
+## Las Deaflympics
 
 El evento multideportivo más antiguo del mundo para atletas con discapacidad.
 
@@ -119,7 +119,7 @@ Dado que los atletas no pueden oír las señales de salida ni los silbatos:
 
 ---
 
-## Cultura del deporte sordo {#cultura-del-deporte-sordo}
+## Cultura del deporte sordo
 
 ### Espacio comunitario
 
@@ -146,7 +146,7 @@ Históricamente, las escuelas para personas sordas han sido centros del deporte 
 
 ---
 
-## Deportes principales {#deportes-principales}
+## Deportes principales
 
 ### Deportes sordos más populares
 
@@ -166,7 +166,7 @@ La mayoría de los deportes sordos usan reglas estándar con adaptaciones de se�
 
 ---
 
-## Organizaciones {#organizaciones}
+## Organizaciones
 
 ### Internacional
 
@@ -216,7 +216,7 @@ La mayoría de los países con poblaciones sordas significativas tienen organiza
 
 ---
 
-## Atletas sordos notables {#atletas-sordos-notables}
+## Atletas sordos notables
 
 ### Deaflímpicos
 
@@ -243,7 +243,7 @@ Algunos atletas sordos y con hipoacusia compiten en deportes profesionales conve
 
 ---
 
-## Cómo participar {#cómo-participar}
+## Cómo participar
 
 ### Encontrar programas de deporte sordo
 
@@ -273,7 +273,7 @@ En general, el deporte sordo competitivo requiere una pérdida auditiva que cump
 
 ---
 
-## Deporte sordo internacional {#deporte-sordo-internacional}
+## Deporte sordo internacional
 
 ### Competencias regionales
 

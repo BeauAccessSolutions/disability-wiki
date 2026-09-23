@@ -231,7 +231,7 @@ Cada país de la UE tiene sus propias leyes de discapacidad. Algunos ejemplos:
 
 ---
 
-## Australia {#australia}
+## Australia
 
 ### Marco legal central
 
@@ -409,7 +409,7 @@ Aún no está en vigor (necesita 15 ratificaciones).
 
 ---
 
-## Asia {#asia}
+## Asia
 
 ### Marco regional
 

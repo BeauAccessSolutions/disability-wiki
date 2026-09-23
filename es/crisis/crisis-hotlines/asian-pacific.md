@@ -59,7 +59,7 @@ Esta página te conecta con recursos de crisis en toda la región de Asia y el P
 
 ## Asia Oriental
 
-### China {#china}
+### China
 
 **Beijing Suicide Research and Prevention Center**
 - Teléfono: 010-8295-1332 (24/7)
@@ -80,7 +80,7 @@ Esta página te conecta con recursos de crisis en toda la región de Asia y el P
 
 ---
 
-### Hong Kong {#hong-kong}
+### Hong Kong
 
 **The Samaritans Hong Kong**
 - Teléfono: 2896-0000 (24/7)
@@ -165,7 +165,7 @@ Esta página te conecta con recursos de crisis en toda la región de Asia y el P
 
 ## Sudeste Asiático
 
-### Indonesia {#indonesia}
+### Indonesia
 
 **Para ver los recursos de crisis completos en Indonesia, consulta [Ayuda en crisis: Indonesia](/es/crisis/crisis-hotlines/asian-pacific/indonesia)**
 
@@ -258,7 +258,7 @@ Esta página te conecta con recursos de crisis en toda la región de Asia y el P
 
 ---
 
-### Vietnam {#vietnam}
+### Vietnam
 
 **Đường dây nóng Ngày Mai (primeros auxilios psicológicos)**
 - Teléfono: 096 306 1414 (gratuito)
@@ -295,7 +295,7 @@ Esta página te conecta con recursos de crisis en toda la región de Asia y el P
 
 ---
 
-### India {#india}
+### India
 
 **AASRA (prevención del suicidio)**
 - Teléfono: 91-9820466726 (24/7)
@@ -329,7 +329,7 @@ Esta página te conecta con recursos de crisis en toda la región de Asia y el P
 
 ---
 
-### Nepal {#nepal}
+### Nepal
 
 **National Mental Health Helpline**
 - Teléfono: 1166 (24/7)
@@ -368,7 +368,7 @@ Esta página te conecta con recursos de crisis en toda la región de Asia y el P
 
 ---
 
-### Sri Lanka {#sri-lanka}
+### Sri Lanka
 
 **Sumithrayo (Befrienders)**
 - Teléfono: 011-2696-666 o 011-2692-909
@@ -392,7 +392,7 @@ Esta página te conecta con recursos de crisis en toda la región de Asia y el P
 
 ## Islas del Pacífico y Oceanía
 
-### Australia {#australia}
+### Australia
 
 **Lifeline Australia**
 - Teléfono: 13-11-14 (24/7)

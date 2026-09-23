@@ -26,7 +26,7 @@ Durante la mayor parte de la historia humana, las personas con discapacidad estu
 
 ---
 
-## Patrones generales: cómo funcionaban las sociedades preindustriales {#patrones-generales-cómo-funcionaban-las-sociedades-preindustriales}
+## Patrones generales: cómo funcionaban las sociedades preindustriales
 
 ### Diferencias clave con las sociedades industriales
 
@@ -129,7 +129,7 @@ Cuando las sociedades se asentaron y cultivaron la tierra:
 
 ---
 
-## Civilizaciones antiguas {#civilizaciones-antiguas}
+## Civilizaciones antiguas
 
 ### Egipto (3000 a. e. c. – 30 a. e. c.)
 
@@ -241,7 +241,7 @@ Realidad: los gladiadores eran en su mayoría personas esclavizadas o pobres, no
 
 ---
 
-### Sociedades indígenas americanas {#sociedades-indígenas-americanas}
+### Sociedades indígenas americanas
 
 **Lo que saben las personas que estudian historia (limitado porque la colonización destruyó registros):**
 - Personas con discapacidad integradas en muchas naciones
@@ -305,7 +305,7 @@ Realidad: los gladiadores eran en su mayoría personas esclavizadas o pobres, no
 
 ---
 
-## Sociedades medievales y feudales {#sociedades-medievales-y-feudales}
+## Sociedades medievales y feudales
 
 ### Cómo el feudalismo adaptaba la discapacidad
 
@@ -478,7 +478,7 @@ Estos patrones históricos muestran:
 
 ---
 
-## Vacíos y limitaciones en este conocimiento {#vacíos-y-limitaciones-en-este-conocimiento}
+## Vacíos y limitaciones en este conocimiento
 
 ### Lo que no sabemos
 
@@ -509,7 +509,7 @@ Estos patrones históricos muestran:
 
 ---
 
-## Qué pasó: el cambio {#qué-pasó-el-cambio}
+## Qué pasó: el cambio
 
 Esta integración no desapareció de manera natural. Se construyó como problema y se "resolvió" mediante la segregación durante la industrialización.
 

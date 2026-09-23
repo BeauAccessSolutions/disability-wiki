@@ -76,7 +76,7 @@ El **112** funciona en **todos los países de la UE** y en muchos otros para eme
 
 ## Europa Occidental
 
-### Austria {#austria}
+### Austria
 
 **Telefonseelsorge (línea de crisis)**
 - Teléfono: 142 (gratuito, 24/7)
@@ -371,7 +371,7 @@ El **112** funciona en **todos los países de la UE** y en muchos otros para eme
 
 ---
 
-### Portugal {#portugal}
+### Portugal
 
 **SOS Voz Amiga**
 - Teléfono: 21-354-4545 o 91-280-2669 (de 4 p. m. a medianoche todos los días)
@@ -484,7 +484,7 @@ El **112** funciona en **todos los países de la UE** y en muchos otros para eme
 
 ## Balcanes y Europa del Sureste
 
-### Albania {#albania}
+### Albania
 
 **Allô Psikologe (línea de psicología)**
 - Teléfono: 127 o 0800-8080 (gratuito)
@@ -494,7 +494,7 @@ El **112** funciona en **todos los países de la UE** y en muchos otros para eme
 
 ---
 
-### Bulgaria {#bulgaria}
+### Bulgaria
 
 **National Helpline for Children**
 - Teléfono: 116-111 (gratuito, 24/7)
@@ -518,7 +518,7 @@ El **112** funciona en **todos los países de la UE** y en muchos otros para eme
 
 ---
 
-### Serbia {#serbia}
+### Serbia
 
 **Centar Srce (Heart Center)**
 - Teléfono: 0800-300-303 (gratuito, de lunes a viernes de 4 p. m. a 10 p. m.)
@@ -544,7 +544,7 @@ El **112** funciona en **todos los países de la UE** y en muchos otros para eme
 
 ## Estados bálticos
 
-### Estonia {#estonia}
+### Estonia
 
 **Eluliin (Lifeline)**
 - Teléfono: 655-8088 (24/7)

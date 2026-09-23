@@ -44,7 +44,7 @@ Esta página se basa en estudios académicos sobre la discapacidad y en el anál
 
 ---
 
-## Por qué importa la representación {#por-qué-importa-la-representación}
+## Por qué importa la representación
 
 **Para las personas con discapacidad:**
 - Moldea la autoimagen y la identidad
@@ -62,9 +62,9 @@ Esta página se basa en estudios académicos sobre la discapacidad y en el anál
 
 ---
 
-## Clichés dañinos {#clichés-dañinos}
+## Clichés dañinos
 
-### El problema del porno inspiracional {#el-problema-del-porno-inspiracional}
+### El problema del porno inspiracional
 
 **Qué es:** Retratar a personas con discapacidad comunes que hacen cosas comunes como algo extraordinario e inspirador, para beneficio del público sin discapacidad.
 
@@ -83,7 +83,7 @@ Esta página se basa en estudios académicos sobre la discapacidad y en el anál
 
 ---
 
-### La discapacidad como tragedia {#la-discapacidad-como-tragedia}
+### La discapacidad como tragedia
 
 **Qué es:** Presentar la discapacidad como lo peor que podría pasar; las vidas de las personas con discapacidad como vidas que no valen la pena.
 
@@ -103,7 +103,7 @@ Esta página se basa en estudios académicos sobre la discapacidad y en el anál
 
 ---
 
-### El tullido amargado {#el-tullido-amargado}
+### El tullido amargado
 
 **Qué es:** Personajes con discapacidad que son enojados, resentidos y crueles a causa de su discapacidad.
 
@@ -122,7 +122,7 @@ Esta página se basa en estudios académicos sobre la discapacidad y en el anál
 
 ---
 
-### La discapacidad como marca del villano {#la-discapacidad-como-marca-del-villano}
+### La discapacidad como marca del villano
 
 **Qué es:** Usar la discapacidad como recurso visual para indicar maldad, falta de confianza o corrupción moral.
 
@@ -142,7 +142,7 @@ Esta página se basa en estudios académicos sobre la discapacidad y en el anál
 
 ---
 
-### La persona con discapacidad mágica {#la-persona-con-discapacidad-mágica}
+### La persona con discapacidad mágica
 
 **Qué es:** Personajes con discapacidad con habilidades sobrenaturales que "compensan" la discapacidad.
 
@@ -161,7 +161,7 @@ Esta página se basa en estudios académicos sobre la discapacidad y en el anál
 
 ---
 
-### Los relatos de cura {#los-relatos-de-cura}
+### Los relatos de cura
 
 **Qué es:** Historias en las que el objetivo es curar la discapacidad; los finales felices exigen dejar de tener una discapacidad.
 
@@ -181,7 +181,7 @@ Esta página se basa en estudios académicos sobre la discapacidad y en el anál
 
 ---
 
-### El supertullido {#el-supertullido}
+### El supertullido
 
 **Qué es:** Personas con discapacidad retratadas como heroicas por lograr lo que las personas sin discapacidad hacen de manera rutinaria.
 
@@ -200,7 +200,7 @@ Esta página se basa en estudios académicos sobre la discapacidad y en el anál
 
 ---
 
-### La discapacidad como castigo {#la-discapacidad-como-castigo}
+### La discapacidad como castigo
 
 **Qué es:** Personajes que adquieren una discapacidad como consecuencia de un mal comportamiento o de una falta moral.
 
@@ -218,7 +218,7 @@ Esta página se basa en estudios académicos sobre la discapacidad y en el anál
 
 ---
 
-### Asexual/indeseable {#asexualindeseable}
+### Asexual/indeseable
 
 **Qué es:** Personajes con discapacidad retratados como intrínsecamente asexuales, no dignos de amor o indeseables en lo romántico o lo sexual.
 
@@ -238,7 +238,7 @@ Esta página se basa en estudios académicos sobre la discapacidad y en el anál
 
 ---
 
-### Borrado y figura simbólica {#borrado-y-figura-simbólica}
+### Borrado y figura simbólica
 
 **Qué es:** O bien no hay ningún personaje con discapacidad, o bien hay un único personaje con discapacidad como figura simbólica, sin profundidad.
 
@@ -260,7 +260,7 @@ Esta página se basa en estudios académicos sobre la discapacidad y en el anál
 
 ---
 
-## Problemas de casting {#problemas-de-casting}
+## Problemas de casting
 
 ### "Cripping up" (fingir una discapacidad)
 
@@ -290,7 +290,7 @@ Incluso con actores con discapacidad, los problemas pueden persistir:
 
 ---
 
-## Cómo es una buena representación {#cómo-es-una-buena-representación}
+## Cómo es una buena representación
 
 ### Creadores con discapacidad
 
@@ -336,7 +336,7 @@ La mejor representación proviene de las personas con discapacidad que cuentan s
 
 ---
 
-## Preguntas que conviene hacerse {#preguntas-que-conviene-hacerse}
+## Preguntas que conviene hacerse
 
 Al evaluar la representación de la discapacidad:
 
@@ -371,7 +371,7 @@ Al evaluar la representación de la discapacidad:
 
 ---
 
-## Recursos para creadores de medios {#recursos-para-creadores-de-medios}
+## Recursos para creadores de medios
 
 ### Organizaciones
 
@@ -391,7 +391,7 @@ Al evaluar la representación de la discapacidad:
 
 ---
 
-## Análisis de la comunidad {#análisis-de-la-comunidad}
+## Análisis de la comunidad
 
 Las comunidades de personas con discapacidad analizan y critican los medios de forma activa:
 

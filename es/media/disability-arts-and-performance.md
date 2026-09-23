@@ -43,7 +43,7 @@ Las artes de la discapacidad son un movimiento cultural: arte hecho por personas
 
 ---
 
-## ¿Qué son las artes de la discapacidad? {#qué-son-las-artes-de-la-discapacidad}
+## ¿Qué son las artes de la discapacidad?
 
 Las artes de la discapacidad surgieron del movimiento por los derechos de las personas con discapacidad, afirmando que las personas con discapacidad tienen una cultura distintiva digna de celebrarse. Principios clave:
 
@@ -59,7 +59,7 @@ Las artes de la discapacidad surgieron del movimiento por los derechos de las pe
 
 ---
 
-## Compañías de performance {#compañías-de-performance}
+## Compañías de performance
 
 ### Estados Unidos
 
@@ -99,7 +99,7 @@ Las artes de la discapacidad surgieron del movimiento por los derechos de las pe
 
 ---
 
-## Teatro {#teatro}
+## Teatro
 
 ### Teatro Sordo
 
@@ -133,7 +133,7 @@ Las artes de la discapacidad surgieron del movimiento por los derechos de las pe
 
 ---
 
-## Danza {#danza}
+## Danza
 
 ### Danza integrada/inclusiva
 
@@ -175,7 +175,7 @@ Las artes de la discapacidad surgieron del movimiento por los derechos de las pe
 
 ---
 
-## Artes visuales {#artes-visuales}
+## Artes visuales
 
 ### Personas destacadas de las artes visuales con discapacidad
 
@@ -213,7 +213,7 @@ Las "estéticas crip" describen enfoques visuales y artísticos que surgen de la
 
 ---
 
-## Música {#música}
+## Música
 
 ### Músicos Sordos
 
@@ -257,7 +257,7 @@ Las "estéticas crip" describen enfoques visuales y artísticos que surgen de la
 
 ---
 
-## Comedia {#comedia}
+## Comedia
 
 ### Comediantes de stand-up
 
@@ -285,7 +285,7 @@ Las "estéticas crip" describen enfoques visuales y artísticos que surgen de la
 
 ---
 
-## Cine y medios {#cine-y-medios}
+## Cine y medios
 
 Consulta [Documentales y películas](/es/media/documentaries-and-films) para ver una lista completa.
 
@@ -307,7 +307,7 @@ Consulta [Documentales y películas](/es/media/documentaries-and-films) para ver
 
 ---
 
-## Personas artistas individuales {#personas-artistas-individuales}
+## Personas artistas individuales
 
 ### Multidisciplinarias
 
@@ -331,7 +331,7 @@ Consulta [Documentales y películas](/es/media/documentaries-and-films) para ver
 
 ---
 
-## Festivales y eventos {#festivales-y-eventos}
+## Festivales y eventos
 
 ### Estados Unidos
 
@@ -357,7 +357,7 @@ Consulta [Documentales y películas](/es/media/documentaries-and-films) para ver
 
 ---
 
-## Educación y formación {#educación-y-formación}
+## Educación y formación
 
 ### Programas de formación
 
@@ -375,7 +375,7 @@ Consulta [Documentales y películas](/es/media/documentaries-and-films) para ver
 
 ---
 
-## Historia de las artes de la discapacidad {#historia-de-las-artes-de-la-discapacidad}
+## Historia de las artes de la discapacidad
 
 ### Momentos clave
 

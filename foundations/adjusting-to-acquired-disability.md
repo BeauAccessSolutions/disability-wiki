@@ -78,7 +78,7 @@ If your first attempt is a group that does not suit you, that is a bad match rat
 
 ---
 
-## When It Is More Than Adjustment {#when-it-is-more-than-adjustment}
+## When It Is More Than Adjustment
 
 Distress after becoming disabled is expected. It can also become something that needs support in its own right, and the difference matters.
 

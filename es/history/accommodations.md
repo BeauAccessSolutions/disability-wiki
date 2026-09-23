@@ -290,7 +290,7 @@ Esta página muestra lo que la gente realmente hacía.
 
 ---
 
-## Adaptaciones basadas en la comunidad {#adaptaciones-basadas-en-la-comunidad}
+## Adaptaciones basadas en la comunidad
 
 ### Trabajo compartido y sistemas de apoyo
 
@@ -351,7 +351,7 @@ Esta página muestra lo que la gente realmente hacía.
 
 ---
 
-## Dispositivos de asistencia a lo largo de la historia {#dispositivos-de-asistencia-a-lo-largo-de-la-historia}
+## Dispositivos de asistencia a lo largo de la historia
 
 ### Dispositivos de movilidad
 
@@ -596,7 +596,7 @@ Cuando ocurrió la industrialización:
 
 ---
 
-## Lo que podemos recuperar {#lo-que-podemos-recuperar}
+## Lo que podemos recuperar
 
 De estas prácticas históricas, podemos recuperar:
 

@@ -287,7 +287,7 @@ Para personas con necesidades de salud continuas significativas:
 
 ---
 
-## Australia {#australia}
+## Australia
 
 ### Medicare (australiano)
 

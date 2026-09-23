@@ -338,7 +338,7 @@ En general, sistemas de salud y apoyos a la discapacidad sólidos. La implementa
 
 ---
 
-## Australia {#australia}
+## Australia
 
 ### Marco legal
 

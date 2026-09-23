@@ -31,7 +31,7 @@ Ya sea que tengas una discapacidad reciente, estés volviendo al deporte tras un
 
 ---
 
-## Por dónde empezar {#por-dónde-empezar}
+## Por dónde empezar
 
 ### Primeros pasos
 
@@ -54,7 +54,7 @@ La mayoría de las personas empiezan a nivel recreativo y encuentran su nivel a 
 
 ---
 
-## Encontrar programas cerca de ti {#encontrar-programas-cerca-de-ti}
+## Encontrar programas cerca de ti
 
 ### Tipos de programas
 
@@ -94,7 +94,7 @@ La mayoría de las personas empiezan a nivel recreativo y encuentran su nivel a 
 
 ---
 
-## Equipo y material adaptado {#equipo-y-material-adaptado}
+## Equipo y material adaptado
 
 ### Equipo específico de cada deporte
 
@@ -136,7 +136,7 @@ Parte del equipo funciona para distintas discapacidades:
 
 ---
 
-## Financiamiento y asistencia económica {#financiamiento-y-asistencia-económica}
+## Financiamiento y asistencia económica
 
 ### Subvenciones para atletas
 
@@ -181,7 +181,7 @@ Plataformas: GoFundMe, HelpHOPELive (para necesidades médicas)
 
 ---
 
-## Clasificación y competencia {#clasificación-y-competencia}
+## Clasificación y competencia
 
 ### Obtener una clasificación
 
@@ -207,9 +207,9 @@ La mayoría de los deportes tienen:
 
 ---
 
-## Por país {#por-país}
+## Por país
 
-### Estados Unidos {#estados-unidos}
+### Estados Unidos
 
 **Organizaciones nacionales:**
 
@@ -239,7 +239,7 @@ La mayoría de los deportes tienen:
 - Tenis en silla de ruedas (USTA)
 - Y muchas más según el deporte
 
-### Reino Unido {#reino-unido}
+### Reino Unido
 
 **Organizaciones nacionales:**
 
@@ -257,7 +257,7 @@ La mayoría de los deportes tienen:
 - Servicios de ocio de las autoridades locales
 - Clubes de deporte para personas con discapacidad a través de los organismos rectores nacionales
 
-### Canadá {#canadá}
+### Canadá
 
 **Organizaciones nacionales:**
 
@@ -273,7 +273,7 @@ La mayoría de los deportes tienen:
 
 **Las organizaciones provinciales** también coordinan el deporte adaptado.
 
-### Australia {#australia}
+### Australia
 
 **Organizaciones nacionales:**
 
@@ -285,7 +285,7 @@ La mayoría de los deportes tienen:
 
 - Programas de deporte paralímpico estatales/territoriales
 
-### Recursos internacionales {#recursos-internacionales}
+### Recursos internacionales
 
 **International Paralympic Committee** (paralympic.org): organismo rector mundial, con enlaces a los Comités Paralímpicos Nacionales de todo el mundo.
 
@@ -297,7 +297,7 @@ La mayoría de los deportes tienen:
 
 ---
 
-## Consejos para empezar {#consejos-para-empezar}
+## Consejos para empezar
 
 ### Consejos prácticos
 

@@ -279,7 +279,7 @@ Contacta al departamento de vivienda de tu municipio local o a la defensoría de
 
 ---
 
-## Australia {#australia}
+## Australia
 
 Australia ratificó la CDPD en 2008. Los derechos de vivienda se implementan principalmente a través de la Disability Discrimination Act y el National Disability Insurance Scheme (NDIS).
 
