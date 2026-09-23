@@ -7,6 +7,14 @@ All notable changes to the Disability Wiki project are documented in this file.
 ## [Unreleased]
 
 ### Fixed
+- **Wiki.js `{#anchor}` heading suffixes removed** (2026-09-23, 58 `es/` + 11 EN pages):
+  Starlight doesn't support the custom-anchor syntax, so headings showed a literal
+  `{#slug}`, the generated ids came out as e.g. `activistas-que-crean-activistas-que-crean`,
+  and every in-page contents link was dead. Stripped the suffixes and rewrote 335 in-page
+  and cross-page `#fragment` links to the github-slugger ids Starlight generates from the
+  plain heading text. Most `es/` anchors had been English slugs, so those links now point
+  at the Spanish ids. Verified against the build: every fragment link on these pages, and
+  all 44 cross-page links into them, resolves to an id in `dist`.
 - **"Last updated" now renders on every page, with the real date** (2026-08-21,
   [`site/tools/gen-last-updated.mjs`](site/tools/gen-last-updated.mjs),
   [`site/src/components/LastUpdated.astro`](site/src/components/LastUpdated.astro),
