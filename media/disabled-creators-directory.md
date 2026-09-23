@@ -76,6 +76,7 @@ This directory collects disabled creators in one place for easy discovery. All c
 | Esmé Weijun Wang | Schizoaffective disorder | Essays | The Collected Schizophrenias |
 | Rebekah Taussig | Wheelchair user | Memoir | Sitting Pretty |
 | Simi Linton | Wheelchair user | Memoir/theory | My Body Politic |
+| Rosemary Richings | Dyspraxia | Memoir/neurodiversity | Stumbling Through Space and Time *(non-US)* |
 
 ### Poets
 
