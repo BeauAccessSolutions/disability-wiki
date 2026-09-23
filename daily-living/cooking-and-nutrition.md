@@ -481,12 +481,12 @@ We welcome contributions from:
 
 ## See Also
 
-- [Personal Care](./personal-care.md)
-- [Assistive Technology Overview](./assistive-technology-overview.md)
-- [Healthcare: Accessible Healthcare](../../healthcare/accessible-healthcare.md)
-- [Benefits: SNAP and Food Assistance](../../benefits/index.md)
-- [Intersectionality: Poverty and Class](../../intersectionality/poverty-and-class.md)
-- [Daily Living & Lifestyle: Overview](./index.md)
+- [Personal Care](/daily-living/personal-care)
+- [Assistive Technology Overview](/daily-living/assistive-technology-overview)
+- [Healthcare: Accessible Healthcare](/healthcare/accessible-healthcare)
+- [Benefits: SNAP and Food Assistance](/benefits)
+- [Intersectionality: Poverty and Class](/intersectionality/poverty-and-class)
+- [Daily Living & Lifestyle: Overview](/daily-living)
 
 ---
 

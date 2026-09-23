@@ -21,7 +21,7 @@ Estas páginas no son enciclopedias médicas. Son recursos construidos por la co
 - **Conexiones comunitarias** con el apoyo entre pares y las organizaciones de incidencia
 - **Enlaces cruzados** a secciones relevantes del wiki (prestaciones, adaptaciones, derechos)
 
-Cada página comienza como un panorama general y crece con las contribuciones de la comunidad. Si tienes conocimientos que compartir, consulta [Cómo contribuir](/es/glossary/how-to-contribute.md).
+Cada página comienza como un panorama general y crece con las contribuciones de la comunidad. Si tienes conocimientos que compartir, consulta [Cómo contribuir](/es/glossary/how-to-contribute).
 
 ---
 
@@ -33,31 +33,31 @@ Distintos países organizan las categorías de discapacidad, los sistemas de ate
 
 ## Explorar por categoría
 
-### [Discapacidades físicas](/es/conditions/physical-disabilities.md)
+### [Discapacidades físicas](/es/conditions/physical-disabilities)
 Afecciones que afectan el movimiento, la movilidad, la fuerza o la función física. Incluye lesiones de la médula espinal, diferencias en las extremidades, parálisis cerebral, distrofias musculares y muchas más.
 
-### [Discapacidades sensoriales](/es/conditions/sensory-disabilities.md)
+### [Discapacidades sensoriales](/es/conditions/sensory-disabilities)
 Afecciones que afectan la vista, la audición u otros sentidos. Incluye la ceguera y la baja visión, la Sordera y la pérdida auditiva, la sordoceguera y las diferencias en el procesamiento sensorial.
 
-### [Enfermedad crónica](/es/conditions/chronic-illness.md)
+### [Enfermedad crónica](/es/conditions/chronic-illness)
 Afecciones de salud continuas que pueden fluctuar, requieren un manejo continuo y afectan la vida diaria. Incluye afecciones autoinmunes, fibromialgia, EM/SFC, diabetes, afecciones cardíacas y muchas más.
 
-### [Neurodivergencia](/es/conditions/neurodivergence.md)
+### [Neurodivergencia](/es/conditions/neurodivergence)
 Diferencias neurológicas en cómo las personas piensan, aprenden, procesan la información y experimentan el mundo. Incluye autismo, TDAH, dislexia, discalculia, síndrome de Tourette y más.
 
-### [Discapacidades intelectuales y del desarrollo](/es/conditions/intellectual-and-developmental-disability.md)
+### [Discapacidades intelectuales y del desarrollo](/es/conditions/intellectual-and-developmental-disability)
 Afecciones presentes desde el nacimiento o la primera infancia que afectan el desarrollo cognitivo, las habilidades adaptativas o ambos. Incluye el síndrome de Down, la discapacidad intelectual y diversas afecciones del desarrollo.
 
-### [Discapacidades psiquiátricas y psicosociales](/es/conditions/psychiatric-and-psychosocial-disability.md)
+### [Discapacidades psiquiátricas y psicosociales](/es/conditions/psychiatric-and-psychosocial-disability)
 Afecciones de salud mental que impactan de forma significativa la vida diaria. Incluye depresión, trastornos de ansiedad, trastorno bipolar, esquizofrenia, TEPT, TOC y trastornos de la personalidad.
 
-### [Discapacidades invisibles](/es/conditions/invisible-disabilities.md)
+### [Discapacidades invisibles](/es/conditions/invisible-disabilities)
 Discapacidades que no son evidentes de inmediato para los demás. Esta página, centrada en la identidad, explora los desafíos únicos, las ideas erróneas y las experiencias comunitarias de vivir con discapacidades no visibles.
 
-### [Discapacidades múltiples](/es/conditions/multiple-disabilities.md)
+### [Discapacidades múltiples](/es/conditions/multiple-disabilities)
 Vivir con dos o más discapacidades simultáneamente. Aborda los desafíos combinados, las necesidades de acceso que se cruzan y las estrategias de navegación para personas con varias afecciones.
 
-### [Enfermedades raras](/es/conditions/rare-diseases.md)
+### [Enfermedades raras](/es/conditions/rare-diseases)
 Afecciones que afectan a poblaciones pequeñas, a menudo con investigación limitada, pocos especialistas y dificultades para encontrar comunidad. Incluye recursos para los recorridos diagnósticos y para conectar con otras personas.
 
 ---
@@ -89,7 +89,7 @@ Los sistemas diseñados en torno a la discapacidad normalmente asumen que los im
 
 El lenguaje importa. Algunas personas se identifican fuertemente como personas con discapacidad. Otras prefieren decir que tienen una afección de salud. Muchas usan ambos términos según el contexto. Usamos "afecciones" para ser inclusivos a la vez que ponemos en el centro la identidad de discapacidad en todo momento.
 
-Consulta [Lenguaje, terminología e identidad](/es/foundations/language-terminology-identity.md) para más información sobre el lenguaje de la discapacidad.
+Consulta [Lenguaje, terminología e identidad](/es/foundations/language-terminology-identity) para más información sobre el lenguaje de la discapacidad.
 
 ### Modelo médico frente a modelo social
 
@@ -97,7 +97,7 @@ Esta sección reconoce que los impedimentos y las afecciones de salud son reales
 
 Ambas cosas son ciertas. Necesitar atención médica y estar discapacitado por la sociedad no son contradictorios.
 
-Consulta [Modelos de discapacidad](/es/foundations/disability-models.md) para más información sobre los distintos marcos para entender la discapacidad.
+Consulta [Modelos de discapacidad](/es/foundations/disability-models) para más información sobre los distintos marcos para entender la discapacidad.
 
 ### Las categorías se superponen
 
@@ -115,7 +115,7 @@ Sea cual sea la afección o afecciones que tengas, no estás solo. Cada página 
 - **Organizaciones de incidencia** lideradas por personas con esa afección
 - **Opciones de apoyo entre pares** en varios países
 
-Para conexiones comunitarias más amplias de discapacidad, consulta [Comunidad y apoyo entre pares](/es/community/index.md).
+Para conexiones comunitarias más amplias de discapacidad, consulta [Comunidad y apoyo entre pares](/es/community).
 
 ---
 
@@ -137,8 +137,8 @@ No tienes que resolverlo todo de una vez. Empieza por lo que más necesitas ahor
 
 Si buscas información para apoyar mejor a las personas con discapacidad en tu trabajo o tu vida:
 
-- Consulta [Para personas aliadas](/es/foundations/for-allies.md) para una orientación fundamental
-- Consulta [Kits de herramientas profesionales](/es/professionals/index.md) para recursos específicos según tu rol
+- Consulta [Para personas aliadas](/es/foundations/for-allies) para una orientación fundamental
+- Consulta [Kits de herramientas profesionales](/es/professionals) para recursos específicos según tu rol
 - **Escucha a las personas con discapacidad**: estas páginas comparten conocimiento comunitario, no solo datos clínicos
 
 ---
@@ -152,17 +152,17 @@ Las personas con discapacidad son las expertas en sus propias afecciones. Estas 
 - Correcciones o actualizaciones a la información existente
 - Nuevas afecciones que aún no están cubiertas
 
-Consulta [Cómo contribuir](/es/glossary/how-to-contribute.md) para compartir tu conocimiento.
+Consulta [Cómo contribuir](/es/glossary/how-to-contribute) para compartir tu conocimiento.
 
 ---
 
 ## Secciones relacionadas
 
-- [Atención médica](/es/healthcare/index.md): cómo navegar los sistemas de atención médica, los seguros y el equipo médico
-- [Prestaciones y apoyo financiero](/es/benefits/index.md): prestaciones por discapacidad por país
-- [Vida diaria](/es/daily-living/index.md): tecnología de asistencia, cuidado personal, vida diaria
-- [Comunidad y apoyo entre pares](/es/community/index.md): encontrar a tu gente
-- [Derechos e incidencia](/es/rights/index.md): tus protecciones legales
+- [Atención médica](/es/healthcare): cómo navegar los sistemas de atención médica, los seguros y el equipo médico
+- [Prestaciones y apoyo financiero](/es/benefits): prestaciones por discapacidad por país
+- [Vida diaria](/es/daily-living): tecnología de asistencia, cuidado personal, vida diaria
+- [Comunidad y apoyo entre pares](/es/community): encontrar a tu gente
+- [Derechos e incidencia](/es/rights): tus protecciones legales
 
 ---
 

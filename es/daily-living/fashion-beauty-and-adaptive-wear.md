@@ -532,11 +532,11 @@ Damos la bienvenida a contribuciones de:
 
 ## Véase también
 
-- [Cuidado personal](/es/daily-living/personal-care.md)
-- [Panorama general de la tecnología de apoyo](/es/daily-living/assistive-technology-overview.md)
-- [Vida diaria y estilo de vida: Panorama general](/es/daily-living/index.md)
-- [Relaciones: Citas y relaciones](/es/relationships/dating-and-relationships.md)
-- [Medios: Estereotipos y representación en los medios](/es/media/media-tropes-and-representation.md)
+- [Cuidado personal](/es/daily-living/personal-care)
+- [Panorama general de la tecnología de apoyo](/es/daily-living/assistive-technology-overview)
+- [Vida diaria y estilo de vida: Panorama general](/es/daily-living)
+- [Relaciones: Citas y relaciones](/es/relationships/dating-and-relationships)
+- [Medios: Estereotipos y representación en los medios](/es/media/media-tropes-and-representation)
 
 ---
 

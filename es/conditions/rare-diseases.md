@@ -99,7 +99,7 @@ Algunas personas nunca reciben un diagnóstico específico. Esto es válido y au
 - Que no merezcas ayuda
 - Que no tengas una discapacidad
 
-Consulta [Discapacidades invisibles](/es/conditions/invisible-disabilities.md) para experiencias relacionadas.
+Consulta [Discapacidades invisibles](/es/conditions/invisible-disabilities) para experiencias relacionadas.
 
 ---
 
@@ -375,7 +375,7 @@ La atención de las enfermedades raras varía enormemente:
 
 **Trabajo remoto**: Puede ser especialmente valioso cuando las citas y los viajes por atención médica son frecuentes.
 
-Consulta [Adaptaciones en el lugar de trabajo](/es/employment/workplace-accommodations.md).
+Consulta [Adaptaciones en el lugar de trabajo](/es/employment/workplace-accommodations).
 
 ### Prestaciones y apoyo económico
 
@@ -385,7 +385,7 @@ Consulta [Adaptaciones en el lugar de trabajo](/es/employment/workplace-accommod
 
 **Costos de viajes médicos**: En algunas situaciones pueden ser deducibles o estar cubiertos.
 
-Consulta [Prestaciones](/es/benefits/index.md), [Navegación del seguro](/es/healthcare/insurance-navigation.md).
+Consulta [Prestaciones](/es/benefits), [Navegación del seguro](/es/healthcare/insurance-navigation).
 
 ---
 
@@ -413,7 +413,7 @@ Consulta [Prestaciones](/es/benefits/index.md), [Navegación del seguro](/es/hea
 
 **Toma descansos de la vida con enfermedad rara**: Eres más que tu condición.
 
-Consulta [Salud mental](/es/healthcare/mental-health.md).
+Consulta [Salud mental](/es/healthcare/mental-health).
 
 ---
 
@@ -488,7 +488,7 @@ Los eventos incluyen:
 - Cobertura mediática
 - Construcción de comunidad
 
-Consulta [Defensa y autodefensa](/es/rights/advocacy-and-self-advocacy.md), [Participa](/es/get-involved/index.md).
+Consulta [Defensa y autodefensa](/es/rights/advocacy-and-self-advocacy), [Participa](/es/get-involved).
 
 ---
 
@@ -518,7 +518,7 @@ Algunas personas con enfermedades raras se identifican como personas con discapa
 
 La **comunidad de discapacidad** incluye las enfermedades raras. Experiencias compartidas de navegar la atención médica, luchar por el acceso y abogar por el cambio.
 
-Consulta [Interseccionalidad](/es/intersectionality/index.md).
+Consulta [Interseccionalidad](/es/intersectionality).
 
 ---
 
@@ -575,15 +575,15 @@ Tener una enfermedad rara puede sentirse aislante. Pero recuerda:
 
 ## Páginas relacionadas
 
-- [Enfermedad crónica](/es/conditions/chronic-illness.md)
-- [Discapacidades invisibles](/es/conditions/invisible-disabilities.md)
-- [Discapacidades múltiples](/es/conditions/multiple-disabilities.md)
-- [Discapacidades físicas](/es/conditions/physical-disabilities.md)
-- [Atención médica accesible](/es/healthcare/accessible-healthcare.md)
-- [Navegación del seguro](/es/healthcare/insurance-navigation.md)
-- [Panorama de prestaciones](/es/benefits/index.md)
-- [Comunidad y apoyo entre pares](/es/community/index.md)
-- [Comunidades en línea](/es/community/online-communities.md)
+- [Enfermedad crónica](/es/conditions/chronic-illness)
+- [Discapacidades invisibles](/es/conditions/invisible-disabilities)
+- [Discapacidades múltiples](/es/conditions/multiple-disabilities)
+- [Discapacidades físicas](/es/conditions/physical-disabilities)
+- [Atención médica accesible](/es/healthcare/accessible-healthcare)
+- [Navegación del seguro](/es/healthcare/insurance-navigation)
+- [Panorama de prestaciones](/es/benefits)
+- [Comunidad y apoyo entre pares](/es/community)
+- [Comunidades en línea](/es/community/online-communities)
 
 ---
 

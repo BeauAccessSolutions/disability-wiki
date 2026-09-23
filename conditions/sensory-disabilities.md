@@ -171,7 +171,7 @@ Difficulty processing and responding to sensory information. May involve:
 - Hyposensitivity (under-responsiveness) requiring more sensory input
 - Often co-occurs with autism, ADHD, and other conditions
 
-See [Neurodivergence](/conditions/neurodivergence.md) for more.
+See [Neurodivergence](/conditions/neurodivergence) for more.
 
 #### Vestibular Disorders
 
@@ -205,7 +205,7 @@ Affect balance and spatial orientation:
 - Deaf schools (residential and day programs)
 - Schools for the blind
 - Mainstream schools with IEPs/504 plans
-- See [K-12 Education](/education/k12-education.md) and [IDEA](/rights/us/idea.md)
+- See [K-12 Education](/education/k12-education) and [IDEA](/rights/us/idea)
 
 **Technology**:
 - Screen reader training available through rehab agencies and nonprofits
@@ -299,7 +299,7 @@ Affect balance and spatial orientation:
 **World Federation of the Deaf** has member associations in 130+ countries.
 **World Blind Union** represents blind organizations globally.
 
-See [International Rights](/rights/international-rights.md).
+See [International Rights](/rights/international-rights).
 
 ---
 
@@ -357,7 +357,7 @@ See [International Rights](/rights/international-rights.md).
 - **Visual/vibrating alerts** for doorbells, alarms, baby monitors
 - **Hearing aids and cochlear implants** (personal choice — not for everyone)
 - **Speech-to-text apps**
-- See [Mobile & OS Accessibility](/tech/mobile-and-os-accessibility.md)
+- See [Mobile & OS Accessibility](/tech/mobile-and-os-accessibility)
 
 ### Blind and Low Vision Technology
 
@@ -367,7 +367,7 @@ See [International Rights](/rights/international-rights.md).
 - **Accessible GPS and navigation apps**
 - **OCR apps** for reading print
 - **Smart home technology** with voice control
-- See [Web Accessibility](/tech/web-accessibility.md) and [Mobile & OS Accessibility](/tech/mobile-and-os-accessibility.md)
+- See [Web Accessibility](/tech/web-accessibility) and [Mobile & OS Accessibility](/tech/mobile-and-os-accessibility)
 
 ### Deafblind Technology
 
@@ -408,7 +408,7 @@ Multiple approaches exist (with strong debates within Deaf community):
 
 **The community perspective**: Organizations like NFB emphasize high expectations, proper training, and the message that "blindness is not the problem."
 
-See [K-12 Education](/education/k12-education.md), [Higher Education](/education/higher-education.md).
+See [K-12 Education](/education/k12-education), [Higher Education](/education/higher-education).
 
 ---
 
@@ -439,7 +439,7 @@ See [K-12 Education](/education/k12-education.md), [Higher Education](/education
 
 **NFB's philosophy**: Blind people can work in virtually any field with proper training and accommodations.
 
-See [Workplace Accommodations](/employment/workplace-accommodations.md), [Employment Rights by Country](/employment/employment-rights-by-country.md).
+See [Workplace Accommodations](/employment/workplace-accommodations), [Employment Rights by Country](/employment/employment-rights-by-country).
 
 ---
 
@@ -459,7 +459,7 @@ See [Workplace Accommodations](/employment/workplace-accommodations.md), [Employ
 - Accessible information in transit (visual announcements)
 - Communication access in transit situations
 
-See [Mobility Aids](/transport/mobility-aids.md), [Service Animals](/transport/service-animals.md).
+See [Mobility Aids](/transport/mobility-aids), [Service Animals](/transport/service-animals).
 
 ### Daily Living Skills
 
@@ -471,7 +471,7 @@ Both blind and Deaf communities emphasize that with proper skills and tools, dai
 - Parenting (yes, Deaf and blind parents exist and thrive)
 - Home maintenance
 
-See [Daily Living](/daily-living/index.md).
+See [Daily Living](/daily-living).
 
 ---
 
@@ -500,7 +500,7 @@ See [Daily Living](/daily-living/index.md).
 
 Some Deaf people have additional disabilities. The term "DeafDisabled" or "Deaf+" recognizes these intersections while maintaining Deaf identity.
 
-See [Intersectionality](/intersectionality/index.md) section.
+See [Intersectionality](/intersectionality) section.
 
 ---
 
@@ -582,22 +582,22 @@ See [Intersectionality](/intersectionality/index.md) section.
 - Affordable technology
 - Accessible transportation
 
-See [History of Disability Rights](/rights/history-of-disability-rights.md), [Get Involved](/get-involved/index.md).
+See [History of Disability Rights](/rights/history-of-disability-rights), [Get Involved](/get-involved).
 
 ---
 
 ## Related Pages
 
-- [Communication Access & AAC](/tech/communication-access-and-aac.md)
-- [Web Accessibility](/tech/web-accessibility.md)
-- [Mobile & OS Accessibility](/tech/mobile-and-os-accessibility.md)
-- [Service Animals](/transport/service-animals.md)
-- [Mobility Aids](/transport/mobility-aids.md)
-- [Workplace Accommodations](/employment/workplace-accommodations.md)
-- [K-12 Education](/education/k12-education.md)
-- [Invisible Disabilities](/conditions/invisible-disabilities.md) (for HoH, low vision)
-- [Multiple Disabilities](/conditions/multiple-disabilities.md)
-- [Neurodivergence](/conditions/neurodivergence.md) (for sensory processing)
+- [Communication Access & AAC](/tech/communication-access-and-aac)
+- [Web Accessibility](/tech/web-accessibility)
+- [Mobile & OS Accessibility](/tech/mobile-and-os-accessibility)
+- [Service Animals](/transport/service-animals)
+- [Mobility Aids](/transport/mobility-aids)
+- [Workplace Accommodations](/employment/workplace-accommodations)
+- [K-12 Education](/education/k12-education)
+- [Invisible Disabilities](/conditions/invisible-disabilities) (for HoH, low vision)
+- [Multiple Disabilities](/conditions/multiple-disabilities)
+- [Neurodivergence](/conditions/neurodivergence) (for sensory processing)
 
 ---
 

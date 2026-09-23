@@ -74,11 +74,33 @@ def is_internal_link(url):
         return False
     return True
 
-def normalize_wiki_path(link_url):
-    """Normalize a Wiki.js link URL to a candidate file path.
+def link_form_problem(url):
+    """Return why a page link's *form* breaks on the static site, or None.
 
-    Handles the real-world variations seen in the content: a trailing ``#anchor``,
-    a stray ``.md`` suffix in the public path, and trailing slashes.
+    Astro passes link URLs through verbatim, so these resolve to a file here but
+    404 once rendered:
+      - a ``.md`` suffix: ``/housing/housing-rights.md`` renders as that href,
+        and the site serves ``/housing/housing-rights`` (no ``.md`` route).
+      - a relative link: pages are served at ``/section/page/`` (trailing
+        slash), so ``./other`` and ``../x`` resolve one level too deep. Use an
+        absolute ``/section/page`` path instead.
+    """
+    if url.startswith('#') or re.match(r'^[A-Za-z][A-Za-z0-9+.-]*:', url) \
+            or url.startswith('//'):
+        return None  # same-page anchor or external/mailto/tel
+    path_only = url.split('#', 1)[0].split('?', 1)[0]
+    if not url.startswith('/'):
+        if path_only.lower().endswith(ASSET_EXTS):
+            return None
+        return 'relative link (use an absolute /section/page path)'
+    if path_only.endswith('.md'):
+        return "'.md' suffix (renders as a 404 href; drop '.md', keep any #fragment)"
+    return None
+
+def normalize_wiki_path(link_url):
+    """Normalize a page link URL to a candidate file path (``#anchor`` and
+    trailing slashes stripped). A ``.md`` suffix is stripped here only so the
+    target-exists check still runs; link_form_problem() rejects it separately.
     """
     path = link_url.split('#', 1)[0].lstrip('/').rstrip('/')
     if path.endswith('.md'):
@@ -160,6 +182,15 @@ def scan_files(md_files, collect_suggestions=False):
         links = extract_links(body)
 
         for text, url in links:
+            problem = link_form_problem(url)
+            if problem:
+                results['broken_links'].append({
+                    'file': str(rel_path),
+                    'text': text,
+                    'url': url,
+                    'target': problem,
+                })
+                continue
             if is_internal_link(url):
                 results['all_links'].append((str(rel_path), text, url))
 
@@ -171,7 +202,7 @@ def scan_files(md_files, collect_suggestions=False):
                         'file': str(rel_path),
                         'text': text,
                         'url': url,
-                        'target': f"{target}.md"
+                        'target': f"not found: {target}.md"
                     })
 
         # Find suggestions (English-keyword heuristic; skipped for es/)
@@ -221,7 +252,7 @@ def main():
             print(f"File: {link['file']}")
             print(f"  Text: '{link['text']}'")
             print(f"  URL: {link['url']}")
-            print(f"  Target not found: {link['target']}\n")
+            print(f"  Problem: {link['target']}\n")
 
         if len(broken_links) > 10:
             print(f"  ... and {len(broken_links) - 10} more (see report file)\n")
@@ -239,7 +270,7 @@ def main():
             print(f"File: {link['file']}")
             print(f"  Text: '{link['text']}'")
             print(f"  URL: {link['url']}")
-            print(f"  Target not found: {link['target']}\n")
+            print(f"  Problem: {link['target']}\n")
 
         if len(es['broken_links']) > 10:
             print(f"  ... and {len(es['broken_links']) - 10} more (see report file)\n")

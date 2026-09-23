@@ -3,9 +3,10 @@ import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 import sidebar from './src/sidebar.json' with { type: 'json' };
 import { remarkStripLeadingH1 } from './src/remark-strip-h1.mjs';
+import { remarkHeadingIds } from './src/remark-heading-ids.mjs';
 
 export default defineConfig({
-  markdown: { remarkPlugins: [remarkStripLeadingH1] },
+  markdown: { remarkPlugins: [remarkStripLeadingH1, remarkHeadingIds] },
   site: 'https://disabilitywiki.org',
   redirects: {
     '/home': '/',

@@ -12,7 +12,7 @@ dateCreated: 2025-11-22T23:10:18.455Z
 
 ## Overview
 
-This page complements [Recreation, Travel, and Outdoors](./recreation-travel-and-outdoors.md) with specific, practical travel planning for disabled people. It includes accessibility guides for common destinations, how to research accessibility, travel planning checklists, and resources for finding accessible information.
+This page complements [Recreation, Travel, and Outdoors](/daily-living/recreation-travel-and-outdoors) with specific, practical travel planning for disabled people. It includes accessibility guides for common destinations, how to research accessibility, travel planning checklists, and resources for finding accessible information.
 
 Travel for disabled people requires research, planning, and often problem-solving. This page provides tools, strategies, and community knowledge to make travel possible.
 
@@ -588,11 +588,11 @@ We welcome contributions from:
 
 ## See Also
 
-- [Recreation, Travel, and Outdoors](./recreation-travel-and-outdoors.md)
-- [Transportation: Air Travel Rights](../../transport/air-travel-rights.md)
-- [Transportation: Public Transit Rights](../../transport/public-transit-rights.md)
-- [Healthcare: Accessible Healthcare](../../healthcare/accessible-healthcare.md)
-- [Daily Living & Lifestyle: Overview](./index.md)
+- [Recreation, Travel, and Outdoors](/daily-living/recreation-travel-and-outdoors)
+- [Transportation: Air Travel Rights](/transport/air-travel-rights)
+- [Transportation: Public Transit Rights](/transport/public-transit-rights)
+- [Healthcare: Accessible Healthcare](/healthcare/accessible-healthcare)
+- [Daily Living & Lifestyle: Overview](/daily-living)
 
 ---
 

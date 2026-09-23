@@ -167,7 +167,7 @@ Many invisible disabilities fluctuate:
 "I need to be able to cancel plans on bad days."
 "Today is a worse day for me."
 
-See [Pain & Fatigue](/healthcare/pain-and-fatigue.md) for energy management strategies.
+See [Pain & Fatigue](/healthcare/pain-and-fatigue) for energy management strategies.
 
 ---
 
@@ -181,7 +181,7 @@ See [Pain & Fatigue](/healthcare/pain-and-fatigue.md) for energy management stra
 
 **Finding believing providers**: Ask community members with your condition for recommendations. Don't settle for providers who dismiss you.
 
-See [Accessible Healthcare](/healthcare/accessible-healthcare.md), [Healthcare Rights](/healthcare/healthcare-rights.md).
+See [Accessible Healthcare](/healthcare/accessible-healthcare), [Healthcare Rights](/healthcare/healthcare-rights).
 
 ### Benefits
 
@@ -195,7 +195,7 @@ See [Accessible Healthcare](/healthcare/accessible-healthcare.md), [Healthcare R
 - Record or take notes on the assessment
 - Appeal denials — many are overturned
 
-See [Benefits](/benefits/index.md), [Benefit Denials & Appeals](/benefits/benefit-denials-and-appeals.md).
+See [Benefits](/benefits), [Benefit Denials & Appeals](/benefits/benefit-denials-and-appeals).
 
 ### Workplace
 
@@ -205,7 +205,7 @@ See [Benefits](/benefits/index.md), [Benefit Denials & Appeals](/benefits/benefi
 - May face "you seem fine" challenges
 - May work harder to "pass" as non-disabled
 
-See [Workplace Accommodations](/employment/workplace-accommodations.md).
+See [Workplace Accommodations](/employment/workplace-accommodations).
 
 ### Public Accommodations
 
@@ -254,7 +254,7 @@ Many people with invisible disabilities question whether they "count" as disable
 - Friendship
 - Reduced isolation
 
-See [Community & Peer Support](/community/index.md), [Online Communities](/community/online-communities.md).
+See [Community & Peer Support](/community), [Online Communities](/community/online-communities).
 
 ### Visible vs. Invisible: A False Divide
 
@@ -289,7 +289,7 @@ Some people with invisible disabilities choose to make their disabilities visibl
 
 **Intimacy with invisible disability**: Pain, fatigue, and other symptoms affect intimacy. Communication is key.
 
-See [Dating & Relationships](/relationships/dating-and-relationships.md).
+See [Dating & Relationships](/relationships/dating-and-relationships).
 
 ### Friends and Family
 
@@ -343,7 +343,7 @@ See [Dating & Relationships](/relationships/dating-and-relationships.md).
 - May be unable to reduce work despite illness
 - Benefits systems often denying people with invisible conditions
 
-See [Intersectionality](/intersectionality/index.md) section.
+See [Intersectionality](/intersectionality) section.
 
 ---
 
@@ -351,19 +351,19 @@ See [Intersectionality](/intersectionality/index.md) section.
 
 This page discusses the shared experience of invisible disability. For specific conditions, see their home pages:
 
-**Chronic illness**: [Chronic Illness](/conditions/chronic-illness.md)
+**Chronic illness**: [Chronic Illness](/conditions/chronic-illness)
 - Fibromyalgia, ME/CFS, lupus, MS, autoimmune conditions, and more
 
-**Neurodivergence**: [Neurodivergence](/conditions/neurodivergence.md)
+**Neurodivergence**: [Neurodivergence](/conditions/neurodivergence)
 - Autism, ADHD, dyslexia, and related conditions
 
-**Mental health**: [Psychiatric & Psychosocial Disability](/conditions/psychiatric-and-psychosocial-disability.md)
+**Mental health**: [Psychiatric & Psychosocial Disability](/conditions/psychiatric-and-psychosocial-disability)
 - Depression, anxiety, bipolar, PTSD, and more
 
-**Sensory disabilities**: [Sensory Disabilities](/conditions/sensory-disabilities.md)
+**Sensory disabilities**: [Sensory Disabilities](/conditions/sensory-disabilities)
 - Hearing loss, low vision when not immediately apparent
 
-**Physical disabilities**: [Physical Disabilities](/conditions/physical-disabilities.md)
+**Physical disabilities**: [Physical Disabilities](/conditions/physical-disabilities)
 - Chronic pain, conditions that don't require visible mobility aids
 
 ---
@@ -415,7 +415,7 @@ This page discusses the shared experience of invisible disability. For specific 
 - "At least it's not cancer" (or other comparison)
 - "You just need to be more positive"
 
-See [For Allies](/foundations/for-allies.md).
+See [For Allies](/foundations/for-allies).
 
 ---
 
@@ -443,20 +443,20 @@ People with invisible disabilities are organizing for:
 - Public awareness campaigns
 - Visibility in disability rights movement
 
-See [Advocacy & Self-Advocacy](/rights/advocacy-and-self-advocacy.md), [Get Involved](/get-involved/index.md).
+See [Advocacy & Self-Advocacy](/rights/advocacy-and-self-advocacy), [Get Involved](/get-involved).
 
 ---
 
 ## Related Pages
 
-- [Chronic Illness](/conditions/chronic-illness.md)
-- [Neurodivergence](/conditions/neurodivergence.md)
-- [Psychiatric & Psychosocial Disability](/conditions/psychiatric-and-psychosocial-disability.md)
-- [Pain & Fatigue](/healthcare/pain-and-fatigue.md)
-- [Workplace Accommodations](/employment/workplace-accommodations.md)
-- [Benefit Denials & Appeals](/benefits/benefit-denials-and-appeals.md)
-- [Multiple Disabilities](/conditions/multiple-disabilities.md)
-- [For Allies](/foundations/for-allies.md)
+- [Chronic Illness](/conditions/chronic-illness)
+- [Neurodivergence](/conditions/neurodivergence)
+- [Psychiatric & Psychosocial Disability](/conditions/psychiatric-and-psychosocial-disability)
+- [Pain & Fatigue](/healthcare/pain-and-fatigue)
+- [Workplace Accommodations](/employment/workplace-accommodations)
+- [Benefit Denials & Appeals](/benefits/benefit-denials-and-appeals)
+- [Multiple Disabilities](/conditions/multiple-disabilities)
+- [For Allies](/foundations/for-allies)
 
 ---
 

@@ -99,7 +99,7 @@ Some people never receive a specific diagnosis. This is valid and you still dese
 - You don't deserve help
 - You're not disabled
 
-See [Invisible Disabilities](/conditions/invisible-disabilities.md) for related experiences.
+See [Invisible Disabilities](/conditions/invisible-disabilities) for related experiences.
 
 ---
 
@@ -375,7 +375,7 @@ Rare disease care varies dramatically:
 
 **Remote work**: Can be particularly valuable when appointments and healthcare travel are frequent.
 
-See [Workplace Accommodations](/employment/workplace-accommodations.md).
+See [Workplace Accommodations](/employment/workplace-accommodations).
 
 ### Benefits and Financial Support
 
@@ -385,7 +385,7 @@ See [Workplace Accommodations](/employment/workplace-accommodations.md).
 
 **Medical travel costs**: May be deductible or covered in some situations.
 
-See [Benefits](/benefits/index.md), [Insurance Navigation](/healthcare/insurance-navigation.md).
+See [Benefits](/benefits), [Insurance Navigation](/healthcare/insurance-navigation).
 
 ---
 
@@ -413,7 +413,7 @@ See [Benefits](/benefits/index.md), [Insurance Navigation](/healthcare/insurance
 
 **Take breaks from rare disease life**: You're more than your condition.
 
-See [Mental Health](/healthcare/mental-health.md).
+See [Mental Health](/healthcare/mental-health).
 
 ---
 
@@ -488,7 +488,7 @@ Events include:
 - Media coverage
 - Community building
 
-See [Advocacy & Self-Advocacy](/rights/advocacy-and-self-advocacy.md), [Get Involved](/get-involved/index.md).
+See [Advocacy & Self-Advocacy](/rights/advocacy-and-self-advocacy), [Get Involved](/get-involved).
 
 ---
 
@@ -518,7 +518,7 @@ Some people with rare diseases identify as disabled; others don't. Both are vali
 
 **Disability community** includes rare disease. Shared experiences of navigating healthcare, fighting for access, advocating for change.
 
-See [Intersectionality](/intersectionality/index.md).
+See [Intersectionality](/intersectionality).
 
 ---
 
@@ -575,15 +575,15 @@ Having a rare disease can feel isolating. But remember:
 
 ## Related Pages
 
-- [Chronic Illness](/conditions/chronic-illness.md)
-- [Invisible Disabilities](/conditions/invisible-disabilities.md)
-- [Multiple Disabilities](/conditions/multiple-disabilities.md)
-- [Physical Disabilities](/conditions/physical-disabilities.md)
-- [Accessible Healthcare](/healthcare/accessible-healthcare.md)
-- [Insurance Navigation](/healthcare/insurance-navigation.md)
-- [Benefits Overview](/benefits/index.md)
-- [Community & Peer Support](/community/index.md)
-- [Online Communities](/community/online-communities.md)
+- [Chronic Illness](/conditions/chronic-illness)
+- [Invisible Disabilities](/conditions/invisible-disabilities)
+- [Multiple Disabilities](/conditions/multiple-disabilities)
+- [Physical Disabilities](/conditions/physical-disabilities)
+- [Accessible Healthcare](/healthcare/accessible-healthcare)
+- [Insurance Navigation](/healthcare/insurance-navigation)
+- [Benefits Overview](/benefits)
+- [Community & Peer Support](/community)
+- [Online Communities](/community/online-communities)
 
 ---
 

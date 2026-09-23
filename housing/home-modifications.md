@@ -387,13 +387,13 @@ Home modification funding varies dramatically globally. Access to funding, mater
 
 ## Related Resources
 
-For information on **Housing Rights** including modification requirements, see [Housing Rights](/housing/housing-rights.md).
+For information on **Housing Rights** including modification requirements, see [Housing Rights](/housing/housing-rights).
 
-For **Accessible Housing Search** when current home cannot be modified, see [Accessible Housing Search Guide](/housing/accessible-housing-search-guide.md).
+For **Accessible Housing Search** when current home cannot be modified, see [Accessible Housing Search Guide](/housing/accessible-housing-search-guide).
 
-For **Tenants' Rights** regarding modification requests as renter, see [Tenants' Rights with Disabilities](/housing/tenants-rights-with-disabilities.md).
+For **Tenants' Rights** regarding modification requests as renter, see [Tenants' Rights with Disabilities](/housing/tenants-rights-with-disabilities).
 
-For **Home and Community-Based Services** funding modifications, see [Benefits](/benefits/index.md) for country-specific programs.
+For **Home and Community-Based Services** funding modifications, see [Benefits](/benefits) for country-specific programs.
 
 ---
 

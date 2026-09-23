@@ -18,7 +18,7 @@ Las personas con discapacidad —estudiantes y también académicas— llevan d�
 
 > **En resumen:** el acceso es una decisión de diseño, no una excepción. Decide *antes* del periodo cómo participará el estudiantado, cómo entregará el trabajo y cómo obtendrá los materiales; luego publica esas decisiones en el programa para que la flexibilidad esté ahí, por defecto, para todo el mundo.
 
-Esto complementa la página [Personas educadoras](/es/professionals/educators) (más centrada en K–12 y en los fundamentos del DUA) y la página [Educación superior](/es/education/higher-education). Para el principio que lo sustenta, consulta [Diseño Universal para el Aprendizaje](/es/professionals/educators#universal-design-for-learning).
+Esto complementa la página [Personas educadoras](/es/professionals/educators) (más centrada en K–12 y en los fundamentos del DUA) y la página [Educación superior](/es/education/higher-education). Para el principio que lo sustenta, consulta [Diseño Universal para el Aprendizaje](/es/professionals/educators#diseño-universal-para-el-aprendizaje).
 
 ---
 

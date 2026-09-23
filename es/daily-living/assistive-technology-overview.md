@@ -611,12 +611,12 @@ Damos la bienvenida a contribuciones de:
 
 ## Véase también
 
-- [Tecnología y acceso digital: Accesibilidad web](/es/tech/web-accessibility.md)
-- [Tecnología y acceso digital: Acceso a la comunicación y AAC](/es/tech/communication-access-and-aac.md)
-- [Atención médica: Equipo médico y AT](/es/healthcare/medical-equipment-and-at.md)
-- [Vida diaria y estilo de vida: Panorama general](/es/daily-living/index.md)
-- [Educación: Educación K-12](/es/education/k12-education.md)
-- [Empleo: Adaptaciones en el lugar de trabajo](/es/employment/workplace-accommodations.md)
+- [Tecnología y acceso digital: Accesibilidad web](/es/tech/web-accessibility)
+- [Tecnología y acceso digital: Acceso a la comunicación y AAC](/es/tech/communication-access-and-aac)
+- [Atención médica: Equipo médico y AT](/es/healthcare/medical-equipment-and-at)
+- [Vida diaria y estilo de vida: Panorama general](/es/daily-living)
+- [Educación: Educación K-12](/es/education/k12-education)
+- [Empleo: Adaptaciones en el lugar de trabajo](/es/employment/workplace-accommodations)
 
 ---
 

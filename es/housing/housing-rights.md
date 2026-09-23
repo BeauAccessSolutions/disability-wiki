@@ -16,7 +16,7 @@ Las personas con discapacidad tienen protecciones legales en materia de vivienda
 
 Todas las personas con discapacidad del mundo comparten el mismo derecho fundamental: **vivir de forma independiente en la comunidad con apoyo si es necesario**. Este estándar lo establece el **artículo 19 de la Convención de la ONU sobre los Derechos de las Personas con Discapacidad (Convention on the Rights of Persons with Disabilities, CDPD)**, que cuenta con 193 partes a junio de 2026 ([Colección de Tratados de la ONU](https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=IV-15&chapter=4)). La ratificación por sí sola no crea un recurso individual exigible: lo que puedes reclamar depende de la implementación en tu país (ver más abajo).
 
-Para una explicación detallada de cómo funciona el artículo 19 de la CDPD, cómo lo interpretan los distintos sistemas legales y los marcos internacionales que protegen los derechos de vivienda de las personas con discapacidad, consulta [Derechos internacionales de vivienda](/es/housing/international-housing-rights.md).
+Para una explicación detallada de cómo funciona el artículo 19 de la CDPD, cómo lo interpretan los distintos sistemas legales y los marcos internacionales que protegen los derechos de vivienda de las personas con discapacidad, consulta [Derechos internacionales de vivienda](/es/housing/international-housing-rights).
 
 **En resumen:** el artículo 19 de la CDPD establece que las personas con discapacidad tienen:
 1. **El derecho a elegir** dónde vivir, con quién y qué arreglos de convivencia les funcionan
@@ -47,7 +47,7 @@ EE. UU. no ha ratificado la CDPD (aunque la firmó), por lo que la CDPD no es ju
 
 ### Fair Housing Act: la ley federal fundamental
 
-La **Ley de Vivienda Justa (Fair Housing Act, FHA)**, aprobada en 1968 y con protecciones por discapacidad añadidas en 1988, prohíbe la discriminación en la vivienda por motivo de discapacidad. Cubre la mayoría de los alquileres y las ventas, pero tiene exenciones limitadas: edificios ocupados por su dueño con cuatro o menos unidades donde el dueño vive, y vivienda exclusiva para personas de 55 años o más (aunque las disposiciones sobre discapacidad siguen aplicándose). Para el texto legal completo, consulta [Fair Housing Act](/es/rights/us/fair-housing-act.md).
+La **Ley de Vivienda Justa (Fair Housing Act, FHA)**, aprobada en 1968 y con protecciones por discapacidad añadidas en 1988, prohíbe la discriminación en la vivienda por motivo de discapacidad. Cubre la mayoría de los alquileres y las ventas, pero tiene exenciones limitadas: edificios ocupados por su dueño con cuatro o menos unidades donde el dueño vive, y vivienda exclusiva para personas de 55 años o más (aunque las disposiciones sobre discapacidad siguen aplicándose). Para el texto legal completo, consulta [Fair Housing Act](/es/rights/us/fair-housing-act).
 
 La FHA prohíbe tres categorías principales de violaciones:
 
@@ -61,7 +61,7 @@ La FHA prohíbe tres categorías principales de violaciones:
 
 ### Sección 504 de la Rehabilitation Act: protecciones más fuertes para la vivienda con financiamiento federal
 
-La **Sección 504** se aplica a cualquier vivienda que reciba financiamiento federal: vivienda pública, Sección 8 basada en proyectos, HOPWA, vivienda de apoyo, programas financiados a través de CDBG o HOME. Esto abarca una parte sustancial del parque de vivienda de EE. UU. Para más detalles, consulta [Sección 504](/es/rights/us/section-504.md).
+La **Sección 504** se aplica a cualquier vivienda que reciba financiamiento federal: vivienda pública, Sección 8 basada en proyectos, HOPWA, vivienda de apoyo, programas financiados a través de CDBG o HOME. Esto abarca una parte sustancial del parque de vivienda de EE. UU. Para más detalles, consulta [Sección 504](/es/rights/us/section-504).
 
 La Sección 504 brinda protecciones más fuertes que la FHA: los arrendadores deben pagar las modificaciones razonables, deben ofrecer adaptaciones de forma proactiva a los residentes con discapacidad conocida y deben garantizar la accesibilidad en todas las áreas y servicios comunes. La nueva construcción debe incluir un 5 % de unidades accesibles para movilidad y un 2 % accesibles a nivel sensorial.
 
@@ -435,7 +435,7 @@ Ya sea que estés en un país que ha ratificado la CDPD, en un país como EE. UU
 
 ## Recursos y apoyo
 
-**Derechos internacionales de vivienda**: consulta [Derechos internacionales de vivienda](/es/housing/international-housing-rights.md) para una explicación detallada del artículo 19 de la CDPD, los marcos globales y cómo los distintos sistemas legales implementan los derechos de vivienda.
+**Derechos internacionales de vivienda**: consulta [Derechos internacionales de vivienda](/es/housing/international-housing-rights) para una explicación detallada del artículo 19 de la CDPD, los marcos globales y cómo los distintos sistemas legales implementan los derechos de vivienda.
 
 **Convención de la ONU sobre los Derechos de las Personas con Discapacidad**: [ohchr.org](https://ohchr.org). Texto completo en varios idiomas; la Observación General 5 sobre el artículo 19 ofrece una interpretación a fondo.
 

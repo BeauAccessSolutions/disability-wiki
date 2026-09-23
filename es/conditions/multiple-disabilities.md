@@ -277,7 +277,7 @@ Consulta [Panorama de prestaciones internacionales](/es/benefits/international/b
 
 **Adaptaciones que atienden varias necesidades**: Tiempo adicional, apoyo para tomar apuntes, asistencia flexible, adaptaciones de vivienda, reducción de la carga académica.
 
-Consulta [Educación K-12](/es/education/k12-education.md), [Educación superior](/es/education/higher-education.md).
+Consulta [Educación K-12](/es/education/k12-education), [Educación superior](/es/education/higher-education).
 
 ---
 
@@ -306,7 +306,7 @@ Consulta [Educación K-12](/es/education/k12-education.md), [Educación superior
 
 **Si no puedes trabajar**: Las discapacidades múltiples a menudo califican para prestaciones por discapacidad. No trabajar no es un fracaso.
 
-Consulta [Adaptaciones en el lugar de trabajo](/es/employment/workplace-accommodations.md), [Buscar empleo con una discapacidad](/es/employment/job-searching-with-a-disability.md).
+Consulta [Adaptaciones en el lugar de trabajo](/es/employment/workplace-accommodations), [Buscar empleo con una discapacidad](/es/employment/job-searching-with-a-disability).
 
 ---
 
@@ -336,7 +336,7 @@ Vivir con discapacidades múltiples afecta la salud mental:
 - Los grupos específicos de cada condición pueden ofrecer algo cada uno
 - Comunidades generales de enfermedad crónica y discapacidad
 
-Consulta [Salud mental](/es/healthcare/mental-health.md), [Discapacidad psiquiátrica y psicosocial](/es/conditions/psychiatric-and-psychosocial-disability.md).
+Consulta [Salud mental](/es/healthcare/mental-health), [Discapacidad psiquiátrica y psicosocial](/es/conditions/psychiatric-and-psychosocial-disability).
 
 ---
 
@@ -364,7 +364,7 @@ Muchas personas con discapacidades múltiples transitan preguntas sobre la ident
 
 **Comunidad general de discapacidad**: Valora la interdependencia e incluye toda la diversidad de la experiencia de la discapacidad.
 
-Consulta [Comunidad y apoyo entre pares](/es/community/index.md), [Grupos de pares específicos por discapacidad](/es/community/disability-specific-peer-groups.md).
+Consulta [Comunidad y apoyo entre pares](/es/community), [Grupos de pares específicos por discapacidad](/es/community/disability-specific-peer-groups).
 
 ---
 
@@ -393,7 +393,7 @@ Las discapacidades múltiples se cruzan con todos los demás aspectos de la iden
 - Distintos desafíos en distintas etapas de la vida
 - Envejecer con discapacidades de por vida tiene cuestiones propias
 
-Consulta la sección [Interseccionalidad](/es/intersectionality/index.md).
+Consulta la sección [Interseccionalidad](/es/intersectionality).
 
 ---
 
@@ -484,17 +484,17 @@ Tienes permitido necesitar más. Tienes permitido tener varias cosas a la vez. T
 
 ## Páginas relacionadas
 
-- [Discapacidades físicas](/es/conditions/physical-disabilities.md)
-- [Discapacidades sensoriales](/es/conditions/sensory-disabilities.md)
-- [Enfermedad crónica](/es/conditions/chronic-illness.md)
-- [Neurodivergencia](/es/conditions/neurodivergence.md)
-- [Discapacidad intelectual y del desarrollo](/es/conditions/intellectual-and-developmental-disability.md)
-- [Discapacidad psiquiátrica y psicosocial](/es/conditions/psychiatric-and-psychosocial-disability.md)
-- [Discapacidades invisibles](/es/conditions/invisible-disabilities.md)
-- [Enfermedades raras](/es/conditions/rare-diseases.md)
-- [Dolor y fatiga](/es/healthcare/pain-and-fatigue.md)
-- [Atención médica accesible](/es/healthcare/accessible-healthcare.md)
-- [Adaptaciones en el lugar de trabajo](/es/employment/workplace-accommodations.md)
+- [Discapacidades físicas](/es/conditions/physical-disabilities)
+- [Discapacidades sensoriales](/es/conditions/sensory-disabilities)
+- [Enfermedad crónica](/es/conditions/chronic-illness)
+- [Neurodivergencia](/es/conditions/neurodivergence)
+- [Discapacidad intelectual y del desarrollo](/es/conditions/intellectual-and-developmental-disability)
+- [Discapacidad psiquiátrica y psicosocial](/es/conditions/psychiatric-and-psychosocial-disability)
+- [Discapacidades invisibles](/es/conditions/invisible-disabilities)
+- [Enfermedades raras](/es/conditions/rare-diseases)
+- [Dolor y fatiga](/es/healthcare/pain-and-fatigue)
+- [Atención médica accesible](/es/healthcare/accessible-healthcare)
+- [Adaptaciones en el lugar de trabajo](/es/employment/workplace-accommodations)
 
 ---
 

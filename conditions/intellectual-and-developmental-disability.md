@@ -96,7 +96,7 @@ Cerebral palsy (CP) is a group of disorders affecting movement, muscle tone, and
 - Not progressive but effects may change over time
 - Some people use AAC (augmentative and alternative communication)
 
-**See also**: [Physical Disabilities](/conditions/physical-disabilities.md) for more on CP.
+**See also**: [Physical Disabilities](/conditions/physical-disabilities) for more on CP.
 
 ---
 
@@ -160,7 +160,7 @@ Genetic condition causing developmental and medical effects.
 
 Many other conditions may involve intellectual or developmental disability, including: Rett syndrome, Angelman syndrome, some forms of epilepsy, effects of brain injury, and many rare genetic conditions.
 
-**If your condition isn't listed**: The general guidance on this page still applies. Consider [contributing](/glossary/how-to-contribute.md) information.
+**If your condition isn't listed**: The general guidance on this page still applies. Consider [contributing](/glossary/how-to-contribute) information.
 
 ---
 
@@ -175,10 +175,10 @@ Many other conditions may involve intellectual or developmental disability, incl
 - **Centers for Independent Living**: Peer-based support
 
 **Rights and protections**:
-- [ADA](/rights/us/ada.md): Prohibits discrimination
+- [ADA](/rights/us/ada): Prohibits discrimination
 - Olmstead decision: Right to community living
-- [IDEA](/rights/us/idea.md): Educational rights
-- [Section 504](/rights/us/section-504.md): Accommodations
+- [IDEA](/rights/us/idea): Educational rights
+- [Section 504](/rights/us/section-504): Accommodations
 
 **Benefits**:
 - [SSI](/benefits/us/ssi): Income for people with disabilities who haven't worked
@@ -272,7 +272,7 @@ Many countries are working to move away from institutions toward community livin
 
 **Inclusion International**: Global network of organizations for people with intellectual disabilities.
 
-See [International Rights](/rights/international-rights.md).
+See [International Rights](/rights/international-rights).
 
 ---
 
@@ -321,7 +321,7 @@ Not everyone uses spoken language. That doesn't mean they can't communicate.
 - AAC should be available always, not just in therapy
 - Assume people have things to say
 
-See [Communication Access & AAC](/tech/communication-access-and-aac.md).
+See [Communication Access & AAC](/tech/communication-access-and-aac).
 
 ### Plain Language
 
@@ -343,7 +343,7 @@ Plain language benefits everyone, not just people with IDD.
 **Inclusion** means learning alongside peers without disabilities, with appropriate supports — not segregated "special" classes.
 
 **In the US**:
-- [IDEA](/rights/us/idea.md) requires free appropriate public education
+- [IDEA](/rights/us/idea) requires free appropriate public education
 - Least Restrictive Environment (LRE) principle favors inclusion
 - IEPs (Individualized Education Programs) specify supports
 - Transition planning for post-school life
@@ -359,7 +359,7 @@ Plain language benefits everyone, not just people with IDD.
 - Inclusion requires adequate support
 - Advocacy often needed to secure appropriate services
 
-See [K-12 Education](/education/k12-education.md), [Early Intervention](/education/early-intervention.md), [Transition to Adulthood](/education/transition-to-adulthood.md).
+See [K-12 Education](/education/k12-education), [Early Intervention](/education/early-intervention), [Transition to Adulthood](/education/transition-to-adulthood).
 
 ---
 
@@ -387,7 +387,7 @@ People with IDD have the right to work in competitive integrated employment — 
 - Customized employment specialists
 - State developmental disability agencies
 
-See [Job Searching with a Disability](/employment/job-searching-with-a-disability.md), [Supported Employment & Voc Rehab](/employment/supported-employment-and-voc-rehab.md), [Workplace Accommodations](/employment/workplace-accommodations.md).
+See [Job Searching with a Disability](/employment/job-searching-with-a-disability), [Supported Employment & Voc Rehab](/employment/supported-employment-and-voc-rehab), [Workplace Accommodations](/employment/workplace-accommodations).
 
 ---
 
@@ -416,7 +416,7 @@ See [Job Searching with a Disability](/employment/job-searching-with-a-disabilit
 - Being isolated
 - Having no choice or control
 
-See [Housing & Independent Living](/housing/index.md), [Independent Living Philosophy](/housing/independent-living-philosophy-and-centers.md), [Group Homes & Institutions](/housing/group-homes-and-institutions.md).
+See [Housing & Independent Living](/housing), [Independent Living Philosophy](/housing/independent-living-philosophy-and-centers), [Group Homes & Institutions](/housing/group-homes-and-institutions).
 
 ---
 
@@ -444,7 +444,7 @@ People with IDD face significant healthcare disparities:
 - University medical centers may have more experience
 - Ask other families and self-advocates for recommendations
 
-See [Accessible Healthcare](/healthcare/accessible-healthcare.md), [Healthcare Rights](/healthcare/healthcare-rights.md).
+See [Accessible Healthcare](/healthcare/accessible-healthcare), [Healthcare Rights](/healthcare/healthcare-rights).
 
 ---
 
@@ -471,7 +471,7 @@ People with IDD have the same rights to relationships, sexuality, and parenting 
 - Child welfare system disproportionately removes children from parents with disabilities
 - Discrimination in custody and adoption is illegal but happens
 
-See [Dating & Relationships](/relationships/dating-and-relationships.md), [Parenting with a Disability](/relationships/parenting-with-a-disability.md), [Sexuality & Reproductive Health](/relationships/sexuality-and-reproductive-health.md).
+See [Dating & Relationships](/relationships/dating-and-relationships), [Parenting with a Disability](/relationships/parenting-with-a-disability), [Sexuality & Reproductive Health](/relationships/sexuality-and-reproductive-health).
 
 ---
 
@@ -500,7 +500,7 @@ People with IDD experience abuse at much higher rates than general population:
 - Contact disability rights organization
 - Adult Protective Services (in US)
 - Police if appropriate
-- See [Abuse, Neglect & Exploitation](/crisis/abuse-neglect-exploitation.md)
+- See [Abuse, Neglect & Exploitation](/crisis/abuse-neglect-exploitation)
 
 ---
 
@@ -528,7 +528,7 @@ People with IDD experience abuse at much higher rates than general population:
 - Intersects with housing instability, food insecurity
 - Benefit rules often trap people in poverty
 
-See [Intersectionality](/intersectionality/index.md) section.
+See [Intersectionality](/intersectionality) section.
 
 ---
 
@@ -557,7 +557,7 @@ See [Intersectionality](/intersectionality/index.md) section.
 - Advocate for community inclusion, not separate "special" programs
 - Take care of yourself too
 
-See [Parents of Disabled Children](/relationships/parents-of-disabled-children.md), [Caregiving](/relationships/caregiving.md).
+See [Parents of Disabled Children](/relationships/parents-of-disabled-children), [Caregiving](/relationships/caregiving).
 
 ---
 
@@ -580,21 +580,21 @@ The self-advocacy movement has transformed the lives of people with IDD:
 
 **Self-Advocates Becoming Empowered (SABE)** motto: "Nothing About Us Without Us"
 
-See [History of Disability Rights](/rights/history-of-disability-rights.md), [Advocacy & Self-Advocacy](/rights/advocacy-and-self-advocacy.md), [Get Involved](/get-involved/index.md).
+See [History of Disability Rights](/rights/history-of-disability-rights), [Advocacy & Self-Advocacy](/rights/advocacy-and-self-advocacy), [Get Involved](/get-involved).
 
 ---
 
 ## Related Pages
 
-- [Neurodivergence](/conditions/neurodivergence.md) (autism, ADHD, etc.)
-- [Physical Disabilities](/conditions/physical-disabilities.md) (for CP and other physical aspects)
-- [Communication Access & AAC](/tech/communication-access-and-aac.md)
-- [Independent Living Philosophy](/housing/independent-living-philosophy-and-centers.md)
-- [Group Homes & Institutions](/housing/group-homes-and-institutions.md)
-- [Supported Employment & Voc Rehab](/employment/supported-employment-and-voc-rehab.md)
-- [Transition to Adulthood](/education/transition-to-adulthood.md)
-- [Caregiving](/relationships/caregiving.md)
-- [Multiple Disabilities](/conditions/multiple-disabilities.md)
+- [Neurodivergence](/conditions/neurodivergence) (autism, ADHD, etc.)
+- [Physical Disabilities](/conditions/physical-disabilities) (for CP and other physical aspects)
+- [Communication Access & AAC](/tech/communication-access-and-aac)
+- [Independent Living Philosophy](/housing/independent-living-philosophy-and-centers)
+- [Group Homes & Institutions](/housing/group-homes-and-institutions)
+- [Supported Employment & Voc Rehab](/employment/supported-employment-and-voc-rehab)
+- [Transition to Adulthood](/education/transition-to-adulthood)
+- [Caregiving](/relationships/caregiving)
+- [Multiple Disabilities](/conditions/multiple-disabilities)
 
 ---
 

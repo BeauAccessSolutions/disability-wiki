@@ -415,15 +415,15 @@ The shift from "independence" to "interdependence" represents profound evolution
 
 ## Related Resources
 
-For information on **Housing Rights** including your right to community living, see [Housing Rights](/housing/housing-rights.md).
+For information on **Housing Rights** including your right to community living, see [Housing Rights](/housing/housing-rights).
 
-For **Group Homes and Institutions**, see [Group Homes and Institutions](/housing/group-homes-and-institutions.md) for alternatives to institutions.
+For **Group Homes and Institutions**, see [Group Homes and Institutions](/housing/group-homes-and-institutions) for alternatives to institutions.
 
-For **International Housing Rights** frameworks (CRPD Article 19), see [International Housing Rights](/housing/international-housing-rights.md).
+For **International Housing Rights** frameworks (CRPD Article 19), see [International Housing Rights](/housing/international-housing-rights).
 
-For **Homelessness and Disability** including Housing First, see [Homelessness and Disability](/housing/homelessness-and-disability.md).
+For **Homelessness and Disability** including Housing First, see [Homelessness and Disability](/housing/homelessness-and-disability).
 
-For **Community and Peer Support** more broadly, see [Community and Peer Support](/community/index.md).
+For **Community and Peer Support** more broadly, see [Community and Peer Support](/community).
 
 ---
 

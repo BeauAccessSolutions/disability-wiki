@@ -30,7 +30,7 @@ Chronic illness encompasses a vast range of experiences. What many chronically i
 
 **Fluctuating conditions**: Many chronic illnesses involve good days and bad days, flares and remissions. Being able to do something one day doesn't mean you can every day. This isn't inconsistency — it's how many conditions work.
 
-**Invisible illness**: Most chronic illnesses aren't visible to others. This creates unique challenges: disbelief, having to "prove" illness, and navigating whether and when to disclose. See [Invisible Disabilities](/conditions/invisible-disabilities.md) for more.
+**Invisible illness**: Most chronic illnesses aren't visible to others. This creates unique challenges: disbelief, having to "prove" illness, and navigating whether and when to disclose. See [Invisible Disabilities](/conditions/invisible-disabilities) for more.
 
 **The "good patient" trap**: Chronically ill people often learn to minimize symptoms, smile through appointments, and not "complain." This can backfire when trying to communicate severity to providers.
 
@@ -60,12 +60,12 @@ Autoimmune arthritis causing joint inflammation, pain, and damage. Can affect ot
 
 **Typical specialists**: Rheumatologist
 
-**Related pages**: [Physical Disabilities](/conditions/physical-disabilities.md), [Pain & Fatigue](/healthcare/pain-and-fatigue.md)
+**Related pages**: [Physical Disabilities](/conditions/physical-disabilities), [Pain & Fatigue](/healthcare/pain-and-fatigue)
 
 ---
 
 #### Multiple Sclerosis (MS)
-Immune system attacks protective covering of nerves. Symptoms vary widely — fatigue, mobility issues, cognitive changes, numbness, vision problems. See also [Physical Disabilities](/conditions/physical-disabilities.md).
+Immune system attacks protective covering of nerves. Symptoms vary widely — fatigue, mobility issues, cognitive changes, numbness, vision problems. See also [Physical Disabilities](/conditions/physical-disabilities).
 
 **Typical specialists**: Neurologist (MS specialist)
 
@@ -99,7 +99,7 @@ Widespread chronic pain, fatigue, cognitive issues ("fibro fog"), sleep problems
 
 **Organizations**: National Fibromyalgia Association, Fibromyalgia Action UK
 
-**Related pages**: [Pain & Fatigue](/healthcare/pain-and-fatigue.md), [Invisible Disabilities](/conditions/invisible-disabilities.md)
+**Related pages**: [Pain & Fatigue](/healthcare/pain-and-fatigue), [Invisible Disabilities](/conditions/invisible-disabilities)
 
 ---
 
@@ -111,7 +111,7 @@ Various conditions involving persistent pain: complex regional pain syndrome (CR
 ---
 
 #### Ehlers-Danlos Syndromes (EDS)
-Connective tissue disorders affecting joints, skin, blood vessels. Often causes chronic pain, joint instability, fatigue. See also [Physical Disabilities](/conditions/physical-disabilities.md).
+Connective tissue disorders affecting joints, skin, blood vessels. Often causes chronic pain, joint instability, fatigue. See also [Physical Disabilities](/conditions/physical-disabilities).
 
 **Typical specialists**: Geneticist (for diagnosis), rheumatologist, cardiologist (for vascular type)
 
@@ -128,7 +128,7 @@ Severe fatigue not improved by rest, post-exertional malaise (PEM — worsening 
 
 **Organizations**: ME Action (patient advocacy), Solve ME/CFS Initiative, ME Association (UK)
 
-**Related pages**: [Pain & Fatigue](/healthcare/pain-and-fatigue.md)
+**Related pages**: [Pain & Fatigue](/healthcare/pain-and-fatigue)
 
 ---
 
@@ -211,7 +211,7 @@ Neurological condition causing seizures. Many types and severities. May be well-
 
 **Organizations**: Epilepsy Foundation
 
-**Related pages**: [Neurodivergence](/conditions/neurodivergence.md) (for cognitive effects)
+**Related pages**: [Neurodivergence](/conditions/neurodivergence) (for cognitive effects)
 
 ---
 
@@ -244,7 +244,7 @@ Delayed stomach emptying causing nausea, vomiting, bloating, early satiety.
 
 Chronic kidney disease, liver disease, HIV/AIDS (now a manageable chronic condition with treatment), Lyme disease and persistent symptoms, mast cell disorders, and many more.
 
-**If your condition isn't listed**: The general guidance on this page still applies. Consider [contributing](/glossary/how-to-contribute.md) information.
+**If your condition isn't listed**: The general guidance on this page still applies. Consider [contributing](/glossary/how-to-contribute) information.
 
 ---
 
@@ -262,7 +262,7 @@ Chronic kidney disease, liver disease, HIV/AIDS (now a manageable chronic condit
 - Prior authorizations for medications and treatments
 - Step therapy requirements (trying cheaper options first)
 - Appeals often succeed — don't give up after first denial
-- See [Insurance Navigation](/healthcare/insurance-navigation.md)
+- See [Insurance Navigation](/healthcare/insurance-navigation)
 
 **Benefits**:
 - [SSDI](/benefits/us/ssdi) and [SSI](/benefits/us/ssi) for disability benefits
@@ -414,7 +414,7 @@ Many chronically ill people have more than one condition. This creates unique ch
 - Ask specialists to communicate with each other
 - Don't be afraid to ask "how does this interact with my other conditions?"
 
-See [Multiple Disabilities](/conditions/multiple-disabilities.md).
+See [Multiple Disabilities](/conditions/multiple-disabilities).
 
 ---
 
@@ -434,7 +434,7 @@ Many chronically ill people live with limited energy. Pacing strategies include:
 
 **Boom and bust**: Overdoing on good days → crash afterwards. Learning to avoid this cycle.
 
-See [Pain & Fatigue](/healthcare/pain-and-fatigue.md) for more strategies.
+See [Pain & Fatigue](/healthcare/pain-and-fatigue) for more strategies.
 
 ### Post-Exertional Malaise (PEM)
 
@@ -460,8 +460,8 @@ Many chronic conditions involve flares — periods of worse symptoms. Managing f
 
 Chronic illness affects work in various ways:
 
-- See [Workplace Accommodations](/employment/workplace-accommodations.md)
-- See [Job Searching with a Disability](/employment/job-searching-with-a-disability.md)
+- See [Workplace Accommodations](/employment/workplace-accommodations)
+- See [Job Searching with a Disability](/employment/job-searching-with-a-disability)
 
 **Common accommodations**:
 - Flexible hours or remote work
@@ -497,7 +497,7 @@ Living with chronic illness affects mental health. This isn't "all in your head"
 
 **Note**: Mental health symptoms can be caused by physical conditions too. Don't let providers dismiss physical symptoms as "just anxiety" without appropriate investigation.
 
-See [Mental Health](/healthcare/mental-health.md), [Psychiatric & Psychosocial Disability](/conditions/psychiatric-and-psychosocial-disability.md).
+See [Mental Health](/healthcare/mental-health), [Psychiatric & Psychosocial Disability](/conditions/psychiatric-and-psychosocial-disability).
 
 ---
 
@@ -529,7 +529,7 @@ Other chronically ill people understand in ways healthy people can't. Community 
 - In-person support groups
 - Patient advocacy organizations
 
-See [Community & Peer Support](/community/index.md), [Online Communities](/community/online-communities.md).
+See [Community & Peer Support](/community), [Online Communities](/community/online-communities).
 
 ---
 
@@ -560,7 +560,7 @@ Chronic illness intersects with other identities:
 - Inability to reduce work for health
 - Food and housing insecurity affecting health
 
-See [Intersectionality](/intersectionality/index.md) section.
+See [Intersectionality](/intersectionality) section.
 
 ---
 
@@ -596,21 +596,21 @@ Chronically ill people have been organizing for better treatment, more research,
 
 Chronic illness activism often happens from bed, online, at whatever capacity people have. It counts.
 
-See [Advocacy & Self-Advocacy](/rights/advocacy-and-self-advocacy.md), [Get Involved](/get-involved/index.md).
+See [Advocacy & Self-Advocacy](/rights/advocacy-and-self-advocacy), [Get Involved](/get-involved).
 
 ---
 
 ## Related Pages
 
-- [Pain & Fatigue](/healthcare/pain-and-fatigue.md)
-- [Healthcare Rights](/healthcare/healthcare-rights.md)
-- [Insurance Navigation](/healthcare/insurance-navigation.md)
-- [Invisible Disabilities](/conditions/invisible-disabilities.md)
-- [Multiple Disabilities](/conditions/multiple-disabilities.md)
-- [Physical Disabilities](/conditions/physical-disabilities.md)
-- [Mental Health](/healthcare/mental-health.md)
-- [Workplace Accommodations](/employment/workplace-accommodations.md)
-- [Benefits Overview](/benefits/index.md)
+- [Pain & Fatigue](/healthcare/pain-and-fatigue)
+- [Healthcare Rights](/healthcare/healthcare-rights)
+- [Insurance Navigation](/healthcare/insurance-navigation)
+- [Invisible Disabilities](/conditions/invisible-disabilities)
+- [Multiple Disabilities](/conditions/multiple-disabilities)
+- [Physical Disabilities](/conditions/physical-disabilities)
+- [Mental Health](/healthcare/mental-health)
+- [Workplace Accommodations](/employment/workplace-accommodations)
+- [Benefits Overview](/benefits)
 
 ---
 

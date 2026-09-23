@@ -74,7 +74,7 @@ El Artículo 19 exige específicamente a los estados que:
 
 **Esto significa**: las instituciones son incompatibles con el Artículo 19 de la CDPD. Los estados tienen la obligación de desinstitucionalizar y de financiar la vida en comunidad.
 
-Para una explicación detallada del Artículo 19 de la CDPD y de cómo lo implementan los países, consulta [Derechos internacionales de vivienda](/es/housing/international-housing-rights.md).
+Para una explicación detallada del Artículo 19 de la CDPD y de cómo lo implementan los países, consulta [Derechos internacionales de vivienda](/es/housing/international-housing-rights).
 
 ### Olmstead v. L.C. (1999) - Corte Suprema de EE. UU.
 
@@ -517,13 +517,13 @@ Las personas con discapacidad están viviendo con éxito en comunidad con el apo
 
 ## Recursos relacionados
 
-Para información sobre los **Derechos de vivienda**, incluido el derecho a la vida en comunidad, consulta [Derechos de vivienda](/es/housing/housing-rights.md).
+Para información sobre los **Derechos de vivienda**, incluido el derecho a la vida en comunidad, consulta [Derechos de vivienda](/es/housing/housing-rights).
 
-Para la **Filosofía y los Centros de Vida Independiente**, consulta [Filosofía y Centros de Vida Independiente](/es/housing/independent-living-philosophy-and-centers.md) para conocer modelos alternativos.
+Para la **Filosofía y los Centros de Vida Independiente**, consulta [Filosofía y Centros de Vida Independiente](/es/housing/independent-living-philosophy-and-centers) para conocer modelos alternativos.
 
-Para los marcos de **Derechos internacionales de vivienda** (Artículo 19 de la CDPD), consulta [Derechos internacionales de vivienda](/es/housing/international-housing-rights.md).
+Para los marcos de **Derechos internacionales de vivienda** (Artículo 19 de la CDPD), consulta [Derechos internacionales de vivienda](/es/housing/international-housing-rights).
 
-Para **Personas sin hogar y discapacidad**, consulta [Personas sin hogar y discapacidad](/es/housing/homelessness-and-disability.md).
+Para **Personas sin hogar y discapacidad**, consulta [Personas sin hogar y discapacidad](/es/housing/homelessness-and-disability).
 
 ---
 

@@ -66,7 +66,7 @@ The U.S. signed but has not ratified CRPD, so it is not legally binding. However
 
 **Section 504 of the Rehabilitation Act** applies to federally-funded housing and mandates accessibility and accommodations.
 
-See [Housing Rights](/housing/housing-rights.md#united-states) for detailed U.S. protections.
+See [Housing Rights](/housing/housing-rights#united-states) for detailed U.S. protections.
 
 ### Canada
 
@@ -78,7 +78,7 @@ Canada ratified CRPD in 2016 and has implemented Article 19 principles through:
 
 Provincial human rights codes and tenancy acts provide additional protections varying by province.
 
-See [Housing Rights](/housing/housing-rights.md#canada) for Canadian-specific information.
+See [Housing Rights](/housing/housing-rights#canada) for Canadian-specific information.
 
 ### European Union
 
@@ -98,7 +98,7 @@ Individual member states implement through national laws. Some have strong housi
 
 **France, Spain, Italy, Netherlands** have varying levels of CRPD implementation with mixed results in deinstitutionalization and community housing access.
 
-See [Housing Rights](/housing/housing-rights.md#european-union) for EU-specific frameworks.
+See [Housing Rights](/housing/housing-rights#european-union) for EU-specific frameworks.
 
 ### Australia
 
@@ -108,7 +108,7 @@ Australia ratified CRPD in 2008 and implements Article 19 through:
 
 **National Disability Insurance Scheme (NDIS)** provides individualized funding for disabled people, including housing support through Specialist Disability Accommodation. While not perfect (criticism exists around access and control), NDIS represents substantial implementation of Article 19 support requirement.
 
-See [Housing Rights](/housing/housing-rights.md#australia) for Australian-specific information.
+See [Housing Rights](/housing/housing-rights#australia) for Australian-specific information.
 
 ### Global South and Underrepresented Regions
 
@@ -130,7 +130,7 @@ Examples of progress:
 - **India** disability rights organizations push for enforcement of RPwD Act provisions on accessible housing
 - **Kenya and across East Africa** disability organizations organize for community living alternatives
 
-See [Housing Rights](/housing/housing-rights.md#other-countries) for information on specific countries and regions.
+See [Housing Rights](/housing/housing-rights#other-countries) for information on specific countries and regions.
 
 ## Key Principles Applied Across Legal Systems
 

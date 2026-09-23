@@ -7,6 +7,23 @@ All notable changes to the Disability Wiki project are documented in this file.
 ## [Unreleased]
 
 ### Fixed
+- **843 internal links no longer 404 on a `.md` suffix; `{#id}` heading anchors work**
+  (2026-09-23, 55 content pages, [`site/src/remark-heading-ids.mjs`](site/src/remark-heading-ids.mjs),
+  [`site/tools/check-dist-links.mjs`](site/tools/check-dist-links.mjs),
+  [`scripts/validate_wiki_links.py`](scripts/validate_wiki_links.py),
+  [`.github/workflows/ci.yml`](.github/workflows/ci.yml)): links written as
+  `/housing/housing-rights.md#canada` shipped with the `.md` kept (764 absolute hrefs
+  on 42 pages, plus 79 relative `./x.md` / `../../x.md` hrefs on 13 pages, several
+  resolving to the wrong directory), and every one was a live 404. The link validator passed
+  them because it resolved `.md` to the file, and it never checked relative links.
+  All are now canonical absolute routes with their fragments kept. Separately, the
+  Wiki.js-era `## Canadá {#canada}` heading syntax (701 headings, 69 pages) rendered
+  the `{#canada}` as visible text and put it in the slug, so those anchors were dead.
+  A remark plugin now applies it as the heading id. The validator now rejects `.md`-suffixed and
+  relative page links. A new blocking CI step checks the built HTML: no `.md` hrefs,
+  every internal href lands on a page or redirect, and every `#fragment` matches an id
+  (212,049 hrefs, 0 failures). `/es/contribute/` (the Spanish "suggest an edit" link)
+  is a known pre-existing 404, allowlisted until it gets its own fix.
 - **"Last updated" now renders on every page, with the real date** (2026-08-21,
   [`site/tools/gen-last-updated.mjs`](site/tools/gen-last-updated.mjs),
   [`site/src/components/LastUpdated.astro`](site/src/components/LastUpdated.astro),

@@ -422,13 +422,13 @@ This page is written by and for disabled adults. We welcome contributions from:
 
 ## See Also
 
-- [K–12 Education](../k12-education.md)
-- [Higher Education](../higher-education.md)
-- [Transition to Adulthood](../transition-to-adulthood.md)
-- [Employment: Supported Employment and Vocational Rehabilitation](../../employment/supported-employment-and-voc-rehab.md)
-- [Benefits: Work Incentives and Benefits Planning](../../benefits/index.md)
-- [Technology: Assistive Technology for Learning](../../tech/communication-access-and-aac.md)
-- [Accessibility: General Principles](../../foundations/index.md)
+- [K–12 Education](/education/k12-education)
+- [Higher Education](/education/higher-education)
+- [Transition to Adulthood](/education/transition-to-adulthood)
+- [Employment: Supported Employment and Vocational Rehabilitation](/employment/supported-employment-and-voc-rehab)
+- [Benefits: Work Incentives and Benefits Planning](/benefits)
+- [Technology: Assistive Technology for Learning](/tech/communication-access-and-aac)
+- [Accessibility: General Principles](/foundations)
 
 ---
 

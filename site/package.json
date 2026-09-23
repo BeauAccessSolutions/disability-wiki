@@ -10,6 +10,7 @@
     "preview": "astro preview",
     "astro": "astro",
     "check:sw": "node tools/check-sw.mjs",
+    "check:links": "node tools/check-dist-links.mjs",
     "test": "node --test \"src/**/*.test.ts\" \"functions/**/*.test.ts\"",
     "check:live-config": "node tools/probe-live-config.mjs tools/live-config-probe.json"
   },

@@ -30,7 +30,7 @@ La enfermedad crónica abarca una enorme variedad de experiencias. Lo que muchas
 
 **Afecciones fluctuantes**: Muchas enfermedades crónicas implican días buenos y días malos, brotes y remisiones. Poder hacer algo un día no significa que puedas todos los días. Esto no es inconsistencia: es cómo funcionan muchas afecciones.
 
-**Enfermedad invisible**: La mayoría de las enfermedades crónicas no son visibles para los demás. Esto crea desafíos únicos: la incredulidad, tener que "demostrar" la enfermedad y decidir si comunicarla y cuándo. Consulta [Discapacidades invisibles](/es/conditions/invisible-disabilities.md) para más información.
+**Enfermedad invisible**: La mayoría de las enfermedades crónicas no son visibles para los demás. Esto crea desafíos únicos: la incredulidad, tener que "demostrar" la enfermedad y decidir si comunicarla y cuándo. Consulta [Discapacidades invisibles](/es/conditions/invisible-disabilities) para más información.
 
 **La trampa del "buen paciente"**: Las personas con enfermedades crónicas a menudo aprenden a minimizar los síntomas, sonreír durante las citas y no "quejarse". Esto puede ser contraproducente al intentar comunicar la gravedad a los profesionales.
 
@@ -60,12 +60,12 @@ Artritis autoinmune que causa inflamación articular, dolor y daño. También pu
 
 **Especialistas típicos**: Reumatólogo
 
-**Páginas relacionadas**: [Discapacidades físicas](/es/conditions/physical-disabilities.md), [Dolor y fatiga](/es/healthcare/pain-and-fatigue.md)
+**Páginas relacionadas**: [Discapacidades físicas](/es/conditions/physical-disabilities), [Dolor y fatiga](/es/healthcare/pain-and-fatigue)
 
 ---
 
 #### Esclerosis múltiple (EM)
-El sistema inmunitario ataca la cubierta protectora de los nervios. Los síntomas varían ampliamente: fatiga, problemas de movilidad, cambios cognitivos, entumecimiento, problemas de visión. Consulta también [Discapacidades físicas](/es/conditions/physical-disabilities.md).
+El sistema inmunitario ataca la cubierta protectora de los nervios. Los síntomas varían ampliamente: fatiga, problemas de movilidad, cambios cognitivos, entumecimiento, problemas de visión. Consulta también [Discapacidades físicas](/es/conditions/physical-disabilities).
 
 **Especialistas típicos**: Neurólogo (especialista en EM)
 
@@ -99,7 +99,7 @@ Dolor crónico generalizado, fatiga, problemas cognitivos ("niebla de la fibro")
 
 **Organizaciones**: National Fibromyalgia Association, Fibromyalgia Action UK
 
-**Páginas relacionadas**: [Dolor y fatiga](/es/healthcare/pain-and-fatigue.md), [Discapacidades invisibles](/es/conditions/invisible-disabilities.md)
+**Páginas relacionadas**: [Dolor y fatiga](/es/healthcare/pain-and-fatigue), [Discapacidades invisibles](/es/conditions/invisible-disabilities)
 
 ---
 
@@ -111,7 +111,7 @@ Diversas afecciones que implican dolor persistente: síndrome de dolor regional 
 ---
 
 #### Síndromes de Ehlers-Danlos (SED)
-Trastornos del tejido conectivo que afectan articulaciones, piel y vasos sanguíneos. A menudo causan dolor crónico, inestabilidad articular y fatiga. Consulta también [Discapacidades físicas](/es/conditions/physical-disabilities.md).
+Trastornos del tejido conectivo que afectan articulaciones, piel y vasos sanguíneos. A menudo causan dolor crónico, inestabilidad articular y fatiga. Consulta también [Discapacidades físicas](/es/conditions/physical-disabilities).
 
 **Especialistas típicos**: Genetista (para el diagnóstico), reumatólogo, cardiólogo (para el tipo vascular)
 
@@ -128,7 +128,7 @@ Fatiga intensa que no mejora con el descanso, malestar posesfuerzo (MPE: empeora
 
 **Organizaciones**: ME Action (defensa de pacientes), Solve ME/CFS Initiative, ME Association (Reino Unido)
 
-**Páginas relacionadas**: [Dolor y fatiga](/es/healthcare/pain-and-fatigue.md)
+**Páginas relacionadas**: [Dolor y fatiga](/es/healthcare/pain-and-fatigue)
 
 ---
 
@@ -211,7 +211,7 @@ Afección neurológica que causa convulsiones. Muchos tipos y grados de gravedad
 
 **Organizaciones**: Epilepsy Foundation
 
-**Páginas relacionadas**: [Neurodivergencia](/es/conditions/neurodivergence.md) (para los efectos cognitivos)
+**Páginas relacionadas**: [Neurodivergencia](/es/conditions/neurodivergence) (para los efectos cognitivos)
 
 ---
 
@@ -244,7 +244,7 @@ Vaciamiento gástrico lento que causa náuseas, vómitos, hinchazón y saciedad 
 
 Enfermedad renal crónica, enfermedad hepática, VIH/sida (ahora una afección crónica manejable con tratamiento), enfermedad de Lyme y síntomas persistentes, trastornos de los mastocitos y muchas más.
 
-**Si tu afección no aparece en la lista**: La orientación general de esta página sigue aplicando. Considera [contribuir](/es/glossary/how-to-contribute.md) con información.
+**Si tu afección no aparece en la lista**: La orientación general de esta página sigue aplicando. Considera [contribuir](/es/glossary/how-to-contribute) con información.
 
 ---
 
@@ -262,7 +262,7 @@ Enfermedad renal crónica, enfermedad hepática, VIH/sida (ahora una afección c
 - Autorizaciones previas para medicamentos y tratamientos
 - Requisitos de terapia escalonada (probar opciones más económicas primero)
 - Las apelaciones a menudo tienen éxito; no te rindas tras la primera denegación
-- Consulta [Navegación del seguro](/es/healthcare/insurance-navigation.md)
+- Consulta [Navegación del seguro](/es/healthcare/insurance-navigation)
 
 **Prestaciones**:
 - [SSDI](/es/benefits/us/ssdi) y [SSI](/es/benefits/us/ssi) para las prestaciones por discapacidad
@@ -414,7 +414,7 @@ Muchas personas con enfermedades crónicas tienen más de una afección. Esto cr
 - Pide a los especialistas que se comuniquen entre sí
 - No tengas miedo de preguntar "¿cómo interactúa esto con mis otras afecciones?"
 
-Consulta [Discapacidades múltiples](/es/conditions/multiple-disabilities.md).
+Consulta [Discapacidades múltiples](/es/conditions/multiple-disabilities).
 
 ---
 
@@ -434,7 +434,7 @@ Muchas personas con enfermedades crónicas viven con energía limitada. Las estr
 
 **Todo o nada**: Excederse en los días buenos → derrumbarse después. Aprender a evitar este ciclo.
 
-Consulta [Dolor y fatiga](/es/healthcare/pain-and-fatigue.md) para más estrategias.
+Consulta [Dolor y fatiga](/es/healthcare/pain-and-fatigue) para más estrategias.
 
 ### Malestar posesfuerzo (MPE)
 
@@ -460,8 +460,8 @@ Muchas afecciones crónicas implican brotes: períodos de síntomas peores. Para
 
 La enfermedad crónica afecta el trabajo de diversas maneras:
 
-- Consulta [Adaptaciones en el lugar de trabajo](/es/employment/workplace-accommodations.md)
-- Consulta [Buscar empleo con una discapacidad](/es/employment/job-searching-with-a-disability.md)
+- Consulta [Adaptaciones en el lugar de trabajo](/es/employment/workplace-accommodations)
+- Consulta [Buscar empleo con una discapacidad](/es/employment/job-searching-with-a-disability)
 
 **Adaptaciones comunes**:
 - Horarios flexibles o trabajo remoto
@@ -497,7 +497,7 @@ Vivir con una enfermedad crónica afecta la salud mental. Esto no es "imaginario
 
 **Nota**: Los síntomas de salud mental también pueden ser causados por afecciones físicas. No dejes que los profesionales descarten los síntomas físicos como "solo ansiedad" sin una investigación adecuada.
 
-Consulta [Salud mental](/es/healthcare/mental-health.md), [Discapacidad psiquiátrica y psicosocial](/es/conditions/psychiatric-and-psychosocial-disability.md).
+Consulta [Salud mental](/es/healthcare/mental-health), [Discapacidad psiquiátrica y psicosocial](/es/conditions/psychiatric-and-psychosocial-disability).
 
 ---
 
@@ -529,7 +529,7 @@ Otras personas con enfermedades crónicas entienden de maneras en que las person
 - Grupos de apoyo presenciales
 - Organizaciones de defensa de los pacientes
 
-Consulta [Comunidad y apoyo entre pares](/es/community/index.md), [Comunidades en línea](/es/community/online-communities.md).
+Consulta [Comunidad y apoyo entre pares](/es/community), [Comunidades en línea](/es/community/online-communities).
 
 ---
 
@@ -560,7 +560,7 @@ La enfermedad crónica se cruza con otras identidades:
 - Imposibilidad de reducir el trabajo por la salud
 - Inseguridad alimentaria y de vivienda que afectan la salud
 
-Consulta la sección [Interseccionalidad](/es/intersectionality/index.md).
+Consulta la sección [Interseccionalidad](/es/intersectionality).
 
 ---
 
@@ -596,21 +596,21 @@ Las personas con enfermedades crónicas se han estado organizando por un mejor t
 
 El activismo en torno a la enfermedad crónica a menudo ocurre desde la cama, en línea, con la capacidad que cada persona tenga. Cuenta.
 
-Consulta [Incidencia y autodefensa](/es/rights/advocacy-and-self-advocacy.md), [Participa](/es/get-involved/index.md).
+Consulta [Incidencia y autodefensa](/es/rights/advocacy-and-self-advocacy), [Participa](/es/get-involved).
 
 ---
 
 ## Páginas relacionadas
 
-- [Dolor y fatiga](/es/healthcare/pain-and-fatigue.md)
-- [Derechos en la atención médica](/es/healthcare/healthcare-rights.md)
-- [Navegación del seguro](/es/healthcare/insurance-navigation.md)
-- [Discapacidades invisibles](/es/conditions/invisible-disabilities.md)
-- [Discapacidades múltiples](/es/conditions/multiple-disabilities.md)
-- [Discapacidades físicas](/es/conditions/physical-disabilities.md)
-- [Salud mental](/es/healthcare/mental-health.md)
-- [Adaptaciones en el lugar de trabajo](/es/employment/workplace-accommodations.md)
-- [Panorama de prestaciones](/es/benefits/index.md)
+- [Dolor y fatiga](/es/healthcare/pain-and-fatigue)
+- [Derechos en la atención médica](/es/healthcare/healthcare-rights)
+- [Navegación del seguro](/es/healthcare/insurance-navigation)
+- [Discapacidades invisibles](/es/conditions/invisible-disabilities)
+- [Discapacidades múltiples](/es/conditions/multiple-disabilities)
+- [Discapacidades físicas](/es/conditions/physical-disabilities)
+- [Salud mental](/es/healthcare/mental-health)
+- [Adaptaciones en el lugar de trabajo](/es/employment/workplace-accommodations)
+- [Panorama de prestaciones](/es/benefits)
 
 ---
 

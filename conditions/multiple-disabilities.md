@@ -277,7 +277,7 @@ See [International Benefits Overview](/benefits/international/benefits-overview)
 
 **Accommodations that address multiple needs**: Extended time, note-taking support, flexible attendance, housing accommodations, reduced course load.
 
-See [K-12 Education](/education/k12-education.md), [Higher Education](/education/higher-education.md).
+See [K-12 Education](/education/k12-education), [Higher Education](/education/higher-education).
 
 ---
 
@@ -306,7 +306,7 @@ See [K-12 Education](/education/k12-education.md), [Higher Education](/education
 
 **If you can't work**: Multiple disabilities often qualify for disability benefits. Not working isn't failure.
 
-See [Workplace Accommodations](/employment/workplace-accommodations.md), [Job Searching with a Disability](/employment/job-searching-with-a-disability.md).
+See [Workplace Accommodations](/employment/workplace-accommodations), [Job Searching with a Disability](/employment/job-searching-with-a-disability).
 
 ---
 
@@ -336,7 +336,7 @@ Living with multiple disabilities affects mental health:
 - Condition-specific groups may each offer something
 - General chronic illness/disability communities
 
-See [Mental Health](/healthcare/mental-health.md), [Psychiatric & Psychosocial Disability](/conditions/psychiatric-and-psychosocial-disability.md).
+See [Mental Health](/healthcare/mental-health), [Psychiatric & Psychosocial Disability](/conditions/psychiatric-and-psychosocial-disability).
 
 ---
 
@@ -364,7 +364,7 @@ Many people with multiple disabilities navigate identity questions:
 
 **General disability community**: Values interdependence and includes the full diversity of disability experience.
 
-See [Community & Peer Support](/community/index.md), [Disability-Specific Peer Groups](/community/disability-specific-peer-groups.md).
+See [Community & Peer Support](/community), [Disability-Specific Peer Groups](/community/disability-specific-peer-groups).
 
 ---
 
@@ -393,7 +393,7 @@ Multiple disabilities intersect with all other aspects of identity:
 - Different challenges at different life stages
 - Aging with lifelong disabilities has specific issues
 
-See [Intersectionality](/intersectionality/index.md) section.
+See [Intersectionality](/intersectionality) section.
 
 ---
 
@@ -484,17 +484,17 @@ You're allowed to need more. You're allowed to have multiple things going on. Yo
 
 ## Related Pages
 
-- [Physical Disabilities](/conditions/physical-disabilities.md)
-- [Sensory Disabilities](/conditions/sensory-disabilities.md)
-- [Chronic Illness](/conditions/chronic-illness.md)
-- [Neurodivergence](/conditions/neurodivergence.md)
-- [Intellectual & Developmental Disability](/conditions/intellectual-and-developmental-disability.md)
-- [Psychiatric & Psychosocial Disability](/conditions/psychiatric-and-psychosocial-disability.md)
-- [Invisible Disabilities](/conditions/invisible-disabilities.md)
-- [Rare Diseases](/conditions/rare-diseases.md)
-- [Pain & Fatigue](/healthcare/pain-and-fatigue.md)
-- [Accessible Healthcare](/healthcare/accessible-healthcare.md)
-- [Workplace Accommodations](/employment/workplace-accommodations.md)
+- [Physical Disabilities](/conditions/physical-disabilities)
+- [Sensory Disabilities](/conditions/sensory-disabilities)
+- [Chronic Illness](/conditions/chronic-illness)
+- [Neurodivergence](/conditions/neurodivergence)
+- [Intellectual & Developmental Disability](/conditions/intellectual-and-developmental-disability)
+- [Psychiatric & Psychosocial Disability](/conditions/psychiatric-and-psychosocial-disability)
+- [Invisible Disabilities](/conditions/invisible-disabilities)
+- [Rare Diseases](/conditions/rare-diseases)
+- [Pain & Fatigue](/healthcare/pain-and-fatigue)
+- [Accessible Healthcare](/healthcare/accessible-healthcare)
+- [Workplace Accommodations](/employment/workplace-accommodations)
 
 ---
 

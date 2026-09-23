@@ -41,7 +41,7 @@ Lesión de la médula espinal que causa parálisis o pérdida de sensibilidad. E
 
 **Especialistas habituales**: Fisiatra (medicina de rehabilitación), urólogo, neuróloga, equipo de rehabilitación
 
-**Páginas relacionadas**: [Ayudas para la movilidad](/es/transport/mobility-aids.md), [Modificaciones del hogar](/es/housing/home-modifications.md), [Cuidado personal](/es/daily-living/personal-care.md)
+**Páginas relacionadas**: [Ayudas para la movilidad](/es/transport/mobility-aids), [Modificaciones del hogar](/es/housing/home-modifications), [Cuidado personal](/es/daily-living/personal-care)
 
 ---
 
@@ -50,7 +50,7 @@ Un grupo de trastornos que afectan el movimiento, el tono muscular y la postura,
 
 **Especialistas habituales**: Neuróloga, fisiatra, cirujano ortopédico (en algunos casos), fisioterapeuta, terapeuta ocupacional
 
-**Páginas relacionadas**: [Ayudas para la movilidad](/es/transport/mobility-aids.md), [Acceso a la comunicación y CAA](/es/tech/communication-access-and-aac.md)
+**Páginas relacionadas**: [Ayudas para la movilidad](/es/transport/mobility-aids), [Acceso a la comunicación y CAA](/es/tech/communication-access-and-aac)
 
 ---
 
@@ -59,7 +59,7 @@ Un grupo de enfermedades genéticas que causan debilidad progresiva y pérdida d
 
 **Especialistas habituales**: Neurólogo, neumólogo (para la implicación respiratoria), cardióloga, genetista, fisioterapeuta
 
-**Páginas relacionadas**: [Equipo médico y TA](/es/healthcare/medical-equipment-and-at.md), [Atención en el hogar y la comunidad](/es/healthcare/home-and-community-care.md)
+**Páginas relacionadas**: [Equipo médico y TA](/es/healthcare/medical-equipment-and-at), [Atención en el hogar y la comunidad](/es/healthcare/home-and-community-care)
 
 ---
 
@@ -68,7 +68,7 @@ Diferencias congénitas en las extremidades (nacer sin una extremidad o con extr
 
 **Especialistas habituales**: Protesista, fisiatra, fisioterapeuta, terapeuta ocupacional
 
-**Páginas relacionadas**: [Conducción adaptada](/es/transport/driving-and-adaptive-driving.md), [Deportes adaptados](/es/daily-living/exercise-and-adaptive-sports.md)
+**Páginas relacionadas**: [Conducción adaptada](/es/transport/driving-and-adaptive-driving), [Deportes adaptados](/es/daily-living/exercise-and-adaptive-sports)
 
 ---
 
@@ -77,7 +77,7 @@ Una enfermedad autoinmune que afecta el sistema nervioso central. Los síntomas 
 
 **Especialistas habituales**: Neuróloga (a menudo especialista en EM), fisiatra, urólogo, fisioterapeuta
 
-**Páginas relacionadas**: [Enfermedad crónica](/es/conditions/chronic-illness.md), [Discapacidades invisibles](/es/conditions/invisible-disabilities.md), [Dolor y fatiga](/es/healthcare/pain-and-fatigue.md)
+**Páginas relacionadas**: [Enfermedad crónica](/es/conditions/chronic-illness), [Discapacidades invisibles](/es/conditions/invisible-disabilities), [Dolor y fatiga](/es/healthcare/pain-and-fatigue)
 
 ---
 
@@ -86,7 +86,7 @@ Un defecto de nacimiento en el que la columna no se forma por completo. Los efec
 
 **Especialistas habituales**: Neurocirujana, urólogo, cirujana ortopédica, fisiatra
 
-**Páginas relacionadas**: [Intervención temprana](/es/education/early-intervention.md), [Transición a la adultez](/es/education/transition-to-adulthood.md)
+**Páginas relacionadas**: [Intervención temprana](/es/education/early-intervention), [Transición a la adultez](/es/education/transition-to-adulthood)
 
 ---
 
@@ -95,7 +95,7 @@ Incluye la artritis reumatoide, la osteoartritis, la artritis psoriásica, la es
 
 **Especialistas habituales**: Reumatóloga, cirujano ortopédico (para el reemplazo de articulaciones), fisioterapeuta
 
-**Páginas relacionadas**: [Enfermedad crónica](/es/conditions/chronic-illness.md), [Dolor y fatiga](/es/healthcare/pain-and-fatigue.md), [Adaptaciones en el lugar de trabajo](/es/employment/workplace-accommodations.md)
+**Páginas relacionadas**: [Enfermedad crónica](/es/conditions/chronic-illness), [Dolor y fatiga](/es/healthcare/pain-and-fatigue), [Adaptaciones en el lugar de trabajo](/es/employment/workplace-accommodations)
 
 ---
 
@@ -111,7 +111,7 @@ Los efectos físicos de un accidente cerebrovascular, una lesión cerebral traum
 
 **Especialistas habituales**: Neuróloga, fisiatra, equipo de rehabilitación
 
-**Páginas relacionadas**: [Neurodivergencia](/es/conditions/neurodivergence.md) (para los efectos cognitivos)
+**Páginas relacionadas**: [Neurodivergencia](/es/conditions/neurodivergence) (para los efectos cognitivos)
 
 ---
 
@@ -120,7 +120,7 @@ Un grupo de trastornos del tejido conectivo que afectan las articulaciones, la p
 
 **Especialistas habituales**: Genetista (para el diagnóstico), reumatólogo, cardióloga (para el tipo vascular), fisioterapeuta familiarizada con el SED
 
-**Páginas relacionadas**: [Enfermedad crónica](/es/conditions/chronic-illness.md), [Discapacidades invisibles](/es/conditions/invisible-disabilities.md)
+**Páginas relacionadas**: [Enfermedad crónica](/es/conditions/chronic-illness), [Discapacidades invisibles](/es/conditions/invisible-disabilities)
 
 ---
 
@@ -141,7 +141,7 @@ Incluye la acondroplasia y otras condiciones que resultan en baja estatura. Litt
 ### Otras discapacidades físicas
 Esta lista no es exhaustiva. Otras discapacidades físicas incluyen: enfermedad de Parkinson, enfermedad de Huntington, ELA/enfermedades de la motoneurona, síndrome de Guillain-Barré, miastenia grave, neuropatías periféricas y muchas más.
 
-**Si tu condición no está en la lista**: La orientación general de esta página sigue aplicando. Considera [contribuir](/es/glossary/how-to-contribute.md) con información sobre tu condición.
+**Si tu condición no está en la lista**: La orientación general de esta página sigue aplicando. Considera [contribuir](/es/glossary/how-to-contribute) con información sobre tu condición.
 
 ---
 
@@ -152,7 +152,7 @@ Esta lista no es exhaustiva. Otras discapacidades físicas incluyen: enfermedad 
 **Navegar la atención médica**:
 - Los fisiatras (médicos de medicina física y rehabilitación) coordinan la atención de muchas discapacidades físicas
 - Los centros médicos universitarios suelen tener clínicas multidisciplinarias para condiciones específicas
-- [Navegación del seguro](/es/healthcare/insurance-navigation.md) para orientación sobre la cobertura
+- [Navegación del seguro](/es/healthcare/insurance-navigation) para orientación sobre la cobertura
 
 **Prestaciones**:
 - [SSDI](/es/benefits/us/ssdi) y [SSI](/es/benefits/us/ssi) para el apoyo de ingresos
@@ -162,7 +162,7 @@ Esta lista no es exhaustiva. Otras discapacidades físicas incluyen: enfermedad 
 **Equipo y ayudas para la movilidad**:
 - Medicare Parte B cubre el equipo médico duradero (DME) con receta médica
 - A menudo se requiere documentación de "necesidad médica", la cual puede impugnarse
-- Consulta [Equipo médico y TA](/es/healthcare/medical-equipment-and-at.md)
+- Consulta [Equipo médico y TA](/es/healthcare/medical-equipment-and-at)
 
 **Organizaciones (lideradas por personas con discapacidad)**:
 - **ADAPT**: Organización de derechos de las personas con discapacidad de acción directa, fundada por personas con discapacidad física
@@ -244,7 +244,7 @@ Los marcos varían según el país, pero la estrategia de discapacidad de la UE 
 - **Países Bajos**: La WMO (Ley de Apoyo Social) para modificaciones del hogar y ayudas
 - **Países nórdicos**: Por lo general, sistemas de apoyo social sólidos
 
-Consulta [Prestaciones en la UE](/es/benefits/european-union/benefits) y [Derechos internacionales](/es/rights/international-rights.md).
+Consulta [Prestaciones en la UE](/es/benefits/european-union/benefits) y [Derechos internacionales](/es/rights/international-rights).
 
 ---
 
@@ -258,7 +258,7 @@ La Convención sobre los Derechos de las Personas con Discapacidad (CDPD) de la 
 - ¿Hay Centros para la Vida Independiente u organizaciones similares lideradas por pares?
 - ¿Qué protecciones legales existen para la accesibilidad y la no discriminación?
 
-Consulta [Panorama de prestaciones internacionales](/es/benefits/international/benefits-overview) y [Prestaciones de otros países](/es/benefits/other-countries-benefits.md).
+Consulta [Panorama de prestaciones internacionales](/es/benefits/international/benefits-overview) y [Prestaciones de otros países](/es/benefits/other-countries-benefits).
 
 ---
 
@@ -289,7 +289,7 @@ Las ayudas para la movilidad, el equipo adaptado y el equipo médico duradero (D
 - Apela las denegaciones: muchas se revierten
 - Considera comunidades de intercambio o venta de equipo entre pares
 - Explora programas de préstamo de equipo de organizaciones sin fines de lucro
-- Consulta [Equipo médico y TA](/es/healthcare/medical-equipment-and-at.md)
+- Consulta [Equipo médico y TA](/es/healthcare/medical-equipment-and-at)
 
 ### Asistencia de cuidado personal
 
@@ -299,7 +299,7 @@ Muchas personas con discapacidad física usan asistentes de cuidado personal (PC
 - Cuidado autodirigido (tú contratas, capacitas y gestionas) frente al basado en agencias
 - Las fuentes de financiamiento varían según el país y la situación
 - Encontrar asistentes confiables es un desafío continuo que la mayoría de las personas con discapacidad física comprende
-- Consulta [Atención en el hogar y la comunidad](/es/healthcare/home-and-community-care.md) y [Cuidado personal](/es/daily-living/personal-care.md)
+- Consulta [Atención en el hogar y la comunidad](/es/healthcare/home-and-community-care) y [Cuidado personal](/es/daily-living/personal-care)
 
 ---
 
@@ -314,13 +314,13 @@ Las personas con discapacidad física son expertas en adaptarse. Las áreas comu
 - **Tecnología**: Control por voz, acceso por conmutadores (switch), configuraciones ergonómicas
 - **Ropa**: Ropa adaptada, técnicas para vestirse sentada, cierres magnéticos
 
-Consulta [Vida diaria](/es/daily-living/index.md) para más recursos.
+Consulta [Vida diaria](/es/daily-living) para más recursos.
 
 ### Gestión de la energía
 
 Muchas discapacidades físicas implican fatiga o energía limitada. Marcar el ritmo, planificar y priorizar son habilidades que desarrollan las personas con discapacidad física.
 
-Consulta [Dolor y fatiga](/es/healthcare/pain-and-fatigue.md).
+Consulta [Dolor y fatiga](/es/healthcare/pain-and-fatigue).
 
 ---
 
@@ -328,21 +328,21 @@ Consulta [Dolor y fatiga](/es/healthcare/pain-and-fatigue.md).
 
 ### Empleo
 
-- [Adaptaciones en el lugar de trabajo](/es/employment/workplace-accommodations.md)
-- [Derechos laborales por país](/es/employment/employment-rights-by-country.md)
+- [Adaptaciones en el lugar de trabajo](/es/employment/workplace-accommodations)
+- [Derechos laborales por país](/es/employment/employment-rights-by-country)
 - Adaptaciones comunes: horarios flexibles, trabajo remoto, estaciones de trabajo accesibles, tareas modificadas
 
 ### Vivienda
 
-- [Ley de Vivienda Justa (EE. UU.)](/es/rights/us/fair-housing-act.md): los arrendadores deben permitir modificaciones razonables
-- [Derechos de vivienda](/es/housing/housing-rights.md): panorama internacional
-- [Modificaciones del hogar](/es/housing/home-modifications.md)
+- [Ley de Vivienda Justa (EE. UU.)](/es/rights/us/fair-housing-act): los arrendadores deben permitir modificaciones razonables
+- [Derechos de vivienda](/es/housing/housing-rights): panorama internacional
+- [Modificaciones del hogar](/es/housing/home-modifications)
 
 ### Transporte
 
-- [Derechos en el transporte público](/es/transport/public-transit-rights.md)
-- [Paratránsito](/es/transport/paratransit.md)
-- [Derechos en los viajes aéreos](/es/transport/air-travel-rights.md)
+- [Derechos en el transporte público](/es/transport/public-transit-rights)
+- [Paratránsito](/es/transport/paratransit)
+- [Derechos en los viajes aéreos](/es/transport/air-travel-rights)
 
 ---
 
@@ -359,7 +359,7 @@ Otras personas con discapacidad física entienden lo que es navegar espacios ina
 - **Centros para la Vida Independiente**: Apoyo y defensa basados en pares
 - **Deportes y recreación adaptados**: Conéctate a través de actividades compartidas
 
-Consulta [Comunidad y apoyo entre pares](/es/community/index.md) y [Grupos de pares específicos por discapacidad](/es/community/disability-specific-peer-groups.md).
+Consulta [Comunidad y apoyo entre pares](/es/community) y [Grupos de pares específicos por discapacidad](/es/community/disability-specific-peer-groups).
 
 ---
 
@@ -392,7 +392,7 @@ La discapacidad física se cruza con todos los demás aspectos de la identidad:
 - **LGBTQ+**: Las personas LGBTQ+ con discapacidad navegan múltiples identidades marginadas
 - **Clase**: La pobreza y la discapacidad física interactúan de maneras devastadoras: vivienda inaccesible, imposibilidad de costear equipo, cuidado limitado de asistentes
 
-Consulta la sección [Interseccionalidad](/es/intersectionality/index.md) para más información.
+Consulta la sección [Interseccionalidad](/es/intersectionality) para más información.
 
 ---
 
@@ -407,22 +407,22 @@ Las personas con discapacidad física siempre han estado a la vanguardia de la o
 
 Esta organización continúa hoy. Las personas con discapacidad física luchan por: financiamiento adecuado de Medicaid, libertad de las instituciones, vivienda accesible, equipo asequible e inclusión plena en la comunidad.
 
-Consulta [Historia de los derechos de las personas con discapacidad](/es/rights/history-of-disability-rights.md) y [Participa](/es/get-involved/index.md).
+Consulta [Historia de los derechos de las personas con discapacidad](/es/rights/history-of-disability-rights) y [Participa](/es/get-involved).
 
 ---
 
 ## Páginas relacionadas
 
-- [Ayudas para la movilidad](/es/transport/mobility-aids.md)
-- [Modificaciones del hogar](/es/housing/home-modifications.md)
-- [Equipo médico y TA](/es/healthcare/medical-equipment-and-at.md)
-- [Cuidado personal](/es/daily-living/personal-care.md)
-- [Dolor y fatiga](/es/healthcare/pain-and-fatigue.md)
-- [Adaptaciones en el lugar de trabajo](/es/employment/workplace-accommodations.md)
-- [Filosofía de la vida independiente](/es/housing/independent-living-philosophy-and-centers.md)
-- [Enfermedad crónica](/es/conditions/chronic-illness.md) (muchas condiciones se solapan)
-- [Discapacidades invisibles](/es/conditions/invisible-disabilities.md)
-- [Discapacidades múltiples](/es/conditions/multiple-disabilities.md)
+- [Ayudas para la movilidad](/es/transport/mobility-aids)
+- [Modificaciones del hogar](/es/housing/home-modifications)
+- [Equipo médico y TA](/es/healthcare/medical-equipment-and-at)
+- [Cuidado personal](/es/daily-living/personal-care)
+- [Dolor y fatiga](/es/healthcare/pain-and-fatigue)
+- [Adaptaciones en el lugar de trabajo](/es/employment/workplace-accommodations)
+- [Filosofía de la vida independiente](/es/housing/independent-living-philosophy-and-centers)
+- [Enfermedad crónica](/es/conditions/chronic-illness) (muchas condiciones se solapan)
+- [Discapacidades invisibles](/es/conditions/invisible-disabilities)
+- [Discapacidades múltiples](/es/conditions/multiple-disabilities)
 
 ---
 

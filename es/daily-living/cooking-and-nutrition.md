@@ -481,12 +481,12 @@ Damos la bienvenida a contribuciones de:
 
 ## Véase también
 
-- [Cuidado personal](/es/daily-living/personal-care.md)
-- [Panorama general de la tecnología de apoyo](/es/daily-living/assistive-technology-overview.md)
-- [Atención médica: Atención médica accesible](/es/healthcare/accessible-healthcare.md)
-- [Prestaciones: SNAP y asistencia alimentaria](/es/benefits/index.md)
-- [Interseccionalidad: Pobreza y clase](/es/intersectionality/poverty-and-class.md)
-- [Vida diaria y estilo de vida: Panorama general](/es/daily-living/index.md)
+- [Cuidado personal](/es/daily-living/personal-care)
+- [Panorama general de la tecnología de apoyo](/es/daily-living/assistive-technology-overview)
+- [Atención médica: Atención médica accesible](/es/healthcare/accessible-healthcare)
+- [Prestaciones: SNAP y asistencia alimentaria](/es/benefits)
+- [Interseccionalidad: Pobreza y clase](/es/intersectionality/poverty-and-class)
+- [Vida diaria y estilo de vida: Panorama general](/es/daily-living)
 
 ---
 

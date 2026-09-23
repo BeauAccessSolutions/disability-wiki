@@ -21,7 +21,7 @@ These pages are not medical encyclopedias. They are community-built resources th
 - **Community connections** to peer support and advocacy organizations
 - **Cross-links** to relevant wiki sections (benefits, accommodations, rights)
 
-Each page starts as an overview and grows through community contributions. If you have expertise to share, see [How to Contribute](/glossary/how-to-contribute.md).
+Each page starts as an overview and grows through community contributions. If you have expertise to share, see [How to Contribute](/glossary/how-to-contribute).
 
 ---
 
@@ -33,31 +33,31 @@ Different countries organize disability categories, healthcare systems, and supp
 
 ## Browse by Category
 
-### [Physical Disabilities](/conditions/physical-disabilities.md)
+### [Physical Disabilities](/conditions/physical-disabilities)
 Conditions affecting movement, mobility, strength, or physical function. Includes spinal cord injuries, limb differences, cerebral palsy, muscular dystrophies, and many more.
 
-### [Sensory Disabilities](/conditions/sensory-disabilities.md)
+### [Sensory Disabilities](/conditions/sensory-disabilities)
 Conditions affecting sight, hearing, or other senses. Includes blindness and low vision, Deafness and hearing loss, deafblindness, and sensory processing differences.
 
-### [Chronic Illness](/conditions/chronic-illness.md)
+### [Chronic Illness](/conditions/chronic-illness)
 Ongoing health conditions that may fluctuate, require ongoing management, and affect daily life. Includes autoimmune conditions, fibromyalgia, ME/CFS, diabetes, heart conditions, and many more.
 
-### [Neurodivergence](/conditions/neurodivergence.md)
+### [Neurodivergence](/conditions/neurodivergence)
 Neurological differences in how people think, learn, process information, and experience the world. Includes autism, ADHD, dyslexia, dyscalculia, Tourette syndrome, and more.
 
-### [Intellectual & Developmental Disabilities](/conditions/intellectual-and-developmental-disability.md)
+### [Intellectual & Developmental Disabilities](/conditions/intellectual-and-developmental-disability)
 Conditions present from birth or early childhood affecting cognitive development, adaptive skills, or both. Includes Down syndrome, intellectual disability, and various developmental conditions.
 
-### [Psychiatric & Psychosocial Disabilities](/conditions/psychiatric-and-psychosocial-disability.md)
+### [Psychiatric & Psychosocial Disabilities](/conditions/psychiatric-and-psychosocial-disability)
 Mental health conditions that significantly impact daily life. Includes depression, anxiety disorders, bipolar disorder, schizophrenia, PTSD, OCD, and personality disorders.
 
-### [Invisible Disabilities](/conditions/invisible-disabilities.md)
+### [Invisible Disabilities](/conditions/invisible-disabilities)
 Disabilities that aren't immediately apparent to others. This identity-focused page explores the unique challenges, misconceptions, and community experiences of living with non-visible disabilities.
 
-### [Multiple Disabilities](/conditions/multiple-disabilities.md)
+### [Multiple Disabilities](/conditions/multiple-disabilities)
 Living with two or more disabilities simultaneously. Addresses the compound challenges, intersecting access needs, and navigation strategies for people with multiple conditions.
 
-### [Rare Diseases](/conditions/rare-diseases.md)
+### [Rare Diseases](/conditions/rare-diseases)
 Conditions affecting small populations, often with limited research, few specialists, and challenges finding community. Includes resources for diagnosis journeys and connecting with others.
 
 ---
@@ -89,7 +89,7 @@ Systems designed around disability typically assume impairments are visible, con
 
 Language matters. Some people identify strongly as disabled. Others prefer to say they have a health condition. Many use both terms depending on context. We use "conditions" to be inclusive while centering disability identity throughout.
 
-See [Language, Terminology & Identity](/foundations/language-terminology-identity.md) for more on disability language.
+See [Language, Terminology & Identity](/foundations/language-terminology-identity) for more on disability language.
 
 ### Medical Model vs. Social Model
 
@@ -97,7 +97,7 @@ This section acknowledges that impairments and health conditions are real — ma
 
 Both are true. Needing medical care and being disabled by society are not contradictory.
 
-See [Disability Models](/foundations/disability-models.md) for more on different frameworks for understanding disability.
+See [Disability Models](/foundations/disability-models) for more on different frameworks for understanding disability.
 
 ### Categories Overlap
 
@@ -115,7 +115,7 @@ Whatever condition(s) you have, you are not alone. Each page in this section inc
 - **Advocacy organizations** led by people with that condition
 - **Peer support options** in various countries
 
-For broader disability community connections, see [Community & Peer Support](/community/index.md).
+For broader disability community connections, see [Community & Peer Support](/community).
 
 ---
 
@@ -137,8 +137,8 @@ You don't have to figure everything out at once. Start with what you need most r
 
 If you're looking for information to better support disabled people in your work or life:
 
-- See [For Allies](/foundations/for-allies.md) for foundational guidance
-- See [Professional Toolkits](/professionals/index.md) for role-specific resources
+- See [For Allies](/foundations/for-allies) for foundational guidance
+- See [Professional Toolkits](/professionals) for role-specific resources
 - **Listen to disabled people** — these pages share community knowledge, not just clinical facts
 
 ---
@@ -152,17 +152,17 @@ Disabled people are the experts on their own conditions. These pages improve whe
 - Corrections or updates to existing information
 - New conditions not yet covered
 
-See [How to Contribute](/glossary/how-to-contribute.md) to share your knowledge.
+See [How to Contribute](/glossary/how-to-contribute) to share your knowledge.
 
 ---
 
 ## Related Sections
 
-- [Healthcare & Medical](/healthcare/index.md) — Navigating healthcare systems, insurance, medical equipment
-- [Benefits & Financial Support](/benefits/index.md) — Disability benefits by country
-- [Daily Living](/daily-living/index.md) — Assistive technology, personal care, daily life
-- [Community & Peer Support](/community/index.md) — Finding your people
-- [Rights & Advocacy](/rights/index.md) — Your legal protections
+- [Healthcare & Medical](/healthcare) — Navigating healthcare systems, insurance, medical equipment
+- [Benefits & Financial Support](/benefits) — Disability benefits by country
+- [Daily Living](/daily-living) — Assistive technology, personal care, daily life
+- [Community & Peer Support](/community) — Finding your people
+- [Rights & Advocacy](/rights) — Your legal protections
 
 ---
 
