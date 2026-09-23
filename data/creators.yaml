@@ -1,0 +1,1022 @@
+# Disabled Creators Directory: one entry per creator.
+#
+# Tables on media/disabled-creators-directory.md and its es/ mirror are generated
+# from this file. After editing, run:  python3 scripts/creators_directory.py
+# CI fails if the pages don't match this file (--check).
+#
+# Entry fields:
+#   name               string, or {en, es} if it's translated
+#   years              "1947-2023" for creators who have died (shown after the name)
+#   disability         in the creator's OWN words; {en, es} unless identical
+#   non_us             true if based outside the US
+#   disclosure_source  public URL where the creator discloses their disability
+#                      (required for every new entry)
+#   website            creator's main link (not shown in the table yet)
+#   verified           date the entry was last checked against its sources
+#   legacy             true only for entries listed before the 2026-09-23 sourcing
+#                      rule. These still need a disclosure_source; add one and
+#                      delete the flag. Never add a new entry as legacy.
+#   listings           one per table the creator appears in; each fills that
+#                      section's fields (see sections below)
+#
+# Any text value can be a plain string (same in EN and ES) or {en: ..., es: ...}.
+
+sections:
+  - key: fiction
+    fields: [genre, work]
+    columns:
+      en: [Genre/Focus, Notable Work]
+      es: [Género/Enfoque, Obra notable]
+  - key: nonfiction
+    fields: [focus, work]
+    columns:
+      en: [Focus, Notable Work]
+      es: [Enfoque, Obra notable]
+  - key: poets
+    fields: [style, work]
+    columns:
+      en: [Style, Notable Work]
+      es: [Estilo, Obra notable]
+  - key: visual-artists
+    fields: [medium, notable_for]
+    columns:
+      en: [Medium, Notable For]
+      es: [Medio, Notable por]
+  - key: musicians
+    fields: [genre, notable_for]
+    columns:
+      en: [Genre, Notable For]
+      es: [Género, Notable por]
+  - key: filmmakers
+    fields: [focus, work]
+    columns:
+      en: [Focus, Notable Work]
+      es: [Enfoque, Obra notable]
+  - key: screen-actors
+    fields: [roles]
+    columns:
+      en: [Notable Roles]
+      es: [Papeles notables]
+  - key: theater
+    fields: [notable_for]
+    columns:
+      en: [Notable For]
+      es: [Notable por]
+  - key: comedians
+    fields: [platform, notable_for]
+    columns:
+      en: [Platform, Notable For]
+      es: [Plataforma, Notable por]
+  - key: dancers
+    fields: [style, notable_for]
+    columns:
+      en: [Company/Style, Notable For]
+      es: [Compañía/Estilo, Notable por]
+  - key: podcasters
+    fields: [show, focus]
+    columns:
+      en: [Show, Focus]
+      es: [Programa, Enfoque]
+  - key: youtubers
+    fields: [content]
+    columns:
+      en: [Content]
+      es: [Contenido]
+  - key: journalists
+    fields: [focus]
+    columns:
+      en: [Publication/Focus]
+      es: [Publicación/Enfoque]
+  - key: academics
+    fields: [field, institution]
+    columns:
+      en: [Field, Institution]
+      es: [Campo, Institución]
+  - key: activists
+    fields: [creative_work]
+    columns:
+      en: [Creative Work]
+      es: [Obra creativa]
+
+creators:
+  - name: Adam Hills
+    disability: {en: Amputee, es: Amputado}
+    non_us: true
+    legacy: true
+    listings:
+      - section: comedians
+        platform: {en: TV host, es: Conductor de TV}
+        notable_for: The Last Leg
+
+  - name: Alaqua Cox
+    disability: {en: "Deaf, amputee", es: "Sorda, amputada"}
+    legacy: true
+    listings:
+      - section: screen-actors
+        roles: Echo (Marvel)
+
+  - name: Alex Brooker
+    disability: {en: Limb difference, es: Diferencia en una extremidad}
+    non_us: true
+    legacy: true
+    listings:
+      - section: comedians
+        platform: {en: TV host, es: Conductor de TV}
+        notable_for: The Last Leg
+
+  - name: Ali Stroker
+    disability: {en: Wheelchair user, es: Usuaria de silla de ruedas}
+    legacy: true
+    listings:
+      - section: screen-actors
+        roles: {en: "Oklahoma! (Tony winner)", es: "Oklahoma! (ganadora del Tony)"}
+      - section: theater
+        notable_for: {en: First wheelchair user to win Tony, es: Primera usuaria de silla de ruedas en ganar un Tony}
+
+  - name: Alice Sheppard
+    disability: {en: Wheelchair user, es: Usuaria de silla de ruedas}
+    legacy: true
+    listings:
+      - section: dancers
+        style: Kinetic Light
+        notable_for: {en: "Choreographer, performer", es: "Coreógrafa, performer"}
+
+  - name: Alice Wong
+    disability: {en: "SMA, wheelchair user", es: "AME, usuaria de silla de ruedas"}
+    legacy: true
+    listings:
+      - section: nonfiction
+        focus: {en: Disability culture, es: Cultura de la discapacidad}
+        work: Disability Visibility
+      - section: podcasters
+        show: Disability Visibility Podcast
+        focus: {en: Disability culture, es: Cultura de la discapacidad}
+      - section: activists
+        creative_work: {en: "Writing, podcasting, editing", es: "Escritura, pódcast, edición"}
+
+  - name: Alito Alessi
+    disability: {en: Physical disability, es: Discapacidad física}
+    legacy: true
+    listings:
+      - section: dancers
+        style: DanceAbility
+        notable_for: {en: Methodology founder, es: Fundador de la metodología}
+
+  - name: Andrew Gurza
+    disability: {en: Cerebral palsy, es: Parálisis cerebral}
+    legacy: true
+    listings:
+      - section: podcasters
+        show: Disability After Dark
+        focus: {en: Disability and sexuality, es: Discapacidad y sexualidad}
+
+  - name: Ann Clare LeZotte
+    disability: {en: Deaf, es: Sorda}
+    legacy: true
+    listings:
+      - section: fiction
+        genre: {en: Middle grade, es: Lectores intermedios}
+        work: Show Me a Sign
+
+  - name: Annie Elainey
+    disability: {en: Chronic illness, es: Enfermedad crónica}
+    legacy: true
+    listings:
+      - section: youtubers
+        content: {en: Disability justice, es: Justicia para las personas con discapacidad}
+
+  - name: Bill Shannon
+    disability: {en: Physical disability, es: Discapacidad física}
+    legacy: true
+    listings:
+      - section: dancers
+        style: {en: Crutch dancer, es: Bailarín con muletas}
+        notable_for: {en: Street performance, es: Performance callejera}
+
+  - name: Billy Golfus
+    disability: {en: Brain injury, es: Lesión cerebral}
+    legacy: true
+    listings:
+      - section: filmmakers
+        focus: {en: Documentary, es: Documental}
+        work: When Billy Broke His Head
+
+  - name: Brianne Benness
+    disability: {en: Chronic illness, es: Enfermedad crónica}
+    legacy: true
+    listings:
+      - section: podcasters
+        show: No End in Sight
+        focus: {en: Chronic illness, es: Enfermedad crónica}
+
+  - name: Chelsie Hill
+    disability: {en: Paralyzed, es: Paralizada}
+    legacy: true
+    listings:
+      - section: dancers
+        style: Rollettes
+        notable_for: {en: Wheelchair dance team, es: Equipo de danza en silla de ruedas}
+
+  - name: Christine Sun Kim
+    disability: {en: Deaf, es: Sorda}
+    legacy: true
+    listings:
+      - section: visual-artists
+        medium: {en: "Sound art, drawing", es: "Arte sonoro, dibujo"}
+        notable_for: {en: Exploring sound and silence, es: Explorar el sonido y el silencio}
+
+  - name: Chun-Shan (Sandie) Yi
+    disability: {en: Wheelchair user, es: Usuaria de silla de ruedas}
+    legacy: true
+    listings:
+      - section: visual-artists
+        medium: {en: Sculpture, es: Escultura}
+        notable_for: {en: Disability arts, es: Artes de la discapacidad}
+
+  - name: Corinne Duyvis
+    disability: {en: Autistic, es: Autista}
+    legacy: true
+    listings:
+      - section: fiction
+        genre: {en: YA sci-fi, es: Ciencia ficción para jóvenes adultos}
+        work: On the Edge of Gone
+
+  - name: Daniel Durant
+    disability: {en: Deaf, es: Sordo}
+    legacy: true
+    listings:
+      - section: theater
+        notable_for: "CODA, Spring Awakening"
+
+  - name: Danny Woodburn
+    disability: {en: Little person, es: Persona de talla baja}
+    legacy: true
+    listings:
+      - section: screen-actors
+        roles: {en: "Seinfeld, various", es: "Seinfeld, varios"}
+
+  - name: Django Reinhardt
+    years: "1910-1953"
+    disability: {en: Partial hand paralysis, es: Parálisis parcial de la mano}
+    legacy: true
+    listings:
+      - section: musicians
+        genre: {en: Jazz guitar, es: Guitarra de jazz}
+        notable_for: {en: Developed unique technique, es: Desarrolló una técnica única}
+
+  - name: Drew Lynch
+    disability: {en: Stutter, es: Tartamudez}
+    legacy: true
+    listings:
+      - section: comedians
+        platform: Stand-up
+        notable_for: {en: AGT finalist, es: Finalista de AGT}
+
+  - name: Eli Clare
+    disability: {en: Physical disability, es: Discapacidad física}
+    legacy: true
+    listings:
+      - section: nonfiction
+        focus: {en: Theory/memoir, es: Teoría/memoria}
+        work: Brilliant Imperfection
+      - section: academics
+        field: {en: Disability/trans studies, es: Estudios de la discapacidad/lo trans}
+        institution: {en: Independent, es: Independiente}
+
+  - name: Elle McNicoll
+    disability: {en: Autistic, es: Autista}
+    non_us: true
+    legacy: true
+    listings:
+      - section: fiction
+        genre: {en: Middle grade, es: Lectores intermedios}
+        work: A Kind of Spark
+
+  - name: Emily Ladau
+    disability: {en: Wheelchair user, es: Usuaria de silla de ruedas}
+    legacy: true
+    listings:
+      - section: nonfiction
+        focus: {en: Education/advocacy, es: Educación/defensa de derechos}
+        work: Demystifying Disability
+      - section: podcasters
+        show: The Accessible Stall
+        focus: {en: Disability news/culture, es: Noticias/cultura de la discapacidad}
+
+  - name: Esmé Weijun Wang
+    disability: {en: Schizoaffective disorder, es: Trastorno esquizoafectivo}
+    legacy: true
+    listings:
+      - section: nonfiction
+        focus: {en: Essays, es: Ensayos}
+        work: The Collected Schizophrenias
+
+  - name: Evelyn Glennie
+    disability: {en: Deaf, es: Sorda}
+    non_us: true
+    legacy: true
+    listings:
+      - section: musicians
+        genre: {en: Classical percussion, es: Percusión clásica}
+        notable_for: {en: International soloist, es: Solista internacional}
+
+  - name: Francesca Martinez
+    disability: {en: Cerebral palsy, es: Parálisis cerebral}
+    non_us: true
+    legacy: true
+    listings:
+      - section: comedians
+        platform: Stand-up
+        notable_for: {en: UK comedian, es: Comediante británica}
+
+  - name: Frida Kahlo
+    years: "1907-1954"
+    disability: {en: "Spinal damage, chronic pain", es: "Daño en la columna, dolor crónico"}
+    legacy: true
+    listings:
+      - section: visual-artists
+        medium: {en: Painting, es: Pintura}
+        notable_for: {en: "Self-portraits, disability icon", es: "Autorretratos, ícono de la discapacidad"}
+
+  - name: Gaelynn Lea
+    disability: {en: Osteogenesis imperfecta, es: Osteogénesis imperfecta}
+    legacy: true
+    listings:
+      - section: musicians
+        genre: {en: Indie folk, es: Folk indie}
+        notable_for: {en: NPR Tiny Desk winner, es: Ganadora del NPR Tiny Desk}
+
+  - name: Haben Girma
+    disability: {en: Deafblind, es: Sordociega}
+    legacy: true
+    listings:
+      - section: nonfiction
+        focus: {en: Memoir, es: Memoria}
+        work: Haben
+      - section: activists
+        creative_work: {en: "Writing, speaking", es: "Escritura, conferencias"}
+
+  - name: Harriet McBryde Johnson
+    disability: {en: Neuromuscular disability, es: Discapacidad neuromuscular}
+    legacy: true
+    listings:
+      - section: fiction
+        genre: {en: YA/essays, es: Jóvenes adultos/ensayos}
+        work: Accidents of Nature
+
+  - name: Helen Hoang
+    disability: {en: Autistic, es: Autista}
+    legacy: true
+    listings:
+      - section: fiction
+        genre: Romance
+        work: The Kiss Quotient
+
+  - name: Imani Barbarin
+    disability: {en: Cerebral palsy, es: Parálisis cerebral}
+    legacy: true
+    listings:
+      - section: nonfiction
+        focus: {en: Essays/advocacy, es: Ensayos/defensa de derechos}
+        work: Crutches and Spice
+      - section: journalists
+        focus: {en: "Forbes, various", es: "Forbes, varios"}
+      - section: activists
+        creative_work: {en: "Writing, social media", es: "Escritura, redes sociales"}
+
+  - name: Itzhak Perlman
+    disability: Polio
+    legacy: true
+    listings:
+      - section: musicians
+        genre: {en: Classical violin, es: Violín clásico}
+        notable_for: {en: World-renowned violinist, es: Violinista de renombre mundial}
+
+  - name: Ivelisse Housman
+    disability: {en: Autistic, es: Autista}
+    legacy: true
+    listings:
+      - section: fiction
+        genre: {en: YA fantasy, es: Fantasía para jóvenes adultos}
+        work: Unseelie
+
+  - name: Jamie Brewer
+    disability: {en: Down syndrome, es: Síndrome de Down}
+    legacy: true
+    listings:
+      - section: screen-actors
+        roles: American Horror Story
+
+  - name: Jay Dolmage
+    disability: {en: Physical disability, es: Discapacidad física}
+    non_us: true
+    legacy: true
+    listings:
+      - section: academics
+        field: {en: Rhetoric, es: Retórica}
+        institution: University of Waterloo
+
+  - name: Jenni Gold
+    disability: {en: Wheelchair user, es: Usuaria de silla de ruedas}
+    legacy: true
+    listings:
+      - section: filmmakers
+        focus: {en: Documentary, es: Documental}
+        work: CinemAbility
+
+  - name: Jennifer Brea
+    disability: {en: ME/CFS, es: EM/SFC}
+    legacy: true
+    listings:
+      - section: filmmakers
+        focus: {en: Documentary, es: Documental}
+        work: Unrest
+
+  - name: Jessica Kellgren-Fozard
+    disability: {en: "Deaf, chronic illness", es: "Sorda, enfermedad crónica"}
+    non_us: true
+    legacy: true
+    listings:
+      - section: youtubers
+        content: {en: "Vintage fashion, education", es: "Moda vintage, educación"}
+
+  - name: Jim Ferris
+    disability: {en: Physical disability, es: Discapacidad física}
+    legacy: true
+    listings:
+      - section: poets
+        style: {en: Crip poetry, es: Poesía crip}
+        work: The Hospital Poems
+
+  - name: Jim LeBrecht
+    disability: {en: Wheelchair user, es: Usuario de silla de ruedas}
+    legacy: true
+    listings:
+      - section: filmmakers
+        focus: {en: Documentary, es: Documental}
+        work: {en: Crip Camp (co-director), es: Crip Camp (codirector)}
+
+  - name: John McGinty
+    disability: {en: Deaf, es: Sordo}
+    legacy: true
+    listings:
+      - section: theater
+        notable_for: {en: "Broadway's Spring Awakening", es: Spring Awakening de Broadway}
+
+  - name: John Pring
+    disability: {en: Physical disability, es: Discapacidad física}
+    non_us: true
+    legacy: true
+    listings:
+      - section: journalists
+        focus: Disability News Service
+
+  - name: Joseph Grigely
+    disability: {en: Deaf, es: Sordo}
+    legacy: true
+    listings:
+      - section: visual-artists
+        medium: {en: Conceptual art, es: Arte conceptual}
+        notable_for: Conversation pieces
+
+  - name: Josh Blue
+    disability: {en: Cerebral palsy, es: Parálisis cerebral}
+    legacy: true
+    listings:
+      - section: comedians
+        platform: Stand-up
+        notable_for: {en: Last Comic Standing winner, es: Ganador de Last Comic Standing}
+
+  - name: Josh Feldman
+    disability: {en: Deaf, es: Sordo}
+    legacy: true
+    listings:
+      - section: filmmakers
+        focus: {en: TV creator, es: Creador de TV}
+        work: This Close
+
+  - name: Judith Smith
+    disability: {en: Physical disability, es: Discapacidad física}
+    legacy: true
+    listings:
+      - section: dancers
+        style: AXIS Dance
+        notable_for: {en: Co-founder, es: Cofundadora}
+
+  - name: Judy Heumann
+    years: "1947-2023"
+    disability: {en: "Polio, wheelchair user", es: "Polio, usuaria de silla de ruedas"}
+    legacy: true
+    listings:
+      - section: nonfiction
+        focus: {en: Memoir/activism, es: Memoria/activismo}
+        work: Being Heumann
+      - section: activists
+        creative_work: {en: "Memoir, speaking", es: "Memoria, conferencias"}
+
+  - name: Katherine Sherwood
+    disability: {en: Stroke survivor, es: Sobreviviente de derrame cerebral}
+    legacy: true
+    listings:
+      - section: visual-artists
+        medium: {en: Painting, es: Pintura}
+        notable_for: {en: Post-stroke work, es: Obra posterior al derrame}
+
+  - name: Keah Brown
+    disability: {en: Cerebral palsy, es: Parálisis cerebral}
+    legacy: true
+    listings:
+      - section: journalists
+        focus: {en: "Teen Vogue, various", es: "Teen Vogue, varios"}
+
+  - name: Kenny Fries
+    disability: {en: Limb difference, es: Diferencia en una extremidad}
+    legacy: true
+    listings:
+      - section: poets
+        style: {en: Poetry/memoir, es: Poesía/memoria}
+        work: "Body, Remember"
+
+  - name: Kiera Allen
+    disability: {en: Wheelchair user, es: Usuaria de silla de ruedas}
+    legacy: true
+    listings:
+      - section: screen-actors
+        roles: Run
+
+  - name: Kyle Khachadurian
+    disability: {en: Osteogenesis imperfecta, es: Osteogénesis imperfecta}
+    legacy: true
+    listings:
+      - section: podcasters
+        show: The Accessible Stall
+        focus: {en: Co-host, es: Coconductor}
+
+  - name: Laurel Lawson
+    disability: {en: Wheelchair user, es: Usuaria de silla de ruedas}
+    legacy: true
+    listings:
+      - section: dancers
+        style: Kinetic Light
+        notable_for: Performer
+
+  - name: Lauren Ridloff
+    disability: {en: Deaf, es: Sorda}
+    legacy: true
+    listings:
+      - section: screen-actors
+        roles: "Eternals, The Walking Dead"
+
+  - name: Leah Lakshmi Piepzna-Samarasinha
+    disability: {en: "Chronic illness, neurodivergent", es: "Enfermedad crónica, neurodivergente"}
+    legacy: true
+    listings:
+      - section: nonfiction
+        focus: {en: Disability justice, es: Justicia para las personas con discapacidad}
+        work: Care Work
+      - section: activists
+        creative_work: {en: "Writing, performance", es: "Escritura, performance"}
+
+  - name: Lee Ridley (Lost Voice Guy)
+    disability: {en: AAC user, es: Usuario de CAA}
+    non_us: true
+    legacy: true
+    listings:
+      - section: comedians
+        platform: Stand-up
+        notable_for: {en: BGT winner, es: Ganador de BGT}
+
+  - name: Leigh Bardugo
+    disability: Osteonecrosis
+    legacy: true
+    listings:
+      - section: fiction
+        genre: {en: Fantasy, es: Fantasía}
+        work: Six of Crows
+
+  - name: Lennard Davis
+    disability: {en: (Son of Deaf parents), es: (Hijo de padres Sordos)}
+    legacy: true
+    listings:
+      - section: academics
+        field: {en: Disability studies, es: Estudios de la discapacidad}
+        institution: University of Illinois Chicago
+
+  - name: Lydia X. Z. Brown
+    disability: {en: Autistic, es: Autista}
+    legacy: true
+    listings:
+      - section: journalists
+        focus: {en: "Autistic Hoya, various", es: "Autistic Hoya, varios"}
+
+  - name: Madison Ferris
+    disability: {en: Muscular dystrophy, es: Distrofia muscular}
+    legacy: true
+    listings:
+      - section: screen-actors
+        roles: The Glass Menagerie (Broadway)
+
+  - name: Mandy Harvey
+    disability: {en: Late-deafened, es: Sordera tardía}
+    legacy: true
+    listings:
+      - section: musicians
+        genre: {en: Singer-songwriter, es: Cantautora}
+        notable_for: {en: AGT finalist, es: Finalista de AGT}
+
+  - name: Marc Brew
+    disability: {en: Physical disability, es: Discapacidad física}
+    non_us: true
+    legacy: true
+    listings:
+      - section: dancers
+        style: {en: Choreographer, es: Coreógrafo}
+        notable_for: {en: International work, es: Trabajo internacional}
+
+  - name: Marlee Matlin
+    disability: {en: Deaf, es: Sorda}
+    legacy: true
+    listings:
+      - section: screen-actors
+        roles: "Children of a Lesser God, Switched at Birth"
+
+  - name: Mat Fraser
+    disability: {en: Phocomelia, es: Focomelia}
+    non_us: true
+    legacy: true
+    listings:
+      - section: screen-actors
+        roles: American Horror Story
+
+  - name: Maysoon Zayid
+    disability: {en: Cerebral palsy, es: Parálisis cerebral}
+    legacy: true
+    listings:
+      - section: comedians
+        platform: Stand-up
+        notable_for: {en: Viral TED talk, es: Charla TED viral}
+
+  - name: Micah Fowler
+    disability: {en: Cerebral palsy, es: Parálisis cerebral}
+    legacy: true
+    listings:
+      - section: screen-actors
+        roles: Speechless
+
+  - name: Millicent Simmonds
+    disability: {en: Deaf, es: Sorda}
+    legacy: true
+    listings:
+      - section: screen-actors
+        roles: "A Quiet Place, Wonderstruck"
+
+  - name: Molly Burke
+    disability: {en: Blind, es: Ciega}
+    legacy: true
+    listings:
+      - section: youtubers
+        content: {en: "Lifestyle, makeup", es: "Estilo de vida, maquillaje"}
+
+  - name: Neil Marcus
+    disability: {en: Physical disability, es: Discapacidad física}
+    legacy: true
+    listings:
+      - section: poets
+        style: Performance
+        work: Storm Reading
+
+  - name: Nicola Griffith
+    disability: {en: MS, es: EM}
+    legacy: true
+    listings:
+      - section: fiction
+        genre: {en: Literary/thriller, es: Literaria/suspenso}
+        work: So Lucky
+
+  - name: Nina G
+    disability: {en: "Stutter, dyslexia", es: "Tartamudez, dislexia"}
+    legacy: true
+    listings:
+      - section: comedians
+        platform: Stand-up
+        notable_for: {en: Stuttering comedian, es: Comediante con tartamudez}
+
+  - name: Nirmala Erevelles
+    disability: {en: Physical disability, es: Discapacidad física}
+    legacy: true
+    listings:
+      - section: academics
+        field: {en: Disability studies, es: Estudios de la discapacidad}
+        institution: University of Alabama
+
+  - name: Peter Dinklage
+    disability: {en: Achondroplasia, es: Acondroplasia}
+    legacy: true
+    listings:
+      - section: screen-actors
+        roles: Game of Thrones
+
+  - name: Petra Kuppers
+    disability: {en: Chronic illness, es: Enfermedad crónica}
+    legacy: true
+    listings:
+      - section: poets
+        style: {en: Performance poetry, es: Poesía de performance}
+        work: Cripple Poetics
+      - section: academics
+        field: {en: Performance/disability, es: Performance/discapacidad}
+        institution: University of Michigan
+
+  - name: Ray Charles
+    years: "1930-2004"
+    disability: {en: Blind, es: Ciego}
+    legacy: true
+    listings:
+      - section: musicians
+        genre: "R&B/soul"
+        notable_for: {en: Pioneer, es: Pionero}
+
+  - name: Rebekah Taussig
+    disability: {en: Wheelchair user, es: Usuaria de silla de ruedas}
+    legacy: true
+    listings:
+      - section: nonfiction
+        focus: {en: Memoir, es: Memoria}
+        work: Sitting Pretty
+
+  - name: Rikki Poynter
+    disability: {en: Deaf, es: Sorda}
+    legacy: true
+    listings:
+      - section: youtubers
+        content: {en: Accessibility advocacy, es: Defensa de la accesibilidad}
+
+  - name: Riva Lehrer
+    disability: {en: Spina bifida, es: Espina bífida}
+    legacy: true
+    listings:
+      - section: visual-artists
+        medium: {en: Painting, es: Pintura}
+        notable_for: {en: Circle Stories portraits, es: Retratos de Circle Stories}
+
+  - name: Rivers Solomon
+    disability: {en: "Autistic, chronic illness", es: "Autista, enfermedad crónica"}
+    legacy: true
+    listings:
+      - section: fiction
+        genre: {en: Speculative fiction, es: Ficción especulativa}
+        work: An Unkindness of Ghosts
+
+  - name: RJ Mitte
+    disability: {en: Cerebral palsy, es: Parálisis cerebral}
+    legacy: true
+    listings:
+      - section: screen-actors
+        roles: Breaking Bad
+
+  - name: Robert McRuer
+    disability: {en: Chronic illness, es: Enfermedad crónica}
+    legacy: true
+    listings:
+      - section: academics
+        field: {en: Queer/disability studies, es: Estudios queer/de la discapacidad}
+        institution: George Washington
+
+  - name: Rodney Evans
+    disability: {en: Vision loss, es: Pérdida de visión}
+    legacy: true
+    listings:
+      - section: filmmakers
+        focus: {en: Documentary, es: Documental}
+        work: Vision Portraits
+
+  - name: Rosemarie Garland-Thomson
+    disability: {en: Physical disability, es: Discapacidad física}
+    legacy: true
+    listings:
+      - section: academics
+        field: {en: Disability studies, es: Estudios de la discapacidad}
+        institution: Emory
+
+  - name: Rosemary Richings
+    disability: {en: Dyspraxia, es: Dispraxia}
+    non_us: true
+    disclosure_source: "https://rosemaryrichings.com/about-me-neurodiversity-rosemary-richings/"
+    website: "https://rosemaryrichings.com/"
+    verified: "2026-09-23"
+    listings:
+      - section: nonfiction
+        focus: {en: Memoir/neurodiversity, es: Memoria/neurodiversidad}
+        work: Stumbling Through Space and Time
+
+  - name: Russell Harvard
+    disability: {en: Deaf, es: Sordo}
+    legacy: true
+    listings:
+      - section: theater
+        notable_for: {en: "Tribes, various", es: "Tribes, varios"}
+
+  - name: "Ryan O'Connell"
+    disability: {en: "Cerebral palsy, gay", es: "Parálisis cerebral, gay"}
+    legacy: true
+    listings:
+      - section: filmmakers
+        focus: {en: TV creator/actor, es: Creador/actor de TV}
+        work: Special
+
+  - name: s.e. smith
+    disability: {en: "Chronic illness, mental health", es: "Enfermedad crónica, salud mental"}
+    legacy: true
+    listings:
+      - section: journalists
+        focus: {en: Various publications, es: Varias publicaciones}
+
+  - name: Sandie Yi
+    disability: {en: Physical disability, es: Discapacidad física}
+    legacy: true
+    listings:
+      - section: visual-artists
+        medium: {en: Sculpture, es: Escultura}
+        notable_for: {en: Installation art, es: Arte de instalación}
+
+  - name: Sandra Mae Frank
+    disability: {en: Deaf, es: Sorda}
+    legacy: true
+    listings:
+      - section: theater
+        notable_for: "Spring Awakening, Wonderstruck"
+
+  - name: Sara Nović
+    disability: {en: Deaf, es: Sorda}
+    legacy: true
+    listings:
+      - section: fiction
+        genre: {en: Literary fiction, es: Ficción literaria}
+        work: True Biz
+
+  - name: Sean Forbes
+    disability: {en: Deaf, es: Sordo}
+    legacy: true
+    listings:
+      - section: musicians
+        genre: Hip-hop
+        notable_for: {en: D-PAN founder, es: Fundador de D-PAN}
+
+  - name: Shoshannah Stern
+    disability: {en: Deaf, es: Sorda}
+    legacy: true
+    listings:
+      - section: filmmakers
+        focus: {en: TV creator, es: Creadora de TV}
+        work: This Close
+
+  - name: Simi Linton
+    disability: {en: Wheelchair user, es: Usuaria de silla de ruedas}
+    legacy: true
+    listings:
+      - section: nonfiction
+        focus: {en: Memoir/theory, es: Memoria/teoría}
+        work: My Body Politic
+      - section: academics
+        field: {en: Disability studies, es: Estudios de la discapacidad}
+        institution: {en: CUNY (emerita), es: CUNY (emérita)}
+
+  - name: {en: Sins Invalid collective, es: Colectivo Sins Invalid}
+    disability: {en: Various, es: Varias}
+    legacy: true
+    listings:
+      - section: activists
+        creative_work: {en: Performance art, es: Arte de performance}
+
+  - name: Squirmy and Grubs (Shane Burcaw)
+    disability: {en: SMA, es: AME}
+    legacy: true
+    listings:
+      - section: youtubers
+        content: {en: Interabled relationship, es: Relación entre una persona con discapacidad y una sin discapacidad}
+
+  - name: Stella Young
+    years: "1982-2014"
+    disability: {en: Osteogenesis imperfecta, es: Osteogénesis imperfecta}
+    non_us: true
+    legacy: true
+    listings:
+      - section: activists
+        creative_work: {en: "Comedy, writing", es: "Comedia, escritura"}
+
+  - name: Stevie Wonder
+    disability: {en: Blind, es: Ciego}
+    legacy: true
+    listings:
+      - section: musicians
+        genre: "Soul/R&B"
+        notable_for: {en: Legendary career, es: Carrera legendaria}
+
+  - name: Sunaura Taylor
+    disability: {en: Arthrogryposis, es: Artrogriposis}
+    legacy: true
+    listings:
+      - section: visual-artists
+        medium: {en: "Painting, writing", es: "Pintura, escritura"}
+        notable_for: {en: Animal/disability rights, es: Derechos de los animales/de la discapacidad}
+
+  - name: Susan Nussbaum
+    disability: {en: Wheelchair user, es: Usuaria de silla de ruedas}
+    legacy: true
+    listings:
+      - section: fiction
+        genre: {en: Literary fiction, es: Ficción literaria}
+        work: Good Kings Bad Kings
+
+  - name: Talia Hibbert
+    disability: {en: "Fibromyalgia, chronic illness", es: "Fibromialgia, enfermedad crónica"}
+    legacy: true
+    listings:
+      - section: fiction
+        genre: Romance
+        work: "Get a Life, Chloe Brown"
+
+  - name: Teddy Pendergrass
+    years: "1950-2010"
+    disability: {en: Paralyzed, es: Paralizado}
+    legacy: true
+    listings:
+      - section: musicians
+        genre: Soul
+        notable_for: {en: Continued performing post-injury, es: Continuó actuando tras su lesión}
+
+  - name: Tony Heaton
+    disability: {en: Wheelchair user, es: Usuario de silla de ruedas}
+    non_us: true
+    legacy: true
+    listings:
+      - section: visual-artists
+        medium: {en: Sculpture, es: Escultura}
+        notable_for: {en: Disability arts, es: Artes de la discapacidad}
+
+  - name: Troy Kotsur
+    disability: {en: Deaf, es: Sordo}
+    legacy: true
+    listings:
+      - section: screen-actors
+        roles: {en: CODA (Oscar winner), es: CODA (ganador del Óscar)}
+
+  - name: Vassar Miller
+    disability: {en: Cerebral palsy, es: Parálisis cerebral}
+    legacy: true
+    listings:
+      - section: poets
+        style: {en: Traditional verse, es: Verso tradicional}
+        work: Collected Poems
+
+  - name: Viktoria Modesta
+    disability: {en: Amputee, es: Amputada}
+    non_us: true
+    legacy: true
+    listings:
+      - section: musicians
+        genre: Pop/performance
+        notable_for: {en: Bionic artist, es: Artista biónica}
+
+  - name: Vilissa Thompson
+    disability: {en: Wheelchair user, es: Usuaria de silla de ruedas}
+    legacy: true
+    listings:
+      - section: journalists
+        focus: Ramp Your Voice
+      - section: activists
+        creative_work: {en: "Writing, consulting", es: "Escritura, consultoría"}
+
+  - name: Warwick Davis
+    disability: {en: Spondyloepiphyseal dysplasia, es: Displasia espondiloepifisaria}
+    non_us: true
+    legacy: true
+    listings:
+      - section: screen-actors
+        roles: "Harry Potter, Willow"
+
+  - name: Yinka Shonibare
+    disability: {en: Physical disability, es: Discapacidad física}
+    non_us: true
+    legacy: true
+    listings:
+      - section: visual-artists
+        medium: {en: Installation, es: Instalación}
+        notable_for: {en: Cultural identity work, es: Obra sobre identidad cultural}
+
+  - name: Zach Anner
+    disability: {en: Cerebral palsy, es: Parálisis cerebral}
+    legacy: true
+    listings:
+      - section: comedians
+        platform: "Stand-up, YouTube"
+        notable_for: {en: Oprah show winner, es: Ganador del programa de Oprah}
+      - section: youtubers
+        content: {en: "Comedy, travel", es: "Comedia, viajes"}
+
+  - name: Zack Gottsagen
+    disability: {en: Down syndrome, es: Síndrome de Down}
+    legacy: true
+    listings:
+      - section: screen-actors
+        roles: The Peanut Butter Falcon

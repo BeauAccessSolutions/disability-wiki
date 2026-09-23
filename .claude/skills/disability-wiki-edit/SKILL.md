@@ -98,6 +98,11 @@ Just edit the `.md`. Preserve frontmatter. Common checks before merging:
   (**spanish-wiki-translation**).
 - **Life-safety content** (crisis numbers, benefits figures, legal deadlines) —
   verify against primary sources first (**disability-wiki-accuracy**, `docs/CLAIMS.md`).
+- **Disabled Creators Directory is generated.** Its tables (EN + es) come from
+  `data/creators.yaml`. To add, change, or remove a creator, edit that file and run
+  `python3 scripts/creators_directory.py`; don't edit the tables in the `.md`. A new
+  entry needs a `disclosure_source`: a public link where the creator discloses their
+  disability themselves. Use their own words for the disability. CI runs `--check`.
 
 ## Backups / rollback
 
