@@ -118,16 +118,16 @@ Las organizaciones de derechos de las personas con discapacidad a nivel global h
 
 Elige tu país o región para ver los panoramas institucionales específicos, el progreso de la desinstitucionalización y las alternativas a las instituciones:
 
-- **[Estados Unidos](#united-states)**
-- **[Canadá](#canada)**
-- **[Unión Europea y estados miembros](#european-union)**
-- **[Reino Unido](#united-kingdom)**
+- **[Estados Unidos](#estados-unidos)**
+- **[Canadá](#canadá)**
+- **[Unión Europea y estados miembros](#unión-europea-y-estados-miembros)**
+- **[Reino Unido](#reino-unido)**
 - **[Australia](#australia)**
-- **[Otros países](#other-countries)**
+- **[Otros países](#otros-países)**
 
 ---
 
-## Estados Unidos {#united-states}
+## Estados Unidos
 
 EE. UU. tiene una gran población institucional (asilos, hospitales psiquiátricos, centros estatales para personas con discapacidades del desarrollo, hogares grupales grandes) a pesar de la decisión Olmstead que exige la vida en comunidad.
 
@@ -205,7 +205,7 @@ EE. UU. tiene una gran población institucional (asilos, hospitales psiquiátric
 
 ---
 
-## Canadá {#canada}
+## Canadá
 
 Canadá ha estado desinstitucionalizando desde las décadas de 1960 y 1970. Sin embargo, sigue habiendo una población institucional significativa; algunas provincias avanzan más rápido que otras.
 
@@ -260,7 +260,7 @@ Similar a EE. UU.: la vida con apoyo, el cuidado autodirigido, los hogares de ac
 
 ---
 
-## Unión Europea y estados miembros {#european-union}
+## Unión Europea y estados miembros
 
 Los estados miembros de la UE están obligados a implementar la desinstitucionalización del Artículo 19 de la CDPD. El progreso varía dramáticamente.
 
@@ -300,7 +300,7 @@ El traslado de grandes instituciones a pequeños hogares grupales/entornos puede
 
 ---
 
-## Reino Unido {#united-kingdom}
+## Reino Unido
 
 El Reino Unido tiene una población institucional significativa a pesar de décadas de política de desinstitucionalización.
 
@@ -355,7 +355,7 @@ El Reino Unido tiene una población institucional significativa a pesar de déca
 
 ---
 
-## Australia {#australia}
+## Australia
 
 Australia ha desinstitucionalizado gran parte de su población con discapacidad del desarrollo a través del NDIS. Sin embargo, las prácticas y barreras institucionales permanecen.
 
@@ -409,7 +409,7 @@ Australia ha desinstitucionalizado gran parte de su población con discapacidad 
 
 ---
 
-## Otros países {#other-countries}
+## Otros países
 
 El panorama institucional y el progreso de la desinstitucionalización varían dramáticamente a nivel global.
 

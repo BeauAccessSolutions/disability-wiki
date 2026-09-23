@@ -20,17 +20,17 @@ Esta página pone en el centro los conocimientos de las personas con discapacida
 
 Salta a tu país o región:
 
-- [Principios universales](#universal-principles)
-- [Estados Unidos](#united-states)
-- [Canadá](#canada)
-- [Unión Europea](#european-union)
-- [Reino Unido](#united-kingdom)
-- [Australia](#australia)
-- [Viajes internacionales](#international-travel)
+- [Principios universales](#principios-universales)
+- [Estados Unidos](#estados-unidos-2)
+- [Canadá](#canadá-1)
+- [Unión Europea](#unión-europea)
+- [Reino Unido](#reino-unido-1)
+- [Australia](#australia-1)
+- [Viajes internacionales](#viajes-internacionales)
 
 ---
 
-## Principios universales {#universal-principles}
+## Principios universales
 
 ### Tus derechos como persona con discapacidad que viaja
 
@@ -54,7 +54,7 @@ Las personas con discapacidad que viajan se encuentran con frecuencia con:
 
 ---
 
-## Estados Unidos {#united-states}
+## Estados Unidos
 
 ### Protección legal: Air Carrier Access Act (ACAA)
 
@@ -133,7 +133,7 @@ La Air Carrier Access Act (1986) prohíbe la discriminación contra los pasajero
 
 ---
 
-## Canadá {#canada}
+## Canadá
 
 ### Protección legal: Canadian Transportation Act
 
@@ -162,7 +162,7 @@ Contacta a la Canadian Transportation Agency:
 
 ---
 
-## Unión Europea {#european-union}
+## Unión Europea
 
 ### Protección legal: Reglamento CE 1107/2006
 
@@ -190,7 +190,7 @@ Los reglamentos de la UE cubren los vuelos que salen de o llegan a aeropuertos d
 
 ---
 
-## Reino Unido {#united-kingdom}
+## Reino Unido
 
 ### Marco posterior al Brexit
 
@@ -211,7 +211,7 @@ La Civil Aviation Authority atiende las quejas sobre los derechos de los pasajer
 
 ---
 
-## Australia {#australia}
+## Australia
 
 ### Protección legal: Disability Discrimination Act
 
@@ -231,7 +231,7 @@ Las aerolíneas no deben discriminar a los pasajeros con discapacidad y deben ha
 
 ---
 
-## Viajes internacionales {#international-travel}
+## Viajes internacionales
 
 ### Qué leyes aplican
 
@@ -341,7 +341,7 @@ Las personas con discapacidad que viajan están impulsando:
 
 ## Animales de servicio
 
-### Estados Unidos {#united-states}
+### Estados Unidos
 
 - Se deben permitir los perros de servicio entrenados
 - Las aerolíneas pueden exigir documentación y formularios de comportamiento
@@ -380,13 +380,13 @@ Las aerolíneas deben entregar los artículos perdidos. Tienes derecho a gastos 
 
 ## Recursos
 
-### Estados Unidos {#united-states}
+### Estados Unidos
 
 - **DOT Aviation Consumer Protection**: transportation.gov/airconsumer
 - **DOT Disability Hotline**: 1-800-778-4838
 - **Presenta una queja**: [airconsumer.dot.gov](https://airconsumer.dot.gov)
 
-### Canadá {#canada}
+### Canadá
 
 - **Canadian Transportation Agency**: [otc-cta.gc.ca](https://otc-cta.gc.ca)
 
@@ -394,11 +394,11 @@ Las aerolíneas deben entregar los artículos perdidos. Tienes derecho a gastos 
 
 - **European Commission Air Passenger Rights**: ec.europa.eu/transport/passenger-rights
 
-### Reino Unido {#united-kingdom}
+### Reino Unido
 
 - **Civil Aviation Authority**: [caa.co.uk](https://caa.co.uk)
 
-### Australia {#australia}
+### Australia
 
 - **Australian Human Rights Commission**: humanrights.gov.au
 

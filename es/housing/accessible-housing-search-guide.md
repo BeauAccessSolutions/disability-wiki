@@ -55,16 +55,16 @@ Para residentes ciegos/con baja visión:
 
 Elige tu país o región para encontrar bases de datos específicas, estrategias de búsqueda y programas de vivienda relevantes para tu zona:
 
-- **[Estados Unidos](#united-states)**
-- **[Canadá](#canada)**
-- **[Unión Europea y estados miembros](#european-union)**
-- **[Reino Unido](#united-kingdom)**
+- **[Estados Unidos](#estados-unidos)**
+- **[Canadá](#canadá)**
+- **[Unión Europea y estados miembros](#unión-europea-y-estados-miembros)**
+- **[Reino Unido](#reino-unido)**
 - **[Australia](#australia)**
-- **[Otros países y recursos globales](#other-countries)**
+- **[Otros países y recursos globales](#otros-países-y-recursos-globales)**
 
 ---
 
-## Estados Unidos {#united-states}
+## Estados Unidos
 
 EE. UU. tiene amplias bases de datos y herramientas de búsqueda de vivienda accesible, aunque el éxito requiere búsquedas estratégicas y persistencia.
 
@@ -144,7 +144,7 @@ Si usas el Vale de Elección de Vivienda (Housing Choice Voucher) de la Sección
 
 ---
 
-## Canadá {#canada}
+## Canadá
 
 Canadá tiene herramientas de búsqueda de vivienda y estándares de accesibilidad, aunque menos centralizados que los de EE. UU. Las estrategias de búsqueda varían según la provincia.
 
@@ -190,7 +190,7 @@ Los códigos de construcción (National Building Code of Canada) establecen los 
 
 ---
 
-## Unión Europea y estados miembros {#european-union}
+## Unión Europea y estados miembros
 
 La búsqueda de vivienda en la UE varía significativamente según el país. No existe una base de datos a nivel de todo el continente; las herramientas de búsqueda y los estándares de accesibilidad varían según el estado miembro.
 
@@ -210,7 +210,7 @@ La búsqueda de vivienda en la UE varía significativamente según el país. No 
 
 **Francia, España, Italia**: búsqueda de vivienda a través de los portales inmobiliarios estándar. A menudo la información de accesibilidad no se incluye; hay que contactar directamente a los arrendadores o trabajar con organizaciones de discapacidad. Los estándares de accesibilidad y su aplicación varían.
 
-**Reino Unido** (post-Brexit): consulta la sección de [Reino Unido](#united-kingdom) más abajo.
+**Reino Unido** (post-Brexit): consulta la sección de [Reino Unido](#reino-unido) más abajo.
 
 **Polonia, Chequia, Hungría** y los países de Europa del Este: la accesibilidad de la vivienda está menos estandarizada. Las organizaciones de discapacidad brindan cada vez más asistencia y defensa en la búsqueda.
 
@@ -238,7 +238,7 @@ Los países de la UE adoptan cada vez más los principios del Diseño Universal 
 
 ---
 
-## Reino Unido {#united-kingdom}
+## Reino Unido
 
 La búsqueda de vivienda en el Reino Unido funciona a través de portales inmobiliarios estándar con información de accesibilidad variable.
 
@@ -282,7 +282,7 @@ Solicita descripciones escritas o fotos antes de visitar. Documenta todas las co
 
 ---
 
-## Australia {#australia}
+## Australia
 
 Australia tiene herramientas de búsqueda de vivienda y protecciones legales fuertes para la accesibilidad, aunque su vastedad geográfica presenta desafíos.
 
@@ -322,7 +322,7 @@ Solicita información por escrito antes de presentar la solicitud. Busca asisten
 
 ---
 
-## Otros países y recursos globales {#other-countries}
+## Otros países y recursos globales
 
 Las estrategias de búsqueda de vivienda varían a nivel global según los mercados de vivienda locales, los estándares de accesibilidad y la infraestructura de discapacidad.
 

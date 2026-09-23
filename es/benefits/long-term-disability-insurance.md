@@ -35,12 +35,12 @@ Los dos sistemas están conectados de una forma que sorprende a muchas personas:
 ## ¿Dónde estás?
 
 - [Estados Unidos](#estados-unidos)
-- [Canadá](#canada)
-- [Otros países](#otros-paises)
+- [Canadá](#canadá)
+- [Otros países](#otros-países)
 
 ---
 
-## Estados Unidos {#estados-unidos}
+## Estados Unidos
 
 ### La mayoría de las pólizas laborales se rigen por ERISA
 
@@ -70,7 +70,7 @@ Las pólizas compradas de forma individual y los planes de empleados públicos p
 
 ---
 
-## Canadá {#canada}
+## Canadá
 
 ### Es una disputa contractual
 
@@ -96,7 +96,7 @@ El CPP Disability interactúa con el LTD igual que el SSDI en EE. UU.: la mayor�
 
 ---
 
-## Otros países {#otros-paises}
+## Otros países
 
 El seguro de protección de ingresos ofrecido por el empleador existe en muchos países con nombres distintos, incluido el «income protection» en el Reino Unido, Australia e Irlanda, donde puede convivir con esquemas públicos. Los patrones generales de esta página, es decir, las definiciones de discapacidad, los descuentos frente a las prestaciones públicas, los exámenes médicos y los plazos cortos, tienden a repetirse, pero el marco legal no. Si sabes cómo funciona esto donde vives, esa sección falta y nos gustaría que nos ayudaras a escribirla.
 
@@ -146,13 +146,13 @@ Las reglas aquí son generales, varían según la jurisdicción y la póliza, y 
 
 *Los recursos oficiales enlazados están en inglés.*
 
-### Estados Unidos {#recursos-estados-unidos}
+### Estados Unidos
 - [29 CFR 2560.503-1, reglamento del procedimiento de reclamaciones](https://www.ecfr.gov/current/title-29/subtitle-B/chapter-XXV/subchapter-J/part-2560/section-2560.503-1) — la norma vinculante, incluidas las protecciones por discapacidad descritas arriba
 - [Departamento del Trabajo de EE. UU., EBSA: Disability Benefits](https://www.dol.gov/agencies/ebsa/key-topics/health-and-other-employee-benefits/disability-benefits) — guía oficial y los materiales del procedimiento de reclamaciones
 - [Filing a Claim for Your Disability Benefits](https://www.dol.gov/sites/dolgov/files/ebsa/about-ebsa/our-activities/resource-center/publications/disability-benefits-claim-filing.pdf) (PDF) — folleto de EBSA en lenguaje sencillo
 - [Directorio de departamentos estatales de seguros de la NAIC](https://content.naic.org/state-insurance-departments) — el regulador para las pólizas que no se rigen por ERISA
 
-### Canadá {#recursos-canada}
+### Canadá
 - [OmbudService for Life and Health Insurance (OLHI)](https://olhi.ca/) — resolución de quejas gratuita e independiente que cubre el seguro por discapacidad
 - [Proceso de quejas del OLHI](https://olhi.ca/complaints/) — qué hacer primero y qué necesita el OLHI
 

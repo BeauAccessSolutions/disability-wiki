@@ -48,7 +48,7 @@ Esta lista da prioridad a las series con **casting auténtico** (actores con dis
 
 ---
 
-## Visionado esencial {#visionado-esencial}
+## Visionado esencial
 
 ### Representación innovadora
 
@@ -62,7 +62,7 @@ Esta lista da prioridad a las series con **casting auténtico** (actores con dis
 
 ---
 
-## En emisión actualmente {#en-emisión-actualmente}
+## En emisión actualmente
 
 *A diciembre de 2025. Consulta los servicios de streaming para conocer la disponibilidad actual.*
 
@@ -76,7 +76,7 @@ Esta lista da prioridad a las series con **casting auténtico** (actores con dis
 
 ---
 
-## Series recientes (2020 a la actualidad) {#series-recientes-2020-a-la-actualidad}
+## Series recientes (2020 a la actualidad)
 
 - **Deaf U** (2020) – Netflix. [Ver Visionado esencial] *Elenco auténtico, Esencial.*
 
@@ -96,7 +96,7 @@ Esta lista da prioridad a las series con **casting auténtico** (actores con dis
 
 ---
 
-## Series clásicas e influyentes {#series-clásicas-e-influyentes}
+## Series clásicas e influyentes
 
 ### Décadas de 1980 y 1990
 
@@ -128,7 +128,7 @@ Esta lista da prioridad a las series con **casting auténtico** (actores con dis
 
 ---
 
-## Series de telerrealidad y documentales {#series-de-telerrealidad-y-documentales}
+## Series de telerrealidad y documentales
 
 - **Deaf U** (2020) – [Ver Visionado esencial] *Elenco auténtico, Esencial.*
 
@@ -146,7 +146,7 @@ Esta lista da prioridad a las series con **casting auténtico** (actores con dis
 
 ---
 
-## Programación infantil {#programación-infantil}
+## Programación infantil
 
 - **Sesame Street** – Julia, un títere autista presentado en 2017. Ameera, un personaje que usa silla de ruedas (2022). Una larga trayectoria de inclusión de la discapacidad. *Elenco auténtico.*
 
@@ -162,9 +162,9 @@ Esta lista da prioridad a las series con **casting auténtico** (actores con dis
 
 ---
 
-## Por tipo de discapacidad {#por-tipo-de-discapacidad}
+## Por tipo de discapacidad
 
-### Personas sordas y con problemas de audición {#personas-sordas-y-con-problemas-de-audición}
+### Personas sordas y con problemas de audición
 
 - Switched at Birth (2011-2017) *Elenco auténtico, Esencial.*
 - Deaf U (2020) *Elenco auténtico, Esencial.*
@@ -174,7 +174,7 @@ Esta lista da prioridad a las series con **casting auténtico** (actores con dis
 - Echo (2024) *Elenco auténtico.*
 - Reasonable Doubts (1991-1993)
 
-### Personas ciegas y con baja visión {#personas-ciegas-y-con-baja-visión}
+### Personas ciegas y con baja visión
 
 - **See** (2019-2022) – Apple TV+. Mundo posapocalíptico en el que todos son ciegos. [Nota: algunos asesores ciegos; actores protagonistas videntes]
 
@@ -182,7 +182,7 @@ Esta lista da prioridad a las series con **casting auténtico** (actores con dis
 
 - **Conan the Barbarian** (2024) – Un personaje usa la ceguera.
 
-### Discapacidad física y movilidad {#discapacidad-física-y-movilidad}
+### Discapacidad física y movilidad
 
 - Special (2019-2021) *Elenco auténtico, Esencial.*
 - Speechless (2016-2019) *Elenco auténtico, Esencial.*
@@ -191,7 +191,7 @@ Esta lista da prioridad a las series con **casting auténtico** (actores con dis
 - Facts of Life – Geri Jewell *Elenco auténtico.*
 - Echo (2024) *Elenco auténtico.*
 
-### Neurodivergencia {#neurodivergencia}
+### Neurodivergencia
 
 #### Autismo
 
@@ -207,13 +207,13 @@ Esta lista da prioridad a las series con **casting auténtico** (actores con dis
 
 - **How to ADHD** – Contenido educativo de YouTube, a veces presentado en televisión
 
-### Enfermedad crónica {#enfermedad-crónica}
+### Enfermedad crónica
 
 - **This Is Us** (2016-2022) – Varias tramas sobre enfermedad crónica y adicción.
 - **Dopesick** (2021) – Crisis de los opioides, dolor crónico
 - House (2004-2012) – Dolor crónico [enfoque problemático]
 
-### Discapacidad psiquiátrica {#discapacidad-psiquiátrica}
+### Discapacidad psiquiátrica
 
 - **BoJack Horseman** (2014-2020) – Animada. Depresión, adicción y trauma retratados con profundidad.
 - **Crazy Ex-Girlfriend** (2015-2019) – Se explora un diagnóstico de TLP. Serie de Rachel Bloom.
@@ -221,7 +221,7 @@ Esta lista da prioridad a las series con **casting auténtico** (actores con dis
 - **United States of Tara** (2009-2011) – TID. [Nota: Representación controvertida]
 - **Silver Linings Playbook** (2012) – Trastorno bipolar. [Película, pero influyente]
 
-### Discapacidades intelectuales y del desarrollo {#discapacidades-intelectuales-y-del-desarrollo}
+### Discapacidades intelectuales y del desarrollo
 
 - Life Goes On (1989-1993) – Chris Burke *Elenco auténtico.*
 - Born This Way (2015-2019) *Elenco auténtico.*
@@ -230,7 +230,7 @@ Esta lista da prioridad a las series con **casting auténtico** (actores con dis
 
 ---
 
-## Series internacionales {#series-internacionales}
+## Series internacionales
 
 ### Reino Unido
 
@@ -256,7 +256,7 @@ Esta lista da prioridad a las series con **casting auténtico** (actores con dis
 
 ---
 
-## Problemáticas pero notables {#problemáticas-pero-notables}
+## Problemáticas pero notables
 
 Series que lograron visibilidad pero tienen problemas significativos de representación.
 
@@ -272,7 +272,7 @@ Series que lograron visibilidad pero tienen problemas significativos de represen
 
 ---
 
-## Detrás de cámaras {#detrás-de-cámaras}
+## Detrás de cámaras
 
 ### Showrunners y guionistas con discapacidad
 

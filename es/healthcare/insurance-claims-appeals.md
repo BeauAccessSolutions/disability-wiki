@@ -63,16 +63,16 @@ Toda negación debe incluir:
 
 Los sistemas de seguros varían enormemente según el país. Navega a tu ubicación:
 
-- [Estados Unidos](#united-states)
-- [Canadá](#canada)
-- [Reino Unido](#united-kingdom)
+- [Estados Unidos](#estados-unidos)
+- [Canadá](#canadá)
+- [Reino Unido](#reino-unido)
 - [Australia](#australia)
-- [Unión Europea](#european-union)
-- [Otros países](#other-countries)
+- [Unión Europea](#unión-europea)
+- [Otros países](#otros-países)
 
 ---
 
-## Estados Unidos {#united-states}
+## Estados Unidos
 
 ### Tipos de seguro y derechos de apelación
 
@@ -187,7 +187,7 @@ Las personas con discapacidad están combatiendo la discriminación en los segur
 
 ---
 
-## Canadá {#canada}
+## Canadá
 
 ### Seguro de salud provincial
 
@@ -217,7 +217,7 @@ Si tienes un seguro patrocinado por el empleador o privado:
 
 ---
 
-## Reino Unido {#united-kingdom}
+## Reino Unido
 
 ### Apelaciones ante el NHS
 
@@ -252,7 +252,7 @@ Si te niegan el financiamiento de la Atención Médica Continua del NHS:
 
 ---
 
-## Australia {#australia}
+## Australia
 
 ### Apelaciones ante Medicare y el PBS
 
@@ -283,7 +283,7 @@ El Ombudsman del Seguro de Salud Privado (Private Health Insurance Ombudsman) ma
 
 ---
 
-## Unión Europea {#european-union}
+## Unión Europea
 
 Los sistemas de seguros varían según el país, pero hay algunos principios comunes:
 
@@ -299,7 +299,7 @@ Los ciudadanos de la UE pueden buscar atención médica en otros estados miembro
 
 ---
 
-## Otros países {#other-countries}
+## Otros países
 
 ### Principios generales que aplican en todas partes
 

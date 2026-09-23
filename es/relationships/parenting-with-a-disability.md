@@ -17,16 +17,16 @@ Las personas con discapacidad tienen el mismo derecho a tener y criar hijos que 
 ## ¿Dónde estás?
 
 **Ir a:**
-- [Tu derecho a maternar o paternar](#your-right-to-parent)
-- [Embarazo y parto](#pregnancy-and-childbirth)
-- [Estrategias prácticas de crianza](#practical-parenting-strategies)
-- [Sistemas de apoyo](#support-systems)
-- [Por país](#by-country)
-- [Interseccionalidad](#intersectionality)
+- [Tu derecho a maternar o paternar](#tu-derecho-a-maternar-o-paternar)
+- [Embarazo y parto](#embarazo-y-parto)
+- [Estrategias prácticas de crianza](#estrategias-prácticas-de-crianza)
+- [Sistemas de apoyo](#sistemas-de-apoyo)
+- [Por país](#por-país)
+- [Interseccionalidad](#interseccionalidad)
 
 ---
 
-## Tu derecho a maternar o paternar {#your-right-to-parent}
+## Tu derecho a maternar o paternar
 
 ### La ley
 
@@ -66,7 +66,7 @@ Las disputas de custodia a veces involucran discriminación por discapacidad. Lo
 
 ---
 
-## Embarazo y parto {#pregnancy-and-childbirth}
+## Embarazo y parto
 
 ### Planificar el embarazo
 
@@ -138,7 +138,7 @@ El período posparto es exigente para todas las personas que acaban de tener un 
 
 ---
 
-## Estrategias prácticas de crianza {#practical-parenting-strategies}
+## Estrategias prácticas de crianza
 
 ### Equipo de crianza adaptado
 
@@ -233,7 +233,7 @@ Desde edades tempranas:
 
 ---
 
-## Sistemas de apoyo {#support-systems}
+## Sistemas de apoyo
 
 ### Apoyos formales
 
@@ -287,7 +287,7 @@ Si se te niegan servicios por la discapacidad:
 
 ---
 
-## Por país {#by-country}
+## Por país
 
 ### Estados Unidos
 
@@ -355,7 +355,7 @@ Las protecciones y los apoyos varían ampliamente. Las barreras comunes incluyen
 
 ---
 
-## Interseccionalidad {#intersectionality}
+## Interseccionalidad
 
 ### Madres y padres con discapacidad racializados
 

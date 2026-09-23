@@ -20,17 +20,17 @@ Esta página pone en el centro los conocimientos de las personas con discapacida
 
 Salta a tu país o región:
 
-- [Principios universales](#universal-principles)
-- [Estados Unidos](#united-states)
-- [Canadá](#canada)
-- [Reino Unido](#united-kingdom)
-- [Unión Europea](#european-union)
-- [Australia](#australia)
-- [Otros países](#other-countries)
+- [Principios universales](#principios-universales)
+- [Estados Unidos](#estados-unidos-1)
+- [Canadá](#canadá-1)
+- [Reino Unido](#reino-unido-1)
+- [Unión Europea](#unión-europea)
+- [Australia](#australia-1)
+- [Otros países](#otros-países)
 
 ---
 
-## Principios universales {#universal-principles}
+## Principios universales
 
 ### El derecho a un transporte accesible
 
@@ -61,7 +61,7 @@ Un transporte público accesible significa:
 
 ---
 
-## Estados Unidos {#united-states}
+## Estados Unidos
 
 ### Marco legal
 
@@ -116,7 +116,7 @@ Las **organizaciones de derechos de la discapacidad** presentan quejas y demanda
 
 ---
 
-## Canadá {#canada}
+## Canadá
 
 ### Marco legal
 
@@ -141,7 +141,7 @@ La mayoría de los principales sistemas de transporte canadienses tienen caracte
 
 ---
 
-## Reino Unido {#united-kingdom}
+## Reino Unido
 
 ### Marco legal
 
@@ -187,7 +187,7 @@ Servicio gratuito para ayudar a los pasajeros con discapacidad:
 
 ---
 
-## Unión Europea {#european-union}
+## Unión Europea
 
 ### Marco
 
@@ -220,7 +220,7 @@ La mayoría de los operadores ferroviarios europeos tienen servicios de reserva 
 
 ---
 
-## Australia {#australia}
+## Australia
 
 ### Marco legal
 
@@ -250,7 +250,7 @@ El sistema de transporte de cada estado tiene servicios de accesibilidad:
 
 ---
 
-## Otros países {#other-countries}
+## Otros países
 
 ### Marco de la CDPD
 
@@ -358,23 +358,23 @@ Investiga el sistema específico en línea. Contacta a la oficina de accesibilid
 
 ## Recursos
 
-### Estados Unidos {#united-states}
+### Estados Unidos
 
 - **Línea de Asistencia de la ADA de la FTA**: 1-888-446-4511
 - **Información de transporte de ADA.gov**: [ada.gov](https://ada.gov)
 - **Easter Seals Project ACTION**: recursos sobre transporte accesible
 
-### Canadá {#canada}
+### Canadá
 
 - **Agencia de Transporte de Canadá**: [otc-cta.gc.ca](https://otc-cta.gc.ca)
 - **Agencias provinciales de transporte**
 
-### Reino Unido {#united-kingdom}
+### Reino Unido
 
 - **Passenger Assist**: reserva de asistencia para viajes ferroviarios
 - **Transport for All**: [transportforall.org.uk](https://transportforall.org.uk) (defensa del transporte liderada por personas con discapacidad)
 
-### Australia {#australia}
+### Australia
 
 - **Physical Disability Council of Australia**: recursos sobre transporte
 - **Oficinas estatales de accesibilidad del transporte**

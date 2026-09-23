@@ -17,15 +17,15 @@ Todas las personas con discapacidad tienen derecho a hablar por sí mismas y a p
 ## ¿Dónde estás?
 
 **Ir a:**
-- [Entender la defensa de derechos](#understanding-advocacy)
-- [Fundamentos de la autodefensa](#self-advocacy-fundamentals)
-- [Defensa sistémica](#systemic-advocacy)
-- [Recursos por país](#resources-by-country)
-- [Desarrollar habilidades](#building-skills)
+- [Entender la defensa de derechos](#entender-la-defensa-de-derechos)
+- [Fundamentos de la autodefensa](#fundamentos-de-la-autodefensa)
+- [Defensa sistémica](#defensa-sistémica)
+- [Recursos por país](#recursos-por-país)
+- [Desarrollar habilidades](#desarrollar-habilidades)
 
 ---
 
-## Entender la defensa de derechos {#understanding-advocacy}
+## Entender la defensa de derechos
 
 ### ¿Qué es la defensa de derechos?
 
@@ -50,7 +50,7 @@ Cuando las personas sin discapacidad toman decisiones por las personas con disca
 
 ---
 
-## Fundamentos de la autodefensa {#self-advocacy-fundamentals}
+## Fundamentos de la autodefensa
 
 ### Conocer tus derechos
 
@@ -172,7 +172,7 @@ Los sistemas a menudo desestiman la autodefensa de personas con ciertas discapac
 
 ---
 
-## Defensa sistémica {#systemic-advocacy}
+## Defensa sistémica
 
 ### Pasar de lo individual a lo sistémico
 
@@ -227,7 +227,7 @@ Construir solidaridad significa apoyar a otros movimientos a la vez que se aport
 
 ---
 
-## Recursos por país {#resources-by-country}
+## Recursos por país
 
 ### Estados Unidos
 
@@ -309,7 +309,7 @@ Construir solidaridad significa apoyar a otros movimientos a la vez que se aport
 
 ---
 
-## Desarrollar habilidades {#building-skills}
+## Desarrollar habilidades
 
 ### Habilidades de autodefensa
 

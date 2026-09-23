@@ -39,7 +39,7 @@ Deportes adaptados para atletas ciegos y con discapacidad visual: desde el goalb
 
 ---
 
-## Panorama general {#panorama-general}
+## Panorama general
 
 Los atletas ciegos y con baja visión compiten en los Juegos Paralímpicos, campeonatos mundiales y deportes recreativos en todo el mundo. Las adaptaciones clave incluyen:
 
@@ -53,7 +53,7 @@ Los atletas ciegos y con baja visión compiten en los Juegos Paralímpicos, camp
 
 ---
 
-## Clasificación {#clasificación}
+## Clasificación
 
 Clasificaciones paralímpicas de discapacidad visual:
 
@@ -72,9 +72,9 @@ Clasificaciones paralímpicas de discapacidad visual:
 
 ---
 
-## Deportes diseñados para atletas ciegos {#deportes-diseñados-para-atletas-ciegos}
+## Deportes diseñados para atletas ciegos
 
-### Goalball {#goalball}
+### Goalball
 
 Un deporte de equipo paralímpico creado específicamente para atletas ciegos.
 
@@ -100,7 +100,7 @@ Un deporte de equipo paralímpico creado específicamente para atletas ciegos.
 
 ---
 
-### Fútbol para personas ciegas (5 jugadores) {#fútbol-para-personas-ciegas-5-jugadores}
+### Fútbol para personas ciegas (5 jugadores)
 
 Fútbol adaptado para jugadores ciegos.
 
@@ -119,7 +119,7 @@ Fútbol adaptado para jugadores ciegos.
 
 ---
 
-### Beep baseball {#beep-baseball}
+### Beep baseball
 
 Béisbol adaptado para jugadores ciegos, popular en EE. UU.
 
@@ -136,7 +136,7 @@ Béisbol adaptado para jugadores ciegos, popular en EE. UU.
 
 ---
 
-### Torball {#torball}
+### Torball
 
 Similar al goalball, se juega principalmente en Europa.
 
@@ -148,9 +148,9 @@ Similar al goalball, se juega principalmente en Europa.
 
 ---
 
-## Deportes adaptados {#deportes-adaptados}
+## Deportes adaptados
 
-### Natación {#natación}
+### Natación
 
 Uno de los deportes paralímpicos más grandes para atletas con discapacidad visual.
 
@@ -171,7 +171,7 @@ Uno de los deportes paralímpicos más grandes para atletas con discapacidad vis
 
 ---
 
-### Atletismo (pista y campo) {#atletismo-pista-y-campo}
+### Atletismo (pista y campo)
 
 Eventos de pista y campo con guías corredores y señales auditivas.
 
@@ -191,7 +191,7 @@ Eventos de pista y campo con guías corredores y señales auditivas.
 
 ---
 
-### Ciclismo (tándem) {#ciclismo-tándem}
+### Ciclismo (tándem)
 
 Los ciclistas con discapacidad visual ruedan en tándem con un piloto vidente.
 
@@ -211,7 +211,7 @@ Los ciclistas con discapacidad visual ruedan en tándem con un piloto vidente.
 
 ---
 
-### Judo {#judo}
+### Judo
 
 Judo paralímpico con inicio táctil.
 
@@ -227,7 +227,7 @@ Judo paralímpico con inicio táctil.
 
 ---
 
-### Triatlón {#triatlón}
+### Triatlón
 
 Natación, ciclismo y carrera con guías.
 
@@ -238,7 +238,7 @@ Natación, ciclismo y carrera con guías.
 
 ---
 
-### Remo {#remo}
+### Remo
 
 Remo paralímpico para atletas con discapacidad visual.
 
@@ -249,7 +249,7 @@ Remo paralímpico para atletas con discapacidad visual.
 
 ---
 
-### Esquí alpino y nórdico {#esquí-alpino-y-nórdico}
+### Esquí alpino y nórdico
 
 Deportes de invierno con guías videntes.
 
@@ -270,7 +270,7 @@ Deportes de invierno con guías videntes.
 
 ---
 
-## Deportes recreativos {#deportes-recreativos}
+## Deportes recreativos
 
 ### Golf
 
@@ -305,7 +305,7 @@ Guías corredores para la recreación:
 
 ---
 
-## Organizaciones {#organizaciones}
+## Organizaciones
 
 ### Internacional
 
@@ -343,7 +343,7 @@ Guías corredores para la recreación:
 
 ---
 
-## Atletas notables {#atletas-notables}
+## Atletas notables
 
 | Atleta | País | Deporte | Logros |
 |---------|---------|-------|--------------|
@@ -358,7 +358,7 @@ Guías corredores para la recreación:
 
 ---
 
-## Cómo participar {#cómo-participar}
+## Cómo participar
 
 ### Primeros pasos
 
@@ -383,7 +383,7 @@ Personas videntes interesadas en guiar:
 
 ---
 
-## Equipo y adaptaciones {#equipo-y-adaptaciones}
+## Equipo y adaptaciones
 
 ### Equipo específico de cada deporte
 

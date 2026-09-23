@@ -20,17 +20,17 @@ Esta página pone en el centro los conocimientos de los estudiantes con discapac
 
 Salta a tu país o región:
 
-- [Principios universales](#universal-principles)
-- [Estados Unidos](#united-states)
-- [Canadá](#canada)
-- [Reino Unido](#united-kingdom)
-- [Unión Europea](#european-union)
-- [Australia](#australia)
-- [Otros países](#other-countries)
+- [Principios universales](#principios-universales)
+- [Estados Unidos](#estados-unidos-1)
+- [Canadá](#canadá-1)
+- [Reino Unido](#reino-unido-1)
+- [Unión Europea](#unión-europea)
+- [Australia](#australia-1)
+- [Otros países](#otros-países)
 
 ---
 
-## Principios universales {#universal-principles}
+## Principios universales
 
 La educación superior abre puertas a carreras profesionales, investigación y liderazgo comunitario. Los estudiantes con discapacidad siempre han formado parte de las universidades, a menudo luchando por ser reconocidos y por recibir adaptaciones.
 
@@ -61,7 +61,7 @@ Las adaptaciones son ajustes que eliminan barreras a la vez que mantienen los es
 
 ---
 
-## Estados Unidos {#united-states}
+## Estados Unidos
 
 ### Tus derechos legales
 
@@ -106,7 +106,7 @@ Las **organizaciones de discapacidad lideradas por estudiantes** en muchos campu
 
 ---
 
-## Canadá {#canada}
+## Canadá
 
 ### Tus derechos legales
 
@@ -139,7 +139,7 @@ Las **oficinas de Student Accessibility Services** varían según la institució
 
 ---
 
-## Reino Unido {#united-kingdom}
+## Reino Unido
 
 ### Tus derechos legales
 
@@ -174,7 +174,7 @@ La **National Union of Students (NUS) Disabled Students Campaign** trabaja en po
 
 ---
 
-## Unión Europea {#european-union}
+## Unión Europea
 
 ### Marco
 
@@ -198,7 +198,7 @@ Las **organizaciones nacionales de discapacidad** de cada país abogan por una e
 
 ---
 
-## Australia {#australia}
+## Australia
 
 ### Tus derechos legales
 
@@ -223,7 +223,7 @@ La **Australian Disability Students Network** aboga por los estudiantes con disc
 
 ---
 
-## Otros países {#other-countries}
+## Otros países
 
 ### Principios que se aplican en todas partes
 
@@ -319,23 +319,23 @@ Documenta todo. Repórtalo a los servicios de discapacidad, a los coordinadores 
 - **Artículo 24 de la CDPD (Educación)**: El estándar internacional
 - **International Disability Alliance**: Red de defensa global
 
-### Estados Unidos {#united-states}
+### Estados Unidos
 
 - **Oficina de Derechos Civiles del Departamento de Educación de EE. UU.**: ocr@ed.gov, 1-800-421-3481
 - **National Center for College Students with Disabilities**: [nccsd.ici.umn.edu](https://nccsd.ici.umn.edu)
 - **AHEAD (Association on Higher Education and Disability)**: [ahead.org](https://www.ahead.org)
 - **Disability Rights Advocates**: [dralegal.org](https://dralegal.org)
 
-### Canadá {#canada}
+### Canadá
 
 - **National Educational Association of Disabled Students (NEADS)**: [neads.ca](https://www.neads.ca)
 
-### Reino Unido {#united-kingdom}
+### Reino Unido
 
 - **Disabled Students' Allowance**: [gov.uk/disabled-students-allowance-dsa](https://www.gov.uk/disabled-students-allowance-dsa)
 - **Disabled Students UK**: [disabledstudents.co.uk](https://disabledstudents.co.uk)
 
-### Australia {#australia}
+### Australia
 
 - **Disability Standards for Education**: [education.gov.au](https://education.gov.au)
 - **People with Disability Australia**: [pwd.org.au](https://pwd.org.au)

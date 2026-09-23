@@ -20,16 +20,16 @@ Esta página pone en el centro los conocimientos de las personas con discapacida
 
 Salta a tu país o región:
 
-- [Comprender los servicios basados en el hogar y la comunidad](#understanding-home-and-community-based-services)
-- [Estados Unidos](#united-states)
-- [Canadá](#canada)
-- [Reino Unido](#united-kingdom)
-- [Australia](#australia)
-- [Otros países](#other-countries)
+- [Comprender los servicios basados en el hogar y la comunidad](#comprender-los-servicios-basados-en-el-hogar-y-la-comunidad)
+- [Estados Unidos](#estados-unidos-1)
+- [Canadá](#canadá-1)
+- [Reino Unido](#reino-unido-1)
+- [Australia](#australia-1)
+- [Otros países](#otros-países)
 
 ---
 
-## Comprender los servicios basados en el hogar y la comunidad {#understanding-home-and-community-based-services}
+## Comprender los servicios basados en el hogar y la comunidad
 
 ### Qué significa esto
 
@@ -62,7 +62,7 @@ Las personas con discapacidad se han organizado durante décadas contra la insti
 
 ---
 
-## Estados Unidos {#united-states}
+## Estados Unidos
 
 ### Marco legal
 
@@ -152,7 +152,7 @@ Medicare (no Medicaid) cubre servicios limitados de salud en el hogar:
 
 ---
 
-## Canadá {#canada}
+## Canadá
 
 ### Responsabilidad provincial
 
@@ -194,7 +194,7 @@ Las **organizaciones provinciales de discapacidad** abogan por la expansión de 
 
 ---
 
-## Reino Unido {#united-kingdom}
+## Reino Unido
 
 ### Sistema de atención social
 
@@ -234,7 +234,7 @@ El **movimiento de Vida Independiente** en el Reino Unido ha luchado por los pag
 
 ---
 
-## Australia {#australia}
+## Australia
 
 ### National Disability Insurance Scheme (NDIS)
 
@@ -286,7 +286,7 @@ La campaña **Every Australian Counts** abogó por el establecimiento del NDIS.
 
 ---
 
-## Otros países {#other-countries}
+## Otros países
 
 ### Principios que se aplican en todas partes
 
@@ -418,25 +418,25 @@ Solicita una reevaluación. Documenta cuidadosamente tus necesidades. Apela la d
 - **Artículo 19 de la CDPD**: Marco internacional para la vida en comunidad
 - **International Disability Alliance**: Defensa global
 
-### Estados Unidos {#united-states}
+### Estados Unidos
 
 - **ADAPT**: [adapt.org](https://adapt.org)
 - **National Council on Independent Living**: [ncil.org](https://ncil.org)
 - **Sitio web de HCBS de los CMS**: medicaid.gov/medicaid/hcbs
 - **Encuentra tu Centro de Vida Independiente**: [ilru.org/projects/cil-net/cil-center-and-association-directory](https://ilru.org/projects/cil-net/cil-center-and-association-directory)
 
-### Canadá {#canada}
+### Canadá
 
 - **Independent Living Canada**: [ilc-vac.ca](https://ilc-vac.ca)
 - **Organizaciones provinciales de discapacidad**
 
-### Reino Unido {#united-kingdom}
+### Reino Unido
 
 - **Disability Rights UK**: [disabilityrightsuk.org](https://disabilityrightsuk.org)
 - **Inclusion London**: inclusionlondon.org.uk
 - **Atención social para adultos del council local**
 
-### Australia {#australia}
+### Australia
 
 - **NDIS**: ndis.gov.au
 - **People with Disability Australia**: [pwd.org.au](https://pwd.org.au)

@@ -34,20 +34,20 @@ Para una explicación detallada de los marcos internacionales de derechos de viv
 
 Elige tu país o región para ver protecciones, procesos y recursos específicos para inquilinos con discapacidad:
 
-- **[Estados Unidos](#united-states)**
-- **[Canadá](#canada)**
-- **[Unión Europea y Estados miembros](#european-union)**
-- **[Reino Unido](#united-kingdom)**
+- **[Estados Unidos](#estados-unidos)**
+- **[Canadá](#canadá)**
+- **[Unión Europea y Estados miembros](#unión-europea-y-estados-miembros)**
+- **[Reino Unido](#reino-unido)**
 - **[Australia](#australia)**
-- **[Otros países](#other-countries)**
+- **[Otros países](#otros-países)**
 
 ---
 
-## Estados Unidos {#united-states}
+## Estados Unidos
 
 EE. UU. implementa los derechos de los inquilinos a través de la ley federal (Fair Housing Act, Sección 504), las leyes estatales y las ordenanzas locales. Las protecciones varían de forma significativa según la ubicación.
 
-Para información completa sobre derechos de vivienda, incluidos los marcos legales detallados, consulta [Derechos de vivienda](/es/housing/housing-rights.md#united-states).
+Para información completa sobre derechos de vivienda, incluidos los marcos legales detallados, consulta [Derechos de vivienda](/es/housing/housing-rights.md#estados-unidos).
 
 ### Solicitar adaptaciones razonables
 
@@ -125,11 +125,11 @@ La Fair Housing Act prevalece sobre los límites de ocupación y las restriccion
 
 ---
 
-## Canadá {#canada}
+## Canadá
 
 Canadá implementa los derechos de los inquilinos a través de la Canadian Human Rights Act, los códigos provinciales de derechos humanos y las leyes de arrendamiento residencial. Las protecciones y los procesos varían según la provincia.
 
-Para información completa sobre derechos de vivienda, consulta [Derechos de vivienda](/es/housing/housing-rights.md#canada).
+Para información completa sobre derechos de vivienda, consulta [Derechos de vivienda](/es/housing/housing-rights.md#canadá).
 
 ### Solicitar adaptaciones y modificaciones
 
@@ -183,11 +183,11 @@ Los arrendadores no pueden tomar represalias contra los inquilinos por hacer val
 
 ---
 
-## Unión Europea y Estados miembros {#european-union}
+## Unión Europea y Estados miembros
 
 Los Estados miembros de la UE deben implementar las protecciones del artículo 19 de la CDPD. Las protecciones de los inquilinos varían de forma significativa según el país, pero los principios fundamentales se aplican de manera universal en toda la UE.
 
-Para información detallada específica de cada país, consulta [Derechos de vivienda](/es/housing/housing-rights.md#european-union).
+Para información detallada específica de cada país, consulta [Derechos de vivienda](/es/housing/housing-rights.md#unión-europea-y-estados-miembros).
 
 ### Principios universales de la UE para inquilinos con discapacidad
 
@@ -249,11 +249,11 @@ Los mecanismos varían según el país, pero por lo general incluyen:
 
 ---
 
-## Reino Unido {#united-kingdom}
+## Reino Unido
 
 El Reino Unido implementa los derechos de los inquilinos a través de la Equality Act 2010, la Residential Tenancies Act y las protecciones del derecho consuetudinario (common law).
 
-Para información completa sobre derechos de vivienda, consulta [Derechos de vivienda](/es/housing/housing-rights.md#united-kingdom).
+Para información completa sobre derechos de vivienda, consulta [Derechos de vivienda](/es/housing/housing-rights.md#reino-unido).
 
 ### Solicitar ajustes razonables
 
@@ -303,7 +303,7 @@ La **Residential Tenancies Act** y el derecho consuetudinario establecen:
 
 ---
 
-## Australia {#australia}
+## Australia
 
 Australia implementa los derechos de los inquilinos a través de la Disability Discrimination Act, el National Disability Insurance Scheme y las leyes de arrendamiento residencial estatales o territoriales.
 
@@ -366,7 +366,7 @@ Trabaja con tu planificador del NDIS en los apoyos relacionados con la vivienda.
 
 ---
 
-## Otros países {#other-countries}
+## Otros países
 
 Las protecciones de los inquilinos varían a nivel global. Los principios universales se aplican; los mecanismos específicos difieren.
 

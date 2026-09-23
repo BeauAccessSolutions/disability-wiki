@@ -17,12 +17,12 @@ La lucha por los derechos de las personas con discapacidad es un movimiento glob
 ## ¿Dónde estás?
 
 **Salta a:**
-- [Orígenes del movimiento global](#global-movement-origins)
-- [Estados Unidos](#united-states)
-- [Reino Unido](#united-kingdom)
-- [Europa](#europe)
-- [Sur Global](#global-south)
-- [Movimiento internacional](#international-movement)
+- [Orígenes del movimiento global](#orígenes-del-movimiento-global)
+- [Estados Unidos](#estados-unidos)
+- [Reino Unido](#reino-unido)
+- [Europa](#europa)
+- [Sur Global](#sur-global)
+- [Movimiento internacional](#movimiento-internacional)
 
 ---
 
@@ -39,7 +39,7 @@ Varios temas surgen en distintos países:
 
 ---
 
-## Orígenes del movimiento global {#global-movement-origins}
+## Orígenes del movimiento global
 
 ### Antes del siglo XX
 
@@ -61,7 +61,7 @@ Ambas guerras mundiales crearon grandes poblaciones de veteranos con discapacida
 
 ---
 
-## Estados Unidos {#united-states}
+## Estados Unidos
 
 ### Primeras bases (décadas de 1900 a 1960)
 
@@ -177,7 +177,7 @@ La justicia para las personas con discapacidad ha influido en la organización d
 
 ---
 
-## Reino Unido {#united-kingdom}
+## Reino Unido
 
 ### Primeras formas de organización (décadas de 1960 y 1970)
 
@@ -225,7 +225,7 @@ Organizaciones como Disabled People Against Cuts (DPAC) han organizado la resist
 
 ---
 
-## Europa {#europe}
+## Europa
 
 ### Movimiento de vida independiente
 
@@ -248,7 +248,7 @@ La organización paraguas europea de las organizaciones de personas con discapac
 
 ---
 
-## Sur Global {#global-south}
+## Sur Global
 
 ### América Latina
 
@@ -291,7 +291,7 @@ Un sólido movimiento por los derechos de las personas con discapacidad que usa 
 
 ---
 
-## Movimiento internacional {#international-movement}
+## Movimiento internacional
 
 ### Disabled Peoples' International (1981)
 

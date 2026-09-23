@@ -12,7 +12,7 @@ dateCreated: 2026-08-18T00:00:00.000Z
 
 Si adquiriste una discapacidad hace poco, ya sea por una lesión, una enfermedad, un diagnóstico que por fin llegó o un cambio lento que cruzó algún límite, esta página trata sobre la parte para la que nadie te entrega un folleto.
 
-No tienes que leerla toda de una vez ni en orden. Si estás en crisis ahora mismo, salta a [cuando es más que una adaptación](#cuando-es-mas-que-una-adaptacion).
+No tienes que leerla toda de una vez ni en orden. Si estás en crisis ahora mismo, salta a [cuando es más que una adaptación](#cuando-es-más-que-una-adaptación).
 
 > **La versión corta:** la mayoría de las personas que adquieren una discapacidad describen un período de verdadera conmoción seguido de una vida que funciona, a menudo de maneras que no podían imaginar desde dentro de esa conmoción. La parte difícil es real. También suele ser una etapa de adaptación y no una condición permanente de desesperanza, y lo que ayuda con más constancia es el contacto con otras personas con discapacidad que han pasado por donde tú estás.
 
@@ -78,7 +78,7 @@ Si tu primer intento es un grupo que no te acomoda, eso es una mala combinación
 
 ---
 
-## Cuando es más que una adaptación {#cuando-es-mas-que-una-adaptacion}
+## Cuando es más que una adaptación
 
 El malestar después de adquirir una discapacidad es esperable. También puede convertirse en algo que necesita apoyo por sí mismo, y la diferencia importa.
 

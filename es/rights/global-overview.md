@@ -17,21 +17,21 @@ Las personas con discapacidad de todo el mundo comparten experiencias comunes de
 ## ¿Dónde estás?
 
 **Ir a tu país o región:**
-- [Entender los distintos sistemas legales](#understanding-different-legal-systems)
-- [Estados Unidos](#united-states)
-- [Canadá](#canada)
-- [Reino Unido](#united-kingdom)
-- [Unión Europea](#european-union)
+- [Entender los distintos sistemas legales](#entender-los-distintos-sistemas-legales)
+- [Estados Unidos](#estados-unidos)
+- [Canadá](#canadá)
+- [Reino Unido](#reino-unido)
+- [Unión Europea](#unión-europea)
 - [Australia](#australia)
-- [Nueva Zelanda](#new-zealand)
-- [América Latina](#latin-america)
-- [África](#africa)
+- [Nueva Zelanda](#nueva-zelanda)
+- [América Latina](#américa-latina)
+- [África](#áfrica)
 - [Asia](#asia)
-- [Medio Oriente](#middle-east)
+- [Medio Oriente](#medio-oriente)
 
 ---
 
-## Entender los distintos sistemas legales {#understanding-different-legal-systems}
+## Entender los distintos sistemas legales
 
 ### Tipos de protección legal
 
@@ -58,7 +58,7 @@ Al evaluar los derechos de las personas con discapacidad en cualquier país, con
 
 ---
 
-## Estados Unidos {#united-states}
+## Estados Unidos
 
 ### Marco legal central
 
@@ -108,7 +108,7 @@ La aplicación se da a través de:
 
 ---
 
-## Canadá {#canada}
+## Canadá
 
 ### Marco legal central
 
@@ -150,7 +150,7 @@ Los derechos de las personas con discapacidad varían significativamente según 
 
 ---
 
-## Reino Unido {#united-kingdom}
+## Reino Unido
 
 ### Marco legal central
 
@@ -191,7 +191,7 @@ Escocia, Gales e Irlanda del Norte tienen alguna legislación separada y distint
 
 ---
 
-## Unión Europea {#european-union}
+## Unión Europea
 
 ### Marco a nivel de la UE
 
@@ -231,7 +231,7 @@ Cada país de la UE tiene sus propias leyes de discapacidad. Algunos ejemplos:
 
 ---
 
-## Australia {#australia}
+## Australia
 
 ### Marco legal central
 
@@ -276,7 +276,7 @@ El principal desarrollo de política de discapacidad de Australia. Característi
 
 ---
 
-## Nueva Zelanda {#new-zealand}
+## Nueva Zelanda
 
 ### Marco legal central
 
@@ -314,7 +314,7 @@ La implementación está en curso, con preocupaciones sobre el ritmo y la consis
 
 ---
 
-## América Latina {#latin-america}
+## América Latina
 
 ### Marco regional
 
@@ -359,7 +359,7 @@ En toda la región:
 
 ---
 
-## África {#africa}
+## África
 
 ### Marco regional
 
@@ -409,7 +409,7 @@ Aún no está en vigor (necesita 15 ratificaciones).
 
 ---
 
-## Asia {#asia}
+## Asia
 
 ### Marco regional
 
@@ -460,7 +460,7 @@ Marco regional para las naciones del Sudeste Asiático.
 
 ---
 
-## Medio Oriente {#middle-east}
+## Medio Oriente
 
 ### Marco regional
 

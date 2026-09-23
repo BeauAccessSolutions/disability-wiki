@@ -20,16 +20,16 @@ Esta página pone en el centro los conocimientos de las personas emprendedoras c
 
 Salta a tu país o región:
 
-- [Por qué el trabajo por cuenta propia funciona para las personas con discapacidad](#por-que-el-trabajo-por-cuenta-propia-funciona-para-las-personas-con-discapacidad)
-- [Estados Unidos](#estados-unidos)
-- [Canadá](#canada)
-- [Reino Unido](#reino-unido)
-- [Australia](#australia)
-- [Otros países](#otros-paises)
+- [Por qué el trabajo por cuenta propia funciona para las personas con discapacidad](#por-qué-el-trabajo-por-cuenta-propia-funciona-para-las-personas-con-discapacidad)
+- [Estados Unidos](#estados-unidos-1)
+- [Canadá](#canadá-1)
+- [Reino Unido](#reino-unido-1)
+- [Australia](#australia-1)
+- [Otros países](#otros-países)
 
 ---
 
-## Por qué el trabajo por cuenta propia funciona para las personas con discapacidad {#por-que-el-trabajo-por-cuenta-propia-funciona-para-las-personas-con-discapacidad}
+## Por qué el trabajo por cuenta propia funciona para las personas con discapacidad
 
 ### Beneficios
 
@@ -61,7 +61,7 @@ Salta a tu país o región:
 
 ---
 
-## Estados Unidos {#estados-unidos}
+## Estados Unidos
 
 ### Prestaciones y trabajo por cuenta propia
 
@@ -132,7 +132,7 @@ Las personas que trabajan por cuenta propia:
 
 ---
 
-## Canadá {#canada}
+## Canadá
 
 ### Prestaciones y trabajo por cuenta propia
 
@@ -162,7 +162,7 @@ El **ODSP (Ontario Disability Support Program)** y otros programas provinciales 
 
 ---
 
-## Reino Unido {#reino-unido}
+## Reino Unido
 
 ### Prestaciones y trabajo por cuenta propia
 
@@ -198,7 +198,7 @@ Regístrate ante el HMRC, comprende tus obligaciones fiscales y considera asesor
 
 ---
 
-## Australia {#australia}
+## Australia
 
 ### El NDIS y el trabajo por cuenta propia
 
@@ -228,7 +228,7 @@ La DSP tiene reglas sobre los ingresos:
 
 ---
 
-## Otros países {#otros-paises}
+## Otros países
 
 ### Principios
 
@@ -393,7 +393,7 @@ Considera tus habilidades, intereses y capacidad. ¿Para qué te pide ayuda la g
 
 - **Redes de emprendimiento de la discapacidad**: busca comunidades en tu zona
 
-### Estados Unidos {#estados-unidos}
+### Estados Unidos
 
 - **SCORE**: score.org (tutoría gratuita)
 - **SBA**: [sba.gov](https://sba.gov)
@@ -401,18 +401,18 @@ Considera tus habilidades, intereses y capacidad. ¿Para qué te pide ayuda la g
 - **National Disability Institute**: [nationaldisabilityinstitute.org](https://nationaldisabilityinstitute.org)
 - **Asesoría de prestaciones**: encuentra a una persona Coordinadora Comunitaria de Incentivos al Trabajo (CWIC)
 
-### Canadá {#canada}
+### Canadá
 
 - **Canada Business Network**: canadabusiness.ca
 - **Programas provinciales de apoyo a los negocios**
 
-### Reino Unido {#reino-unido}
+### Reino Unido
 
 - **Access to Work**: [gov.uk/access-to-work](https://gov.uk/access-to-work)
 - **Start Up Loans**: startuploans.co.uk
 - **Business Wales, Business Gateway (Escocia), etc.**: programas regionales
 
-### Australia {#australia}
+### Australia
 
 - **Business.gov.au**: [business.gov.au](https://business.gov.au)
 - **JobAccess**: [jobaccess.gov.au](https://jobaccess.gov.au)

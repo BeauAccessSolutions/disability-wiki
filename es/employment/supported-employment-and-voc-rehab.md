@@ -20,16 +20,16 @@ Esta página pone en el centro los conocimientos de las personas con discapacida
 
 Salta a tu país o región:
 
-- [Cómo entender los apoyos al empleo](#como-entender-los-apoyos-al-empleo)
-- [Estados Unidos](#estados-unidos)
-- [Canadá](#canada)
-- [Reino Unido](#reino-unido)
-- [Australia](#australia)
-- [Otros países](#otros-paises)
+- [Cómo entender los apoyos al empleo](#cómo-entender-los-apoyos-al-empleo)
+- [Estados Unidos](#estados-unidos-1)
+- [Canadá](#canadá-1)
+- [Reino Unido](#reino-unido-1)
+- [Australia](#australia-1)
+- [Otros países](#otros-países)
 
 ---
 
-## Cómo entender los apoyos al empleo {#como-entender-los-apoyos-al-empleo}
+## Cómo entender los apoyos al empleo
 
 ### Tipos de apoyo al empleo
 
@@ -54,7 +54,7 @@ Esto contrasta con los talleres protegidos, que a menudo pagan por debajo del sa
 
 ---
 
-## Estados Unidos {#estados-unidos}
+## Estados Unidos
 
 ### Rehabilitación vocacional (VR)
 
@@ -141,7 +141,7 @@ Programa del Seguro Social para personas beneficiarias de SSDI y SSI:
 
 ---
 
-## Canadá {#canada}
+## Canadá
 
 ### Programas provinciales
 
@@ -178,7 +178,7 @@ La mayoría de las provincias ofrecen:
 
 ---
 
-## Reino Unido {#reino-unido}
+## Reino Unido
 
 ### Servicios de empleo para la discapacidad
 
@@ -214,7 +214,7 @@ Las "fit notes" de las personas médicas pueden recomendar ajustes en el lugar d
 
 ---
 
-## Australia {#australia}
+## Australia
 
 ### Disability Employment Services (DES)
 
@@ -249,7 +249,7 @@ El NDIS puede financiar:
 
 ---
 
-## Otros países {#otros-paises}
+## Otros países
 
 ### Marco internacional
 
@@ -424,24 +424,24 @@ Infórmate sobre los programas de incentivos al trabajo (Ticket to Work en EE. U
 - **OIT Discapacidad**: [ilo.org](https://ilo.org)
 - **GLADNET (Global Applied Disability Research and Information Network)**
 
-### Estados Unidos {#estados-unidos}
+### Estados Unidos
 
 - **Agencias estatales de VR de la RSA**: encuentra el programa de VR de tu estado
 - **APSE**: apse.org (Employment First)
 - **Job Accommodation Network**: [askjan.org](https://askjan.org)
 - **Ticket to Work**: [choosework.ssa.gov](https://choosework.ssa.gov)
 
-### Canadá {#canada}
+### Canadá
 
 - **Canadian Association for Supported Employment (CASE)**: [supportedemployment.ca](https://supportedemployment.ca)
 - **Ready, Willing, and Able**: [readywillingable.ca](https://readywillingable.ca)
 
-### Reino Unido {#reino-unido}
+### Reino Unido
 
 - **Access to Work**: [gov.uk/access-to-work](https://gov.uk/access-to-work)
 - **BASE**: [base-uk.org](https://base-uk.org)
 
-### Australia {#australia}
+### Australia
 
 - **JobAccess**: [jobaccess.gov.au](https://jobaccess.gov.au)
 - **Disability Employment Services**: [dss.gov.au](https://dss.gov.au)

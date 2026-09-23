@@ -95,7 +95,7 @@ Esta lista prioriza las **voces propias (Own Voices)** (personas autoras con dis
 
 ---
 
-## Lectura esencial {#lectura-esencial}
+## Lectura esencial
 
 Empieza aquí. Estos son textos fundamentales para comprender los derechos, la cultura y la justicia de las personas con discapacidad.
 
@@ -123,9 +123,9 @@ Empieza aquí. Estos son textos fundamentales para comprender los derechos, la c
 
 ---
 
-## No ficción {#no-ficción}
+## No ficción
 
-### Historia y movimiento por los derechos de las personas con discapacidad {#historia-y-movimiento-por-los-derechos-de-las-personas-con-discapacidad}
+### Historia y movimiento por los derechos de las personas con discapacidad
 
 #### Panoramas generales
 
@@ -159,7 +159,7 @@ Empieza aquí. Estos son textos fundamentales para comprender los derechos, la c
 
 ---
 
-### Justicia para las personas con discapacidad y teoría {#justicia-para-las-personas-con-discapacidad-y-teoría}
+### Justicia para las personas con discapacidad y teoría
 
 - **Care Work: Dreaming Disability Justice** – Leah Lakshmi Piepzna-Samarasinha (2018). [Ver Lectura esencial] *Voz propia, Esencial.*
 
@@ -179,7 +179,7 @@ Empieza aquí. Estos son textos fundamentales para comprender los derechos, la c
 
 ---
 
-### Guías y práctico {#guías-y-práctico}
+### Guías y práctico
 
 - **Demystifying Disability** – Emily Ladau. [Ver Lectura esencial] *Voz propia, Esencial.*
 
@@ -189,7 +189,7 @@ Empieza aquí. Estos son textos fundamentales para comprender los derechos, la c
 
 ---
 
-### Antologías y ensayos {#antologías-y-ensayos}
+### Antologías y ensayos
 
 - **Disability Visibility** – Alice Wong, ed. [Ver Lectura esencial] *Voz propia, Esencial.*
 
@@ -201,9 +201,9 @@ Empieza aquí. Estos son textos fundamentales para comprender los derechos, la c
 
 ---
 
-## Memorias y biografías {#memorias-y-biografías}
+## Memorias y biografías
 
-### Discapacidad física {#discapacidad-física}
+### Discapacidad física
 
 - **Being Heumann** – Judith Heumann. [Ver Lectura esencial] *Voz propia, Esencial.*
 
@@ -219,7 +219,7 @@ Empieza aquí. Estos son textos fundamentales para comprender los derechos, la c
 
 - **The Pretty One: On Life, Pop Culture, Disability, and Other Reasons to Fall in Love with Me** – Keah Brown (2019). Ensayos cálidos y divertidos sobre ser negra y tener una discapacidad, de la creadora del hashtag #DisabledAndCute. Rechaza de plano los relatos de inspiración y lástima. *Voz propia.*
 
-### Enfermedad crónica {#enfermedad-crónica}
+### Enfermedad crónica
 
 - **Mean Baby** – Selma Blair (2022). Memoria honesta y sin tapujos sobre la vida con esclerosis múltiple, la adicción y el autodescubrimiento. Blair llama a su diagnóstico de EM una "salvación sorprendente" y "aborda su EM de forma cruda y conmovedora". *Voz propia.*
 
@@ -227,7 +227,7 @@ Empieza aquí. Estos son textos fundamentales para comprender los derechos, la c
 
 - **The Invisible Kingdom: Reimagining Chronic Illness** – Meghan O'Rourke. *Voz propia.*
 
-### Personas Sordas y con dificultades auditivas {#personas-sordas-y-con-dificultades-auditivas}
+### Personas Sordas y con dificultades auditivas
 
 - **Haben** – Haben Girma. [Ver Lectura esencial] *Voz propia, Esencial.*
 
@@ -239,7 +239,7 @@ Empieza aquí. Estos son textos fundamentales para comprender los derechos, la c
 
 - **Touch the Future: A Manifesto in Essays** – John Lee Clark (2023). Nacido sordo en una familia que signa en ASL y ciego en la adolescencia, Clark escribe desde el movimiento Protactile —una lengua basada en el tacto creada por y para personas sordociegas—. Sostiene que es el mundo vidente-oyente el que está empobrecido. *Voz propia.*
 
-### Personas ciegas y con baja visión {#personas-ciegas-y-con-baja-visión}
+### Personas ciegas y con baja visión
 
 - **Blind Rage: Letters to Helen Keller** – Georgina Kleege. *Voz propia.*
 
@@ -247,7 +247,7 @@ Empieza aquí. Estos son textos fundamentales para comprender los derechos, la c
 
 - **Touching the Rock** – John Hull. *Voz propia.*
 
-### Neurodivergencia {#neurodivergencia}
+### Neurodivergencia
 
 - **Thinking in Pictures** – Temple Grandin. Memoria clásica sobre el autismo. *Voz propia.*
 
@@ -261,7 +261,7 @@ Empieza aquí. Estos son textos fundamentales para comprender los derechos, la c
 
 - **The Secret Life of a Black Aspie: A Memoir** – Anand Prahlad (2017). Unas memorias líricas sobre crecer negro y autista en el sur de Estados Unidos, de un escritor diagnosticado a los 57 años. Un raro relato de voz propia en la intersección de la raza y el autismo. *Voz propia.*
 
-### Discapacidad psiquiátrica {#discapacidad-psiquiátrica}
+### Discapacidad psiquiátrica
 
 - **An Unquiet Mind: A Memoir of Moods and Madness** – Kay Redfield Jamison. Relato de una psiquiatra sobre el trastorno bipolar. *Voz propia.*
 
@@ -271,7 +271,7 @@ Empieza aquí. Estos son textos fundamentales para comprender los derechos, la c
 
 - **Madness: A Bipolar Life** – Marya Hornbacher. *Voz propia.*
 
-### Intelectual y del desarrollo {#intelectual-y-del-desarrollo}
+### Intelectual y del desarrollo
 
 - **Count Us In: Growing Up with Down Syndrome** – Jason Kingsley y Mitchell Levitz. *Voz propia.*
 
@@ -279,9 +279,9 @@ Empieza aquí. Estos son textos fundamentales para comprender los derechos, la c
 
 ---
 
-## Ficción {#ficción}
+## Ficción
 
-### Ficción literaria {#ficción-literaria}
+### Ficción literaria
 
 - **Good Kings Bad Kings** – Susan Nussbaum. [Ver Lectura esencial] *Voz propia, Esencial.*
 
@@ -301,7 +301,7 @@ Empieza aquí. Estos son textos fundamentales para comprender los derechos, la c
 
 - **Call Me Ahab: A Short Story Collection** – Anne Finger (2009). Relatos que reimaginan a figuras reales y literarias con discapacidad —Helen Keller, Frida Kahlo, el capitán Ahab— con ingenio y filo político. Un raro ejemplo de narrativa literaria breve centrada en la discapacidad. *Voz propia.*
 
-### Ficción especulativa {#ficción-especulativa}
+### Ficción especulativa
 
 - **An Unkindness of Ghosts** – Rivers Solomon. [Ver Lectura esencial] *Voz propia, Esencial.*
 
@@ -321,7 +321,7 @@ Empieza aquí. Estos son textos fundamentales para comprender los derechos, la c
 
 - **The Colony** – Jillian Weise (2010). Una novela especulativa y satírica ambientada entre sujetos de investigación en una colonia genética, que se burla de la ciencia de "arreglar" los cuerpos con discapacidad. *Voz propia.*
 
-### Romance {#romance}
+### Romance
 
 - **Get a Life, Chloe Brown** – Talia Hibbert. [Ver Ficción literaria] *Voz propia.*
 
@@ -335,11 +335,11 @@ Empieza aquí. Estos son textos fundamentales para comprender los derechos, la c
 
 - **Not So Nice Guy** – R.S. Grey. *Voz propia.*
 
-### Misterio y suspenso {#misterio-y-suspenso}
+### Misterio y suspenso
 
 *Sección en desarrollo. Sugiere agregados a través de [Cómo Contribuir](/es/start/contribute).*
 
-### Ficción histórica {#ficción-histórica}
+### Ficción histórica
 
 - **Show Me a Sign** – Ann Clare LeZotte. [Ver Lectores intermedios] *Voz propia.*
 
@@ -347,9 +347,9 @@ Empieza aquí. Estos son textos fundamentales para comprender los derechos, la c
 
 ---
 
-## Jóvenes adultos {#jóvenes-adultos}
+## Jóvenes adultos
 
-### Jóvenes adultos contemporáneo {#jóvenes-adultos-contemporáneo}
+### Jóvenes adultos contemporáneo
 
 - **Sick Kids in Love** – Hannah Moskowitz. Romance adolescente entre dos protagonistas con enfermedades crónicas. "En esta no se mueren". Subvierte deliberadamente la narrativa de la tragedia: adolescentes que manejan su enfermedad, encuentran el amor y bromean sobre las visitas al hospital. *Voz propia.*
 
@@ -361,7 +361,7 @@ Empieza aquí. Estos son textos fundamentales para comprender los derechos, la c
 
 - **History Is All You Left Me** – Adam Silvera. *Voz propia.*
 
-### Fantasía y ciencia ficción para jóvenes adultos {#fantasía-y-ciencia-ficción-para-jóvenes-adultos}
+### Fantasía y ciencia ficción para jóvenes adultos
 
 - **On the Edge of Gone** – Corinne Duyvis. [Ver Ficción especulativa] *Voz propia.*
 
@@ -369,13 +369,13 @@ Empieza aquí. Estos son textos fundamentales para comprender los derechos, la c
 
 - **Unseelie** – Ivelisse Housman. [Ver Ficción especulativa] *Voz propia.*
 
-### Antologías para jóvenes adultos {#antologías-para-jóvenes-adultos}
+### Antologías para jóvenes adultos
 
 - **Unbroken: 13 Stories Starring Disabled Teens** – ed. Marieke Nijkamp. Relatos cortos de distintos géneros, todos de personas autoras con discapacidad y todos con protagonistas adolescentes con discapacidad. Fantasía, ciencia ficción, contemporáneo: desde una chica autista que entra a la secundaria hasta una esgrimista usuaria de silla de ruedas en la Francia de los mosqueteros. *Voz propia.*
 
 ---
 
-## Lectores intermedios (middle grade) {#lectores-intermedios-middle-grade}
+## Lectores intermedios (middle grade)
 
 - **A Kind of Spark** – Elle McNicoll (Escocia). Una niña autista de 11 años hace campaña por un monumento a los juicios por brujería. McNicoll (autista) dedica el libro a "todas las niñas y niños de manos felices que aletean". Retrato del autismo orgulloso y positivo: Addie se niega a cambiar quién es. *Voz propia.*
 
@@ -397,9 +397,9 @@ Empieza aquí. Estos son textos fundamentales para comprender los derechos, la c
 
 ---
 
-## Libros infantiles {#libros-infantiles}
+## Libros infantiles
 
-### Libros ilustrados {#libros-ilustrados}
+### Libros ilustrados
 
 - **I Am Not a Label** – Cerrie Burnell (Reino Unido). 34 breves biografías de personas notables con discapacidad: Frida Kahlo, Stevie Wonder, Judith Heumann, etc. "Con estilo" y empoderador, escrito para la infancia de forma libre de estigma. Burnell es una expresentadora de CBeebies con discapacidad. *Voz propia.*
 
@@ -409,17 +409,17 @@ Empieza aquí. Estos son textos fundamentales para comprender los derechos, la c
 
 - **Emmanuel's Dream** – Laurie Ann Thompson. Ciclista ghanés nacido con una sola pierna. *Sur Global.*
 
-### Primeros lectores {#primeros-lectores}
+### Primeros lectores
 
 *Sección en desarrollo.*
 
-### Novelas gráficas {#novelas-gráficas}
+### Novelas gráficas
 
 - **El Deafo** – Cece Bell. Memoria gráfica con personajes de conejos. La pequeña Cece imagina su audífono "Phonic Ear" como un poder de superheroína. "Sumamente disfrutable para la infancia y para personas adultas": las lectoras y los lectores oyentes "se estremecen ante los errores" que cometen los personajes oyentes y aprenden de ellos. Bell es Sorda. *Voz propia.*
 
 ---
 
-## Poesía {#poesía}
+## Poesía
 
 - **Beauty is a Verb: The New Poetry of Disability** – ed. Sheila Black, Jennifer Bartlett, Michael Northen. *Voz propia.*
 
@@ -437,9 +437,9 @@ Empieza aquí. Estos son textos fundamentales para comprender los derechos, la c
 
 ---
 
-## Por tipo de discapacidad {#por-tipo-de-discapacidad}
+## Por tipo de discapacidad
 
-### Autismo y neurodivergencia {#autismo-y-neurodivergencia}
+### Autismo y neurodivergencia
 
 **Ficción:**
 
@@ -457,12 +457,12 @@ Empieza aquí. Estos son textos fundamentales para comprender los derechos, la c
 - Loud Hands: Autistic People, Speaking – ASAN *Voz propia.*
 - The Reason I Jump – Naoki Higashida *Voz propia, Sur Global.*
 
-### TDAH {#tdah}
+### TDAH
 
 - Driven to Distraction – Hallowell y Ratey *Voz propia.*
 - ADHD 2.0 – Hallowell y Ratey *Voz propia.*
 
-### Personas Sordas y con dificultades auditivas {#personas-sordas-y-con-dificultades-auditivas-1}
+### Personas Sordas y con dificultades auditivas
 
 - Haben – Haben Girma *Voz propia.*
 - El Deafo – Cece Bell *Voz propia.*
@@ -471,14 +471,14 @@ Empieza aquí. Estos son textos fundamentales para comprender los derechos, la c
 - The Story of My Life – Helen Keller *Voz propia.*
 - Deaf President Now! – Christiansen y Barnartt *Voz propia.*
 
-### Personas ciegas y con baja visión {#personas-ciegas-y-con-baja-visión-1}
+### Personas ciegas y con baja visión
 
 - Haben – Haben Girma *Voz propia.*
 - The Story of My Life – Helen Keller *Voz propia.*
 - Blind Rage – Georgina Kleege *Voz propia.*
 - Touching the Rock – John Hull *Voz propia.*
 
-### Enfermedad crónica y dolor {#enfermedad-crónica-y-dolor}
+### Enfermedad crónica y dolor
 
 - Get a Life, Chloe Brown – Talia Hibbert *Voz propia.*
 - Mean Baby – Selma Blair *Voz propia.*
@@ -486,7 +486,7 @@ Empieza aquí. Estos son textos fundamentales para comprender los derechos, la c
 - Sick Kids in Love – Hannah Moskowitz *Voz propia.*
 - The Invisible Kingdom – Meghan O'Rourke *Voz propia.*
 
-### Discapacidad física y movilidad {#discapacidad-física-y-movilidad}
+### Discapacidad física y movilidad
 
 - Being Heumann – Judith Heumann *Voz propia.*
 - Six of Crows – Leigh Bardugo *Voz propia.*
@@ -494,28 +494,28 @@ Empieza aquí. Estos son textos fundamentales para comprender los derechos, la c
 - The Diving Bell and the Butterfly – Jean-Dominique Bauby *Voz propia.*
 - Out of My Mind – Sharon Draper
 
-### Discapacidad psiquiátrica {#discapacidad-psiquiátrica-1}
+### Discapacidad psiquiátrica
 
 - The Bell Jar – Sylvia Plath *Voz propia.*
 - An Unquiet Mind – Kay Redfield Jamison *Voz propia.*
 - The Collected Schizophrenias – Esmé Weijun Wang *Voz propia.*
 - Madness – Marya Hornbacher *Voz propia.*
 
-### Intelectual y del desarrollo {#intelectual-y-del-desarrollo-1}
+### Intelectual y del desarrollo
 
 - Count Us In – Kingsley y Levitz *Voz propia.*
 - Flowers for Algernon – Daniel Keyes [histórico]
 
-### Discapacidades múltiples {#discapacidades-múltiples}
+### Discapacidades múltiples
 
 - Haben – Haben Girma (sordociega) *Voz propia.*
 - The Story of My Life – Helen Keller (sordociega) *Voz propia.*
 
 ---
 
-## Por identidad {#por-identidad}
+## Por identidad
 
-### Personas autoras negras con discapacidad {#personas-autoras-negras-con-discapacidad}
+### Personas autoras negras con discapacidad
 
 - An Unkindness of Ghosts – Rivers Solomon *Voz propia.*
 - Haben – Haben Girma *Voz propia.*
@@ -526,21 +526,21 @@ Empieza aquí. Estos son textos fundamentales para comprender los derechos, la c
 - Belly of the Beast – Da'Shaun L. Harrison *Voz propia.*
 - Freshwater – Akwaeke Emezi *Voz propia.*
 
-### Personas autoras indígenas {#personas-autoras-indígenas}
+### Personas autoras indígenas
 
 *Sección en desarrollo. Sugiere agregados a través de [Cómo Contribuir](/es/start/contribute).*
 
-### Personas autoras latinas con discapacidad {#personas-autoras-latinas-con-discapacidad}
+### Personas autoras latinas con discapacidad
 
 - Unseelie – Ivelisse Housman *Voz propia.*
 
-### Personas autoras asiáticas con discapacidad {#personas-autoras-asiáticas-con-discapacidad}
+### Personas autoras asiáticas con discapacidad
 
 - The Reason I Jump – Naoki Higashida *Voz propia, Sur Global.*
 - The Collected Schizophrenias – Esmé Weijun Wang *Voz propia.*
 - Hunchback – Saou Ichikawa (Japón) *Voz propia, Sur Global.*
 
-### Personas autoras LGBTQ+ con discapacidad {#personas-autoras-lgbtq-con-discapacidad}
+### Personas autoras LGBTQ+ con discapacidad
 
 - Care Work – Leah Lakshmi Piepzna-Samarasinha *Voz propia.*
 - An Unkindness of Ghosts – Rivers Solomon *Voz propia.*
@@ -550,9 +550,9 @@ Empieza aquí. Estos son textos fundamentales para comprender los derechos, la c
 
 ---
 
-## Por región {#por-región}
+## Por región
 
-### Estados Unidos {#estados-unidos}
+### Estados Unidos
 
 *La mayoría de las entradas de esta lista están radicadas en Estados Unidos. Esta sección destaca la historia y el contexto específicos de Estados Unidos.*
 
@@ -560,46 +560,46 @@ Empieza aquí. Estos son textos fundamentales para comprender los derechos, la c
 - A Disability History of the United States – Kim Nielsen
 - Being Heumann – Judith Heumann
 
-### Reino Unido {#reino-unido}
+### Reino Unido
 
 - Get a Life, Chloe Brown – Talia Hibbert *Voz propia.*
 - Crippled: Austerity and the Demonization of Disabled People – Frances Ryan *Voz propia.*
 - I Am Not a Label – Cerrie Burnell *Voz propia.*
 
-### Canadá {#canadá}
+### Canadá
 
 - Care Work – Leah Lakshmi Piepzna-Samarasinha *Voz propia.*
 
-### Australia y Nueva Zelanda {#australia-y-nueva-zelanda}
+### Australia y Nueva Zelanda
 
 *Sección en desarrollo.*
 
-### África {#áfrica}
+### África
 
 - Things Fall Apart – Chinua Achebe (Nigeria) *Sur Global.*
 - Emmanuel's Dream – Laurie Ann Thompson (Ghana) *Sur Global.*
 - Disability in the Global South – Grech y Soldatic (eds.) *Sur Global.*
 
-### Asia {#asia}
+### Asia
 
 - The Reason I Jump – Naoki Higashida (Japón) *Voz propia, Sur Global.*
 - Hunchback – Saou Ichikawa (Japón) *Voz propia, Sur Global.*
 
-### Europa {#europa}
+### Europa
 
 - The Diving Bell and the Butterfly – Jean-Dominique Bauby (Francia) *Voz propia.*
 - On the Edge of Gone – Corinne Duyvis (Países Bajos) *Voz propia.*
 - A Kind of Spark – Elle McNicoll (Escocia) *Voz propia.*
 
-### América Latina y el Caribe {#américa-latina-y-el-caribe}
+### América Latina y el Caribe
 
 *Sección en desarrollo.*
 
 ---
 
-## Académico y de investigación {#académico-y-de-investigación}
+## Académico y de investigación
 
-### Fundamentos de los estudios de la discapacidad {#fundamentos-de-los-estudios-de-la-discapacidad}
+### Fundamentos de los estudios de la discapacidad
 
 - **The Disability Studies Reader** – ed. Lennard Davis. Antología estándar.
 - **Crip Theory** – Robert McRuer.
@@ -607,19 +607,19 @@ Empieza aquí. Estos son textos fundamentales para comprender los derechos, la c
 - **Enforcing Normalcy** – Lennard Davis.
 - **Claiming Disability** – Simi Linton.
 
-### Humanidades médicas {#humanidades-médicas}
+### Humanidades médicas
 
 - **The Spirit Catches You and You Fall Down** – Anne Fadiman.
 
-### Educación {#educación}
+### Educación
 
 - **Disability and the Politics of Education** – Gabel y Danforth.
 
-### Política y derecho {#política-y-derecho}
+### Política y derecho
 
 - **Americans with Disabilities Act Handbook**
 
-### Sociología y antropología {#sociología-y-antropología}
+### Sociología y antropología
 
 *Sección en desarrollo.*
 

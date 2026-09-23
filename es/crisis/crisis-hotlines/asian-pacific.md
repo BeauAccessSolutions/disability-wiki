@@ -26,40 +26,40 @@ Esta página te conecta con recursos de crisis en toda la región de Asia y el P
 ### Asia Oriental
 - [China](#china)
 - [Hong Kong](#hong-kong)
-- [Japón](#japan)
-- [Corea del Sur](#south-korea)
-- [Taiwán](#taiwan)
+- [Japón](#japón)
+- [Corea del Sur](#corea-del-sur)
+- [Taiwán](#taiwán)
 
 ### Sudeste Asiático
 - [Indonesia](#indonesia)
-- [Malasia](#malaysia)
-- [Filipinas](#philippines)
-- [Singapur](#singapore)
-- [Tailandia](#thailand)
+- [Malasia](#malasia)
+- [Filipinas](#filipinas)
+- [Singapur](#singapur)
+- [Tailandia](#tailandia)
 - [Vietnam](#vietnam)
 
 ### Asia Meridional
-- [Bangladés](#bangladesh)
+- [Bangladés](#bangladés)
 - [India](#india)
 - [Nepal](#nepal)
-- [Pakistán](#pakistan)
+- [Pakistán](#pakistán)
 - [Sri Lanka](#sri-lanka)
 
 ### Islas del Pacífico y Oceanía
 - [Australia](#australia)
-- [Fiyi](#fiji)
-- [Nueva Zelanda](#new-zealand)
-- [Papúa Nueva Guinea](#papua-new-guinea)
+- [Fiyi](#fiyi)
+- [Nueva Zelanda](#nueva-zelanda)
+- [Papúa Nueva Guinea](#papúa-nueva-guinea)
 
 ### Asia Central
-- [Kazajistán](#kazakhstan)
-- [Uzbekistán](#uzbekistan)
+- [Kazajistán](#kazajistán)
+- [Uzbekistán](#uzbekistán)
 
 ---
 
 ## Asia Oriental
 
-### China {#china}
+### China
 
 **Beijing Suicide Research and Prevention Center**
 - Teléfono: 010-8295-1332 (24/7)
@@ -80,7 +80,7 @@ Esta página te conecta con recursos de crisis en toda la región de Asia y el P
 
 ---
 
-### Hong Kong {#hong-kong}
+### Hong Kong
 
 **The Samaritans Hong Kong**
 - Teléfono: 2896-0000 (24/7)
@@ -102,7 +102,7 @@ Esta página te conecta con recursos de crisis en toda la región de Asia y el P
 
 ---
 
-### Japón {#japan}
+### Japón
 
 **TELL Lifeline**
 - Teléfono: 03-5774-0992 (9am-11pm, todos los días)
@@ -124,7 +124,7 @@ Esta página te conecta con recursos de crisis en toda la región de Asia y el P
 
 ---
 
-### Corea del Sur {#south-korea}
+### Corea del Sur
 
 **Korea Suicide Prevention Center**
 - Teléfono: 1393 (24/7)
@@ -143,7 +143,7 @@ Esta página te conecta con recursos de crisis en toda la región de Asia y el P
 
 ---
 
-### Taiwán {#taiwan}
+### Taiwán
 
 **Taiwan Suicide Prevention Center**
 - Teléfono: 1925 (24/7)
@@ -165,7 +165,7 @@ Esta página te conecta con recursos de crisis en toda la región de Asia y el P
 
 ## Sudeste Asiático
 
-### Indonesia {#indonesia}
+### Indonesia
 
 **Para ver los recursos de crisis completos en Indonesia, consulta [Ayuda en crisis: Indonesia](/es/crisis/crisis-hotlines/asian-pacific/indonesia)**
 
@@ -177,7 +177,7 @@ Esta página te conecta con recursos de crisis en toda la región de Asia y el P
 
 ---
 
-### Malasia {#malaysia}
+### Malasia
 
 **Befrienders Kuala Lumpur**
 - Teléfono: (03) 7956-8145 (24/7)
@@ -197,7 +197,7 @@ Esta página te conecta con recursos de crisis en toda la región de Asia y el P
 
 ---
 
-### Filipinas {#philippines}
+### Filipinas
 
 **National Center for Mental Health Crisis Hotline**
 - Teléfono: 0917-899-8727 (24/7, USAP)
@@ -216,7 +216,7 @@ Esta página te conecta con recursos de crisis en toda la región de Asia y el P
 
 ---
 
-### Singapur {#singapore}
+### Singapur
 
 **Samaritans of Singapore (SOS)**
 - Teléfono: 1767 (24/7)
@@ -239,7 +239,7 @@ Esta página te conecta con recursos de crisis en toda la región de Asia y el P
 
 ---
 
-### Tailandia {#thailand}
+### Tailandia
 
 **Department of Mental Health Hotline**
 - Teléfono: 1323 (24/7)
@@ -258,7 +258,7 @@ Esta página te conecta con recursos de crisis en toda la región de Asia y el P
 
 ---
 
-### Vietnam {#vietnam}
+### Vietnam
 
 **Đường dây nóng Ngày Mai (primeros auxilios psicológicos)**
 - Teléfono: 096 306 1414 (gratuito)
@@ -279,7 +279,7 @@ Esta página te conecta con recursos de crisis en toda la región de Asia y el P
 
 ## Asia Meridional
 
-### Bangladés {#bangladesh}
+### Bangladés
 
 **Kaan Pete Roi (Speak to the Heart)**
 - Teléfono: 01779-554391
@@ -295,7 +295,7 @@ Esta página te conecta con recursos de crisis en toda la región de Asia y el P
 
 ---
 
-### India {#india}
+### India
 
 **AASRA (prevención del suicidio)**
 - Teléfono: 91-9820466726 (24/7)
@@ -329,7 +329,7 @@ Esta página te conecta con recursos de crisis en toda la región de Asia y el P
 
 ---
 
-### Nepal {#nepal}
+### Nepal
 
 **National Mental Health Helpline**
 - Teléfono: 1166 (24/7)
@@ -349,7 +349,7 @@ Esta página te conecta con recursos de crisis en toda la región de Asia y el P
 
 ---
 
-### Pakistán {#pakistan}
+### Pakistán
 
 **Umang (apoyo en salud mental)**
 - Teléfono: 0311-7786264 (+92 311 7786264)
@@ -368,7 +368,7 @@ Esta página te conecta con recursos de crisis en toda la región de Asia y el P
 
 ---
 
-### Sri Lanka {#sri-lanka}
+### Sri Lanka
 
 **Sumithrayo (Befrienders)**
 - Teléfono: 011-2696-666 o 011-2692-909
@@ -392,7 +392,7 @@ Esta página te conecta con recursos de crisis en toda la región de Asia y el P
 
 ## Islas del Pacífico y Oceanía
 
-### Australia {#australia}
+### Australia
 
 **Lifeline Australia**
 - Teléfono: 13-11-14 (24/7)
@@ -420,7 +420,7 @@ Esta página te conecta con recursos de crisis en toda la región de Asia y el P
 
 ---
 
-### Fiyi {#fiji}
+### Fiyi
 
 **Lifeline Fiji**
 - Teléfono: 1543 (24/7, gratuito)
@@ -441,7 +441,7 @@ Esta página te conecta con recursos de crisis en toda la región de Asia y el P
 
 ---
 
-### Nueva Zelanda {#new-zealand}
+### Nueva Zelanda
 
 **Lifeline Aotearoa**
 - Teléfono: 0800-543-354 (24/7)
@@ -465,7 +465,7 @@ Esta página te conecta con recursos de crisis en toda la región de Asia y el P
 
 ---
 
-### Papúa Nueva Guinea {#papua-new-guinea}
+### Papúa Nueva Guinea
 
 **1-Tok Kaunselin Helpim Lain**
 - Teléfono: 7150 8000 (24/7, gratuito)
@@ -484,7 +484,7 @@ Esta página te conecta con recursos de crisis en toda la región de Asia y el P
 
 ## Asia Central
 
-### Kazajistán {#kazakhstan}
+### Kazajistán
 
 **Línea de crisis de salud mental**
 - Teléfono: 150 (Almatý y principales ciudades)
@@ -496,7 +496,7 @@ Esta página te conecta con recursos de crisis en toda la región de Asia y el P
 
 ---
 
-### Uzbekistán {#uzbekistan}
+### Uzbekistán
 
 **Ishonch Telefoni (Trust Phone)**
 - Teléfono: 1003 (Taskent)

@@ -17,17 +17,17 @@ Todas las personas con discapacidad tienen derecho a una atención médica acces
 ## ¿Dónde estás?
 
 **Salta a tu país:**
-- [Principios universales](#universal-principles)
-- [Estados Unidos](#united-states)
-- [Canadá](#canada)
-- [Reino Unido](#united-kingdom)
-- [Unión Europea](#european-union)
-- [Australia](#australia)
-- [Otros países](#other-countries)
+- [Principios universales](#principios-universales)
+- [Estados Unidos](#estados-unidos-1)
+- [Canadá](#canadá-1)
+- [Reino Unido](#reino-unido-1)
+- [Unión Europea](#unión-europea)
+- [Australia](#australia-1)
+- [Otros países](#otros-países)
 
 ---
 
-## Principios universales {#universal-principles}
+## Principios universales
 
 ### Tus derechos fundamentales
 
@@ -67,7 +67,7 @@ El artículo 25 establece que las personas con discapacidad tienen derecho al m�
 
 ---
 
-## Estados Unidos {#united-states}
+## Estados Unidos
 
 ### Marco legal
 
@@ -169,7 +169,7 @@ Para problemas con proveedores de Medicare/Medicaid.
 
 ---
 
-## Canadá {#canada}
+## Canadá
 
 ### Marco legal
 
@@ -229,7 +229,7 @@ Cada provincia tiene legislación sobre el consentimiento en la atención médic
 
 ---
 
-## Reino Unido {#united-kingdom}
+## Reino Unido
 
 ### Marco legal
 
@@ -293,7 +293,7 @@ La Care Act 2014 establece el derecho a una evaluación de necesidades y a apoyo
 
 ---
 
-## Unión Europea {#european-union}
+## Unión Europea
 
 ### Marco legal
 
@@ -338,7 +338,7 @@ En general, sistemas de salud y apoyos a la discapacidad sólidos. La implementa
 
 ---
 
-## Australia {#australia}
+## Australia
 
 ### Marco legal
 
@@ -390,7 +390,7 @@ Los establecimientos de atención médica deberían ser accesibles.
 
 ---
 
-## Otros países {#other-countries}
+## Otros países
 
 ### Nueva Zelanda
 
@@ -487,21 +487,21 @@ Si los proveedores desestiman tus preocupaciones:
 - Recursos de la Organización Mundial de la Salud sobre discapacidad y salud
 - Documentación de la CDPD de la ONU sobre atención médica
 
-### Estados Unidos {#united-states}
+### Estados Unidos
 - HHS Office for Civil Rights
 - National Health Law Program
 - Center for Medicare Advocacy
 
-### Reino Unido {#united-kingdom}
+### Reino Unido
 - NHS England accessible information
 - CQC (Care Quality Commission)
 - Guías de atención médica de Disability Rights UK
 
-### Australia {#australia}
+### Australia
 - People with Disability Australia
 - NDIS Quality and Safeguards Commission
 
-### Canadá {#canada}
+### Canadá
 - Defensores provinciales de la salud
 - Council of Canadians with Disabilities
 

@@ -31,7 +31,7 @@ Esta lista da prioridad a películas **hechas por personas con discapacidad o co
 ## Contenido
 
 - [Visionado esencial](#visionado-esencial)
-- [Documentales](#documentales)
+- [Documentales](#documentales-1)
   - [Historia de los derechos de las personas con discapacidad](#historia-de-los-derechos-de-las-personas-con-discapacidad)
   - [Cultura y comunidad de la discapacidad](#cultura-y-comunidad-de-la-discapacidad)
   - [Discapacidades específicas](#discapacidades-específicas)
@@ -39,7 +39,7 @@ Esta lista da prioridad a películas **hechas por personas con discapacidad o co
   - [Deportes y atletismo](#deportes-y-atletismo)
   - [Artes y artes escénicas](#artes-y-artes-escénicas)
   - [Documentales internacionales](#documentales-internacionales)
-- [Largometrajes](#largometrajes)
+- [Largometrajes](#largometrajes-1)
   - [Representación auténtica](#representación-auténtica)
   - [Películas clásicas](#películas-clásicas)
   - [Cine independiente y de autor](#cine-independiente-y-de-autor)
@@ -52,11 +52,11 @@ Esta lista da prioridad a películas **hechas por personas con discapacidad o co
 
 ---
 
-## Visionado esencial {#visionado-esencial}
+## Visionado esencial
 
 Empieza aquí para ver las películas fundamentales sobre discapacidad.
 
-### Documentales {#documentales}
+### Documentales
 
 - **Crip Camp: A Disability Revolution** (2020) – Directores Jim LeBrecht (con discapacidad) y Nicole Newnham. Netflix. El documental esencial sobre los derechos de las personas con discapacidad. Sigue a adolescentes con discapacidad en el Camp Jened en la década de 1970, quienes se convirtieron en líderes del movimiento por los derechos de las personas con discapacidad, incluida la sentada de la Sección 504. Producido ejecutivamente por los Obama. Nominado al Óscar. *Cineasta con discapacidad, Esencial.*
 
@@ -64,7 +64,7 @@ Empieza aquí para ver las películas fundamentales sobre discapacidad.
 
 - **Lives Worth Living** (2011) – Eric Neudel. Documental de PBS sobre el movimiento por los derechos de las personas con discapacidad, con la participación de activistas clave. Excelente panorama histórico. *Esencial.*
 
-### Largometrajes {#largometrajes}
+### Largometrajes
 
 - **CODA** (2021) – Sian Heder. Apple TV+. Hija de adultos sordos que transita entre los mundos oyente y sordo. Cuenta con los actores sordos Marlee Matlin, Troy Kotsur y Daniel Durant. Kotsur ganó el Óscar a Mejor Actor de Reparto, el segundo actor sordo en ganarlo después de Matlin. Lengua de señas estadounidense (ASL) auténtica de principio a fin. *Elenco auténtico, Esencial.*
 
@@ -74,9 +74,9 @@ Empieza aquí para ver las películas fundamentales sobre discapacidad.
 
 ---
 
-## Documentales {#documentales}
+## Documentales
 
-### Historia de los derechos de las personas con discapacidad {#historia-de-los-derechos-de-las-personas-con-discapacidad}
+### Historia de los derechos de las personas con discapacidad
 
 - **Crip Camp: A Disability Revolution** (2020) – [Ver Visionado esencial] *Cineasta con discapacidad, Esencial.*
 
@@ -92,7 +92,7 @@ Empieza aquí para ver las películas fundamentales sobre discapacidad.
 
 - **The Kids of Widney High** (2007) – Estudiantes con discapacidad que forman una banda de rock en Los Ángeles.
 
-### Cultura y comunidad de la discapacidad {#cultura-y-comunidad-de-la-discapacidad}
+### Cultura y comunidad de la discapacidad
 
 - **Murderball** (2005) – Henry Alex Rubin y Dana Adam Shapiro. Documental nominado al Óscar que sigue al equipo estadounidense de rugby en silla de ruedas. Cambió la percepción sobre los atletas con discapacidad. Crudo, competitivo, antiinspiracional. *Cineasta con discapacidad.*
 
@@ -104,7 +104,7 @@ Empieza aquí para ver las películas fundamentales sobre discapacidad.
 
 - **CinemAbility** (2018) – Jenni Gold (directora con discapacidad). Documental que examina la representación de la discapacidad en el cine y la televisión. *Cineasta con discapacidad.*
 
-### Discapacidades específicas {#discapacidades-específicas}
+### Discapacidades específicas
 
 #### Autismo y neurodivergencia
 
@@ -156,7 +156,7 @@ Empieza aquí para ver las películas fundamentales sobre discapacidad.
 
 - **Intelligent Lives** (2018) – Dan Habib. Tres jóvenes adultos con discapacidad intelectual que transitan la educación, el trabajo y las relaciones. Cuestiona las suposiciones sobre la inteligencia.
 
-### Abuso institucional y defensa de derechos {#abuso-institucional-y-defensa-de-derechos}
+### Abuso institucional y defensa de derechos
 
 - **Titticut Follies** (1967) – [Ver la sección Discapacidad psiquiátrica]
 
@@ -166,7 +166,7 @@ Empieza aquí para ver las películas fundamentales sobre discapacidad.
 
 - **Sentenced to Life** – La historia del abuso institucional en Australia. *Internacional.*
 
-### Deportes y atletismo {#deportes-y-atletismo}
+### Deportes y atletismo
 
 - **Murderball** (2005) – [Ver la sección Cultura y comunidad de la discapacidad]
 
@@ -176,7 +176,7 @@ Empieza aquí para ver las películas fundamentales sobre discapacidad.
 
 - **Mind/Game: The Unquiet Journey of Chamique Holdsclaw** (2015) – El recorrido por la salud mental de una estrella de la WNBA.
 
-### Artes y artes escénicas {#artes-y-artes-escénicas}
+### Artes y artes escénicas
 
 - **CinemAbility** (2018) – [Ver la sección Cultura y comunidad de la discapacidad] *Cineasta con discapacidad.*
 
@@ -188,7 +188,7 @@ Empieza aquí para ver las películas fundamentales sobre discapacidad.
 
 - **Including Samuel** (2007) – Dan Habib. La inclusión en la educación y la comunidad.
 
-### Documentales internacionales {#documentales-internacionales}
+### Documentales internacionales
 
 - **How to Dance in Ohio** (2015) – Jóvenes adultos autistas que se preparan para el baile de graduación. (Estadounidense, pero con buena distribución internacional) *Internacional.*
 
@@ -202,9 +202,9 @@ Empieza aquí para ver las películas fundamentales sobre discapacidad.
 
 ---
 
-## Largometrajes {#largometrajes}
+## Largometrajes
 
-### Representación auténtica {#representación-auténtica}
+### Representación auténtica
 
 Películas con actores con discapacidad que interpretan personajes con discapacidad.
 
@@ -224,7 +224,7 @@ Películas con actores con discapacidad que interpretan personajes con discapaci
 
 - **Best Summer Ever** (2020) – Musical con un elenco que incluye actores con discapacidad. Una producción centrada en la integración. *Elenco auténtico.*
 
-### Películas clásicas {#películas-clásicas}
+### Películas clásicas
 
 Películas importantes en la historia de la representación de la discapacidad, algunas con elementos anticuados o problemáticos.
 
@@ -238,7 +238,7 @@ Películas importantes en la historia de la representación de la discapacidad, 
 
 - **Children of a Lesser God** (1986) – [Ver Representación auténtica]
 
-### Cine independiente y de autor {#cine-independiente-y-de-autor}
+### Cine independiente y de autor
 
 - **The Sessions** (2012) – John Hawkes como Mark O'Brien, poeta y periodista que vivía en un pulmón de acero. Helen Hunt fue nominada al Óscar. Basada en una historia real; nota: actor protagonista sin discapacidad.
 
@@ -248,7 +248,7 @@ Películas importantes en la historia de la representación de la discapacidad, 
 
 - **Breathe** (2017) – Dirigida por Andy Serkis; Andrew Garfield como Robin Cavendish, paralizado por la polio. Nota: actor sin discapacidad.
 
-### Comedias {#comedias}
+### Comedias
 
 - **The Peanut Butter Falcon** (2019) – [Ver Visionado esencial] *Elenco auténtico.*
 
@@ -258,7 +258,7 @@ Películas importantes en la historia de la representación de la discapacidad, 
 
 - **The Intouchables** (2011) – Comedia francesa sobre un hombre con cuadriplejía y su persona cuidadora. Enorme éxito de taquilla. Nota: algunas críticas la señalan por clichés de salvador blanco y porno inspiracional, a pesar del respaldo de la persona con discapacidad en quien se basa. *Internacional.*
 
-### Películas internacionales {#películas-internacionales}
+### Películas internacionales
 
 - **The Intouchables** (2011) – Francia. [Ver Comedias] *Internacional.*
 
@@ -276,7 +276,7 @@ Películas importantes en la historia de la representación de la discapacidad, 
 
 ---
 
-## Problemáticas pero culturalmente significativas {#problemáticas-pero-culturalmente-significativas}
+## Problemáticas pero culturalmente significativas
 
 Estas películas son muy conocidas, pero contienen problemas significativos de representación. Se incluyen para fomentar la alfabetización mediática.
 
@@ -294,7 +294,7 @@ Estas películas son muy conocidas, pero contienen problemas significativos de r
 
 ---
 
-## Cortometrajes {#cortometrajes}
+## Cortometrajes
 
 - **Audible** (2021) – Matt Ogens. Netflix. Cortometraje nominado al Óscar sobre el equipo de fútbol americano de la Maryland School for the Deaf. *Cineasta con discapacidad.*
 
@@ -306,7 +306,7 @@ Estas películas son muy conocidas, pero contienen problemas significativos de r
 
 ---
 
-## Telefilmes y especiales {#telefilmes-y-especiales}
+## Telefilmes y especiales
 
 - **Temple Grandin** (2010) – HBO. Claire Danes como la científica autista. Ganadora del Emmy. Nota: actriz no autista, pero Grandin asesoró de cerca.
 
@@ -316,7 +316,7 @@ Estas películas son muy conocidas, pero contienen problemas significativos de r
 
 ---
 
-## Dónde verlas {#dónde-verlas}
+## Dónde verlas
 
 La disponibilidad en streaming cambia con frecuencia. Estas plataformas suelen tener contenido sobre discapacidad:
 

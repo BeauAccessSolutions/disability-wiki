@@ -20,16 +20,16 @@ Esta página pone en el centro los conocimientos de las personas con discapacida
 
 Salta a tu país o región:
 
-- [Entender el seguro médico](#understanding-health-insurance)
-- [Estados Unidos](#united-states)
-- [Canadá](#canada)
-- [Reino Unido](#united-kingdom)
-- [Australia](#australia)
-- [Otros países](#other-countries)
+- [Entender el seguro médico](#entender-el-seguro-médico)
+- [Estados Unidos](#estados-unidos-1)
+- [Canadá](#canadá-1)
+- [Reino Unido](#reino-unido-1)
+- [Australia](#australia-1)
+- [Otros países](#otros-países)
 
 ---
 
-## Entender el seguro médico {#understanding-health-insurance}
+## Entender el seguro médico
 
 ### Por qué el seguro importa para las personas con discapacidad
 
@@ -54,7 +54,7 @@ En la mayoría de los sistemas, tienes derecho a:
 
 ---
 
-## Estados Unidos {#united-states}
+## Estados Unidos
 
 EE. UU. tiene un sistema de seguros fragmentado, con múltiples programas y opciones privadas.
 
@@ -175,7 +175,7 @@ Muchos planes exigen autorización previa: la aprobación antes de recibir ciert
 
 ---
 
-## Canadá {#canada}
+## Canadá
 
 ### Seguro de salud provincial
 
@@ -232,7 +232,7 @@ El seguro privado puede cubrir:
 
 ---
 
-## Reino Unido {#united-kingdom}
+## Reino Unido
 
 ### NHS
 
@@ -287,7 +287,7 @@ Para personas con necesidades de salud continuas significativas:
 
 ---
 
-## Australia {#australia}
+## Australia
 
 ### Medicare (australiano)
 
@@ -329,7 +329,7 @@ El Esquema Nacional de Seguro de Discapacidad (National Disability Insurance Sch
 
 ---
 
-## Otros países {#other-countries}
+## Otros países
 
 ### Los sistemas de seguros varían
 
@@ -435,7 +435,7 @@ Revisa las opciones genéricas. Infórmate sobre los programas de asistencia al 
 
 ## Recursos
 
-### Estados Unidos {#united-states}
+### Estados Unidos
 
 - **Healthcare.gov**: Mercado de la ACA
 - **Medicare.gov**: información de Medicare y buscador de planes
@@ -443,17 +443,17 @@ Revisa las opciones genéricas. Infórmate sobre los programas de asistencia al 
 - **State Health Insurance Assistance Program (SHIP)**: [shiphelp.org](https://shiphelp.org)
 - **Patient Advocate Foundation**: [patientadvocate.org](https://patientadvocate.org)
 
-### Canadá {#canada}
+### Canadá
 
 - **Sitios web de los ministerios provinciales de salud**
 - **Health Canada**: [canada.ca/en/health-canada](https://canada.ca/en/health-canada)
 
-### Reino Unido {#united-kingdom}
+### Reino Unido
 
 - **NHS Choices**: [nhs.uk](https://nhs.uk)
 - **Healthwatch**: [healthwatch.co.uk](https://healthwatch.co.uk) (defensa local)
 
-### Australia {#australia}
+### Australia
 
 - **Medicare**: [servicesaustralia.gov.au/medicare](https://servicesaustralia.gov.au/medicare)
 - **PBS**: [pbs.gov.au](https://pbs.gov.au)

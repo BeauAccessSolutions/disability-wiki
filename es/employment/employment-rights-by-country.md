@@ -20,17 +20,17 @@ Esta página pone en el centro los conocimientos de las personas con discapacida
 
 Salta a tu país o región:
 
-- [Principios universales](#universal-principles)
-- [Estados Unidos](#united-states)
-- [Canadá](#canada)
-- [Reino Unido](#united-kingdom)
-- [Unión Europea](#european-union)
-- [Australia](#australia)
-- [Otros países](#other-countries)
+- [Principios universales](#principios-universales)
+- [Estados Unidos](#estados-unidos-1)
+- [Canadá](#canadá-1)
+- [Reino Unido](#reino-unido-1)
+- [Unión Europea](#unión-europea-1)
+- [Australia](#australia-1)
+- [Otros países](#otros-países)
 
 ---
 
-## Principios universales {#universal-principles}
+## Principios universales
 
 ### Tus derechos en el trabajo
 
@@ -64,7 +64,7 @@ La adaptación es interactiva: tú y tu empleador trabajan juntos para encontrar
 
 ---
 
-## Estados Unidos {#united-states}
+## Estados Unidos
 
 ### Marco legal
 
@@ -117,7 +117,7 @@ La comunicación de la discapacidad es tu decisión:
 
 ---
 
-## Canadá {#canada}
+## Canadá
 
 ### Marco legal
 
@@ -157,7 +157,7 @@ Presenta la queja ante la comisión de derechos humanos correspondiente:
 
 ---
 
-## Reino Unido {#united-kingdom}
+## Reino Unido
 
 ### Marco legal
 
@@ -216,7 +216,7 @@ Postúlate a través de gov.uk o llama a Access to Work.
 
 ---
 
-## Unión Europea {#european-union}
+## Unión Europea
 
 ### Marco
 
@@ -259,7 +259,7 @@ Cada país tiene sus propios mecanismos de aplicación: por lo general, tribunal
 
 ---
 
-## Australia {#australia}
+## Australia
 
 ### Marco legal
 
@@ -317,7 +317,7 @@ Apoyo al empleo financiado por el gobierno:
 
 ---
 
-## Otros países {#other-countries}
+## Otros países
 
 ### Marco de la CDPD
 
@@ -419,29 +419,29 @@ Esto puede ser discriminación ilegal. Documenta la cronología. Presenta una qu
 - **ILO Disability and Work**: [ilo.org](https://ilo.org)
 - **International Disability Alliance**: [internationaldisabilityalliance.org](https://internationaldisabilityalliance.org)
 
-### Estados Unidos {#united-states}
+### Estados Unidos
 
 - **Job Accommodation Network (JAN)**: [askjan.org](https://askjan.org) (consulta gratuita sobre adaptaciones)
 - **EEOC**: [eeoc.gov](https://eeoc.gov)
 - **Disability:IN**: [disabilityin.org](https://disabilityin.org)
 
-### Canadá {#canada}
+### Canadá
 
 - **Canadian Human Rights Commission**: [chrc-ccdp.gc.ca](https://chrc-ccdp.gc.ca)
 - **Comisiones provinciales de derechos humanos**
 
-### Reino Unido {#united-kingdom}
+### Reino Unido
 
 - **Access to Work**: [gov.uk/access-to-work](https://gov.uk/access-to-work)
 - **Equality Advisory Support Service**: [equalityadvisoryservice.com](https://www.equalityadvisoryservice.com)
 - **Disability Rights UK**: [disabilityrightsuk.org](https://disabilityrightsuk.org)
 
-### Unión Europea {#european-union}
+### Unión Europea
 
 - **European Disability Forum**: [edf-feph.org](https://edf-feph.org)
 - **Organismos nacionales de igualdad** de cada país
 
-### Australia {#australia}
+### Australia
 
 - **JobAccess**: [jobaccess.gov.au](https://jobaccess.gov.au)
 - **Australian Human Rights Commission**: humanrights.gov.au

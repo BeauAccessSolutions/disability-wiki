@@ -30,12 +30,12 @@ Si tu condición fluctúa, los criterios se refieren a tu capacidad cuando está
 
 - [Estados Unidos](#estados-unidos)
 - [Reino Unido](#reino-unido)
-- [Canadá](#canada)
-- [Otros países](#otros-paises)
+- [Canadá](#canadá)
+- [Otros países](#otros-países)
 
 ---
 
-## Estados Unidos {#estados-unidos}
+## Estados Unidos
 
 Los permisos y las placas los emite cada estado, pero los estados siguen las pautas federales de [23 CFR Parte 1235](https://www.ecfr.gov/current/title-23/chapter-II/subchapter-B/part-1235) (en inglés), que fija una definición y un diseño comunes. Los estados pueden ser más generosos que ese piso federal y muchos lo son, así que toma lo siguiente como la base y no como la respuesta completa para tu estado.
 
@@ -85,7 +85,7 @@ Los ciclos de renovación varían por estado, y a veces se exige volver a certif
 
 ---
 
-## Reino Unido {#reino-unido}
+## Reino Unido
 
 El equivalente es la **Blue Badge**. Se solicita a través del [servicio Blue Badge de GOV.UK](https://www.gov.uk/apply-blue-badge) (en inglés), que deriva a tu ayuntamiento. La elegibilidad incluye una vía automática para algunas personas según ciertas prestaciones o evaluaciones, y una vía discrecional según cómo tu condición afecta la marcha o según el riesgo para ti o para otras personas. Desde 2019, la elegibilidad en Inglaterra incluye de forma explícita las condiciones no visibles, incluidas algunas condiciones de salud mental y cognitivas, lo que fue un cambio importante y todavía poco conocido.
 
@@ -93,7 +93,7 @@ Las Blue Badge funcionan distinto a los permisos estadounidenses en algo importa
 
 ---
 
-## Canadá {#canada}
+## Canadá
 
 Los permisos de estacionamiento accesible se emiten **por provincia y territorio**, no a nivel federal, y los nombres de los programas, los criterios, los formularios y los períodos de renovación son todos distintos. La mayoría exige certificación de un profesional de la salud regulado, y la mayoría emite permisos de largo plazo y temporales.
 
@@ -112,7 +112,7 @@ Los permisos de otras provincias y de otros países suelen reconocerse, pero las
 
 ---
 
-## Otros países {#otros-paises}
+## Otros países
 
 La mayoría de los países con infraestructura basada en el automóvil tienen alguna versión de esto, y muchos países europeos participan en una tarjeta de estacionamiento común de la UE pensada para reconocerse entre estados miembros. Los nombres, los criterios y si el permiso sigue a la persona o al vehículo varían.
 
@@ -134,17 +134,17 @@ Si sabes cómo funciona esto donde vives, esa sección falta aquí y nos gustar�
 
 ## Recursos
 
-### Estados Unidos {#recursos-estados-unidos}
+### Estados Unidos
 - [23 CFR Parte 1235](https://www.ecfr.gov/current/title-23/chapter-II/subchapter-B/part-1235) (en inglés) — los criterios federales, las especificaciones y la regla de reciprocidad
 - [USA.gov: servicios estatales de vehículos](https://www.usa.gov/motor-vehicle-services) (en inglés) — directorio de las agencias estatales que emiten permisos
 
-### Canadá {#recursos-canada}
+### Canadá
 - [Accessible Parking Permit de Ontario](https://www.ontario.ca/page/get-accessible-parking-permit) (en inglés) — gratuito, por ServiceOntario
 - [Permiso de estacionamiento de Quebec (SAAQ)](https://saaq.gouv.qc.ca/en/persons-mobility-impairment/parking-permit) — emitido por la sociedad provincial de seguro automotriz
 - [Permisos de SPARC BC](https://www.sparc.bc.ca/parking-permits/) (en inglés) — el programa de Columbia Británica, gestionado por una organización sin fines de lucro
 - [Permisos de estacionamiento de Alberta](https://www.alberta.ca/get-parking-placard-people-disabilities) (en inglés) — se emiten por agentes de registro
 
-### Reino Unido {#recursos-reino-unido}
+### Reino Unido
 - [Solicitar una Blue Badge](https://www.gov.uk/apply-blue-badge) (en inglés) — servicio oficial, deriva a tu ayuntamiento
 
 ---

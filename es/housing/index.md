@@ -18,12 +18,12 @@ Esta sección ofrece orientación práctica sobre todos los aspectos de la vivie
 
 Elige tu país o región para encontrar derechos de vivienda, programas y recursos específicos:
 
-- **Estados Unidos** → Consulta [Derechos de vivienda](/es/housing/housing-rights.md#united-states), [Modificaciones del hogar](/es/housing/home-modifications.md#united-states), [Guía de búsqueda de vivienda accesible](/es/housing/accessible-housing-search-guide.md)
-- **Canadá** → Consulta [Derechos de vivienda](/es/housing/housing-rights.md#canada), [Modificaciones del hogar](/es/housing/home-modifications.md#canada)
-- **Unión Europea y Estados miembros** → Consulta [Derechos de vivienda](/es/housing/housing-rights.md#european-union), [Modificaciones del hogar](/es/housing/home-modifications.md#european-union)
-- **Reino Unido** → Consulta [Derechos de vivienda](/es/housing/housing-rights.md#united-kingdom), [Modificaciones del hogar](/es/housing/home-modifications.md#united-kingdom)
+- **Estados Unidos** → Consulta [Derechos de vivienda](/es/housing/housing-rights.md#estados-unidos), [Modificaciones del hogar](/es/housing/home-modifications.md#estados-unidos), [Guía de búsqueda de vivienda accesible](/es/housing/accessible-housing-search-guide.md)
+- **Canadá** → Consulta [Derechos de vivienda](/es/housing/housing-rights.md#canadá), [Modificaciones del hogar](/es/housing/home-modifications.md#canadá)
+- **Unión Europea y Estados miembros** → Consulta [Derechos de vivienda](/es/housing/housing-rights.md#unión-europea-y-estados-miembros), [Modificaciones del hogar](/es/housing/home-modifications.md#unión-europea-y-estados-miembros)
+- **Reino Unido** → Consulta [Derechos de vivienda](/es/housing/housing-rights.md#reino-unido), [Modificaciones del hogar](/es/housing/home-modifications.md#reino-unido)
 - **Australia** → Consulta [Derechos de vivienda](/es/housing/housing-rights.md#australia), [Modificaciones del hogar](/es/housing/home-modifications.md#australia)
-- **Otros países** → Consulta [Derechos de vivienda](/es/housing/housing-rights.md#other-countries), [Modificaciones del hogar](/es/housing/home-modifications.md#other-countries)
+- **Otros países** → Consulta [Derechos de vivienda](/es/housing/housing-rights.md#otros-países), [Modificaciones del hogar](/es/housing/home-modifications.md#otros-países)
 
 **¿Eres nuevo en los derechos de las personas con discapacidad y la vivienda?** Empieza con [Derechos internacionales de vivienda](/es/housing/international-housing-rights.md) para comprender los marcos globales que protegen el derecho a la vivienda de las personas con discapacidad, y luego dirígete a tu país o región más arriba.
 

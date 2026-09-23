@@ -20,16 +20,16 @@ Esta página pone en el centro los conocimientos de los jóvenes adultos con dis
 
 Salta a tu país o región:
 
-- [Qué significa la transición](#what-transition-means)
-- [Estados Unidos](#united-states)
-- [Canadá](#canada)
-- [Reino Unido](#united-kingdom)
-- [Australia](#australia)
-- [Otros países](#other-countries)
+- [Qué significa la transición](#qué-significa-la-transición)
+- [Estados Unidos](#estados-unidos-1)
+- [Canadá](#canadá-1)
+- [Reino Unido](#reino-unido-1)
+- [Australia](#australia-1)
+- [Otros países](#otros-países)
 
 ---
 
-## Qué significa la transición {#what-transition-means}
+## Qué significa la transición
 
 ### El panorama general
 
@@ -59,7 +59,7 @@ Una buena planificación de la transición debe apoyar a los jóvenes con discap
 
 ---
 
-## Estados Unidos {#united-states}
+## Estados Unidos
 
 ### Planificación de la transición bajo IDEA
 
@@ -137,7 +137,7 @@ Los **consejos de transición estatales y los foros de liderazgo juvenil** reún
 
 ---
 
-## Canadá {#canada}
+## Canadá
 
 ### Variación provincial
 
@@ -180,7 +180,7 @@ Las **organizaciones provinciales de autodefensa** apoyan a los jóvenes en edad
 
 ---
 
-## Reino Unido {#united-kingdom}
+## Reino Unido
 
 ### Preparación para la vida adulta
 
@@ -225,7 +225,7 @@ Los **foros de jóvenes con discapacidad** existen en muchas zonas.
 
 ---
 
-## Australia {#australia}
+## Australia
 
 ### El NDIS y la transición
 
@@ -259,7 +259,7 @@ Las **organizaciones de defensa de cada estado** brindan apoyo.
 
 ---
 
-## Otros países {#other-countries}
+## Otros países
 
 ### Principios
 
@@ -386,7 +386,7 @@ El éxito de la transición a menudo depende de la autodefensa: hablar por ti mi
 - **CDPD**: Marco de derechos para la plena participación
 - **Inclusion International**: Educación inclusiva y vida en comunidad
 
-### Estados Unidos {#united-states}
+### Estados Unidos
 
 - **PACER's National Parent Center on Transition and Employment**: [pacer.org/transition](https://pacer.org/transition)
 - **Think College**: Recursos sobre educación superior inclusiva (thinkcollege.net)
@@ -394,17 +394,17 @@ El éxito de la transición a menudo depende de la autodefensa: hablar por ti mi
 - **Self-Advocates Becoming Empowered (SABE)**: [sabeusa.com](https://sabeusa.com)
 - **Agencias Estatales de Rehabilitación Vocacional**: Encuentra la tuya a través del Departamento de Educación
 
-### Canadá {#canada}
+### Canadá
 
 - **People First of Canada**: [peoplefirstofcanada.ca](https://peoplefirstofcanada.ca)
 - **Agencias provinciales de servicios del desarrollo**
 
-### Reino Unido {#united-kingdom}
+### Reino Unido
 
 - **Preparing for Adulthood**: [ndti.org.uk](https://www.ndti.org.uk/resources/preparing-for-adulthood-all-tools-resources/)
 - **Council for Disabled Children**: councilfordisabledchildren.org.uk
 
-### Australia {#australia}
+### Australia
 
 - **NDIS**: ndis.gov.au
 - **Children and Young People with Disability Australia (CYDA)**: [cyda.org.au](https://cyda.org.au)

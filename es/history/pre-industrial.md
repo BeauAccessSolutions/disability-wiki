@@ -21,12 +21,12 @@ Durante la mayor parte de la historia humana, las personas con discapacidad estu
 - [Enfoques medievales/feudales](#sociedades-medievales-y-feudales) — El feudalismo y la discapacidad
 - [Enfoques indígenas](#sociedades-indígenas-americanas) — Las Américas antes del contacto
 - [Qué cambió y por qué](#qué-pasó-el-cambio) — La industrialización
-- [Ejemplos específicos](#ejemplos-históricos-detallados) — Ejemplos reales
+- [Ejemplos específicos](#ejemplos-de-inclusión) — Ejemplos reales
 - [Cómo lo sabemos](#vacíos-y-limitaciones-en-este-conocimiento) — Fuentes y evidencia
 
 ---
 
-## Patrones generales: cómo funcionaban las sociedades preindustriales {#patrones-generales-cómo-funcionaban-las-sociedades-preindustriales}
+## Patrones generales: cómo funcionaban las sociedades preindustriales
 
 ### Diferencias clave con las sociedades industriales
 
@@ -92,7 +92,7 @@ Durante la mayor parte de la historia humana, las personas con discapacidad estu
 - Especialización basada en las fortalezas
 - Flexibilidad en los roles
 
-### Ejemplos de inclusión {#ejemplos-históricos-detallados}
+### Ejemplos de inclusión
 
 **Los sitios arqueológicos muestran:**
 - **Cueva de Shanidar (Irak)**: Un esqueleto neandertal muestra que la persona sobrevivió con una discapacidad grave, vivió hasta los ~40 años y recibió cuidado comunitario
@@ -129,7 +129,7 @@ Cuando las sociedades se asentaron y cultivaron la tierra:
 
 ---
 
-## Civilizaciones antiguas {#civilizaciones-antiguas}
+## Civilizaciones antiguas
 
 ### Egipto (3000 a. e. c. – 30 a. e. c.)
 
@@ -241,7 +241,7 @@ Realidad: los gladiadores eran en su mayoría personas esclavizadas o pobres, no
 
 ---
 
-### Sociedades indígenas americanas {#sociedades-indígenas-americanas}
+### Sociedades indígenas americanas
 
 **Lo que saben las personas que estudian historia (limitado porque la colonización destruyó registros):**
 - Personas con discapacidad integradas en muchas naciones
@@ -305,7 +305,7 @@ Realidad: los gladiadores eran en su mayoría personas esclavizadas o pobres, no
 
 ---
 
-## Sociedades medievales y feudales {#sociedades-medievales-y-feudales}
+## Sociedades medievales y feudales
 
 ### Cómo el feudalismo adaptaba la discapacidad
 
@@ -478,7 +478,7 @@ Estos patrones históricos muestran:
 
 ---
 
-## Vacíos y limitaciones en este conocimiento {#vacíos-y-limitaciones-en-este-conocimiento}
+## Vacíos y limitaciones en este conocimiento
 
 ### Lo que no sabemos
 
@@ -509,7 +509,7 @@ Estos patrones históricos muestran:
 
 ---
 
-## Qué pasó: el cambio {#qué-pasó-el-cambio}
+## Qué pasó: el cambio
 
 Esta integración no desapareció de manera natural. Se construyó como problema y se "resolvió" mediante la segregación durante la industrialización.
 

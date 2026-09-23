@@ -74,16 +74,16 @@ Antes de solicitar modificaciones, considera:
 
 Elige tu país o región para ver qué programas financian las modificaciones del hogar, cómo suelen ser los costos y cómo navegar las solicitudes de modificación:
 
-- **[Estados Unidos](#united-states)**
-- **[Canadá](#canada)**
-- **[Unión Europea y estados miembros](#european-union)**
-- **[Reino Unido](#united-kingdom)**
+- **[Estados Unidos](#estados-unidos)**
+- **[Canadá](#canadá)**
+- **[Unión Europea y estados miembros](#unión-europea-y-estados-miembros)**
+- **[Reino Unido](#reino-unido)**
 - **[Australia](#australia)**
-- **[Otros países](#other-countries)**
+- **[Otros países](#otros-países)**
 
 ---
 
-## Estados Unidos {#united-states}
+## Estados Unidos
 
 EE. UU. tiene múltiples fuentes de financiación para las modificaciones del hogar, aunque la mayoría llega solo a una fracción de las personas con discapacidad elegibles.
 
@@ -147,7 +147,7 @@ EE. UU. tiene múltiples fuentes de financiación para las modificaciones del ho
 
 ---
 
-## Canadá {#canada}
+## Canadá
 
 Canadá financia las modificaciones a través de múltiples programas que varían según la provincia.
 
@@ -192,7 +192,7 @@ Los códigos de construcción canadienses incorporan cada vez más característi
 
 ---
 
-## Unión Europea y estados miembros {#european-union}
+## Unión Europea y estados miembros
 
 La financiación de la UE para las modificaciones del hogar varía dramáticamente según el estado miembro, aunque las directivas de la UE exigen cada vez más la accesibilidad.
 
@@ -210,7 +210,7 @@ La financiación de la UE para las modificaciones del hogar varía dramáticamen
 
 **Francia, España, Italia**: la financiación para las modificaciones es variable. El seguro social puede cubrir algunos costos; las organizaciones de discapacidad brindan defensa y recursos.
 
-**Reino Unido**: consulta la sección de [Reino Unido](#united-kingdom) más abajo.
+**Reino Unido**: consulta la sección de [Reino Unido](#reino-unido) más abajo.
 
 **Estados miembros de Europa del Este**: financiación limitada; los esfuerzos de desinstitucionalización a menudo incluyen financiación para modificaciones. Los servicios de modificaciones de accesibilidad están menos desarrollados.
 
@@ -234,7 +234,7 @@ El proceso difiere según el país. En general:
 
 ---
 
-## Reino Unido {#united-kingdom}
+## Reino Unido
 
 El Reino Unido brinda financiación para modificaciones a través de múltiples vías, aunque llega solo a una fracción de las personas elegibles.
 
@@ -281,7 +281,7 @@ El Reino Unido tiene una sólida comunidad profesional de modificaciones de acce
 
 ---
 
-## Australia {#australia}
+## Australia
 
 Australia financia las modificaciones a través del NDIS y de programas estatales.
 
@@ -320,7 +320,7 @@ Australia tiene profesionales de modificaciones de accesibilidad. Obtén varias 
 
 ---
 
-## Otros países {#other-countries}
+## Otros países
 
 La financiación de las modificaciones del hogar varía dramáticamente a nivel global. El acceso a la financiación, los materiales y los contratistas calificados difiere significativamente.
 

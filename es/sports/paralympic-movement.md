@@ -16,22 +16,22 @@ Los Juegos Paralímpicos son el tercer evento deportivo más grande del mundo y 
 
 ## Contenidos
 
-- [¿Qué son los Paralímpicos?](#what-are-the-paralympics)
-- [Historia](#history)
-- [Cómo funcionan los Paralímpicos](#how-paralympics-work)
-  - [Clasificación](#classification)
-  - [Deportes](#summer-paralympic-sports)
-- [Deportes paralímpicos de verano](#summer-paralympic-sports)
-- [Deportes paralímpicos de invierno](#winter-paralympic-sports)
-- [Principales naciones paralímpicas](#major-paralympic-nations)
-- [Gobernanza y organizaciones](#governance--organizations)
-- [Cómo verlos](#how-to-watch)
-- [Críticas y controversias](#criticism--controversies)
-- [Cómo participar](#getting-involved)
+- [¿Qué son los Paralímpicos?](#qué-son-los-paralímpicos)
+- [Historia](#historia)
+- [Cómo funcionan los Paralímpicos](#cómo-funcionan-los-paralímpicos)
+  - [Clasificación](#clasificación)
+  - [Deportes](#deportes-paralímpicos-de-verano)
+- [Deportes paralímpicos de verano](#deportes-paralímpicos-de-verano)
+- [Deportes paralímpicos de invierno](#deportes-paralímpicos-de-invierno)
+- [Principales naciones paralímpicas](#principales-naciones-paralímpicas)
+- [Gobernanza y organizaciones](#gobernanza-y-organizaciones)
+- [Cómo verlos](#cómo-verlos)
+- [Críticas y controversias](#críticas-y-controversias)
+- [Cómo participar](#cómo-participar)
 
 ---
 
-## ¿Qué son los Paralímpicos? {#what-are-the-paralympics}
+## ¿Qué son los Paralímpicos?
 
 Los Juegos Paralímpicos son el principal evento internacional multideportivo para personas atletas con discapacidad física, visual e intelectual. Se celebran cada cuatro años, inmediatamente después de los Juegos Olímpicos en la misma ciudad sede, y reúnen a miles de personas atletas que compiten al más alto nivel.
 
@@ -44,7 +44,7 @@ Los Juegos Paralímpicos son el principal evento internacional multideportivo pa
 
 ---
 
-## Historia {#history}
+## Historia
 
 ### Orígenes: Stoke Mandeville (1948)
 
@@ -86,9 +86,9 @@ El movimiento paralímpico comenzó en el Stoke Mandeville Hospital, en Inglater
 
 ---
 
-## Cómo funcionan los Paralímpicos {#how-paralympics-work}
+## Cómo funcionan los Paralímpicos
 
-### Clasificación {#classification}
+### Clasificación
 
 La clasificación es el sistema paralímpico que asegura una competición justa entre personas atletas con distintos tipos y grados de discapacidad.
 
@@ -134,7 +134,7 @@ La clasificación es el sistema paralímpico que asegura una competición justa 
 
 ---
 
-## Deportes paralímpicos de verano {#summer-paralympic-sports}
+## Deportes paralímpicos de verano
 
 22 deportes en París 2024:
 
@@ -172,7 +172,7 @@ La clasificación es el sistema paralímpico que asegura una competición justa 
 
 ---
 
-## Deportes paralímpicos de invierno {#winter-paralympic-sports}
+## Deportes paralímpicos de invierno
 
 6 deportes:
 
@@ -187,7 +187,7 @@ La clasificación es el sistema paralímpico que asegura una competición justa 
 
 ---
 
-## Principales naciones paralímpicas {#major-paralympic-nations}
+## Principales naciones paralímpicas
 
 **Potencias históricas:**
 - Estados Unidos
@@ -207,7 +207,7 @@ La clasificación es el sistema paralímpico que asegura una competición justa 
 
 ---
 
-## Gobernanza y organizaciones {#governance--organizations}
+## Gobernanza y organizaciones
 
 ### International Paralympic Committee (IPC)
 
@@ -241,7 +241,7 @@ La mayoría de los deportes paralímpicos están a cargo de federaciones interna
 
 ---
 
-## Cómo verlos {#how-to-watch}
+## Cómo verlos
 
 ### Televisión y streaming
 
@@ -264,7 +264,7 @@ Las entradas para los Juegos Paralímpicos suelen ser más asequibles y accesibl
 
 ---
 
-## Críticas y controversias {#criticism--controversies}
+## Críticas y controversias
 
 ### Brecha en la cobertura mediática
 
@@ -300,7 +300,7 @@ Tensión creciente entre:
 
 ---
 
-## Cómo participar {#getting-involved}
+## Cómo participar
 
 ### Como persona atleta
 

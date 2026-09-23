@@ -16,39 +16,39 @@ Deportes diseñados para personas usuarias de silla de ruedas o adaptados para e
 
 ## Contenidos
 
-- [Panorama general](#overview)
-- [Deportes de equipo](#team-sports)
-  - [Baloncesto en silla de ruedas](#wheelchair-basketball)
-  - [Rugby en silla de ruedas](#wheelchair-rugby)
-  - [Balonmano en silla de ruedas](#wheelchair-handball)
-- [Deportes de raqueta](#racquet-sports)
-  - [Tenis en silla de ruedas](#wheelchair-tennis)
-  - [Bádminton en silla de ruedas](#wheelchair-badminton)
-  - [Pickleball en silla de ruedas](#wheelchair-pickleball)
-- [Pista y campo](#track--field)
-  - [Carreras en silla de ruedas](#wheelchair-racing)
-  - [Pruebas de campo](#field-events)
-- [Deportes de cancha y de precisión](#court--target-sports)
+- [Panorama general](#panorama-general)
+- [Deportes de equipo](#deportes-de-equipo)
+  - [Baloncesto en silla de ruedas](#baloncesto-en-silla-de-ruedas)
+  - [Rugby en silla de ruedas](#rugby-en-silla-de-ruedas)
+  - [Balonmano en silla de ruedas](#balonmano-en-silla-de-ruedas)
+- [Deportes de raqueta](#deportes-de-raqueta)
+  - [Tenis en silla de ruedas](#tenis-en-silla-de-ruedas)
+  - [Bádminton en silla de ruedas](#bádminton-en-silla-de-ruedas)
+  - [Pickleball en silla de ruedas](#pickleball-en-silla-de-ruedas)
+- [Pista y campo](#pista-y-campo)
+  - [Carreras en silla de ruedas](#carreras-en-silla-de-ruedas)
+  - [Pruebas de campo](#pruebas-de-campo)
+- [Deportes de cancha y de precisión](#deportes-de-cancha-y-de-precisión)
   - [Boccia](#boccia)
-  - [Esgrima en silla de ruedas](#wheelchair-fencing)
-- [Deportes acuáticos](#water-sports)
-  - [Para natación](#para-swimming)
-  - [Remo adaptado](#adaptive-rowing)
-  - [Surf adaptado](#adaptive-surfing)
-- [Deportes de invierno](#winter-sports)
-  - [Esquí adaptado](#adaptive-skiing)
-  - [Hockey en trineo](#sled-hockey)
-  - [Curling en silla de ruedas](#wheelchair-curling)
-- [Ciclismo y carreras](#cycling--racing)
-  - [Ciclismo de mano](#handcycling)
-  - [Ciclismo adaptado](#adaptive-cycling)
-- [Otros deportes](#other-sports)
-- [Guía de equipo](#equipment-guide)
-- [Cómo participar](#getting-involved)
+  - [Esgrima en silla de ruedas](#esgrima-en-silla-de-ruedas)
+- [Deportes acuáticos](#deportes-acuáticos)
+  - [Para natación](#para-natación)
+  - [Remo adaptado](#remo-adaptado)
+  - [Surf adaptado](#surf-adaptado)
+- [Deportes de invierno](#deportes-de-invierno)
+  - [Esquí adaptado](#esquí-adaptado)
+  - [Hockey en trineo](#hockey-en-trineo)
+  - [Curling en silla de ruedas](#curling-en-silla-de-ruedas)
+- [Ciclismo y carreras](#ciclismo-y-carreras)
+  - [Ciclismo de mano](#ciclismo-de-mano)
+  - [Ciclismo adaptado](#ciclismo-adaptado)
+- [Otros deportes](#otros-deportes)
+- [Guía de equipo](#guía-de-equipo)
+- [Cómo participar](#cómo-participar)
 
 ---
 
-## Panorama general {#overview}
+## Panorama general
 
 Los deportes en silla de ruedas van desde adaptaciones de deportes convencionales hasta deportes únicos diseñados específicamente para personas usuarias de silla de ruedas. Algunos puntos clave:
 
@@ -60,9 +60,9 @@ Los deportes en silla de ruedas van desde adaptaciones de deportes convencionale
 
 ---
 
-## Deportes de equipo {#team-sports}
+## Deportes de equipo
 
-### Baloncesto en silla de ruedas {#wheelchair-basketball}
+### Baloncesto en silla de ruedas
 
 El deporte en silla de ruedas más practicado del mundo.
 
@@ -90,7 +90,7 @@ El deporte en silla de ruedas más practicado del mundo.
 
 ---
 
-### Rugby en silla de ruedas {#wheelchair-rugby}
+### Rugby en silla de ruedas
 
 Deporte de contacto total para personas atletas con impedimentos que afectan las cuatro extremidades (originalmente llamado "Murderball").
 
@@ -115,7 +115,7 @@ Deporte de contacto total para personas atletas con impedimentos que afectan las
 
 ---
 
-### Balonmano en silla de ruedas {#wheelchair-handball}
+### Balonmano en silla de ruedas
 
 Deporte en crecimiento que combina elementos del balonmano y del baloncesto en silla de ruedas.
 
@@ -130,9 +130,9 @@ Deporte en crecimiento que combina elementos del balonmano y del baloncesto en s
 
 ---
 
-## Deportes de raqueta {#racquet-sports}
+## Deportes de raqueta
 
-### Tenis en silla de ruedas {#wheelchair-tennis}
+### Tenis en silla de ruedas
 
 Uno de los deportes en silla de ruedas de más rápido crecimiento, con su propio circuito profesional.
 
@@ -159,7 +159,7 @@ Uno de los deportes en silla de ruedas de más rápido crecimiento, con su propi
 
 ---
 
-### Bádminton en silla de ruedas {#wheelchair-badminton}
+### Bádminton en silla de ruedas
 
 Deporte paralímpico desde 2020.
 
@@ -174,7 +174,7 @@ Deporte paralímpico desde 2020.
 
 ---
 
-### Pickleball en silla de ruedas {#wheelchair-pickleball}
+### Pickleball en silla de ruedas
 
 Deporte recreativo de rápido crecimiento.
 
@@ -190,9 +190,9 @@ Deporte recreativo de rápido crecimiento.
 
 ---
 
-## Pista y campo {#track--field}
+## Pista y campo
 
-### Carreras en silla de ruedas {#wheelchair-racing}
+### Carreras en silla de ruedas
 
 Pruebas de pista, desde velocidad hasta maratón.
 
@@ -218,7 +218,7 @@ Pruebas de pista, desde velocidad hasta maratón.
 
 ---
 
-### Pruebas de campo {#field-events}
+### Pruebas de campo
 
 Pruebas de lanzamiento para personas usuarias de silla de ruedas.
 
@@ -232,9 +232,9 @@ Las personas atletas compiten desde una posición estática, ya sea desde la sil
 
 ---
 
-## Deportes de cancha y de precisión {#court--target-sports}
+## Deportes de cancha y de precisión
 
-### Boccia {#boccia}
+### Boccia
 
 Deporte de precisión con balones para personas atletas con impedimentos físicos graves.
 
@@ -254,7 +254,7 @@ Deporte de precisión con balones para personas atletas con impedimentos físico
 
 ---
 
-### Esgrima en silla de ruedas {#wheelchair-fencing}
+### Esgrima en silla de ruedas
 
 Esgrima con sillas de ruedas fijadas al suelo.
 
@@ -270,9 +270,9 @@ Esgrima con sillas de ruedas fijadas al suelo.
 
 ---
 
-## Deportes acuáticos {#water-sports}
+## Deportes acuáticos
 
-### Para natación {#para-swimming}
+### Para natación
 
 Uno de los deportes paralímpicos más grandes.
 
@@ -294,7 +294,7 @@ Uno de los deportes paralímpicos más grandes.
 
 ---
 
-### Remo adaptado {#adaptive-rowing}
+### Remo adaptado
 
 Deporte paralímpico con varias clases de embarcación.
 
@@ -306,7 +306,7 @@ Deporte paralímpico con varias clases de embarcación.
 
 ---
 
-### Surf adaptado {#adaptive-surfing}
+### Surf adaptado
 
 Deporte en crecimiento con varias categorías adaptadas.
 
@@ -321,9 +321,9 @@ Deporte en crecimiento con varias categorías adaptadas.
 
 ---
 
-## Deportes de invierno {#winter-sports}
+## Deportes de invierno
 
-### Esquí adaptado {#adaptive-skiing}
+### Esquí adaptado
 
 Varias disciplinas para distintas capacidades.
 
@@ -345,7 +345,7 @@ Varias disciplinas para distintas capacidades.
 
 ---
 
-### Hockey en trineo {#sled-hockey}
+### Hockey en trineo
 
 Deporte de equipo de invierno de rápido crecimiento (también llamado Para hockey sobre hielo).
 
@@ -364,7 +364,7 @@ Deporte de equipo de invierno de rápido crecimiento (también llamado Para hock
 
 ---
 
-### Curling en silla de ruedas {#wheelchair-curling}
+### Curling en silla de ruedas
 
 Deporte paralímpico desde 2006.
 
@@ -376,9 +376,9 @@ Deporte paralímpico desde 2006.
 
 ---
 
-## Ciclismo y carreras {#cycling--racing}
+## Ciclismo y carreras
 
-### Ciclismo de mano {#handcycling}
+### Ciclismo de mano
 
 Ciclismo impulsado con la fuerza de los brazos.
 
@@ -399,7 +399,7 @@ Ciclismo impulsado con la fuerza de los brazos.
 
 ---
 
-### Ciclismo adaptado {#adaptive-cycling}
+### Ciclismo adaptado
 
 Categoría más amplia que incluye:
 - Handbikes
@@ -409,7 +409,7 @@ Categoría más amplia que incluye:
 
 ---
 
-## Otros deportes {#other-sports}
+## Otros deportes
 
 **Golf adaptado:** programas a través de organizaciones de golf, con equipo especializado.
 
@@ -423,7 +423,7 @@ Categoría más amplia que incluye:
 
 ---
 
-## Guía de equipo {#equipment-guide}
+## Guía de equipo
 
 ### Sillas deportivas
 
@@ -443,7 +443,7 @@ Categoría más amplia que incluye:
 
 ---
 
-## Cómo participar {#getting-involved}
+## Cómo participar
 
 ### Cómo encontrar programas
 

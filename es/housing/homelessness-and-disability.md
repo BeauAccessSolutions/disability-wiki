@@ -112,16 +112,16 @@ Las personas con discapacidad necesitan modificaciones a los principios de Housi
 
 Elige tu país o región para ver servicios, barreras y esfuerzos de organización específicos en torno a la situación de calle y la discapacidad:
 
-- **[Estados Unidos](#united-states)**
-- **[Canadá](#canada)**
-- **[Unión Europea y Estados miembros](#european-union)**
-- **[Reino Unido](#united-kingdom)**
+- **[Estados Unidos](#estados-unidos)**
+- **[Canadá](#canadá)**
+- **[Unión Europea y Estados miembros](#unión-europea-y-estados-miembros)**
+- **[Reino Unido](#reino-unido)**
 - **[Australia](#australia)**
-- **[Otros países](#other-countries)**
+- **[Otros países](#otros-países)**
 
 ---
 
-## Estados Unidos {#united-states}
+## Estados Unidos
 
 EE. UU. tiene aproximadamente 2.5 millones de personas en situación de calle al año; el 50 % tiene alguna discapacidad. El enfoque federal enfatiza cada vez más Housing First, aunque la implementación es variable.
 
@@ -195,7 +195,7 @@ EE. UU. tiene aproximadamente 2.5 millones de personas en situación de calle al
 
 ---
 
-## Canadá {#canada}
+## Canadá
 
 Canadá tiene aproximadamente 235,000 personas en situación de calle al año; una alta proporción tiene alguna discapacidad. El enfoque de Housing First se adopta cada vez más, en particular para los veteranos.
 
@@ -248,7 +248,7 @@ Similares a las de EE. UU.: financiamiento insuficiente, inercia institucional, 
 
 ---
 
-## Unión Europea y Estados miembros {#european-union}
+## Unión Europea y Estados miembros
 
 Los Estados miembros de la UE deben implementar el artículo 19 de la CDPD (derecho a vivir de forma independiente en la comunidad). Sin embargo, la situación de calle persiste en toda la UE, en particular para las personas con discapacidad.
 
@@ -260,7 +260,7 @@ Los Estados miembros de la UE deben implementar el artículo 19 de la CDPD (dere
 
 **Alemania**: gran población en situación de calle; los enfoques de Housing First emergen, pero no se han adoptado de manera universal.
 
-**Reino Unido**: consulta la sección [Reino Unido](#united-kingdom) más abajo.
+**Reino Unido**: consulta la sección [Reino Unido](#reino-unido) más abajo.
 
 **Otros países de la UE**: la adopción de Housing First es variable; algunos países aún enfatizan los sistemas de albergue por encima de la vivienda.
 
@@ -292,7 +292,7 @@ Los Estados miembros de la UE deben implementar el artículo 19 de la CDPD (dere
 
 ---
 
-## Reino Unido {#united-kingdom}
+## Reino Unido
 
 El Reino Unido tiene aproximadamente entre 280,000 y 300,000 personas en situación de calle; una proporción significativa tiene alguna discapacidad. La situación de calle aumentó entre 2010 y 2022 tras los recortes de prestaciones sociales.
 
@@ -340,7 +340,7 @@ El Reino Unido tiene aproximadamente entre 280,000 y 300,000 personas en situaci
 
 ---
 
-## Australia {#australia}
+## Australia
 
 Australia tiene aproximadamente 116,000 personas en situación de calle; una proporción significativa tiene alguna discapacidad. El NDIS busca apoyar la vida comunitaria, pero las brechas de implementación afectan a las personas con discapacidad en situación de calle.
 
@@ -386,7 +386,7 @@ Australia tiene aproximadamente 116,000 personas en situación de calle; una pro
 
 ---
 
-## Otros países {#other-countries}
+## Otros países
 
 La situación de calle y la discapacidad se cruzan a nivel global; los enfoques varían según la política de vivienda, la infraestructura de discapacidad y los recursos económicos.
 

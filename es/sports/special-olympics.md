@@ -16,20 +16,20 @@ El movimiento de Special Olympics ofrece entrenamiento y competición deportiva 
 
 ## Contenidos
 
-- [¿Qué es Special Olympics?](#what-is-special-olympics)
-- [Cómo funciona Special Olympics](#how-special-olympics-works)
-- [Deportes que se ofrecen](#sports-offered)
-- [Deportes unificados](#unified-sports)
-- [Special Olympics frente a los Paralímpicos](#special-olympics-vs-paralympics)
-- [Historia](#history)
-- [Organizaciones](#organizations)
-- [Cómo participar](#getting-involved)
-- [Personas atletas e historias destacadas](#notable-athletes--stories)
-- [Críticas y evolución](#criticism--evolution)
+- [¿Qué es Special Olympics?](#qué-es-special-olympics)
+- [Cómo funciona Special Olympics](#cómo-funciona-special-olympics)
+- [Deportes que se ofrecen](#deportes-que-se-ofrecen)
+- [Deportes unificados](#deportes-unificados)
+- [Special Olympics frente a los Paralímpicos](#special-olympics-frente-a-los-paralímpicos)
+- [Historia](#historia)
+- [Organizaciones](#organizaciones)
+- [Cómo participar](#cómo-participar)
+- [Personas atletas e historias destacadas](#personas-atletas-e-historias-destacadas)
+- [Críticas y evolución](#críticas-y-evolución)
 
 ---
 
-## ¿Qué es Special Olympics? {#what-is-special-olympics}
+## ¿Qué es Special Olympics?
 
 Special Olympics es la organización deportiva más grande del mundo para personas con discapacidad intelectual, y atiende a más de 6 millones de personas atletas en más de 200 países.
 
@@ -47,7 +47,7 @@ Special Olympics es la organización deportiva más grande del mundo para person
 
 ---
 
-## Cómo funciona Special Olympics {#how-special-olympics-works}
+## Cómo funciona Special Olympics
 
 ### Quién puede participar
 
@@ -87,7 +87,7 @@ A diferencia de la clasificación paralímpica por impedimento, Special Olympics
 
 ---
 
-## Deportes que se ofrecen {#sports-offered}
+## Deportes que se ofrecen
 
 ### Deportes de verano
 
@@ -128,7 +128,7 @@ No todos los programas ofrecen todos los deportes. Los programas locales deciden
 
 ---
 
-## Deportes unificados {#unified-sports}
+## Deportes unificados
 
 Una de las innovaciones más exitosas de Special Olympics.
 
@@ -151,7 +151,7 @@ Los equipos incluyen tanto a personas atletas con discapacidad intelectual como 
 
 ---
 
-## Special Olympics frente a los Paralímpicos {#special-olympics-vs-paralympics}
+## Special Olympics frente a los Paralímpicos
 
 | | Special Olympics | Paralímpicos |
 |---|---|---|
@@ -167,7 +167,7 @@ Los equipos incluyen tanto a personas atletas con discapacidad intelectual como 
 
 ---
 
-## Historia {#history}
+## Historia
 
 ### Orígenes
 
@@ -195,7 +195,7 @@ Los equipos incluyen tanto a personas atletas con discapacidad intelectual como 
 
 ---
 
-## Organizaciones {#organizations}
+## Organizaciones
 
 ### Internacional
 
@@ -221,7 +221,7 @@ Cada país tiene una organización nacional de Special Olympics:
 
 ---
 
-## Cómo participar {#getting-involved}
+## Cómo participar
 
 ### Como persona atleta
 
@@ -257,7 +257,7 @@ Special Olympics funciona gracias al voluntariado:
 
 ---
 
-## Personas atletas e historias destacadas {#notable-athletes--stories}
+## Personas atletas e historias destacadas
 
 **Loretta Claiborne:** corredora que ha completado 26 maratones y recibió el premio Arthur Ashe a la valentía de los ESPY de ESPN. Atleta de Special Olympics desde hace mucho tiempo y miembro de su junta directiva.
 
@@ -305,7 +305,7 @@ Programa para niñas y niños de 2 a 7 años con discapacidad intelectual:
 
 ---
 
-## Críticas y evolución {#criticism--evolution}
+## Críticas y evolución
 
 ### Preocupaciones históricas
 

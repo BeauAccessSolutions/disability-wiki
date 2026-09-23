@@ -46,7 +46,7 @@ TikTok se ha convertido en una plataforma importante para la comunidad y la educ
 
 ---
 
-## Muy recomendados {#muy-recomendados}
+## Muy recomendados
 
 - **@impaige** (Paige Layle) – Creadora autista. Contenido educativo sobre el autismo, el desenmascaramiento y el diagnóstico tardío. Millones de seguidores. Una de las creadoras autistas más visibles de la plataforma. *Creador con discapacidad, Recomendado.*
 
@@ -62,7 +62,7 @@ TikTok se ha convertido en una plataforma importante para la comunidad y la educ
 
 ---
 
-## Educación y defensa de derechos {#educación-y-defensa-de-derechos}
+## Educación y defensa de derechos
 
 - **@annieelainey** – [Ver Muy recomendados] *Creador con discapacidad.*
 
@@ -82,7 +82,7 @@ TikTok se ha convertido en una plataforma importante para la comunidad y la educ
 
 ---
 
-## Humor y entretenimiento {#humor-y-entretenimiento}
+## Humor y entretenimiento
 
 El humor sobre la discapacidad en TikTok va desde la educación amable hasta la sátira mordaz sobre el capacitismo.
 
@@ -102,7 +102,7 @@ El humor sobre la discapacidad en TikTok va desde la educación amable hasta la 
 
 ---
 
-## Vida diaria y estilo de vida {#vida-diaria-y-estilo-de-vida}
+## Vida diaria y estilo de vida
 
 - **@chelsiehill** – [Ver Muy recomendados] *Creador con discapacidad.*
 
@@ -120,9 +120,9 @@ El humor sobre la discapacidad en TikTok va desde la educación amable hasta la 
 
 ---
 
-## Por tipo de discapacidad {#por-tipo-de-discapacidad}
+## Por tipo de discapacidad
 
-### Usuarios de silla de ruedas y discapacidad física {#usuarios-de-silla-de-ruedas-y-discapacidad-física}
+### Usuarios de silla de ruedas y discapacidad física
 
 - @chelsiehill – Bailarina, estilo de vida *Creador con discapacidad.*
 - @squirmyandgrubs – Pareja interdiscapacitada *Creador con discapacidad.*
@@ -134,7 +134,7 @@ El humor sobre la discapacidad en TikTok va desde la educación amable hasta la 
 - @invalidwithastick – Usuaria ambulatoria de silla de ruedas *Creador con discapacidad.*
 - @rikipoynter – Estilo de vida de una usuaria de silla de ruedas *Creador con discapacidad.*
 
-### Personas sordas y con problemas de audición {#personas-sordas-y-con-problemas-de-audición}
+### Personas sordas y con problemas de audición
 
 - @thejessicaoutofthecloset – Sorda y con enfermedad crónica *Creador con discapacidad, Internacional.*
 - @ashtoncreates – Humor en ASL *Creador con discapacidad.*
@@ -143,7 +143,7 @@ El humor sobre la discapacidad en TikTok va desde la educación amable hasta la 
 - @signed_dani – Contenido en ASL *Creador con discapacidad.*
 - @thedeafmom – Crianza siendo sorda *Creador con discapacidad.*
 
-### Personas ciegas y con baja visión {#personas-ciegas-y-con-baja-visión}
+### Personas ciegas y con baja visión
 
 - @blindishlatina – [Ver Muy recomendados] *Creador con discapacidad.*
 - @blindgirldoes – Defensa de la accesibilidad *Creador con discapacidad.*
@@ -152,7 +152,7 @@ El humor sobre la discapacidad en TikTok va desde la educación amable hasta la 
 - @lucyedwardsofficial – Presentadora de la BBC *Creador con discapacidad, Internacional.*
 - @caboray – Estilo de vida de una usuaria de bastón *Creador con discapacidad.*
 
-### Enfermedad crónica {#enfermedad-crónica}
+### Enfermedad crónica
 
 - @annieelainey – [Ver Muy recomendados] *Creador con discapacidad.*
 - @thejessicaoutofthecloset *Creador con discapacidad, Internacional.*
@@ -163,7 +163,7 @@ El humor sobre la discapacidad en TikTok va desde la educación amable hasta la 
 - @myehlersdanloslife – Contenido sobre el SED *Creador con discapacidad.*
 - @chronically_jenni – Enfermedad crónica y salud mental *Creador con discapacidad.*
 
-### Neurodivergencia {#neurodivergencia}
+### Neurodivergencia
 
 #### Autismo
 
@@ -190,7 +190,7 @@ El humor sobre la discapacidad en TikTok va desde la educación amable hasta la 
 - @tourettes_life *Creador con discapacidad.*
 - @lewisqball *Creador con discapacidad.*
 
-### Personas amputadas y con diferencias en las extremidades {#personas-amputadas-y-con-diferencias-en-las-extremidades}
+### Personas amputadas y con diferencias en las extremidades
 
 - @itsryanvance – Humor *Creador con discapacidad.*
 - @footlessjo – Estilo de vida, prótesis *Creador con discapacidad.*
@@ -198,13 +198,13 @@ El humor sobre la discapacidad en TikTok va desde la educación amable hasta la 
 - @amyamputee – Estilo de vida de una persona amputada *Creador con discapacidad.*
 - @tillylockey – Adolescente con brazos biónicos *Creador con discapacidad, Internacional.*
 
-### Diferencias faciales {#diferencias-faciales}
+### Diferencias faciales
 
 - @cassandranaud – Neurofibromatosis, defensa de derechos *Creador con discapacidad.*
 - @ariel_henley – Autora, diferencia craneofacial *Creador con discapacidad.*
 - @facingdifference – Diversas diferencias faciales *Creador con discapacidad.*
 
-### Personas de talla baja {#personas-de-talla-baja}
+### Personas de talla baja
 
 - @littlemisslauren93 – Humor y estilo de vida *Creador con discapacidad.*
 - @carleeemcgrath – Contenido de estilo de vida *Creador con discapacidad.*
@@ -212,7 +212,7 @@ El humor sobre la discapacidad en TikTok va desde la educación amable hasta la 
 
 ---
 
-## Hashtags para seguir {#hashtags-para-seguir}
+## Hashtags para seguir
 
 Estos hashtags ayudan a encontrar contenido sobre discapacidad en TikTok:
 

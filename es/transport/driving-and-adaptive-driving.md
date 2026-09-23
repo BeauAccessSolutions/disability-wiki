@@ -17,16 +17,16 @@ Conducir puede brindar una independencia significativa a las personas con discap
 ## ¿Dónde estás?
 
 **Salta a tu país:**
-- [Entender la conducción adaptada](#understanding-adaptive-driving)
-- [Estados Unidos](#united-states)
-- [Canadá](#canada)
-- [Reino Unido](#united-kingdom)
+- [Entender la conducción adaptada](#entender-la-conducción-adaptada)
+- [Estados Unidos](#estados-unidos)
+- [Canadá](#canadá)
+- [Reino Unido](#reino-unido)
 - [Australia](#australia)
-- [Otros países](#other-countries)
+- [Otros países](#otros-países)
 
 ---
 
-## Entender la conducción adaptada {#understanding-adaptive-driving}
+## Entender la conducción adaptada
 
 ### Quién puede conducir
 
@@ -101,7 +101,7 @@ No hay dos conductores iguales. El equipo adaptado adecuado depende de:
 
 ---
 
-## Estados Unidos {#united-states}
+## Estados Unidos
 
 ### Cómo evaluarte
 
@@ -247,7 +247,7 @@ Algunas personas conducen mientras permanecen en sus sillas de ruedas. Esto requ
 
 ---
 
-## Canadá {#canada}
+## Canadá
 
 ### Cómo evaluarte
 
@@ -300,7 +300,7 @@ Los programas son limitados. La mayoría de los costos del vehículo corren por 
 
 ---
 
-## Reino Unido {#united-kingdom}
+## Reino Unido
 
 ### Cómo evaluarte
 
@@ -369,7 +369,7 @@ Disponibles a través de Motability con un pago anticipado que varía según el 
 
 ---
 
-## Australia {#australia}
+## Australia
 
 ### Cómo evaluarte
 
@@ -427,7 +427,7 @@ Diversos programas estatales pueden ayudar:
 
 ---
 
-## Otros países {#other-countries}
+## Otros países
 
 ### Principios generales
 
@@ -553,26 +553,26 @@ Conducir con epilepsia o condiciones convulsivas:
 
 *Los recursos oficiales enlazados están en inglés.*
 
-### Estados Unidos {#recursos-estados-unidos}
+### Estados Unidos
 - [Association for Driver Rehabilitation Specialists (ADED)](https://www.aded.net/) — organismo de acreditación y directorio de proveedores
 - [NMEDA](https://www.nmeda.com/) — asociación de instaladores de modificaciones vehiculares
 - [NHTSA Adapted Vehicles](https://www.nhtsa.gov/road-safety/adapted-vehicles) — guía federal sobre todo el proceso
 - [Agencias estatales de rehabilitación vocacional](https://askjan.org/concerns/State-Vocational-Rehabilitation-Agencies.cfm) — directorio del Job Accommodation Network
 - [Asignación para automóvil y equipo adaptado de VA](https://www.va.gov/disability/eligibility/special-claims/automobile-allowance-adaptive-equipment/) — para veteranos con discapacidades relacionadas con el servicio
 
-### Canadá {#recursos-canada}
+### Canadá
 - [CCMTA National Safety Code Standard 6](https://www.ccmta.ca/web/default/files/PDF/NSC-6%E2%80%93Standard-Determining-Driver-Fitness-in-Canada.pdf) (PDF) — el estándar nacional de aptitud para conducir
 - [CMA Driver's Guide](https://driversguide.ca/) — la referencia médica de aptitud para conducir
 - [CAOT Find an OT](https://caot.ca/site/find_ot/find-an-ot) — para encontrar un terapeuta ocupacional
 - [Reembolso del impuesto a la gasolina (CRA)](https://www.canada.ca/en/revenue-agency/services/tax/individuals/segments/tax-credits-deductions-persons-disabilities/excise-gasoline-tax-refund.html) — reembolso parcial por impedimento permanente de movilidad
 - Autoridades provinciales de licencias y programas de dispositivos de asistencia (varían según la provincia)
 
-### Reino Unido {#recursos-reino-unido}
+### Reino Unido
 - [Driving Mobility](https://www.drivingmobility.org.uk/) — red nacional de centros de evaluación
 - [GOV.UK: condiciones médicas y conducción](https://www.gov.uk/driving-medical-conditions) — requisitos de reporte de la DVLA
 - [Motability](https://www.motability.co.uk/) — esquema de arrendamiento de vehículos con beneficios de movilidad
 
-### Australia {#recursos-australia}
+### Australia
 - [Assessing Fitness to Drive de Austroads](https://austroads.gov.au/drivers-and-vehicles/assessing-fitness-to-drive) — estándares médicos nacionales
 - [NDIS](https://www.ndis.gov.au/) — puede financiar modificaciones y rehabilitación de la conducción
 - Autoridades estatales de licencias y evaluaciones de las organizaciones automovilísticas

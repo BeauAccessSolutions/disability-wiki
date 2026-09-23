@@ -20,17 +20,17 @@ Esta página pone en el centro los conocimientos de las personas con discapacida
 
 Salta a tu país o región:
 
-- [Principios universales](#universal-principles)
-- [Estados Unidos](#united-states)
-- [Canadá](#canada)
-- [Reino Unido](#united-kingdom)
-- [Unión Europea](#european-union)
-- [Australia](#australia)
-- [Otros países](#other-countries)
+- [Principios universales](#principios-universales)
+- [Estados Unidos](#estados-unidos-1)
+- [Canadá](#canadá-1)
+- [Reino Unido](#reino-unido-1)
+- [Unión Europea](#unión-europea)
+- [Australia](#australia-1)
+- [Otros países](#otros-países)
 
 ---
 
-## Principios universales {#universal-principles}
+## Principios universales
 
 ### El derecho a la educación
 
@@ -71,7 +71,7 @@ Las perspectivas de las personas con discapacidad sobre esto varían:
 
 ---
 
-## Estados Unidos {#united-states}
+## Estados Unidos
 
 ### Tus derechos legales
 
@@ -149,7 +149,7 @@ Las **organizaciones de derechos de la discapacidad** de cada estado brindan asi
 
 ---
 
-## Canadá {#canada}
+## Canadá
 
 ### Marco
 
@@ -181,7 +181,7 @@ Las **comisiones de derechos humanos** de cada provincia gestionan las quejas po
 
 ---
 
-## Reino Unido {#united-kingdom}
+## Reino Unido
 
 ### Marco
 
@@ -223,7 +223,7 @@ Los **grupos de defensa de las reformas SEND** están impulsando mejoras sistém
 
 ---
 
-## Unión Europea {#european-union}
+## Unión Europea
 
 ### Marco
 
@@ -251,7 +251,7 @@ El **European Disability Forum** aborda la educación a nivel de la política de
 
 ---
 
-## Australia {#australia}
+## Australia
 
 ### Marco
 
@@ -277,7 +277,7 @@ La **Australian Human Rights Commission** gestiona las quejas por discriminació
 
 ---
 
-## Otros países {#other-countries}
+## Otros países
 
 ### Principios
 
@@ -380,25 +380,25 @@ Presenta las solicitudes por escrito. Envía confirmaciones por correo electrón
 - **Inclusion International**: Red global sobre educación inclusiva
 - **UNESCO Inclusive Education**: Recursos sobre la implementación
 
-### Estados Unidos {#united-states}
+### Estados Unidos
 
 - **Wrightslaw**: Información integral sobre la ley de educación especial (wrightslaw.com)
 - **Parent Center Hub**: Encuentra el Parent Training and Information Center de tu estado (parentcenterhub.org)
 - **Council of Parent Attorneys and Advocates**: Encuentra defensores (copaa.org)
 - **Organizaciones estatales de derechos de la discapacidad**: Protección y defensa en cada estado
 
-### Canadá {#canada}
+### Canadá
 
 - **Inclusion Canada**: [inclusioncanada.ca](https://inclusioncanada.ca)
 - **Organizaciones provinciales de defensa de familias**
 
-### Reino Unido {#united-kingdom}
+### Reino Unido
 
 - **IPSEA**: Asesoramiento legal gratuito sobre educación especial (ipsea.org.uk)
 - **Contact**: Información para familias (contact.org.uk)
 - **SEND Tribunal**: Proceso de apelación
 
-### Australia {#australia}
+### Australia
 
 - **CYDA (Children and Young People with Disability Australia)**: [cyda.org.au](https://cyda.org.au)
 - **Organizaciones de familias de cada estado**

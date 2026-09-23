@@ -16,17 +16,17 @@ La historia sorda es historia de la comunidad de la discapacidad. La comunidad s
 
 **Quiero aprender sobre:**
 
-- [¿Qué es la cultura sorda?](#que-es-la-cultura-sorda) — Valores, comunicación, identidad.
-- [¿Cómo se formó la comunidad sorda?](#formacion-temprana-de-la-comunidad-sorda) — Escuelas y reunión.
-- [¿Cuál es la historia de la lengua de señas?](#desarrollo-de-la-lengua-de-senas) — Lenguas en distintas culturas.
-- [¿Qué pasó con el oralismo?](#oralismo-y-asimilacion-forzada) — Supresión y resistencia.
-- [Orgullo y activismo sordo moderno](#orgullo-sordo-y-movimiento-contemporaneo) — Movimiento contemporáneo.
+- [¿Qué es la cultura sorda?](#qué-es-la-cultura-sorda) — Valores, comunicación, identidad.
+- [¿Cómo se formó la comunidad sorda?](#formación-temprana-de-la-comunidad-sorda) — Escuelas y reunión.
+- [¿Cuál es la historia de la lengua de señas?](#desarrollo-de-la-lengua-de-señas) — Lenguas en distintas culturas.
+- [¿Qué pasó con el oralismo?](#oralismo-y-asimilación-forzada) — Supresión y resistencia.
+- [Orgullo y activismo sordo moderno](#orgullo-sordo-y-movimiento-contemporáneo) — Movimiento contemporáneo.
 - [Las contribuciones de las personas sordas](#las-contribuciones-de-las-personas-sordas) — Historia de logros.
 - [Personas sordociegas](#experiencias-sordociegas-y-de-ceguera-y-sordera) — Perspectivas únicas.
 
 ---
 
-## ¿Qué es la cultura sorda? {#que-es-la-cultura-sorda}
+## ¿Qué es la cultura sorda?
 
 ### No es lo mismo que la deficiencia auditiva o la sordera (audiológica)
 
@@ -72,7 +72,7 @@ La historia sorda es historia de la comunidad de la discapacidad. La comunidad s
 
 ---
 
-## Formación temprana de la comunidad sorda {#formacion-temprana-de-la-comunidad-sorda}
+## Formación temprana de la comunidad sorda
 
 ### Antes de la comunidad sorda organizada
 
@@ -105,7 +105,7 @@ La historia sorda es historia de la comunidad de la discapacidad. La comunidad s
 
 ---
 
-## Desarrollo de la lengua de señas {#desarrollo-de-la-lengua-de-senas}
+## Desarrollo de la lengua de señas
 
 ### Primeras lenguas de señas
 
@@ -213,7 +213,7 @@ La historia sorda es historia de la comunidad de la discapacidad. La comunidad s
 
 ---
 
-## Oralismo y asimilación forzada {#oralismo-y-asimilacion-forzada}
+## Oralismo y asimilación forzada
 
 ### ¿Qué fue el oralismo?
 
@@ -315,7 +315,7 @@ La historia sorda es historia de la comunidad de la discapacidad. La comunidad s
 
 ---
 
-## Orgullo sordo y movimiento contemporáneo {#orgullo-sordo-y-movimiento-contemporaneo}
+## Orgullo sordo y movimiento contemporáneo
 
 ### La identidad de orgullo sordo
 
@@ -415,7 +415,7 @@ La historia sorda es historia de la comunidad de la discapacidad. La comunidad s
 
 ---
 
-## Las contribuciones de las personas sordas {#las-contribuciones-de-las-personas-sordas}
+## Las contribuciones de las personas sordas
 
 ### Lengua y lingüística
 
@@ -512,7 +512,7 @@ La historia sorda es historia de la comunidad de la discapacidad. La comunidad s
 
 ---
 
-## Experiencias sordociegas y de ceguera y sordera {#experiencias-sordociegas-y-de-ceguera-y-sordera}
+## Experiencias sordociegas y de ceguera y sordera
 
 ### Personas sordociegas
 

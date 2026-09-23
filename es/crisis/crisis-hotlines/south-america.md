@@ -27,19 +27,19 @@ Selecciona tu país para ver los recursos de crisis locales:
 
 - [Argentina](#argentina)
 - [Bolivia](#bolivia)
-- [Brasil](#brazil)
+- [Brasil](#brasil)
 - [Chile](#chile)
 - [Colombia](#colombia)
 - [Ecuador](#ecuador)
 - [Paraguay](#paraguay)
-- [Perú](#peru)
+- [Perú](#perú)
 - [Uruguay](#uruguay)
 - [Venezuela](#venezuela)
-- [Otros países de América del Sur](#other-south-american-countries)
+- [Otros países de América del Sur](#otros-países-de-américa-del-sur)
 
 ---
 
-## Argentina {#argentina}
+## Argentina
 
 ### Crisis y prevención de suicidio
 
@@ -64,7 +64,7 @@ Selecciona tu país para ver los recursos de crisis locales:
 
 ---
 
-## Bolivia {#bolivia}
+## Bolivia
 
 ### Crisis y apoyo de salud mental
 
@@ -88,7 +88,7 @@ Selecciona tu país para ver los recursos de crisis locales:
 
 ---
 
-## Brasil {#brazil}
+## Brasil
 
 **Para ver los recursos de crisis completos en Brasil, consulta [Ayuda en crisis: Brasil](/es/crisis/crisis-hotlines/south-america/brazil)**
 
@@ -101,7 +101,7 @@ Selecciona tu país para ver los recursos de crisis locales:
 
 ---
 
-## Chile {#chile}
+## Chile
 
 ### Crisis y prevención de suicidio
 
@@ -129,7 +129,7 @@ Selecciona tu país para ver los recursos de crisis locales:
 
 ---
 
-## Colombia {#colombia}
+## Colombia
 
 ### Crisis y prevención de suicidio
 
@@ -157,7 +157,7 @@ Selecciona tu país para ver los recursos de crisis locales:
 
 ---
 
-## Ecuador {#ecuador}
+## Ecuador
 
 ### Crisis y apoyo de salud mental
 
@@ -181,7 +181,7 @@ Selecciona tu país para ver los recursos de crisis locales:
 
 ---
 
-## Paraguay {#paraguay}
+## Paraguay
 
 ### Crisis y servicios de apoyo
 
@@ -204,7 +204,7 @@ Selecciona tu país para ver los recursos de crisis locales:
 
 ---
 
-## Perú {#peru}
+## Perú
 
 ### Crisis y apoyo de salud mental
 
@@ -229,7 +229,7 @@ Selecciona tu país para ver los recursos de crisis locales:
 
 ---
 
-## Uruguay {#uruguay}
+## Uruguay
 
 ### Crisis y prevención de suicidio
 
@@ -254,7 +254,7 @@ Selecciona tu país para ver los recursos de crisis locales:
 
 ---
 
-## Venezuela {#venezuela}
+## Venezuela
 
 ### Crisis y servicios de apoyo
 
@@ -284,7 +284,7 @@ Selecciona tu país para ver los recursos de crisis locales:
 
 ---
 
-## Otros países de América del Sur {#other-south-american-countries}
+## Otros países de América del Sur
 
 ### Guayana Francesa
 - **Emergencias:** 112 (estándar europeo)

@@ -10,7 +10,7 @@ dateCreated: 2026-06-06T00:00:00.000Z
 
 # Agotamiento autista (autistic burnout)
 
-*Si estás en agotamiento ahora mismo y leer te cuesta: no tienes que leer todo esto. Salta a [Recuperación y prevención](#recovery--prevention). Tienes permiso para descansar primero.*
+*Si estás en agotamiento ahora mismo y leer te cuesta: no tienes que leer todo esto. Salta a [Recuperación y prevención](#recuperación-y-prevención). Tienes permiso para descansar primero.*
 
 > **La versión corta:** El agotamiento autista es real. No es pereza, "darse por vencido" ni un defecto de carácter. Es lo que ocurre cuando las exigencias sobre ti superan tu capacidad y tu apoyo durante demasiado tiempo, a menudo tras años de enmascaramiento y de aguantar. La recuperación es posible —normalmente lenta y no lineal— y funciona mejor cuando se te permite hacer menos, enmascarar menos y recibir más apoyo. Eres mucho más que tu día más agotado.
 
@@ -42,7 +42,7 @@ El agotamiento y la depresión pueden coexistir, y el agotamiento puede *derivar
 | Sensorial | El **aumento** de la sensibilidad sensorial es central | No es una característica que la defina |
 | Qué ayuda | Reducir las exigencias, descansar, dejar de enmascarar, adaptaciones | Puede requerir tratamiento clínico (terapia, a veces medicación) |
 
-Esto es una guía, no una herramienta de evaluación, y ambas pueden existir a la vez. La depresión es grave y tratable. Si tienes ánimo bajo, pérdida de placer o pensamientos de suicidio, por favor busca ayuda (consulta la [nota sobre crisis](#a-note-on-crisis) más abajo).
+Esto es una guía, no una herramienta de evaluación, y ambas pueden existir a la vez. La depresión es grave y tratable. Si tienes ánimo bajo, pérdida de placer o pensamientos de suicidio, por favor busca ayuda (consulta la [nota sobre crisis](#una-nota-sobre-crisis) más abajo).
 
 ### En qué se diferencia del agotamiento ordinario
 
@@ -76,7 +76,7 @@ Estas no son categorías rígidas: las experiencias varían, las dos pueden mezc
 
 ---
 
-## Recuperación y prevención {#recovery--prevention}
+## Recuperación y prevención
 
 **La recuperación es posible.** Muchas personas autistas reportan una recuperación parcial o sustancial del agotamiento. Tiende a ser **lenta, no lineal (días buenos y malos) e individual**: tu camino no se parecerá al de nadie más, y un retroceso no es un fracaso. La evidencia hasta ahora proviene en su mayoría de los propios relatos de personas autistas (cualitativos, no estudios a largo plazo), pero apunta de forma constante a tres cosas vinculadas con la recuperación: **aceptación y apoyo social, tiempo libre y expectativas reducidas, y hacer las cosas de una manera autista (dejar de enmascarar).**
 
@@ -94,7 +94,7 @@ La **prevención** es el mismo conjunto de herramientas aplicado antes: límites
 
 > No tienes que ganarte el descanso ni justificar tus necesidades con una razón lo bastante buena. La capacidad tiende a volver de forma más fiable cuando dejas de luchar contra tu propia configuración.
 
-### Una nota sobre crisis {#a-note-on-crisis}
+### Una nota sobre crisis
 Si estás pensando en el suicidio o estás en crisis, por favor busca ayuda: en EE. UU., llama o envía un mensaje de texto al **988** (Suicide & Crisis Lifeline). La mayoría de los contactos se mantienen confidenciales, pero las líneas de crisis a veces sí involucran a los servicios de emergencia; si eso te preocupa, [Apoyo en crisis liderado por personas con discapacidad](/es/crisis/disabled-crisis-support) enumera alternativas gestionadas entre pares. En otros lugares, consulta [Crisis y seguridad](/es/crisis/index) para encontrar tu línea local. El agotamiento puede traer una desesperación real, y pedir ayuda no es debilidad.
 
 ---

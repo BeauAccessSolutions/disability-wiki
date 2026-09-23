@@ -24,11 +24,11 @@ Esta página te conecta con recursos de crisis en toda África.
 ## ¿Dónde estás?
 
 ### África del Norte
-- [Argelia](#algeria)
-- [Egipto](#egypt)
-- [Libia](#libya)
-- [Marruecos](#morocco)
-- [Túnez](#tunisia)
+- [Argelia](#argelia)
+- [Egipto](#egipto)
+- [Libia](#libia)
+- [Marruecos](#marruecos)
+- [Túnez](#túnez)
 
 ### África Occidental
 - [Ghana](#ghana)
@@ -36,28 +36,28 @@ Esta página te conecta con recursos de crisis en toda África.
 - [Senegal](#senegal)
 
 ### África Oriental
-- [Etiopía](#ethiopia)
-- [Kenia](#kenya)
+- [Etiopía](#etiopía)
+- [Kenia](#kenia)
 - [Tanzania](#tanzania)
 - [Uganda](#uganda)
 
 ### África Austral
-- [Botsuana](#botswana)
+- [Botsuana](#botsuana)
 - [Namibia](#namibia)
-- [Sudáfrica](#south-africa)
-- [Zimbabue](#zimbabwe)
+- [Sudáfrica](#sudáfrica)
+- [Zimbabue](#zimbabue)
 
 ### África Central
-- [Camerún](#cameroon)
-- [República Democrática del Congo](#democratic-republic-of-congo)
+- [Camerún](#camerún)
+- [República Democrática del Congo](#república-democrática-del-congo)
 
-### Otros países](#other-african-countries)
+### Otros países](#otros-países-africanos)
 
 ---
 
 ## África del Norte
 
-### Argelia {#algeria}
+### Argelia
 
 **SOS Psychologique**
 - Teléfono: 0800-00-10-18 (gratuito)
@@ -70,7 +70,7 @@ Esta página te conecta con recursos de crisis en toda África.
 
 ---
 
-### Egipto {#egypt}
+### Egipto
 
 **Línea de salud mental del Ministerio de Salud**
 - Teléfono: 16328 (Secretaría General de Salud Mental y Tratamiento de Adicciones)
@@ -92,7 +92,7 @@ Esta página te conecta con recursos de crisis en toda África.
 
 ---
 
-### Libia {#libya}
+### Libia
 
 **Servicios formales de crisis limitados actualmente disponibles debido al conflicto en curso**
 
@@ -103,7 +103,7 @@ Esta página te conecta con recursos de crisis en toda África.
 
 ---
 
-### Marruecos {#morocco}
+### Marruecos
 
 **SOS Help (en inglés)**
 - Teléfono: (0537) 76-06-04
@@ -119,7 +119,7 @@ Esta página te conecta con recursos de crisis en toda África.
 
 ---
 
-### Túnez {#tunisia}
+### Túnez
 
 **SOS Tunis**
 - Teléfono: (71) 783-888
@@ -134,7 +134,7 @@ Esta página te conecta con recursos de crisis en toda África.
 
 ## África Occidental
 
-### Ghana {#ghana}
+### Ghana
 
 **Mental Health Authority Helpline**
 - Teléfono: 0800-678-678 (gratuito)
@@ -152,7 +152,7 @@ Esta página te conecta con recursos de crisis en toda África.
 
 ---
 
-### Nigeria {#nigeria}
+### Nigeria
 
 **Para recursos de crisis completos en Nigeria, consulta [Ayuda en crisis: Nigeria](/es/crisis/crisis-hotlines/africa/nigeria)**
 
@@ -164,7 +164,7 @@ Esta página te conecta con recursos de crisis en toda África.
 
 ---
 
-### Senegal {#senegal}
+### Senegal
 
 **SOS Village d'Enfants Senegal**
 - Teléfono: 800-00-10-10
@@ -178,7 +178,7 @@ Esta página te conecta con recursos de crisis en toda África.
 
 ## África Oriental
 
-### Etiopía {#ethiopia}
+### Etiopía
 
 **Ethiopia Toll-Free Hotline**
 - Teléfono: 952 o 8399
@@ -192,7 +192,7 @@ Esta página te conecta con recursos de crisis en toda África.
 
 ---
 
-### Kenia {#kenya}
+### Kenia
 
 **Kenya Red Cross Counseling**
 - Teléfono: 1199 (gratuito, 24/7)
@@ -218,7 +218,7 @@ Esta página te conecta con recursos de crisis en toda África.
 
 ---
 
-### Tanzania {#tanzania}
+### Tanzania
 
 **National Crisis Hotline**
 - Teléfono: 0800-110-555 (gratuito)
@@ -231,7 +231,7 @@ Esta página te conecta con recursos de crisis en toda África.
 
 ---
 
-### Uganda {#uganda}
+### Uganda
 
 **Mental Health Uganda**
 - Teléfono: 0800-20-24-24 o 0417-711-200
@@ -253,7 +253,7 @@ Esta página te conecta con recursos de crisis en toda África.
 
 ## África Austral
 
-### Botsuana {#botswana}
+### Botsuana
 
 **Lifeline Botswana**
 - Teléfono: 3911-270 o 3912-279
@@ -270,7 +270,7 @@ Esta página te conecta con recursos de crisis en toda África.
 
 ---
 
-### Namibia {#namibia}
+### Namibia
 
 **LifeLine/ChildLine Namibia**
 - Teléfono: (061) 232-221 o 106-48-777
@@ -288,7 +288,7 @@ Esta página te conecta con recursos de crisis en toda África.
 
 ---
 
-### Sudáfrica {#south-africa}
+### Sudáfrica
 
 **Para recursos de crisis completos en Sudáfrica, consulta [Ayuda en crisis: Sudáfrica](/es/crisis/crisis-hotlines/africa/south-africa)**
 
@@ -302,7 +302,7 @@ Esta página te conecta con recursos de crisis en toda África.
 
 ---
 
-### Zimbabue {#zimbabwe}
+### Zimbabue
 
 **Samaritans Bulawayo**
 - Teléfono: +263 9 65000
@@ -327,7 +327,7 @@ Esta página te conecta con recursos de crisis en toda África.
 
 ## África Central
 
-### Camerún {#cameroon}
+### Camerún
 
 **Porte Ouverte (Open Door)**
 - Teléfono: (237) 233-472-046
@@ -339,7 +339,7 @@ Esta página te conecta con recursos de crisis en toda África.
 
 ---
 
-### República Democrática del Congo {#democratic-republic-of-congo}
+### República Democrática del Congo
 
 **Centre Médical Bondeko**
 - Teléfono: +243-85-131-3131
@@ -351,7 +351,7 @@ Esta página te conecta con recursos de crisis en toda África.
 
 ---
 
-## Otros países africanos {#other-african-countries}
+## Otros países africanos
 
 Muchos países africanos están desarrollando servicios de salud mental y líneas de crisis. Los recursos pueden ser limitados o estar surgiendo.
 

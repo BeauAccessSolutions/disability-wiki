@@ -31,52 +31,52 @@ El **112** funciona en **todos los países de la UE** y en muchos otros para eme
 
 ### Europa Occidental
 - [Austria](#austria)
-- [Bélgica](#belgium)
-- [Francia](#france)
-- [Alemania](#germany)
-- [Irlanda](#ireland)
-- [Luxemburgo](#luxembourg)
-- [Países Bajos](#netherlands)
-- [Suiza](#switzerland)
-- [Reino Unido](#united-kingdom)
+- [Bélgica](#bélgica)
+- [Francia](#francia)
+- [Alemania](#alemania)
+- [Irlanda](#irlanda)
+- [Luxemburgo](#luxemburgo)
+- [Países Bajos](#países-bajos)
+- [Suiza](#suiza)
+- [Reino Unido](#reino-unido)
 
 ### Europa del Norte
-- [Dinamarca](#denmark)
-- [Finlandia](#finland)
-- [Islandia](#iceland)
-- [Noruega](#norway)
-- [Suecia](#sweden)
+- [Dinamarca](#dinamarca)
+- [Finlandia](#finlandia)
+- [Islandia](#islandia)
+- [Noruega](#noruega)
+- [Suecia](#suecia)
 
 ### Europa del Sur
-- [Grecia](#greece)
-- [Italia](#italy)
+- [Grecia](#grecia)
+- [Italia](#italia)
 - [Portugal](#portugal)
-- [España](#spain)
+- [España](#españa)
 
 ### Europa Central y Oriental
-- [República Checa](#czech-republic)
-- [Hungría](#hungary)
-- [Polonia](#poland)
-- [Rumania](#romania)
-- [Eslovaquia](#slovakia)
+- [República Checa](#república-checa)
+- [Hungría](#hungría)
+- [Polonia](#polonia)
+- [Rumania](#rumania)
+- [Eslovaquia](#eslovaquia)
 
 ### Balcanes y Europa del Sureste
 - [Albania](#albania)
 - [Bulgaria](#bulgaria)
-- [Croacia](#croatia)
+- [Croacia](#croacia)
 - [Serbia](#serbia)
-- [Eslovenia](#slovenia)
+- [Eslovenia](#eslovenia)
 
 ### Estados bálticos
 - [Estonia](#estonia)
-- [Letonia](#latvia)
-- [Lituania](#lithuania)
+- [Letonia](#letonia)
+- [Lituania](#lituania)
 
 ---
 
 ## Europa Occidental
 
-### Austria {#austria}
+### Austria
 
 **Telefonseelsorge (línea de crisis)**
 - Teléfono: 142 (gratuito, 24/7)
@@ -96,7 +96,7 @@ El **112** funciona en **todos los países de la UE** y en muchos otros para eme
 
 ---
 
-### Bélgica {#belgium}
+### Bélgica
 
 **Centre de Prévention du Suicide / Centrum ter Preventie van Zelfdoding**
 - Teléfono: 0800-32-123 (gratuito, 24/7)
@@ -116,7 +116,7 @@ El **112** funciona en **todos los países de la UE** y en muchos otros para eme
 
 ---
 
-### Francia {#france}
+### Francia
 
 **S.O.S Amitié (prevención del suicidio)**
 - Teléfono: 09-72-39-40-50 (24/7)
@@ -141,7 +141,7 @@ El **112** funciona en **todos los países de la UE** y en muchos otros para eme
 
 ---
 
-### Alemania {#germany}
+### Alemania
 
 **Telefonseelsorge**
 - Teléfono: 0800-111-0-111 o 0800-111-0-222 (gratuito, 24/7)
@@ -162,7 +162,7 @@ El **112** funciona en **todos los países de la UE** y en muchos otros para eme
 
 ---
 
-### Irlanda {#ireland}
+### Irlanda
 
 **Samaritans Ireland**
 - Teléfono: 116-123 (gratuito, 24/7)
@@ -186,7 +186,7 @@ El **112** funciona en **todos los países de la UE** y en muchos otros para eme
 
 ---
 
-### Luxemburgo {#luxembourg}
+### Luxemburgo
 
 **SOS Détresse (línea de crisis)**
 - Teléfono: 45-45-45 (24/7)
@@ -201,7 +201,7 @@ El **112** funciona en **todos los países de la UE** y en muchos otros para eme
 
 ---
 
-### Países Bajos {#netherlands}
+### Países Bajos
 
 **113 Zelfmoordpreventie (prevención del suicidio)**
 - Teléfono: 0800-0113 (gratuito, 24/7)
@@ -213,7 +213,7 @@ El **112** funciona en **todos los países de la UE** y en muchos otros para eme
 
 ---
 
-### Suiza {#switzerland}
+### Suiza
 
 **Die Dargebotene Hand / La Main Tendue / Telefono Amico**
 - Teléfono: 143 (24/7)
@@ -234,7 +234,7 @@ El **112** funciona en **todos los países de la UE** y en muchos otros para eme
 
 ---
 
-### Reino Unido {#united-kingdom}
+### Reino Unido
 
 **Samaritans**
 - Teléfono: 116-123 (gratuito, 24/7)
@@ -265,7 +265,7 @@ El **112** funciona en **todos los países de la UE** y en muchos otros para eme
 
 ## Europa del Norte
 
-### Dinamarca {#denmark}
+### Dinamarca
 
 **Livslinien (prevención del suicidio)**
 - Teléfono: 70-201-201 (24/7)
@@ -279,7 +279,7 @@ El **112** funciona en **todos los países de la UE** y en muchos otros para eme
 
 ---
 
-### Finlandia {#finland}
+### Finlandia
 
 **Suomen Mielenterveysseura (línea de ayuda en crisis)**
 - Teléfono: 09-2525-0111 (24/7)
@@ -293,7 +293,7 @@ El **112** funciona en **todos los países de la UE** y en muchos otros para eme
 
 ---
 
-### Islandia {#iceland}
+### Islandia
 
 **Rauði Krossinn (línea de ayuda de la Cruz Roja)**
 - Teléfono: 1717 (24/7)
@@ -303,7 +303,7 @@ El **112** funciona en **todos los países de la UE** y en muchos otros para eme
 
 ---
 
-### Noruega {#norway}
+### Noruega
 
 **Mental Helse Hjelpetelefonen**
 - Teléfono: 116-123 (gratuito, 24/7)
@@ -317,7 +317,7 @@ El **112** funciona en **todos los países de la UE** y en muchos otros para eme
 
 ---
 
-### Suecia {#sweden}
+### Suecia
 
 **Mind (prevención del suicidio)**
 - Teléfono: 90101 (24/7)
@@ -335,7 +335,7 @@ El **112** funciona en **todos los países de la UE** y en muchos otros para eme
 
 ## Europa del Sur
 
-### Grecia {#greece}
+### Grecia
 
 **Klimaka (prevención del suicidio)**
 - Teléfono: 1018 (24/7)
@@ -352,7 +352,7 @@ El **112** funciona en **todos los países de la UE** y en muchos otros para eme
 
 ---
 
-### Italia {#italy}
+### Italia
 
 **Telefono Amico Italia**
 - Teléfono: 02-2327-2327 (todos los días de 10 a. m. a medianoche)
@@ -371,7 +371,7 @@ El **112** funciona en **todos los países de la UE** y en muchos otros para eme
 
 ---
 
-### Portugal {#portugal}
+### Portugal
 
 **SOS Voz Amiga**
 - Teléfono: 21-354-4545 o 91-280-2669 (de 4 p. m. a medianoche todos los días)
@@ -388,7 +388,7 @@ El **112** funciona en **todos los países de la UE** y en muchos otros para eme
 
 ---
 
-### España {#spain}
+### España
 
 **Teléfono de la Esperanza**
 - Teléfono: 717-003-717 (24/7)
@@ -413,7 +413,7 @@ El **112** funciona en **todos los países de la UE** y en muchos otros para eme
 
 ## Europa Central y Oriental
 
-### República Checa {#czech-republic}
+### República Checa
 
 **Linka důvěry (línea de crisis)**
 - Teléfono: 116-123 (24/7)
@@ -427,7 +427,7 @@ El **112** funciona en **todos los países de la UE** y en muchos otros para eme
 
 ---
 
-### Hungría {#hungary}
+### Hungría
 
 **LESZ — Magyar Lelki Elsősegély Szolgálatok (línea de crisis)**
 - Teléfono: 116-123 (gratuito, 24/7)
@@ -440,7 +440,7 @@ El **112** funciona en **todos los países de la UE** y en muchos otros para eme
 
 ---
 
-### Polonia {#poland}
+### Polonia
 
 **Telefon Zaufania dla Dzieci i Młodzieży (línea de confianza juvenil)**
 - Teléfono: 116-111 (gratuito, 24/7)
@@ -454,7 +454,7 @@ El **112** funciona en **todos los países de la UE** y en muchos otros para eme
 
 ---
 
-### Rumania {#romania}
+### Rumania
 
 **Telefon de Suflet (Soul Phone)**
 - Teléfono: 0800 801 200 (gratuito)
@@ -469,7 +469,7 @@ El **112** funciona en **todos los países de la UE** y en muchos otros para eme
 
 ---
 
-### Eslovaquia {#slovakia}
+### Eslovaquia
 
 **Linka dôvery (línea de crisis)**
 - Teléfono: 0800-500-502 (gratuito, 24/7)
@@ -484,7 +484,7 @@ El **112** funciona en **todos los países de la UE** y en muchos otros para eme
 
 ## Balcanes y Europa del Sureste
 
-### Albania {#albania}
+### Albania
 
 **Allô Psikologe (línea de psicología)**
 - Teléfono: 127 o 0800-8080 (gratuito)
@@ -494,7 +494,7 @@ El **112** funciona en **todos los países de la UE** y en muchos otros para eme
 
 ---
 
-### Bulgaria {#bulgaria}
+### Bulgaria
 
 **National Helpline for Children**
 - Teléfono: 116-111 (gratuito, 24/7)
@@ -504,7 +504,7 @@ El **112** funciona en **todos los países de la UE** y en muchos otros para eme
 
 ---
 
-### Croacia {#croatia}
+### Croacia
 
 **Plavi Telefon (Blue Phone)**
 - Teléfono: 01-4833-888 (24/7)
@@ -518,7 +518,7 @@ El **112** funciona en **todos los países de la UE** y en muchos otros para eme
 
 ---
 
-### Serbia {#serbia}
+### Serbia
 
 **Centar Srce (Heart Center)**
 - Teléfono: 0800-300-303 (gratuito, de lunes a viernes de 4 p. m. a 10 p. m.)
@@ -528,7 +528,7 @@ El **112** funciona en **todos los países de la UE** y en muchos otros para eme
 
 ---
 
-### Eslovenia {#slovenia}
+### Eslovenia
 
 **Zaupni Telefon Samarijan (Samaritans Trust Phone)**
 - Teléfono: 116-123 (24/7)
@@ -544,7 +544,7 @@ El **112** funciona en **todos los países de la UE** y en muchos otros para eme
 
 ## Estados bálticos
 
-### Estonia {#estonia}
+### Estonia
 
 **Eluliin (Lifeline)**
 - Teléfono: 655-8088 (24/7)
@@ -558,7 +558,7 @@ El **112** funciona en **todos los países de la UE** y en muchos otros para eme
 
 ---
 
-### Letonia {#latvia}
+### Letonia
 
 **Skalbes (prevención del suicidio)**
 - Teléfono: 67-222-922 o 27-722-292 (24/7)
@@ -571,7 +571,7 @@ El **112** funciona en **todos los países de la UE** y en muchos otros para eme
 
 ---
 
-### Lituania {#lithuania}
+### Lituania
 
 **Jaunimo Linija (línea juvenil)**
 - Teléfono: 8-800-28-888 (gratuito, 24/7)

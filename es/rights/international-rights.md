@@ -17,18 +17,18 @@ Todas las personas con discapacidad tienen dignidad inherente e iguales derechos
 ## ¿Dónde estás?
 
 **Salta a tu región:**
-- [Marco de las Naciones Unidas](#united-nations-framework)
-- [Europa](#europe)
-- [Américas](#americas)
-- [Asia-Pacífico](#asia-pacific)
-- [África](#africa)
-- [Medio Oriente](#middle-east)
+- [Marco de las Naciones Unidas](#convención-de-la-onu-sobre-los-derechos-de-las-personas-con-discapacidad-cdpd)
+- [Europa](#europa)
+- [Américas](#américas)
+- [Asia-Pacífico](#asia-pacífico)
+- [África](#áfrica)
+- [Medio Oriente](#medio-oriente)
 
 ---
 
 ## El marco global
 
-### Convención de la ONU sobre los Derechos de las Personas con Discapacidad (CDPD) {#united-nations-framework}
+### Convención de la ONU sobre los Derechos de las Personas con Discapacidad (CDPD)
 
 La CDPD es el principal tratado internacional de derechos humanos que protege los derechos de las personas con discapacidad. Adoptada en 2006 y en vigor desde 2008, fue moldeada de forma significativa por las organizaciones de personas con discapacidad bajo el principio "Nada Sobre Nosotros Sin Nosotros".
 
@@ -77,7 +77,7 @@ Este comité de 18 expertos independientes supervisa la implementación de la CD
 
 ## Marcos regionales
 
-### Europa {#europe}
+### Europa
 
 **Convenio Europeo de Derechos Humanos**
 
@@ -107,7 +107,7 @@ La Carta Social Europea garantiza los derechos de las personas con discapacidad 
 - European Network on Independent Living (ENIL): Promueve la vida independiente y la desinstitucionalización
 - Inclusion Europe: Aboga por las personas con discapacidad intelectual
 
-### Américas {#americas}
+### Américas
 
 **Convención Interamericana para la Eliminación de Todas las Formas de Discriminación contra las Personas con Discapacidad (1999)**
 
@@ -129,7 +129,7 @@ Ha abordado los derechos de las personas con discapacidad mediante informes por 
 - Red Latinoamericana de Organizaciones de Personas con Discapacidad y sus Familias (RIADIS): Red regional de organizaciones de personas con discapacidad
 - Disability Rights International: Documenta las condiciones en las instituciones y aboga por la vida en comunidad
 
-### Asia-Pacífico {#asia-pacific}
+### Asia-Pacífico
 
 **Estrategia de Incheon "Hacer realidad el derecho" (2012)**
 
@@ -158,7 +158,7 @@ La Asociación de Naciones del Sudeste Asiático adoptó este marco centrado en 
 - Disabled People's International Asia-Pacific: Red regional
 - Organizaciones nacionales de discapacidad en cada país que lideran la defensa local
 
-### África {#africa}
+### África
 
 **Protocolo de la Carta Africana de Derechos Humanos y de los Pueblos sobre los Derechos de las Personas con Discapacidad (2018)**
 
@@ -187,7 +187,7 @@ El protocolo incluye disposiciones que abordan específicamente los contextos af
 - Secretaría de la Década Africana de las Personas con Discapacidad
 - Organizaciones nacionales de personas con discapacidad en cada país
 
-### Medio Oriente {#middle-east}
+### Medio Oriente
 
 **Década Árabe de las Personas con Discapacidad (2003-2012, prorrogada)**
 

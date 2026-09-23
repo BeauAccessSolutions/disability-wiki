@@ -20,16 +20,16 @@ Esta página pone en el centro los conocimientos de las personas con discapacida
 
 Salta a tu país o región:
 
-- [Entender la AT y los equipos médicos](#understanding-at-and-medical-equipment)
-- [Estados Unidos](#united-states)
-- [Canadá](#canada)
-- [Reino Unido](#united-kingdom)
-- [Australia](#australia)
-- [Otros países](#other-countries)
+- [Entender la AT y los equipos médicos](#entender-la-at-y-los-equipos-médicos)
+- [Estados Unidos](#estados-unidos-1)
+- [Canadá](#canadá-1)
+- [Reino Unido](#reino-unido-1)
+- [Australia](#australia-1)
+- [Otros países](#otros-países)
 
 ---
 
-## Entender la AT y los equipos médicos {#understanding-at-and-medical-equipment}
+## Entender la AT y los equipos médicos
 
 ### ¿Cuál es la diferencia?
 
@@ -93,7 +93,7 @@ Las categorías se superponen de manera significativa, y las fuentes de financia
 
 ---
 
-## Estados Unidos {#united-states}
+## Estados Unidos
 
 ### Fuentes de financiamiento
 
@@ -231,7 +231,7 @@ Conseguir la AT correcta comienza con una buena evaluación:
 
 ---
 
-## Canadá {#canada}
+## Canadá
 
 ### Variación provincial
 
@@ -272,7 +272,7 @@ El financiamiento de la AT varía de forma significativa según la provincia.
 
 ---
 
-## Reino Unido {#united-kingdom}
+## Reino Unido
 
 ### Provisión del NHS
 
@@ -325,7 +325,7 @@ Alguna AT requiere compra privada:
 
 ---
 
-## Australia {#australia}
+## Australia
 
 ### NDIS
 
@@ -373,7 +373,7 @@ Los estados tienen programas para personas que no están en el NDIS:
 
 ---
 
-## Otros países {#other-countries}
+## Otros países
 
 ### El acceso varía mucho
 
@@ -508,25 +508,25 @@ Conoce tus derechos a reparaciones oportunas. Documenta la avería y las solicit
 - **WHO Priority Assistive Products List**: who.int/publications/i/item/978924001808
 - **ATscale Global Partnership**: [atscalepartnership.org](https://atscalepartnership.org)
 
-### Estados Unidos {#united-states}
+### Estados Unidos
 
 - **State AT Programs**: [at3center.net/state-at-programs](https://at3center.net/state-at-programs/)
 - **National Assistive Technology Act Technical Assistance and Training Center**: [catada.info](https://catada.info)
 - **RESNA**: [resna.org](https://resna.org)
 - **Medicare DME Information**: [medicare.gov/coverage/durable-medical-equipment-dme-coverage](https://medicare.gov/coverage/durable-medical-equipment-dme-coverage)
 
-### Canadá {#canada}
+### Canadá
 
 - **Neil Squire Society**: [neilsquire.ca](https://neilsquire.ca)
 - **Programas provinciales de dispositivos de asistencia**
 
-### Reino Unido {#united-kingdom}
+### Reino Unido
 
 - **NHS Wheelchair Services**: [nhs.uk](https://nhs.uk)
 - **Communication Matters**: [communicationmatters.org.uk](https://communicationmatters.org.uk)
 - **Living Made Easy**: [livingmadeeasy.org.uk](https://livingmadeeasy.org.uk) (antes Disabled Living Foundation, ahora parte de Shaw Trust)
 
-### Australia {#australia}
+### Australia
 
 - **NED (National Equipment Database)**: [askned.com.au](https://askned.com.au) (antes Independent Living Centres Australia; línea nacional de asesoría 1300 885 886)
 - **AT Australia**: assistivetechnologyaustralia.org.au

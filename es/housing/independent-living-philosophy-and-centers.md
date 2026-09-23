@@ -116,16 +116,16 @@ El marco de la **justicia para las personas con discapacidad (Disability Justice
 
 Elige tu país o región para ver cómo opera la filosofía de la IL, qué servicios y organizaciones existen y cómo participar:
 
-- **[Estados Unidos](#united-states)**
-- **[Canadá](#canada)**
-- **[Unión Europea y Estados miembros](#european-union)**
-- **[Reino Unido](#united-kingdom)**
+- **[Estados Unidos](#estados-unidos)**
+- **[Canadá](#canadá)**
+- **[Unión Europea y Estados miembros](#unión-europea-y-estados-miembros)**
+- **[Reino Unido](#reino-unido)**
 - **[Australia](#australia)**
-- **[Otros países](#other-countries)**
+- **[Otros países](#otros-países)**
 
 ---
 
-## Estados Unidos {#united-states}
+## Estados Unidos
 
 EE. UU. es la cuna del movimiento de IL. Existe una infraestructura sólida de IL, aunque el financiamiento y la implementación son variables.
 
@@ -180,7 +180,7 @@ EE. UU. es la cuna del movimiento de IL. Existe una infraestructura sólida de I
 
 ---
 
-## Canadá {#canada}
+## Canadá
 
 Canadá tiene una infraestructura de IL similar a la de EE. UU., aunque integrada de manera algo diferente con los sistemas provinciales.
 
@@ -217,7 +217,7 @@ Similares a los de EE. UU.: control de la persona usuaria, apoyo entre pares, tr
 
 ---
 
-## Unión Europea y Estados miembros {#european-union}
+## Unión Europea y Estados miembros
 
 El movimiento de IL está menos desarrollado en Europa que en EE. UU. y Canadá, pero crece. Las variaciones nacionales son significativas.
 
@@ -255,7 +255,7 @@ El movimiento de IL está menos desarrollado en Europa que en EE. UU. y Canadá,
 
 ---
 
-## Reino Unido {#united-kingdom}
+## Reino Unido
 
 El Reino Unido tiene historia y organizaciones de IL, aunque con una estructura formal de CIL menos desarrollada que la de EE. UU. y Canadá.
 
@@ -291,7 +291,7 @@ El Reino Unido tiene historia y organizaciones de IL, aunque con una estructura 
 
 ---
 
-## Australia {#australia}
+## Australia
 
 Australia tiene servicios de IL en parte a través de la estructura del NDIS, aunque el NDIS difiere del modelo tradicional de CIL.
 
@@ -325,7 +325,7 @@ Australia tiene servicios de IL en parte a través de la estructura del NDIS, au
 
 ---
 
-## Otros países {#other-countries}
+## Otros países
 
 El movimiento de IL está menos desarrollado a nivel global, pero emerge en muchos países. Los principios universales se aplican; la infraestructura varía.
 

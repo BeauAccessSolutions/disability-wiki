@@ -32,16 +32,16 @@ Estos principios se aplican de manera universal, sin importar tu país. Lo que v
 
 Elige tu ubicación para ver información detallada sobre derechos de vivienda, protecciones y recursos en tu zona:
 
-- **[Estados Unidos](#united-states)**
-- **[Canadá](#canada)**
-- **[Unión Europea y Estados miembros](#european-union)**
-- **[Reino Unido](#united-kingdom)**
+- **[Estados Unidos](#estados-unidos)**
+- **[Canadá](#canadá)**
+- **[Unión Europea y Estados miembros](#unión-europea-y-estados-miembros)**
+- **[Reino Unido](#reino-unido)**
 - **[Australia](#australia)**
-- **[Otros países](#other-countries)**
+- **[Otros países](#otros-países)**
 
 ---
 
-## Estados Unidos {#united-states}
+## Estados Unidos
 
 EE. UU. no ha ratificado la CDPD (aunque la firmó), por lo que la CDPD no es jurídicamente vinculante. Sin embargo, el caso **Olmstead v. L.C. (1999)**, una decisión de la Corte Suprema que interpreta la Ley de Estadounidenses con Discapacidades (Americans with Disabilities Act, ADA), estableció el mismo principio que el artículo 19 de la CDPD: la segregación injustificada de las personas con discapacidad en instituciones viola la ADA. Los derechos de vivienda en EE. UU. se implementan principalmente a través de la ley federal, la ley estatal y las ordenanzas locales.
 
@@ -145,7 +145,7 @@ Algunos arrendadores responden a una documentación clara. Las organizaciones de
 
 ---
 
-## Canadá {#canada}
+## Canadá
 
 Canadá ratificó la CDPD en 2016 e implementa el artículo 19 a través de múltiples marcos. Los derechos de vivienda varían según la provincia.
 
@@ -185,7 +185,7 @@ Documenta todas las comunicaciones. Si el arrendador se niega, contacta a tu com
 
 ---
 
-## Unión Europea y Estados miembros {#european-union}
+## Unión Europea y Estados miembros
 
 Los Estados miembros de la UE deben implementar los principios del artículo 19 de la CDPD. La UE ofrece marcos coordinados, pero la implementación varía según el país.
 
@@ -211,7 +211,7 @@ La implementación varía drásticamente. Algunos países brindan fuertes protec
 
 **Suecia**: eliminó las instituciones residenciales en la década de 1970. Apoyo basado en la comunidad como estándar. El 10 % del parque de vivienda debe ser accesible para sillas de ruedas.
 
-**Reino Unido** (posterior al Brexit pero aún relevante): la Equality Act 2010 exige a los arrendadores hacer ajustes razonables. Un fallo de la Corte Suprema de 2023: las autoridades locales no pueden eludir sus deberes por falta de recursos. Las Disabled Facilities Grants financian modificaciones (aunque llegan solo al 6 % de los inquilinos elegibles). Consulta la sección [Reino Unido](#united-kingdom) más abajo.
+**Reino Unido** (posterior al Brexit pero aún relevante): la Equality Act 2010 exige a los arrendadores hacer ajustes razonables. Un fallo de la Corte Suprema de 2023: las autoridades locales no pueden eludir sus deberes por falta de recursos. Las Disabled Facilities Grants financian modificaciones (aunque llegan solo al 6 % de los inquilinos elegibles). Consulta la sección [Reino Unido](#reino-unido) más abajo.
 
 **Francia, España, Italia, Polonia**: distintos niveles de implementación de la CDPD. La desinstitucionalización continúa, pero avanza con lentitud. Existen protecciones de vivienda, pero la aplicación varía.
 
@@ -233,7 +233,7 @@ Contacta a tu organización nacional de derechos de las personas con discapacida
 
 ---
 
-## Reino Unido {#united-kingdom}
+## Reino Unido
 
 El Reino Unido ratificó la CDPD en 2009 (posterior al Brexit, pero las obligaciones de la CDPD permanecen). Los derechos de vivienda se implementan a través de la legislación británica.
 
@@ -279,7 +279,7 @@ Contacta al departamento de vivienda de tu municipio local o a la defensoría de
 
 ---
 
-## Australia {#australia}
+## Australia
 
 Australia ratificó la CDPD en 2008. Los derechos de vivienda se implementan principalmente a través de la Disability Discrimination Act y el National Disability Insurance Scheme (NDIS).
 
@@ -325,7 +325,7 @@ Contacta a la **Comisión Australiana de Derechos Humanos (Australian Human Righ
 
 ---
 
-## Otros países {#other-countries}
+## Otros países
 
 Muchos países del mundo han ratificado la CDPD y están implementando protecciones de vivienda, aunque el avance y los recursos varían drásticamente.
 

@@ -16,12 +16,12 @@ Esta página documenta adaptaciones específicas y concretas que las personas co
 
 **Quiero ver ejemplos de:**
 
-- [Modificaciones de accesibilidad física](#adaptaciones-fisicas-a-lo-largo-de-la-historia) — Rampas, vivienda, herramientas.
-- [Adaptaciones de comunicación](#adaptaciones-de-comunicacion) — Lengua de señas, escritura, señales.
-- [Adaptaciones laborales y económicas](#adaptaciones-laborales-y-economicas) — Empleo, oficios, roles.
+- [Modificaciones de accesibilidad física](#adaptaciones-físicas-a-lo-largo-de-la-historia) — Rampas, vivienda, herramientas.
+- [Adaptaciones de comunicación](#adaptaciones-de-comunicación) — Lengua de señas, escritura, señales.
+- [Adaptaciones laborales y económicas](#adaptaciones-laborales-y-económicas) — Empleo, oficios, roles.
 - [Sistemas de apoyo comunitario](#adaptaciones-basadas-en-la-comunidad) — Trabajo compartido, mentoría.
 - [Tecnología y herramientas](#dispositivos-de-asistencia-a-lo-largo-de-la-historia) — Prótesis, dispositivos, ayudas.
-- [Historias concretas](#ejemplos-historicos-detallados) — Ejemplos históricos reales.
+- [Historias concretas](#ejemplos-históricos-detallados) — Ejemplos históricos reales.
 - [Prácticas que hemos perdido](#lo-que-podemos-recuperar) — Recuperar adaptaciones perdidas.
 
 ---
@@ -40,7 +40,7 @@ Esta página muestra lo que la gente realmente hacía.
 
 ---
 
-## Adaptaciones físicas a lo largo de la historia {#adaptaciones-fisicas-a-lo-largo-de-la-historia}
+## Adaptaciones físicas a lo largo de la historia
 
 ### Rampas y entradas accesibles
 
@@ -139,7 +139,7 @@ Esta página muestra lo que la gente realmente hacía.
 
 ---
 
-## Adaptaciones de comunicación {#adaptaciones-de-comunicacion}
+## Adaptaciones de comunicación
 
 ### Sistemas de lengua de señas
 
@@ -215,7 +215,7 @@ Esta página muestra lo que la gente realmente hacía.
 
 ---
 
-## Adaptaciones laborales y económicas {#adaptaciones-laborales-y-economicas}
+## Adaptaciones laborales y económicas
 
 ### El ejemplo de los piratas
 
@@ -290,7 +290,7 @@ Esta página muestra lo que la gente realmente hacía.
 
 ---
 
-## Adaptaciones basadas en la comunidad {#adaptaciones-basadas-en-la-comunidad}
+## Adaptaciones basadas en la comunidad
 
 ### Trabajo compartido y sistemas de apoyo
 
@@ -351,7 +351,7 @@ Esta página muestra lo que la gente realmente hacía.
 
 ---
 
-## Dispositivos de asistencia a lo largo de la historia {#dispositivos-de-asistencia-a-lo-largo-de-la-historia}
+## Dispositivos de asistencia a lo largo de la historia
 
 ### Dispositivos de movilidad
 
@@ -435,7 +435,7 @@ Esta página muestra lo que la gente realmente hacía.
 
 ---
 
-## Ejemplos históricos detallados {#ejemplos-historicos-detallados}
+## Ejemplos históricos detallados
 
 ### Ejemplo 1: tejedoras y tejedores ciegos medievales
 
@@ -596,7 +596,7 @@ Cuando ocurrió la industrialización:
 
 ---
 
-## Lo que podemos recuperar {#lo-que-podemos-recuperar}
+## Lo que podemos recuperar
 
 De estas prácticas históricas, podemos recuperar:
 

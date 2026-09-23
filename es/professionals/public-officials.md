@@ -74,16 +74,16 @@ En la mayoría de los países, el acceso para personas con discapacidad es un re
 
 Los marcos legales varían según la jurisdicción. Ve a tu ubicación:
 
-- [Estados Unidos](#united-states)
-- [Canadá](#canada)
-- [Reino Unido](#united-kingdom)
+- [Estados Unidos](#estados-unidos)
+- [Canadá](#canadá)
+- [Reino Unido](#reino-unido)
 - [Australia](#australia)
-- [Unión Europea](#european-union)
-- [Otros países](#other-countries)
+- [Unión Europea](#unión-europea)
+- [Otros países](#otros-países)
 
 ---
 
-## Estados Unidos {#united-states}
+## Estados Unidos
 
 ### Requisitos legales
 
@@ -166,7 +166,7 @@ Esto debería ser una rutina, no una solicitud especial.
 
 ---
 
-## Canadá {#canada}
+## Canadá
 
 ### Marco legal
 
@@ -189,7 +189,7 @@ La **Accessible Canada Act** (federal) y la legislación provincial de accesibil
 
 ---
 
-## Reino Unido {#united-kingdom}
+## Reino Unido
 
 ### Marco legal
 
@@ -217,7 +217,7 @@ Esto significa pensar proactivamente en los votantes con discapacidad, no solo r
 
 ---
 
-## Australia {#australia}
+## Australia
 
 ### Marco legal
 
@@ -233,7 +233,7 @@ Las **Disability Standards** cubren áreas específicas como el transporte públ
 
 ---
 
-## Unión Europea {#european-union}
+## Unión Europea
 
 ### Marco legal
 
@@ -250,7 +250,7 @@ Las leyes nacionales varían, pero generalmente prohíben la discriminación por
 
 ---
 
-## Otros países {#other-countries}
+## Otros países
 
 ### Principios universales
 

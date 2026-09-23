@@ -20,17 +20,17 @@ Esta página pone en el centro los conocimientos de las personas con discapacida
 
 Salta a tu sección:
 
-- [Barreras comunes en la atención médica](#common-healthcare-barriers)
-- [Tus derechos](#your-rights)
-- [Cómo encontrar proveedores accesibles](#finding-accessible-providers)
-- [Cómo prepararte para las citas](#preparing-for-appointments)
-- [Durante las citas](#during-appointments)
-- [Entornos de atención médica específicos](#specific-healthcare-settings)
-- [Información por país](#country-specific-information)
+- [Barreras comunes en la atención médica](#barreras-comunes-en-la-atención-médica)
+- [Tus derechos](#tus-derechos)
+- [Cómo encontrar proveedores accesibles](#cómo-encontrar-proveedores-accesibles)
+- [Cómo prepararte para las citas](#cómo-prepararte-para-las-citas)
+- [Durante las citas](#durante-las-citas)
+- [Entornos de atención médica específicos](#entornos-de-atención-médica-específicos)
+- [Información por país](#información-por-país)
 
 ---
 
-## Barreras comunes en la atención médica {#common-healthcare-barriers}
+## Barreras comunes en la atención médica
 
 ### Accesibilidad física
 
@@ -68,7 +68,7 @@ Salta a tu sección:
 
 ---
 
-## Tus derechos {#your-rights}
+## Tus derechos
 
 ### Protecciones legales
 
@@ -102,7 +102,7 @@ En la mayoría de los países, los proveedores de atención médica deben:
 
 ---
 
-## Cómo encontrar proveedores accesibles {#finding-accessible-providers}
+## Cómo encontrar proveedores accesibles
 
 ### Preguntas para hacer
 
@@ -139,7 +139,7 @@ Con el tiempo, construye relaciones con:
 
 ---
 
-## Cómo prepararte para las citas {#preparing-for-appointments}
+## Cómo prepararte para las citas
 
 ### Antes de ir
 
@@ -175,7 +175,7 @@ Puedes llevar a alguien para que ayude a:
 
 ---
 
-## Durante las citas {#during-appointments}
+## Durante las citas
 
 ### Estrategias de autodefensa
 
@@ -216,7 +216,7 @@ Puedes llevar a alguien para que ayude a:
 
 ---
 
-## Entornos de atención médica específicos {#specific-healthcare-settings}
+## Entornos de atención médica específicos
 
 ### Salas de emergencia
 
@@ -266,7 +266,7 @@ Mereces atención preventiva. Defiende los tamizajes accesibles.
 
 ---
 
-## Información por país {#country-specific-information}
+## Información por país
 
 ### Estados Unidos
 

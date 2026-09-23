@@ -66,7 +66,7 @@ La **Fair Housing Act** prohíbe la discriminación por discapacidad en la vivie
 
 La **Sección 504 de la Rehabilitation Act** se aplica a la vivienda con financiamiento federal y exige accesibilidad y adaptaciones.
 
-Consulta [Derechos de vivienda](/es/housing/housing-rights.md#united-states) para las protecciones detalladas de EE. UU.
+Consulta [Derechos de vivienda](/es/housing/housing-rights.md#estados-unidos) para las protecciones detalladas de EE. UU.
 
 ### Canadá
 
@@ -78,7 +78,7 @@ La **Canadian Human Rights Act** prohíbe la discriminación por motivo de disca
 
 Los códigos provinciales de derechos humanos y las leyes de arrendamiento brindan protecciones adicionales que varían según la provincia.
 
-Consulta [Derechos de vivienda](/es/housing/housing-rights.md#canada) para información específica de Canadá.
+Consulta [Derechos de vivienda](/es/housing/housing-rights.md#canadá) para información específica de Canadá.
 
 ### Unión Europea
 
@@ -98,7 +98,7 @@ El **Reino Unido (posterior al Brexit)** ha ratificado la CDPD y la implementa a
 
 **Francia, España, Italia y los Países Bajos** tienen distintos niveles de implementación de la CDPD, con resultados mixtos en la desinstitucionalización y el acceso a la vivienda comunitaria.
 
-Consulta [Derechos de vivienda](/es/housing/housing-rights.md#european-union) para los marcos específicos de la UE.
+Consulta [Derechos de vivienda](/es/housing/housing-rights.md#unión-europea-y-estados-miembros) para los marcos específicos de la UE.
 
 ### Australia
 
@@ -130,7 +130,7 @@ Ejemplos de avances:
 - **India**: las organizaciones de derechos de las personas con discapacidad presionan por el cumplimiento de las disposiciones de la Ley RPwD sobre vivienda accesible
 - **Kenia y en toda África Oriental**, las organizaciones de discapacidad se organizan por alternativas de vida comunitaria
 
-Consulta [Derechos de vivienda](/es/housing/housing-rights.md#other-countries) para información sobre países y regiones específicos.
+Consulta [Derechos de vivienda](/es/housing/housing-rights.md#otros-países) para información sobre países y regiones específicos.
 
 ## Principios clave aplicados en todos los sistemas legales
 
