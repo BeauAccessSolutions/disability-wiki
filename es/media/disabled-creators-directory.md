@@ -76,6 +76,7 @@ Este directorio reúne en un solo lugar a personas creadoras con discapacidad pa
 | Esmé Weijun Wang | Trastorno esquizoafectivo | Ensayos | The Collected Schizophrenias |
 | Rebekah Taussig | Usuaria de silla de ruedas | Memoria | Sitting Pretty |
 | Simi Linton | Usuaria de silla de ruedas | Memoria/teoría | My Body Politic |
+| Rosemary Richings | Dispraxia | Memoria/neurodiversidad | Stumbling Through Space and Time *(fuera de EE. UU.)* |
 
 ### Poetas
 
