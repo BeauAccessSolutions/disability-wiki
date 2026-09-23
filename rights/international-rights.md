@@ -17,7 +17,7 @@ All disabled people have inherent dignity and equal rights under international l
 ## Where Are You?
 
 **Jump to your region:**
-- [United Nations Framework](#united-nations-framework)
+- [United Nations Framework](#un-convention-on-the-rights-of-persons-with-disabilities-crpd)
 - [Europe](#europe)
 - [Americas](#americas)
 - [Asia-Pacific](#asia-pacific)
@@ -28,7 +28,7 @@ All disabled people have inherent dignity and equal rights under international l
 
 ## The Global Framework
 
-### UN Convention on the Rights of Persons with Disabilities (CRPD) {#united-nations-framework}
+### UN Convention on the Rights of Persons with Disabilities (CRPD)
 
 The CRPD is the primary international human rights treaty protecting disabled people's rights. Adopted in 2006 and entering into force in 2008, it was shaped significantly by disabled people's organizations under the principle "Nothing About Us Without Us."
 

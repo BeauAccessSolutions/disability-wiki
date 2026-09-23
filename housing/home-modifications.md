@@ -76,7 +76,7 @@ Choose your country or region to see what programs fund home modifications, what
 
 - **[United States](#united-states)**
 - **[Canada](#canada)**
-- **[European Union & Member States](#european-union)**
+- **[European Union & Member States](#european-union--member-states)**
 - **[United Kingdom](#united-kingdom)**
 - **[Australia](#australia)**
 - **[Other Countries](#other-countries)**
@@ -192,7 +192,7 @@ Canadian building codes increasingly incorporating accessibility features. New c
 
 ---
 
-## European Union & Member States {#european-union}
+## European Union & Member States
 
 EU funding for home modifications varies dramatically by member state, though EU directives increasingly require accessibility.
 

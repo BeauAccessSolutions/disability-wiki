@@ -114,7 +114,7 @@ Choose your country or region to see specific services, barriers, and organizing
 
 - **[United States](#united-states)**
 - **[Canada](#canada)**
-- **[European Union & Member States](#european-union)**
+- **[European Union & Member States](#european-union--member-states)**
 - **[United Kingdom](#united-kingdom)**
 - **[Australia](#australia)**
 - **[Other Countries](#other-countries)**
@@ -248,7 +248,7 @@ Similar to U.S.: underfunding, institutional inertia, accessibility gaps, servic
 
 ---
 
-## European Union & Member States {#european-union}
+## European Union & Member States
 
 EU member states required to implement CRPD Article 19 (right to live independently in community). Yet homelessness persists across EU, particularly for disabled people.
 

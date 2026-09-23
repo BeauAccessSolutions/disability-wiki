@@ -36,7 +36,7 @@ Choose your country or region to see specific protections, processes, and resour
 
 - **[United States](#united-states)**
 - **[Canada](#canada)**
-- **[European Union & Member States](#european-union)**
+- **[European Union & Member States](#european-union--member-states)**
 - **[United Kingdom](#united-kingdom)**
 - **[Australia](#australia)**
 - **[Other Countries](#other-countries)**
@@ -183,11 +183,11 @@ Landlords cannot retaliate against tenants for asserting rights. Most provinces 
 
 ---
 
-## European Union & Member States {#european-union}
+## European Union & Member States
 
 EU member states must implement CRPD Article 19 protections. Tenant protections vary significantly by country, but core principles apply universally across EU.
 
-For detailed country-specific information, see [Housing Rights](/housing/housing-rights.md#european-union).
+For detailed country-specific information, see [Housing Rights](/housing/housing-rights.md#european-union--member-states).
 
 ### Universal EU principles for disabled tenants
 

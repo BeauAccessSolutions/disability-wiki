@@ -118,7 +118,7 @@ Choose your country or region to see how IL philosophy operates, what services a
 
 - **[United States](#united-states)**
 - **[Canada](#canada)**
-- **[European Union & Member States](#european-union)**
+- **[European Union & Member States](#european-union--member-states)**
 - **[United Kingdom](#united-kingdom)**
 - **[Australia](#australia)**
 - **[Other Countries](#other-countries)**
@@ -217,7 +217,7 @@ Similar to U.S.: consumer control, peer support, cross-disability, community liv
 
 ---
 
-## European Union & Member States {#european-union}
+## European Union & Member States
 
 IL movement less developed in Europe than U.S./Canada, but growing. National variations significant.
 

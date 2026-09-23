@@ -57,10 +57,10 @@ Choose your country or region to find specific databases, search strategies, and
 
 - **[United States](#united-states)**
 - **[Canada](#canada)**
-- **[European Union & Member States](#european-union)**
+- **[European Union & Member States](#european-union--member-states)**
 - **[United Kingdom](#united-kingdom)**
 - **[Australia](#australia)**
-- **[Other Countries & Global Resources](#other-countries)**
+- **[Other Countries & Global Resources](#other-countries--global-resources)**
 
 ---
 
@@ -191,7 +191,7 @@ Building codes (National Building Code of Canada) establish accessibility standa
 
 ---
 
-## European Union & Member States {#european-union}
+## European Union & Member States
 
 EU housing search varies significantly by country. No continent-wide database exists; search tools and accessibility standards vary by member state.
 
@@ -323,7 +323,7 @@ Request written information before applying. Seek assistance from state disabili
 
 ---
 
-## Other Countries & Global Resources {#other-countries}
+## Other Countries & Global Resources
 
 Housing search strategies vary globally based on local housing markets, accessibility standards, and disability infrastructure.
 

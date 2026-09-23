@@ -120,7 +120,7 @@ Choose your country or region to see specific institutional landscapes, deinstit
 
 - **[United States](#united-states)**
 - **[Canada](#canada)**
-- **[European Union & Member States](#european-union)**
+- **[European Union & Member States](#european-union--member-states)**
 - **[United Kingdom](#united-kingdom)**
 - **[Australia](#australia)**
 - **[Other Countries](#other-countries)**
@@ -260,7 +260,7 @@ Similar to U.S.: supported living, self-directed care, host homes, cooperative h
 
 ---
 
-## European Union & Member States {#european-union}
+## European Union & Member States
 
 EU member states required to implement CRPD Article 19 deinstitutionalization. Progress varies dramatically.
 

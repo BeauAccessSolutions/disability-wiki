@@ -98,7 +98,7 @@ Individual member states implement through national laws. Some have strong housi
 
 **France, Spain, Italy, Netherlands** have varying levels of CRPD implementation with mixed results in deinstitutionalization and community housing access.
 
-See [Housing Rights](/housing/housing-rights.md#european-union) for EU-specific frameworks.
+See [Housing Rights](/housing/housing-rights.md#european-union--member-states) for EU-specific frameworks.
 
 ### Australia
 

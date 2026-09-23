@@ -34,7 +34,7 @@ Choose your location to see detailed information about housing rights, protectio
 
 - **[United States](#united-states)**
 - **[Canada](#canada)**
-- **[European Union & Member States](#european-union)**
+- **[European Union & Member States](#european-union--member-states)**
 - **[United Kingdom](#united-kingdom)**
 - **[Australia](#australia)**
 - **[Other countries](#other-countries)**
@@ -185,7 +185,7 @@ Document all communications. If landlord refuses, contact your provincial human 
 
 ---
 
-## European Union & Member States {#european-union}
+## European Union & Member States
 
 EU member states are required to implement CRPD Article 19 principles. The EU provides coordinated frameworks, but implementation varies by country.
 

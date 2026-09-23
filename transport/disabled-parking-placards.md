@@ -35,7 +35,7 @@ If your condition fluctuates, the criteria are about your capacity when limited,
 
 ---
 
-## United States {#united-states}
+## United States
 
 Placards and plates are issued by each state, but states follow federal guidelines in [23 CFR Part 1235](https://www.ecfr.gov/current/title-23/chapter-II/subchapter-B/part-1235), which sets a common definition and a common design. States can be more generous than the federal floor and many are, so treat the following as the baseline rather than the whole answer for your state.
 
@@ -85,7 +85,7 @@ Renewal cycles vary by state, and recertification is sometimes required. Put the
 
 ---
 
-## United Kingdom {#united-kingdom}
+## United Kingdom
 
 The equivalent is the **Blue Badge**. Apply through [GOV.UK's Blue Badge service](https://www.gov.uk/apply-blue-badge), which routes to your local council. Eligibility includes automatic qualification for some people based on specified benefits or assessments, and a discretionary route based on how your condition affects walking or on risk to yourself or others. Since 2019, eligibility in England has explicitly included non-visible conditions, including some mental health and cognitive conditions, which was a significant change and is still not widely known.
 
@@ -93,7 +93,7 @@ Blue Badges work differently from US placards in one important way: in some area
 
 ---
 
-## Canada {#canada}
+## Canada
 
 Accessible parking permits are issued **provincially and territorially**, not federally, and the program names, eligibility wording, application forms, and renewal periods all differ. Most provinces require certification by a physician or another regulated health professional, and most issue both long-term and temporary permits.
 
@@ -112,7 +112,7 @@ Permits from other provinces and from other countries are generally recognized, 
 
 ---
 
-## Other Countries {#other-countries}
+## Other Countries
 
 Most countries with car-based infrastructure have some version of this, and many European countries participate in a common EU parking card scheme that is intended to be recognized across member states. Names, criteria, and whether the permit follows the person or the vehicle all vary.
 

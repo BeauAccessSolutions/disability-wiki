@@ -21,7 +21,7 @@ For most of human history, disabled people were integrated into their communitie
 - [Medieval/feudal approaches](#medieval--feudal-societies) — Feudalism and disability
 - [Indigenous approaches](#indigenous-american-societies) — Pre-contact Americas
 - [What changed and why](#what-happened-the-shift) — Industrialization
-- [Specific examples](#detailed-historical-examples) — Real examples
+- [Specific examples](#examples-of-inclusion) — Real examples
 - [How we know this](#gaps--limitations-in-this-knowledge) — Sources and evidence
 
 ---
@@ -92,7 +92,7 @@ For most of human history, disabled people were integrated into their communitie
 - Specialization based on strengths
 - Flexibility in roles
 
-### Examples of Inclusion {#detailed-historical-examples}
+### Examples of Inclusion
 
 **Archaeological sites show:**
 - **Shanidar Cave (Iraq)**: Neanderthal skeleton shows individual survived with severe disability, lived to ~40 years old, received community care

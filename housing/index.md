@@ -20,7 +20,7 @@ Choose your country or region to find specific housing rights, programs, and res
 
 - **United States** → See [Housing Rights](/housing/housing-rights.md#united-states), [Home Modifications](/housing/home-modifications.md#united-states), [Accessible Housing Search Guide](/housing/accessible-housing-search-guide.md)
 - **Canada** → See [Housing Rights](/housing/housing-rights.md#canada), [Home Modifications](/housing/home-modifications.md#canada)
-- **European Union & Member States** → See [Housing Rights](/housing/housing-rights.md#european-union), [Home Modifications](/housing/home-modifications.md#european-union)
+- **European Union & Member States** → See [Housing Rights](/housing/housing-rights.md#european-union--member-states), [Home Modifications](/housing/home-modifications.md#european-union--member-states)
 - **United Kingdom** → See [Housing Rights](/housing/housing-rights.md#united-kingdom), [Home Modifications](/housing/home-modifications.md#united-kingdom)
 - **Australia** → See [Housing Rights](/housing/housing-rights.md#australia), [Home Modifications](/housing/home-modifications.md#australia)
 - **Other countries** → See [Housing Rights](/housing/housing-rights.md#other-countries), [Home Modifications](/housing/home-modifications.md#other-countries)
