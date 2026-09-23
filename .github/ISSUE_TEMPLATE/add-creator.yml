@@ -1,0 +1,78 @@
+name: Add a creator to the Disabled Creators Directory
+description: Suggest yourself or another openly disabled creator for disabilitywiki.org/media/disabled-creators-directory
+title: "Add creator: "
+labels: ["creator-submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting a creator! We list people who are **openly disabled**, which means the creator has said so publicly themselves. We only use the words they use to describe their disability.
+
+        Anything you write here is public. Creators can ask to be removed at any time.
+  - type: input
+    id: name
+    attributes:
+      label: Name to list
+      description: The name the creator publishes under.
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Writer or author (fiction)
+        - Writer or author (nonfiction)
+        - Poet
+        - Visual artist
+        - Musician or composer
+        - Filmmaker or director
+        - Actor or performer
+        - Comedian
+        - Dancer or choreographer
+        - Podcaster or audio creator
+        - YouTuber or video creator
+        - TikTok creator
+        - Journalist or essayist
+        - Academic or scholar
+        - Activist who creates
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: disability
+    attributes:
+      label: Disability, in the creator's own words
+      description: For example "autistic", "wheelchair user", "Deaf" or "chronic illness". It's fine to just say "disabled".
+    validations:
+      required: true
+  - type: input
+    id: disclosure_source
+    attributes:
+      label: Public link where the creator talks about their disability
+      description: Their website, an author bio, an interview or a post. We can't list a creator without one.
+    validations:
+      required: true
+  - type: input
+    id: notable_work
+    attributes:
+      label: One notable work
+      description: Title, plus publisher and year if it has them.
+    validations:
+      required: true
+  - type: input
+    id: website
+    attributes:
+      label: Website or main link
+  - type: input
+    id: location
+    attributes:
+      label: Country the creator is based in
+      description: We mark creators based outside the US.
+  - type: checkboxes
+    id: consent
+    attributes:
+      label: Consent
+      options:
+        - label: I am this creator, or I've confirmed the information above is something they've shared publicly.
+          required: true

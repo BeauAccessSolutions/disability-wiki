@@ -18,7 +18,7 @@ A directory of disabled artists, writers, musicians, filmmakers, performers, and
 
 This directory collects disabled creators in one place for easy discovery. All creators listed here are openly disabled and create work that may or may not be disability-focused.
 
-**This directory is always growing.** Suggest additions via [How to Contribute](/start/contribute).
+**This directory is always growing.** See [Suggest a creator](#suggest-a-creator) to add yourself or someone else.
 
 **Labels used below**
 - *(non-US)* — creator is based outside the US
@@ -40,6 +40,7 @@ This directory collects disabled creators in one place for easy discovery. All c
 - [Academics & Scholars](#academics--scholars)
 - [Activists Who Create](#activists-who-create)
 - [How to Support Disabled Creators](#how-to-support-disabled-creators)
+- [Suggest a creator](#suggest-a-creator)
 
 ---
 
@@ -301,21 +302,28 @@ Many disability activists are also creators—writers, artists, speakers, media 
 
 ---
 
-## Contributing
+## Suggest a creator
 
-To be added to this directory:
+You can suggest yourself or another creator. We include a creator when:
 
-1. **You must be disabled** (self-identification accepted)
-2. **You create publicly available work**
-3. **Include:** Name, disability (if you share publicly), medium, notable work, website/social
+- **They're openly disabled.** They have said so publicly themselves, for example on their website, in an author bio or in an interview. We don't list anyone based on a guess or someone else's description.
+- **We use their words.** If they say "autistic," we write "autistic." If they haven't named a condition, we write "disabled."
+- **They make creative work.** This includes books, art, music, film, performance, video and audio. We link to a creator's work, but the directory isn't a place to advertise services.
 
-To suggest other creators:
+**Two ways to send a suggestion:**
 
-1. **They must be openly disabled**
-2. **Include same information above**
-3. **Verify they're comfortable being listed**
+- **Fill in the [creator suggestion form](https://github.com/BeauAccessSolutions/disability-wiki/issues/new?template=add-creator.yml)** (needs a free GitHub account).
+- **Email [contribute2disabilitywiki@gmail.com](mailto:contribute2disabilitywiki@gmail.com)** with:
+  1. The name to list
+  2. What they make (for example "novelist" or "painter")
+  3. Their disability, in their own words
+  4. A public link where they talk about their disability
+  5. One notable work, with publisher and year if it has them
+  6. Their website, and the country they're based in
 
-See [How to Contribute](/start/contribute)
+We check each suggestion before adding it, which can take a few weeks.
+
+**Want to be removed?** Email [contribute2disabilitywiki@gmail.com](mailto:contribute2disabilitywiki@gmail.com) and we'll take your entry down. You don't need to give a reason.
 
 ---
 

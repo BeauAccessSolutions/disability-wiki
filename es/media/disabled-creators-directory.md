@@ -18,7 +18,7 @@ Un directorio de personas con discapacidad que son artistas, escritoras, música
 
 Este directorio reúne en un solo lugar a personas creadoras con discapacidad para facilitar su descubrimiento. Todas las personas creadoras que figuran aquí son abiertamente personas con discapacidad y crean obra que puede estar o no centrada en la discapacidad.
 
-**Este directorio está en constante crecimiento.** Sugiere agregados a través de [Cómo Contribuir](/es/start/contribute).
+**Este directorio está en constante crecimiento.** Consulta [Sugiere a una persona creadora](#sugiere-a-una-persona-creadora) para agregarte a ti o a otra persona.
 
 **Etiquetas usadas abajo**
 - *(fuera de EE. UU.)* — la persona creadora está radicada fuera de Estados Unidos
@@ -40,6 +40,7 @@ Este directorio reúne en un solo lugar a personas creadoras con discapacidad pa
 - [Académicos y estudiosos](#académicos-y-estudiosos)
 - [Activistas que crean](#activistas-que-crean)
 - [Cómo apoyar a las personas creadoras con discapacidad](#cómo-apoyar-a-las-personas-creadoras-con-discapacidad)
+- [Sugiere a una persona creadora](#sugiere-a-una-persona-creadora)
 
 ---
 
@@ -301,21 +302,28 @@ Muchas personas activistas de la discapacidad también son creadoras: escritoras
 
 ---
 
-## Contribuir
+## Sugiere a una persona creadora
 
-Para ser agregado a este directorio:
+Puedes sugerirte a ti o a otra persona creadora. Incluimos a una persona cuando:
 
-1. **Debes ser una persona con discapacidad** (se acepta la autoidentificación)
-2. **Creas obra disponible públicamente**
-3. **Incluye:** Nombre, discapacidad (si la compartes públicamente), medio, obra notable, sitio web/redes sociales
+- **Es abiertamente una persona con discapacidad.** Lo ha dicho públicamente, por ejemplo en su sitio web, en una biografía de autor o en una entrevista. No incluimos a nadie a partir de suposiciones ni de lo que digan otras personas.
+- **Usamos sus palabras.** Si dice "autista", escribimos "autista". Si no ha nombrado una condición, escribimos "con discapacidad".
+- **Hace obra creativa.** Esto incluye libros, arte, música, cine, artes escénicas, video y audio. Enlazamos a su obra, pero el directorio no es un espacio para anunciar servicios.
 
-Para sugerir a otras personas creadoras:
+**Dos formas de enviar una sugerencia:**
 
-1. **Deben ser abiertamente personas con discapacidad**
-2. **Incluye la misma información anterior**
-3. **Verifica que estén cómodas con figurar en la lista**
+- **Completa el [formulario de sugerencias](https://github.com/BeauAccessSolutions/disability-wiki/issues/new?template=add-creator.yml)** (en inglés; requiere una cuenta gratuita de GitHub).
+- **Escribe a [contribute2disabilitywiki@gmail.com](mailto:contribute2disabilitywiki@gmail.com)** con:
+  1. El nombre que debe aparecer
+  2. Qué crea (por ejemplo "novelista" o "pintora")
+  3. Su discapacidad, en sus propias palabras
+  4. Un enlace público donde habla de su discapacidad
+  5. Una obra destacada, con editorial y año si los tiene
+  6. Su sitio web y el país donde vive
 
-Consulta [Cómo Contribuir](/es/start/contribute)
+Revisamos cada sugerencia antes de agregarla, lo que puede tardar algunas semanas.
+
+**¿Quieres que te retiremos?** Escribe a [contribute2disabilitywiki@gmail.com](mailto:contribute2disabilitywiki@gmail.com) y quitaremos tu entrada. No necesitas dar una razón.
 
 ---
 
