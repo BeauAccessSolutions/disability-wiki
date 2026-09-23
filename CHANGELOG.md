@@ -18,6 +18,15 @@ All notable changes to the Disability Wiki project are documented in this file.
   replaces the older, looser "Contributing" section on the page.
 
 ### Fixed
+- **Spanish "suggest an edit" link no longer 404s** (2026-09-23,
+  [`site/src/components/PageFeedback.astro`](site/src/components/PageFeedback.astro),
+  [`site/src/pages/contribute.astro`](site/src/pages/contribute.astro),
+  [`site/public/_redirects`](site/public/_redirects)): the feedback widget on all ~249
+  Spanish pages linked to `/es/contribute/`, which never existed. Both locales now link to
+  the one `/contribute/` form with the page path prefilled; the form says in Spanish that
+  Spanish suggestions are welcome; and `/es/contribute/*` 302s to `/contribute/*` (Starlight's
+  language picker and `hreflang` tags still emit those URLs). Removed from the
+  `check-dist-links` allowlist, which is now empty.
 - **843 internal links no longer 404 on a `.md` suffix; `{#id}` heading anchors work**
   (2026-09-23, 55 content pages, [`site/src/remark-heading-ids.mjs`](site/src/remark-heading-ids.mjs),
   [`site/tools/check-dist-links.mjs`](site/tools/check-dist-links.mjs),

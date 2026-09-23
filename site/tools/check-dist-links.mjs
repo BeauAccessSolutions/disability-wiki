@@ -29,9 +29,7 @@ const ORIGIN = 'https://disabilitywiki.org';
 
 // Routes known to be missing, tracked for a separate fix. Keep this short and
 // dated: an entry here is a live 404 someone can click.
-//  - /es/contribute/: PageFeedback.astro's Spanish "suggest an edit" link; only
-//    the English /contribute page exists (found 2026-09-23).
-const KNOWN_MISSING = new Set(['/es/contribute']);
+const KNOWN_MISSING = new Set();
 
 function* htmlFiles(dir) {
   for (const name of readdirSync(dir)) {

@@ -59,7 +59,11 @@ const t = isSpanish
       failed: "That didn't record. Nothing about the page has changed.",
       note: 'Anonymous: only the answer and the page are counted.',
     };
-const contribute = isSpanish ? '/es/contribute/' : '/contribute/';
+// One contribute page for both locales: the endpoint, the sign-in callback, and
+// the outcome pages all live under /contribute/, so a parallel /es/ flow would be
+// five localized surfaces for one form. The page path rides along so the form
+// arrives prefilled (Spanish paths included) and the reader doesn't have to know it.
+const contribute = `/contribute/?page=${encodeURIComponent(page)}#suggest-an-edit`;
 ---
 
 {
@@ -112,7 +116,7 @@ const contribute = isSpanish ? '/es/contribute/' : '/contribute/';
         </div>
       </aside>
 
-      <script is:inline define:vars={{ t, contribute }}>
+      <script is:inline define:vars={{ t }}>
         (function () {
           const root = document.querySelector('.dw-feedback');
           if (!root) return;
