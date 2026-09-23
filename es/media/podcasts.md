@@ -51,7 +51,7 @@ Esta lista da prioridad a los pódcasts **conducidos por personas con discapacid
 
 ---
 
-## Escucha esencial {#escucha-esencial}
+## Escucha esencial
 
 Empieza aquí para conocer los pódcasts fundamentales sobre discapacidad.
 
@@ -65,7 +65,7 @@ Empieza aquí para conocer los pódcasts fundamentales sobre discapacidad.
 
 ---
 
-## Noticias y actualidad {#noticias-y-actualidad}
+## Noticias y actualidad
 
 - **Disability Visibility Podcast** – Alice Wong. [Ver Escucha esencial] *Conducido por persona con discapacidad.*
 
@@ -79,7 +79,7 @@ Empieza aquí para conocer los pódcasts fundamentales sobre discapacidad.
 
 ---
 
-## Cultura y narración {#cultura-y-narración}
+## Cultura y narración
 
 - **Disability Visibility Podcast** – Alice Wong. [Ver Escucha esencial] *Conducido por persona con discapacidad, Esencial.*
 
@@ -93,7 +93,7 @@ Empieza aquí para conocer los pódcasts fundamentales sobre discapacidad.
 
 ---
 
-## Defensa de derechos y activismo {#defensa-de-derechos-y-activismo}
+## Defensa de derechos y activismo
 
 - **Crippled: A Podcast** – [Ver Escucha esencial] *Conducido por persona con discapacidad, Esencial.*
 
@@ -107,7 +107,7 @@ Empieza aquí para conocer los pódcasts fundamentales sobre discapacidad.
 
 ---
 
-## Enfermedad crónica y dolor {#enfermedad-crónica-y-dolor}
+## Enfermedad crónica y dolor
 
 - **No End in Sight** – Brianne Benness. Entrevistas a fondo con personas que viven con una enfermedad crónica. Explora la realidad caótica y no lineal de la vida con enfermedad crónica: los procesos de diagnóstico, el menosprecio médico, la dosificación de energía y la comunidad. *Conducido por persona con discapacidad.*
 
@@ -123,7 +123,7 @@ Empieza aquí para conocer los pódcasts fundamentales sobre discapacidad.
 
 ---
 
-## Salud mental y discapacidad psiquiátrica {#salud-mental-y-discapacidad-psiquiátrica}
+## Salud mental y discapacidad psiquiátrica
 
 - **The Hilarious World of Depression** – John Moe. Comediantes y figuras públicas hablan sobre la depresión y la salud mental con humor y honestidad. Conversaciones que reducen el estigma. *Conducido por persona con discapacidad.*
 
@@ -137,7 +137,7 @@ Empieza aquí para conocer los pódcasts fundamentales sobre discapacidad.
 
 ---
 
-## Neurodivergencia {#neurodivergencia}
+## Neurodivergencia
 
 ### Autismo
 
@@ -171,7 +171,7 @@ Empieza aquí para conocer los pódcasts fundamentales sobre discapacidad.
 
 ---
 
-## Personas sordas y con problemas de audición {#personas-sordas-y-con-problemas-de-audición}
+## Personas sordas y con problemas de audición
 
 - **Deaf Culture Podcast** – Exploraciones de la cultura, la historia y la comunidad sorda. *Conducido por persona con discapacidad.*
 
@@ -185,7 +185,7 @@ Empieza aquí para conocer los pódcasts fundamentales sobre discapacidad.
 
 ---
 
-## Personas ciegas y con baja visión {#personas-ciegas-y-con-baja-visión}
+## Personas ciegas y con baja visión
 
 - **Blind Abilities** – Conversaciones con personas ciegas y con discapacidad visual sobre tecnología, viajes, carreras y vida diaria. *Conducido por persona con discapacidad.*
 
@@ -199,7 +199,7 @@ Empieza aquí para conocer los pódcasts fundamentales sobre discapacidad.
 
 ---
 
-## Discapacidad física y movilidad {#discapacidad-física-y-movilidad}
+## Discapacidad física y movilidad
 
 - **The Disability After Dark Podcast** – Andrew Gurza. [Ver Escucha esencial] *Conducido por persona con discapacidad, Esencial.*
 
@@ -213,7 +213,7 @@ Empieza aquí para conocer los pódcasts fundamentales sobre discapacidad.
 
 ---
 
-## Crianza y familia {#crianza-y-familia}
+## Crianza y familia
 
 - **The Lucky Few Podcast** – Heather Avis. Crianza de niños con síndrome de Down y discapacidad. *Conducido por persona con discapacidad.*
 
@@ -225,7 +225,7 @@ Empieza aquí para conocer los pódcasts fundamentales sobre discapacidad.
 
 ---
 
-## Comedia y entretenimiento {#comedia-y-entretenimiento}
+## Comedia y entretenimiento
 
 - **Disability After Dark** – Andrew Gurza. [Ver Escucha esencial] Humor y conversación honesta sobre la discapacidad y la sexualidad. *Conducido por persona con discapacidad.*
 
@@ -235,7 +235,7 @@ Empieza aquí para conocer los pódcasts fundamentales sobre discapacidad.
 
 ---
 
-## Profesional y laboral {#profesional-y-laboral}
+## Profesional y laboral
 
 - **Disability Matters** – Joyce Bender. Empleo e inclusión laboral de las personas con discapacidad. *Conducido por persona con discapacidad.*
 
@@ -245,7 +245,7 @@ Empieza aquí para conocer los pódcasts fundamentales sobre discapacidad.
 
 ---
 
-## Académico e investigación {#académico-e-investigación}
+## Académico e investigación
 
 - **Mad in America** – Perspectivas de la psiquiatría crítica y la investigación en salud mental. *Conducido por persona con discapacidad.*
 
@@ -255,9 +255,9 @@ Empieza aquí para conocer los pódcasts fundamentales sobre discapacidad.
 
 ---
 
-## Por región {#por-región}
+## Por región
 
-### Estados Unidos {#estados-unidos}
+### Estados Unidos
 
 La mayoría de los pódcasts de esta lista son de Estados Unidos. Programas destacados con enfoque estadounidense:
 
@@ -265,7 +265,7 @@ La mayoría de los pódcasts de esta lista son de Estados Unidos. Programas dest
 - The Accessible Stall – Ladau y Khachadurian
 - Disability After Dark – Andrew Gurza
 
-### Reino Unido {#reino-unido}
+### Reino Unido
 
 - **Disability News Service Podcast** – John Pring. Noticias y políticas sobre la discapacidad en el Reino Unido. *Internacional.*
 
@@ -275,13 +275,13 @@ La mayoría de los pódcasts de esta lista son de Estados Unidos. Programas dest
 
 - **The Disability Download** – El pódcast de Scope UK sobre temas de discapacidad. *Internacional.*
 
-### Canadá {#canadá}
+### Canadá
 
 - **Sick Boy** – Conversaciones honestas sobre la enfermedad y la discapacidad. *Internacional.*
 
 - **Double Tap** – Steven Scott y Shaun Preece. Accesibilidad tecnológica para personas ciegas. *Internacional.*
 
-### Australia {#australia}
+### Australia
 
 - **The Neurodivergent Woman** – Michelle Livock. *Internacional.*
 
@@ -289,13 +289,13 @@ La mayoría de los pódcasts de esta lista son de Estados Unidos. Programas dest
 
 - **The Disability Royal Commission Podcast** – Cobertura de la Comisión Real de Australia sobre la Violencia, el Abuso, el Abandono y la Explotación de las Personas con Discapacidad. *Internacional.*
 
-### Internacional {#internacional}
+### Internacional
 
 - **Disability Debrief** – Noticias y análisis globales sobre los derechos de las personas con discapacidad. *Internacional.*
 
 ---
 
-## Inactivos pero con un archivo valioso {#inactivos-pero-con-un-archivo-valioso}
+## Inactivos pero con un archivo valioso
 
 Estos pódcasts ya no producen episodios nuevos, pero tienen archivos valiosos:
 

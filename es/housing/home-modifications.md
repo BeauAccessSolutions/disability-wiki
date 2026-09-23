@@ -281,7 +281,7 @@ El Reino Unido tiene una sólida comunidad profesional de modificaciones de acce
 
 ---
 
-## Australia {#australia}
+## Australia
 
 Australia financia las modificaciones a través del NDIS y de programas estatales.
 

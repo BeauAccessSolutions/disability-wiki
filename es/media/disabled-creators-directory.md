@@ -46,7 +46,7 @@ Este directorio reúne en un solo lugar a personas creadoras con discapacidad pa
 
 ---
 
-## Escritores y autores {#escritores-y-autores}
+## Escritores y autores
 
 ### Escritores de ficción
 
@@ -99,7 +99,7 @@ Este directorio reúne en un solo lugar a personas creadoras con discapacidad pa
 
 ---
 
-## Personas artistas visuales {#personas-artistas-visuales}
+## Personas artistas visuales
 
 <!-- creators:visual-artists -->
 | Nombre | Discapacidad | Medio | Notable por |
@@ -118,7 +118,7 @@ Este directorio reúne en un solo lugar a personas creadoras con discapacidad pa
 
 ---
 
-## Músicos y compositores {#músicos-y-compositores}
+## Músicos y compositores
 
 <!-- creators:musicians -->
 | Nombre | Discapacidad | Género | Notable por |
@@ -137,7 +137,7 @@ Este directorio reúne en un solo lugar a personas creadoras con discapacidad pa
 
 ---
 
-## Cineastas y directores {#cineastas-y-directores}
+## Cineastas y directores
 
 <!-- creators:filmmakers -->
 | Nombre | Discapacidad | Enfoque | Obra notable |
@@ -154,7 +154,7 @@ Este directorio reúne en un solo lugar a personas creadoras con discapacidad pa
 
 ---
 
-## Actores y performers {#actores-y-performers}
+## Actores y performers
 
 ### Actores de cine y TV
 
@@ -193,7 +193,7 @@ Este directorio reúne en un solo lugar a personas creadoras con discapacidad pa
 
 ---
 
-## Comediantes {#comediantes}
+## Comediantes
 
 <!-- creators:comedians -->
 | Nombre | Discapacidad | Plataforma | Notable por |
@@ -211,7 +211,7 @@ Este directorio reúne en un solo lugar a personas creadoras con discapacidad pa
 
 ---
 
-## Bailarines y coreógrafos {#bailarines-y-coreógrafos}
+## Bailarines y coreógrafos
 
 <!-- creators:dancers -->
 | Nombre | Discapacidad | Compañía/Estilo | Notable por |
@@ -227,7 +227,7 @@ Este directorio reúne en un solo lugar a personas creadoras con discapacidad pa
 
 ---
 
-## Pódcasters y creadores de audio {#pódcasters-y-creadores-de-audio}
+## Pódcasters y creadores de audio
 
 <!-- creators:podcasters -->
 | Nombre | Discapacidad | Programa | Enfoque |
@@ -241,7 +241,7 @@ Este directorio reúne en un solo lugar a personas creadoras con discapacidad pa
 
 ---
 
-## YouTubers y creadores de video {#youtubers-y-creadores-de-video}
+## YouTubers y creadores de video
 
 Consulta [Canales de YouTube](/es/media/youtube-channels) para ver la lista detallada.
 
@@ -260,7 +260,7 @@ Consulta [Canales de YouTube](/es/media/youtube-channels) para ver la lista deta
 
 ---
 
-## Periodistas y ensayistas {#periodistas-y-ensayistas}
+## Periodistas y ensayistas
 
 <!-- creators:journalists -->
 | Nombre | Discapacidad | Publicación/Enfoque |
@@ -275,7 +275,7 @@ Consulta [Canales de YouTube](/es/media/youtube-channels) para ver la lista deta
 
 ---
 
-## Académicos y estudiosos {#académicos-y-estudiosos}
+## Académicos y estudiosos
 
 <!-- creators:academics -->
 | Nombre | Discapacidad | Campo | Institución |
@@ -292,7 +292,7 @@ Consulta [Canales de YouTube](/es/media/youtube-channels) para ver la lista deta
 
 ---
 
-## Activistas que crean {#activistas-que-crean}
+## Activistas que crean
 
 Muchas personas activistas de la discapacidad también son creadoras: escritoras, artistas, oradoras, hacedoras de medios.
 
@@ -311,7 +311,7 @@ Muchas personas activistas de la discapacidad también son creadoras: escritoras
 
 ---
 
-## Cómo apoyar a las personas creadoras con discapacidad {#cómo-apoyar-a-las-personas-creadoras-con-discapacidad}
+## Cómo apoyar a las personas creadoras con discapacidad
 
 ### Apoyo directo
 

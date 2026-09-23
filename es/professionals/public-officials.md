@@ -217,7 +217,7 @@ Esto significa pensar proactivamente en los votantes con discapacidad, no solo r
 
 ---
 
-## Australia {#australia}
+## Australia
 
 ### Marco legal
 

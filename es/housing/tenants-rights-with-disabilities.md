@@ -303,7 +303,7 @@ La **Residential Tenancies Act** y el derecho consuetudinario establecen:
 
 ---
 
-## Australia {#australia}
+## Australia
 
 Australia implementa los derechos de los inquilinos a través de la Disability Discrimination Act, el National Disability Insurance Scheme y las leyes de arrendamiento residencial estatales o territoriales.
 

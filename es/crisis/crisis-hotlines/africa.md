@@ -134,7 +134,7 @@ Esta página te conecta con recursos de crisis en toda África.
 
 ## África Occidental
 
-### Ghana {#ghana}
+### Ghana
 
 **Mental Health Authority Helpline**
 - Teléfono: 0800-678-678 (gratuito)
@@ -152,7 +152,7 @@ Esta página te conecta con recursos de crisis en toda África.
 
 ---
 
-### Nigeria {#nigeria}
+### Nigeria
 
 **Para recursos de crisis completos en Nigeria, consulta [Ayuda en crisis: Nigeria](/es/crisis/crisis-hotlines/africa/nigeria)**
 
@@ -164,7 +164,7 @@ Esta página te conecta con recursos de crisis en toda África.
 
 ---
 
-### Senegal {#senegal}
+### Senegal
 
 **SOS Village d'Enfants Senegal**
 - Teléfono: 800-00-10-10
@@ -218,7 +218,7 @@ Esta página te conecta con recursos de crisis en toda África.
 
 ---
 
-### Tanzania {#tanzania}
+### Tanzania
 
 **National Crisis Hotline**
 - Teléfono: 0800-110-555 (gratuito)
@@ -231,7 +231,7 @@ Esta página te conecta con recursos de crisis en toda África.
 
 ---
 
-### Uganda {#uganda}
+### Uganda
 
 **Mental Health Uganda**
 - Teléfono: 0800-20-24-24 o 0417-711-200
@@ -270,7 +270,7 @@ Esta página te conecta con recursos de crisis en toda África.
 
 ---
 
-### Namibia {#namibia}
+### Namibia
 
 **LifeLine/ChildLine Namibia**
 - Teléfono: (061) 232-221 o 106-48-777

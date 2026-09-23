@@ -49,7 +49,7 @@ Esta lista presenta a **youtubers con discapacidad** que crean contenido sobre l
 
 ---
 
-## Muy recomendados {#muy-recomendados}
+## Muy recomendados
 
 Empieza aquí para conocer a algunos de los youtubers con discapacidad más influyentes.
 
@@ -67,7 +67,7 @@ Empieza aquí para conocer a algunos de los youtubers con discapacidad más infl
 
 ---
 
-## Estilo de vida y vida diaria {#estilo-de-vida-y-vida-diaria}
+## Estilo de vida y vida diaria
 
 - **Squirmy and Grubs** – [Ver Muy recomendados] *Creador con discapacidad.*
 
@@ -87,7 +87,7 @@ Empieza aquí para conocer a algunos de los youtubers con discapacidad más infl
 
 ---
 
-## Defensa de derechos y educación {#defensa-de-derechos-y-educación}
+## Defensa de derechos y educación
 
 - **Annie Elainey** – [Ver Muy recomendados] *Creador con discapacidad, Recomendado.*
 
@@ -107,7 +107,7 @@ Empieza aquí para conocer a algunos de los youtubers con discapacidad más infl
 
 ---
 
-## Comedia y entretenimiento {#comedia-y-entretenimiento}
+## Comedia y entretenimiento
 
 - **Zach Anner** – [Ver Muy recomendados] *Creador con discapacidad, Recomendado.*
 
@@ -123,7 +123,7 @@ Empieza aquí para conocer a algunos de los youtubers con discapacidad más infl
 
 ---
 
-## Belleza y moda {#belleza-y-moda}
+## Belleza y moda
 
 - **Molly Burke** – [Ver Muy recomendados] *Creador con discapacidad.*
 
@@ -141,7 +141,7 @@ Empieza aquí para conocer a algunos de los youtubers con discapacidad más infl
 
 ---
 
-## Viajes y aventura {#viajes-y-aventura}
+## Viajes y aventura
 
 - **Zach Anner** – Comedia de viajes, visitó los 50 estados en su serie "Riding Shotgun". *Creador con discapacidad.*
 
@@ -157,7 +157,7 @@ Empieza aquí para conocer a algunos de los youtubers con discapacidad más infl
 
 ---
 
-## Crianza y familia {#crianza-y-familia}
+## Crianza y familia
 
 - **Fathering Autism** – Un padre que documenta la vida familiar con su hija autista Abbie. [Nota: perspectiva de un progenitor, no de un creador autista] *Creador con discapacidad.*
 
@@ -169,9 +169,9 @@ Empieza aquí para conocer a algunos de los youtubers con discapacidad más infl
 
 ---
 
-## Por tipo de discapacidad {#por-tipo-de-discapacidad}
+## Por tipo de discapacidad
 
-### Usuarios de silla de ruedas y discapacidad física {#usuarios-de-silla-de-ruedas-y-discapacidad-física}
+### Usuarios de silla de ruedas y discapacidad física
 
 - Squirmy and Grubs – Shane (AME) *Creador con discapacidad.*
 - Roll with Cole & Charisma – Cole (AME) *Creador con discapacidad.*
@@ -182,7 +182,7 @@ Empieza aquí para conocer a algunos de los youtubers con discapacidad más infl
 - Zach Anner (parálisis cerebral) *Creador con discapacidad.*
 - Spencer West *Creador con discapacidad.*
 
-### Personas sordas y con problemas de audición {#personas-sordas-y-con-problemas-de-audición}
+### Personas sordas y con problemas de audición
 
 - **Rikki Poynter** – [Ver Muy recomendados] *Creador con discapacidad, Recomendado.*
 - **Jessica Kellgren-Fozard** – Sorda y con enfermedad crónica *Creador con discapacidad, Internacional, Recomendado.*
@@ -192,7 +192,7 @@ Empieza aquí para conocer a algunos de los youtubers con discapacidad más infl
 - **Nyle DiMarco** – Modelo, activista y actor sordo. *Creador con discapacidad.*
 - **Rogan Shannon** – Vloguero sordo y contenido en ASL. *Creador con discapacidad.*
 
-### Personas ciegas y con baja visión {#personas-ciegas-y-con-baja-visión}
+### Personas ciegas y con baja visión
 
 - **Molly Burke** – [Ver Muy recomendados] *Creador con discapacidad, Recomendado.*
 - **Lucy Edwards** – Presentadora de la BBC, belleza *Creador con discapacidad, Internacional.*
@@ -201,7 +201,7 @@ Empieza aquí para conocer a algunos de los youtubers con discapacidad más infl
 - **The Tommy Edison Experience** – Responde preguntas sobre la ceguera con humor *Creador con discapacidad.*
 - **Joy Ross** – Estilo de vida y viajes de una persona ciega *Creador con discapacidad.*
 
-### Enfermedad crónica y discapacidad invisible {#enfermedad-crónica-y-discapacidad-invisible}
+### Enfermedad crónica y discapacidad invisible
 
 - **Jessica Kellgren-Fozard** – Múltiples afecciones *Creador con discapacidad, Internacional, Recomendado.*
 - **Annie Elainey** – Defensa de derechos sobre la enfermedad crónica *Creador con discapacidad, Recomendado.*
@@ -210,7 +210,7 @@ Empieza aquí para conocer a algunos de los youtubers con discapacidad más infl
 - **Amy Lee Fisher** – Síndrome de Ehlers-Danlos *Creador con discapacidad, Internacional.*
 - **Strummerly** – Enfermedad crónica, SEDh *Creador con discapacidad.*
 
-### Neurodivergencia {#neurodivergencia}
+### Neurodivergencia
 
 #### Autismo
 
@@ -227,7 +227,7 @@ Empieza aquí para conocer a algunos de los youtubers con discapacidad más infl
 - **ADHD Alien** – Pina Varnel. Contenido ilustrado sobre el TDAH. *Creador con discapacidad.*
 - **Rick Green** – Comediante con TDAH, contenido educativo. *Creador con discapacidad.*
 
-### Personas amputadas y con diferencias en las extremidades {#personas-amputadas-y-con-diferencias-en-las-extremidades}
+### Personas amputadas y con diferencias en las extremidades
 
 - **Footless Jo** – Estilo de vida y defensa de derechos de una persona con amputación por debajo de la rodilla *Creador con discapacidad.*
 - **Josh Sundquist** – Esquiador paralímpico, autor, conferencista motivacional *Creador con discapacidad.*
@@ -235,14 +235,14 @@ Empieza aquí para conocer a algunos de los youtubers con discapacidad más infl
 - **Mama Cax** (archivo) – Moda y modelaje *Creador con discapacidad.*
 - **Tilly Lockey** – Adolescente con brazos biónicos *Creador con discapacidad, Internacional.*
 
-### Personas de talla baja {#personas-de-talla-baja}
+### Personas de talla baja
 
 - **Becky Curran Kekula** – Estilo de vida y defensa de derechos de una persona de talla baja *Creador con discapacidad.*
 - **Chandler Crews** – Contenido de estilo de vida *Creador con discapacidad.*
 
 ---
 
-## Creadores internacionales {#creadores-internacionales}
+## Creadores internacionales
 
 ### Reino Unido
 - Jessica Kellgren-Fozard *Internacional.*
@@ -265,7 +265,7 @@ Empieza aquí para conocer a algunos de los youtubers con discapacidad más infl
 
 ---
 
-## Canales educativos {#canales-educativos}
+## Canales educativos
 
 Canales centrados principalmente en la educación sobre la discapacidad (pueden o no estar dirigidos por personas con discapacidad):
 

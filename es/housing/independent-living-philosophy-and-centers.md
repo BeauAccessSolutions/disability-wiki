@@ -291,7 +291,7 @@ El Reino Unido tiene historia y organizaciones de IL, aunque con una estructura 
 
 ---
 
-## Australia {#australia}
+## Australia
 
 Australia tiene servicios de IL en parte a través de la estructura del NDIS, aunque el NDIS difiere del modelo tradicional de CIL.
 

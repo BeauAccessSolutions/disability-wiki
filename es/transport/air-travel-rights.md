@@ -211,7 +211,7 @@ La Civil Aviation Authority atiende las quejas sobre los derechos de los pasajer
 
 ---
 
-## Australia {#australia}
+## Australia
 
 ### Protección legal: Disability Discrimination Act
 

@@ -282,7 +282,7 @@ Solicita descripciones escritas o fotos antes de visitar. Documenta todas las co
 
 ---
 
-## Australia {#australia}
+## Australia
 
 Australia tiene herramientas de búsqueda de vivienda y protecciones legales fuertes para la accesibilidad, aunque su vastedad geográfica presenta desafíos.
 

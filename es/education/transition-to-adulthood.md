@@ -225,7 +225,7 @@ Los **foros de jóvenes con discapacidad** existen en muchas zonas.
 
 ---
 
-## Australia {#australia}
+## Australia
 
 ### El NDIS y la transición
 

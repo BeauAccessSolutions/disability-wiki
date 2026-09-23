@@ -28,7 +28,7 @@ Acondicionamiento físico y recreación más allá del deporte competitivo: acce
 
 ---
 
-## Acondicionamiento físico para personas con discapacidad {#acondicionamiento-físico-para-personas-con-discapacidad}
+## Acondicionamiento físico para personas con discapacidad
 
 ### Por qué importa el acondicionamiento físico
 
@@ -54,7 +54,7 @@ Las personas con discapacidad enfrentan tasas más altas de condiciones de salud
 
 ---
 
-## Encontrar gimnasios accesibles {#encontrar-gimnasios-accesibles}
+## Encontrar gimnasios accesibles
 
 ### Qué buscar
 
@@ -104,7 +104,7 @@ Antes de inscribirte en un gimnasio:
 
 ---
 
-## Equipo de ejercicio adaptado {#equipo-de-ejercicio-adaptado}
+## Equipo de ejercicio adaptado
 
 ### Equipo de cardio
 
@@ -141,7 +141,7 @@ Antes de inscribirte en un gimnasio:
 
 ---
 
-## Ejercicio según el tipo de discapacidad {#ejercicio-según-el-tipo-de-discapacidad}
+## Ejercicio según el tipo de discapacidad
 
 ### Usuarios de silla de ruedas
 
@@ -225,7 +225,7 @@ Antes de inscribirte en un gimnasio:
 
 ---
 
-## Acondicionamiento físico en casa {#acondicionamiento-físico-en-casa}
+## Acondicionamiento físico en casa
 
 ### Beneficios
 
@@ -264,7 +264,7 @@ Antes de inscribirte en un gimnasio:
 
 ---
 
-## Recreación al aire libre {#recreación-al-aire-libre}
+## Recreación al aire libre
 
 ### Actividades accesibles al aire libre
 
@@ -311,7 +311,7 @@ Antes de inscribirte en un gimnasio:
 
 ---
 
-## Prácticas mente-cuerpo {#prácticas-mente-cuerpo}
+## Prácticas mente-cuerpo
 
 ### Yoga adaptado
 
@@ -352,7 +352,7 @@ El yoga puede adaptarse a prácticamente cualquier cuerpo:
 
 ---
 
-## Programas y recursos de acondicionamiento físico {#programas-y-recursos-de-acondicionamiento-físico}
+## Programas y recursos de acondicionamiento físico
 
 ### Organizaciones
 
@@ -386,7 +386,7 @@ El yoga puede adaptarse a prácticamente cualquier cuerpo:
 
 ---
 
-## Barreras y soluciones {#barreras-y-soluciones}
+## Barreras y soluciones
 
 ### Barreras comunes
 

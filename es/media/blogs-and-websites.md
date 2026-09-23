@@ -46,7 +46,7 @@ Esta lista prioriza los sitios web y blogs **escritos por personas con discapaci
 
 ---
 
-## Recursos esenciales {#recursos-esenciales}
+## Recursos esenciales
 
 Empieza aquí para conocer sitios web fundamentales sobre discapacidad.
 
@@ -62,7 +62,7 @@ Empieza aquí para conocer sitios web fundamentales sobre discapacidad.
 
 ---
 
-## Noticias y actualidad {#noticias-y-actualidad}
+## Noticias y actualidad
 
 ### Radicados en Estados Unidos
 
@@ -88,7 +88,7 @@ Empieza aquí para conocer sitios web fundamentales sobre discapacidad.
 
 ---
 
-## Blogs personales {#blogs-personales}
+## Blogs personales
 
 ### Actualmente activos
 
@@ -112,7 +112,7 @@ Empieza aquí para conocer sitios web fundamentales sobre discapacidad.
 
 ---
 
-## Comunidad y cultura {#comunidad-y-cultura}
+## Comunidad y cultura
 
 - **Disability Visibility Project** (disabilityvisibilityproject.com) – [Ver Recursos esenciales] *Escritor con discapacidad, Organización liderada por personas con discapacidad, Esencial.*
 
@@ -126,7 +126,7 @@ Empieza aquí para conocer sitios web fundamentales sobre discapacidad.
 
 ---
 
-## Organizaciones de defensa de derechos {#organizaciones-de-defensa-de-derechos}
+## Organizaciones de defensa de derechos
 
 ### Transversales a las discapacidades
 
@@ -156,7 +156,7 @@ Empieza aquí para conocer sitios web fundamentales sobre discapacidad.
 
 ---
 
-## Académicos y de investigación {#académicos-y-de-investigación}
+## Académicos y de investigación
 
 - **Disability Studies Quarterly** (dsq-sds.org) – Revista académica de acceso abierto.
 
@@ -170,9 +170,9 @@ Empieza aquí para conocer sitios web fundamentales sobre discapacidad.
 
 ---
 
-## Por tema {#por-tema}
+## Por tema
 
-### Enfermedad crónica {#enfermedad-crónica}
+### Enfermedad crónica
 
 - **The Mighty** (themighty.com) – Plataforma de historias sobre salud. [Ver nota arriba] *Escritor con discapacidad.*
 
@@ -184,7 +184,7 @@ Empieza aquí para conocer sitios web fundamentales sobre discapacidad.
 
 - **#MEAction** (meaction.net) – Defensa de derechos y noticias sobre EM/SFC. *Escritor con discapacidad.*
 
-### Neurodivergencia {#neurodivergencia}
+### Neurodivergencia
 
 #### Autismo
 
@@ -208,7 +208,7 @@ Empieza aquí para conocer sitios web fundamentales sobre discapacidad.
 
 - **How to ADHD** (howtoadhd.com) – Sitio web de Jessica McCabe. *Escritor con discapacidad.*
 
-### Comunidad Sorda {#comunidad-sorda}
+### Comunidad Sorda
 
 - **NAD** (nad.org) – National Association of the Deaf. *Organización liderada por personas con discapacidad.*
 
@@ -218,7 +218,7 @@ Empieza aquí para conocer sitios web fundamentales sobre discapacidad.
 
 - **Deaf Echo** – Blog de la comunidad Sorda. *Escritor con discapacidad.*
 
-### Comunidad de personas ciegas {#comunidad-de-personas-ciegas}
+### Comunidad de personas ciegas
 
 - **NFB** (nfb.org) – National Federation of the Blind. *Organización liderada por personas con discapacidad.*
 
@@ -228,7 +228,7 @@ Empieza aquí para conocer sitios web fundamentales sobre discapacidad.
 
 - **AFB (American Foundation for the Blind)** (afb.org) – Recursos y defensa de derechos.
 
-### Discapacidad física {#discapacidad-física}
+### Discapacidad física
 
 - **United Spinal Association** (unitedspinal.org) – Recursos sobre lesión medular. *Organización liderada por personas con discapacidad.*
 
@@ -238,7 +238,7 @@ Empieza aquí para conocer sitios web fundamentales sobre discapacidad.
 
 - **United Cerebral Palsy** (ucp.org) – Recursos sobre parálisis cerebral. *Organización liderada por personas con discapacidad.*
 
-### Madres, padres y familias {#madres-padres-y-familias}
+### Madres, padres y familias
 
 - **Parent Center Hub** (parentcenterhub.org) – Información para madres y padres de niñas y niños con discapacidad.
 
@@ -248,7 +248,7 @@ Empieza aquí para conocer sitios web fundamentales sobre discapacidad.
 
 ---
 
-## Sitios internacionales {#sitios-internacionales}
+## Sitios internacionales
 
 ### Reino Unido
 
@@ -282,7 +282,7 @@ Empieza aquí para conocer sitios web fundamentales sobre discapacidad.
 
 ---
 
-## Inactivos pero archivados {#inactivos-pero-archivados}
+## Inactivos pero archivados
 
 Estos sitios ya no se actualizan, pero contienen archivos valiosos:
 

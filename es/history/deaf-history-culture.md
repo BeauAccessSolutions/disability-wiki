@@ -415,7 +415,7 @@ La historia sorda es historia de la comunidad de la discapacidad. La comunidad s
 
 ---
 
-## Las contribuciones de las personas sordas {#las-contribuciones-de-las-personas-sordas}
+## Las contribuciones de las personas sordas
 
 ### Lengua y lingüística
 
@@ -512,7 +512,7 @@ La historia sorda es historia de la comunidad de la discapacidad. La comunidad s
 
 ---
 
-## Experiencias sordociegas y de ceguera y sordera {#experiencias-sordociegas-y-de-ceguera-y-sordera}
+## Experiencias sordociegas y de ceguera y sordera
 
 ### Personas sordociegas
 

@@ -252,7 +252,7 @@ Si te niegan el financiamiento de la Atención Médica Continua del NHS:
 
 ---
 
-## Australia {#australia}
+## Australia
 
 ### Apelaciones ante Medicare y el PBS
 

@@ -39,7 +39,7 @@ Selecciona tu país para ver los recursos de crisis locales:
 
 ---
 
-## Argentina {#argentina}
+## Argentina
 
 ### Crisis y prevención de suicidio
 
@@ -64,7 +64,7 @@ Selecciona tu país para ver los recursos de crisis locales:
 
 ---
 
-## Bolivia {#bolivia}
+## Bolivia
 
 ### Crisis y apoyo de salud mental
 
@@ -101,7 +101,7 @@ Selecciona tu país para ver los recursos de crisis locales:
 
 ---
 
-## Chile {#chile}
+## Chile
 
 ### Crisis y prevención de suicidio
 
@@ -129,7 +129,7 @@ Selecciona tu país para ver los recursos de crisis locales:
 
 ---
 
-## Colombia {#colombia}
+## Colombia
 
 ### Crisis y prevención de suicidio
 
@@ -157,7 +157,7 @@ Selecciona tu país para ver los recursos de crisis locales:
 
 ---
 
-## Ecuador {#ecuador}
+## Ecuador
 
 ### Crisis y apoyo de salud mental
 
@@ -181,7 +181,7 @@ Selecciona tu país para ver los recursos de crisis locales:
 
 ---
 
-## Paraguay {#paraguay}
+## Paraguay
 
 ### Crisis y servicios de apoyo
 
@@ -229,7 +229,7 @@ Selecciona tu país para ver los recursos de crisis locales:
 
 ---
 
-## Uruguay {#uruguay}
+## Uruguay
 
 ### Crisis y prevención de suicidio
 
@@ -254,7 +254,7 @@ Selecciona tu país para ver los recursos de crisis locales:
 
 ---
 
-## Venezuela {#venezuela}
+## Venezuela
 
 ### Crisis y servicios de apoyo
 

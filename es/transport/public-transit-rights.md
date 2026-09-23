@@ -220,7 +220,7 @@ La mayoría de los operadores ferroviarios europeos tienen servicios de reserva 
 
 ---
 
-## Australia {#australia}
+## Australia
 
 ### Marco legal
 

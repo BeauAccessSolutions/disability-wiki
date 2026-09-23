@@ -259,7 +259,7 @@ Cada país tiene sus propios mecanismos de aplicación: por lo general, tribunal
 
 ---
 
-## Australia {#australia}
+## Australia
 
 ### Marco legal
 

@@ -185,7 +185,7 @@ Cada provincia tiene servicios de crisis locales. Busca: "[provincia] crisis lin
 
 ## Caribe
 
-### Bahamas {#bahamas}
+### Bahamas
 
 **The Bahamas Crisis Centre**
 - Teléfono: (242) 328-0922 (24/7)
@@ -197,7 +197,7 @@ Cada provincia tiene servicios de crisis locales. Busca: "[provincia] crisis lin
 
 ---
 
-### Barbados {#barbados}
+### Barbados
 
 **Samaritans Barbados**
 - Teléfono: (246) 429-9999 (24/7)
@@ -210,7 +210,7 @@ Cada provincia tiene servicios de crisis locales. Busca: "[provincia] crisis lin
 
 ---
 
-### Cuba {#cuba}
+### Cuba
 
 **Servicios de salud mental**
 - Contacta a los hospitales locales (policlínicos)
@@ -251,7 +251,7 @@ Cada provincia tiene servicios de crisis locales. Busca: "[provincia] crisis lin
 
 ---
 
-### Jamaica {#jamaica}
+### Jamaica
 
 **Lifeline Jamaica**
 - Teléfono: (876) 618-5683 o (876) 655-0557
@@ -266,7 +266,7 @@ Cada provincia tiene servicios de crisis locales. Busca: "[provincia] crisis lin
 
 ---
 
-### Puerto Rico {#puerto-rico}
+### Puerto Rico
 
 **Línea PAS (Primera Ayuda Psicosocial)**
 - Teléfono: 1-800-981-0023 (gratuito, 24/7)
@@ -312,7 +312,7 @@ Cada provincia tiene servicios de crisis locales. Busca: "[provincia] crisis lin
 
 ---
 
-### Costa Rica {#costa-rica}
+### Costa Rica
 
 **Instituto sobre Alcoholismo y Farmacodependencia (IAFA)**
 - Teléfono: 800-4232-800 (gratuito, 24/7)
@@ -330,7 +330,7 @@ Cada provincia tiene servicios de crisis locales. Busca: "[provincia] crisis lin
 
 ---
 
-### El Salvador {#el-salvador}
+### El Salvador
 
 **Teléfono de la Esperanza**
 - Teléfono: 503-2284-2284
@@ -344,7 +344,7 @@ Cada provincia tiene servicios de crisis locales. Busca: "[provincia] crisis lin
 
 ---
 
-### Guatemala {#guatemala}
+### Guatemala
 
 **Asociación de Servicios Comunitarios de Salud (ASECSA)**
 - Teléfono: 1545 (24/7)
@@ -358,7 +358,7 @@ Cada provincia tiene servicios de crisis locales. Busca: "[provincia] crisis lin
 
 ---
 
-### Honduras {#honduras}
+### Honduras
 
 **Teléfono de la Esperanza**
 - Teléfono: 2558-1978 (Tegucigalpa)
@@ -371,7 +371,7 @@ Cada provincia tiene servicios de crisis locales. Busca: "[provincia] crisis lin
 
 ---
 
-### Nicaragua {#nicaragua}
+### Nicaragua
 
 **Línea 133 (Policía)**
 - Teléfono: 133
