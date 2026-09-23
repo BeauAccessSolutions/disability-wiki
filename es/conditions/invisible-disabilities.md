@@ -167,7 +167,7 @@ Muchas discapacidades invisibles fluctúan:
 "Necesito poder cancelar planes en los días malos."
 "Hoy es un día peor para mí."
 
-Consulta [Dolor y fatiga](/es/healthcare/pain-and-fatigue.md) para conocer estrategias de manejo de la energía.
+Consulta [Dolor y fatiga](/es/healthcare/pain-and-fatigue) para conocer estrategias de manejo de la energía.
 
 ---
 
@@ -181,7 +181,7 @@ Consulta [Dolor y fatiga](/es/healthcare/pain-and-fatigue.md) para conocer estra
 
 **Encontrar profesionales que crean**: Pide recomendaciones a miembros de la comunidad con tu afección. No te conformes con profesionales que te descartan.
 
-Consulta [Atención médica accesible](/es/healthcare/accessible-healthcare.md), [Derechos en la atención médica](/es/healthcare/healthcare-rights.md).
+Consulta [Atención médica accesible](/es/healthcare/accessible-healthcare), [Derechos en la atención médica](/es/healthcare/healthcare-rights).
 
 ### Prestaciones
 
@@ -195,7 +195,7 @@ Consulta [Atención médica accesible](/es/healthcare/accessible-healthcare.md),
 - Graba o toma notas de la evaluación
 - Apela las denegaciones: muchas se revierten
 
-Consulta [Prestaciones](/es/benefits/index.md), [Denegaciones de prestaciones y apelaciones](/es/benefits/benefit-denials-and-appeals.md).
+Consulta [Prestaciones](/es/benefits), [Denegaciones de prestaciones y apelaciones](/es/benefits/benefit-denials-and-appeals).
 
 ### Lugar de trabajo
 
@@ -205,7 +205,7 @@ Consulta [Prestaciones](/es/benefits/index.md), [Denegaciones de prestaciones y 
 - Puedes enfrentar el cuestionamiento de "pareces estar bien"
 - Puedes esforzarte más por "pasar" como persona sin discapacidad
 
-Consulta [Adaptaciones en el lugar de trabajo](/es/employment/workplace-accommodations.md).
+Consulta [Adaptaciones en el lugar de trabajo](/es/employment/workplace-accommodations).
 
 ### Lugares de acceso público
 
@@ -254,7 +254,7 @@ Muchas personas con discapacidades invisibles se preguntan si "cuentan" como per
 - Amistad
 - Menos aislamiento
 
-Consulta [Comunidad y apoyo entre pares](/es/community/index.md), [Comunidades en línea](/es/community/online-communities.md).
+Consulta [Comunidad y apoyo entre pares](/es/community), [Comunidades en línea](/es/community/online-communities).
 
 ### Visible frente a invisible: una división falsa
 
@@ -289,7 +289,7 @@ Algunas personas con discapacidades invisibles eligen hacer visibles sus discapa
 
 **Intimidad con discapacidad invisible**: El dolor, la fatiga y otros síntomas afectan la intimidad. La comunicación es clave.
 
-Consulta [Citas y relaciones](/es/relationships/dating-and-relationships.md).
+Consulta [Citas y relaciones](/es/relationships/dating-and-relationships).
 
 ### Amistades y familia
 
@@ -343,7 +343,7 @@ Consulta [Citas y relaciones](/es/relationships/dating-and-relationships.md).
 - Posible imposibilidad de reducir el trabajo a pesar de la enfermedad
 - Sistemas de prestaciones que a menudo deniegan a las personas con afecciones invisibles
 
-Consulta la sección [Interseccionalidad](/es/intersectionality/index.md).
+Consulta la sección [Interseccionalidad](/es/intersectionality).
 
 ---
 
@@ -351,19 +351,19 @@ Consulta la sección [Interseccionalidad](/es/intersectionality/index.md).
 
 Esta página aborda la experiencia compartida de la discapacidad invisible. Para afecciones específicas, consulta sus páginas principales:
 
-**Enfermedad crónica**: [Enfermedad crónica](/es/conditions/chronic-illness.md)
+**Enfermedad crónica**: [Enfermedad crónica](/es/conditions/chronic-illness)
 - Fibromialgia, EM/SFC, lupus, EM, afecciones autoinmunes y más
 
-**Neurodivergencia**: [Neurodivergencia](/es/conditions/neurodivergence.md)
+**Neurodivergencia**: [Neurodivergencia](/es/conditions/neurodivergence)
 - Autismo, TDAH, dislexia y afecciones relacionadas
 
-**Salud mental**: [Discapacidad psiquiátrica y psicosocial](/es/conditions/psychiatric-and-psychosocial-disability.md)
+**Salud mental**: [Discapacidad psiquiátrica y psicosocial](/es/conditions/psychiatric-and-psychosocial-disability)
 - Depresión, ansiedad, trastorno bipolar, TEPT y más
 
-**Discapacidades sensoriales**: [Discapacidades sensoriales](/es/conditions/sensory-disabilities.md)
+**Discapacidades sensoriales**: [Discapacidades sensoriales](/es/conditions/sensory-disabilities)
 - Pérdida auditiva, baja visión cuando no son evidentes de inmediato
 
-**Discapacidades físicas**: [Discapacidades físicas](/es/conditions/physical-disabilities.md)
+**Discapacidades físicas**: [Discapacidades físicas](/es/conditions/physical-disabilities)
 - Dolor crónico, afecciones que no requieren ayudas de movilidad visibles
 
 ---
@@ -415,7 +415,7 @@ Esta página aborda la experiencia compartida de la discapacidad invisible. Para
 - "Al menos no es cáncer" (u otra comparación)
 - "Solo tienes que ser más positivo"
 
-Consulta [Para personas aliadas](/es/foundations/for-allies.md).
+Consulta [Para personas aliadas](/es/foundations/for-allies).
 
 ---
 
@@ -443,20 +443,20 @@ Las personas con discapacidades invisibles se están organizando por:
 - Campañas de concienciación pública
 - Visibilidad en el movimiento por los derechos de las personas con discapacidad
 
-Consulta [Incidencia y autodefensa](/es/rights/advocacy-and-self-advocacy.md), [Participa](/es/get-involved/index.md).
+Consulta [Incidencia y autodefensa](/es/rights/advocacy-and-self-advocacy), [Participa](/es/get-involved).
 
 ---
 
 ## Páginas relacionadas
 
-- [Enfermedad crónica](/es/conditions/chronic-illness.md)
-- [Neurodivergencia](/es/conditions/neurodivergence.md)
-- [Discapacidad psiquiátrica y psicosocial](/es/conditions/psychiatric-and-psychosocial-disability.md)
-- [Dolor y fatiga](/es/healthcare/pain-and-fatigue.md)
-- [Adaptaciones en el lugar de trabajo](/es/employment/workplace-accommodations.md)
-- [Denegaciones de prestaciones y apelaciones](/es/benefits/benefit-denials-and-appeals.md)
-- [Discapacidades múltiples](/es/conditions/multiple-disabilities.md)
-- [Para personas aliadas](/es/foundations/for-allies.md)
+- [Enfermedad crónica](/es/conditions/chronic-illness)
+- [Neurodivergencia](/es/conditions/neurodivergence)
+- [Discapacidad psiquiátrica y psicosocial](/es/conditions/psychiatric-and-psychosocial-disability)
+- [Dolor y fatiga](/es/healthcare/pain-and-fatigue)
+- [Adaptaciones en el lugar de trabajo](/es/employment/workplace-accommodations)
+- [Denegaciones de prestaciones y apelaciones](/es/benefits/benefit-denials-and-appeals)
+- [Discapacidades múltiples](/es/conditions/multiple-disabilities)
+- [Para personas aliadas](/es/foundations/for-allies)
 
 ---
 

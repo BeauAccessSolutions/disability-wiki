@@ -468,13 +468,13 @@ We welcome contributions from:
 
 ## See Also
 
-- [Education: K-12 Education](../../education/k12-education.md)
-- [Education: Higher Education](../../education/higher-education.md)
-- [Education: Transition to Adulthood](../../education/transition-to-adulthood.md)
-- [Community & Peer Support: Overview](../../community/index.md)
-- [Community & Peer Support: Online Communities](../../community/online-communities.md)
-- [Employment: Job Searching with a Disability](../../employment/job-searching-with-a-disability.md)
-- [Rights & Advocacy: Self-Advocacy](../../rights/advocacy-and-self-advocacy.md)
+- [Education: K-12 Education](/education/k12-education)
+- [Education: Higher Education](/education/higher-education)
+- [Education: Transition to Adulthood](/education/transition-to-adulthood)
+- [Community & Peer Support: Overview](/community)
+- [Community & Peer Support: Online Communities](/community/online-communities)
+- [Employment: Job Searching with a Disability](/employment/job-searching-with-a-disability)
+- [Rights & Advocacy: Self-Advocacy](/rights/advocacy-and-self-advocacy)
 
 ---
 

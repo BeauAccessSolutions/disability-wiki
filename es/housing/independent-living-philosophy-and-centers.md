@@ -415,15 +415,15 @@ El cambio de la "independencia" a la "interdependencia" representa una evolució
 
 ## Recursos relacionados
 
-Para información sobre **Derechos de vivienda**, incluido tu derecho a la vida comunitaria, consulta [Derechos de vivienda](/es/housing/housing-rights.md).
+Para información sobre **Derechos de vivienda**, incluido tu derecho a la vida comunitaria, consulta [Derechos de vivienda](/es/housing/housing-rights).
 
-Para **Hogares grupales e instituciones**, consulta [Hogares grupales e instituciones](/es/housing/group-homes-and-institutions.md) para conocer alternativas a las instituciones.
+Para **Hogares grupales e instituciones**, consulta [Hogares grupales e instituciones](/es/housing/group-homes-and-institutions) para conocer alternativas a las instituciones.
 
-Para los marcos de **Derechos internacionales de vivienda** (artículo 19 de la CDPD), consulta [Derechos internacionales de vivienda](/es/housing/international-housing-rights.md).
+Para los marcos de **Derechos internacionales de vivienda** (artículo 19 de la CDPD), consulta [Derechos internacionales de vivienda](/es/housing/international-housing-rights).
 
-Para **La situación de calle y la discapacidad**, incluido Housing First, consulta [La situación de calle y la discapacidad](/es/housing/homelessness-and-disability.md).
+Para **La situación de calle y la discapacidad**, incluido Housing First, consulta [La situación de calle y la discapacidad](/es/housing/homelessness-and-disability).
 
-Para **Comunidad y apoyo entre pares** de forma más amplia, consulta [Comunidad y apoyo entre pares](/es/community/index.md).
+Para **Comunidad y apoyo entre pares** de forma más amplia, consulta [Comunidad y apoyo entre pares](/es/community).
 
 ---
 

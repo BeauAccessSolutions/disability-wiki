@@ -685,11 +685,11 @@ Damos la bienvenida a contribuciones de:
 
 ## Véase también
 
-- [Recreación, viajes y aire libre](/es/daily-living/recreation-travel-and-outdoors.md)
-- [Salud mental](/es/healthcare/mental-health.md)
-- [Atención médica: Derechos en la atención médica](/es/healthcare/healthcare-rights.md)
-- [Vida diaria y estilo de vida: Panorama general](/es/daily-living/index.md)
-- [Comunidad y apoyo entre pares](/es/community/index.md)
+- [Recreación, viajes y aire libre](/es/daily-living/recreation-travel-and-outdoors)
+- [Salud mental](/es/healthcare/mental-health)
+- [Atención médica: Derechos en la atención médica](/es/healthcare/healthcare-rights)
+- [Vida diaria y estilo de vida: Panorama general](/es/daily-living)
+- [Comunidad y apoyo entre pares](/es/community)
 
 ---
 

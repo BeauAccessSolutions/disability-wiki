@@ -395,13 +395,13 @@ Las estrategias de búsqueda de vivienda varían a nivel global según los merca
 
 ## Recursos relacionados
 
-Para información sobre los **Derechos de vivienda** en distintos países, consulta [Derechos de vivienda](/es/housing/housing-rights.md).
+Para información sobre los **Derechos de vivienda** en distintos países, consulta [Derechos de vivienda](/es/housing/housing-rights).
 
-Para **financiación y estrategias de Modificaciones del hogar**, consulta [Modificaciones del hogar](/es/housing/home-modifications.md).
+Para **financiación y estrategias de Modificaciones del hogar**, consulta [Modificaciones del hogar](/es/housing/home-modifications).
 
-Para los **Derechos de los inquilinos** una vez que hayas encontrado vivienda, consulta [Derechos de los inquilinos con discapacidad](/es/housing/tenants-rights-with-disabilities.md).
+Para los **Derechos de los inquilinos** una vez que hayas encontrado vivienda, consulta [Derechos de los inquilinos con discapacidad](/es/housing/tenants-rights-with-disabilities).
 
-Para los marcos de **Derechos internacionales de vivienda** (Artículo 19 de la CDPD, estándares globales), consulta [Derechos internacionales de vivienda](/es/housing/international-housing-rights.md).
+Para los marcos de **Derechos internacionales de vivienda** (Artículo 19 de la CDPD, estándares globales), consulta [Derechos internacionales de vivienda](/es/housing/international-housing-rights).
 
 ---
 

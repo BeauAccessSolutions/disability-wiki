@@ -508,13 +508,13 @@ We welcome contributions from:
 
 ## See Also
 
-- [Relationships: Abuse, Safety, and Consent](../../relationships/abuse-safety-and-consent.md)
-- [Relationships: Caregiving](../../relationships/caregiving.md)
-- [Crisis: Abuse, Neglect, and Exploitation](../../crisis/abuse-neglect-exploitation.md)
-- [Rights & Advocacy: Self-Advocacy](../../rights/advocacy-and-self-advocacy.md)
-- [Community & Peer Support: Overview](../../community/index.md)
-- [Intersectionality: Overview](../../intersectionality/index.md)
-- [Mental Health](../../healthcare/mental-health.md)
+- [Relationships: Abuse, Safety, and Consent](/relationships/abuse-safety-and-consent)
+- [Relationships: Caregiving](/relationships/caregiving)
+- [Crisis: Abuse, Neglect, and Exploitation](/crisis/abuse-neglect-exploitation)
+- [Rights & Advocacy: Self-Advocacy](/rights/advocacy-and-self-advocacy)
+- [Community & Peer Support: Overview](/community)
+- [Intersectionality: Overview](/intersectionality)
+- [Mental Health](/healthcare/mental-health)
 
 ---
 

@@ -612,11 +612,11 @@ We welcome contributions from:
 
 ## See Also
 
-- [Assistive Technology Overview](./assistive-technology-overview.md)
-- [Daily Living & Lifestyle: Overview](./index.md)
-- [Mental Health](../../healthcare/mental-health.md)
-- [Community & Peer Support](../../community/index.md)
-- [Relationships: Caregiving](../../relationships/caregiving.md)
+- [Assistive Technology Overview](/daily-living/assistive-technology-overview)
+- [Daily Living & Lifestyle: Overview](/daily-living)
+- [Mental Health](/healthcare/mental-health)
+- [Community & Peer Support](/community)
+- [Relationships: Caregiving](/relationships/caregiving)
 
 ---
 

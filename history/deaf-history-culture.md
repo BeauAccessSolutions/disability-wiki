@@ -16,7 +16,7 @@ Deaf history is disability community history. The Deaf community is the oldest, 
 
 **I want to learn about:**
 
-- [What is Deaf culture?](#deaf-culture-overview) — Values, communication, identity
+- [What is Deaf culture?](#what-is-deaf-culture) — Values, communication, identity
 - [How did Deaf community form?](#early-deaf-community-formation) — Schools and gathering
 - [What is sign language history?](#sign-language-development) — Languages across cultures
 - [What happened with oralism?](#oralism--forced-assimilation) — Suppression and resistance

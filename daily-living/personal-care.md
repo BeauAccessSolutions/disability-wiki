@@ -734,11 +734,11 @@ We welcome contributions from:
 
 ## See Also
 
-- [Assistive Technology Overview](./assistive-technology-overview.md)
-- [Healthcare: Healthcare Rights](../../healthcare/healthcare-rights.md)
-- [Healthcare: Home and Community Care](../../healthcare/home-and-community-care.md)
-- [Relationships: Caregiving](../../relationships/caregiving.md)
-- [Housing: Home Modifications](../../housing/home-modifications.md)
+- [Assistive Technology Overview](/daily-living/assistive-technology-overview)
+- [Healthcare: Healthcare Rights](/healthcare/healthcare-rights)
+- [Healthcare: Home and Community Care](/healthcare/home-and-community-care)
+- [Relationships: Caregiving](/relationships/caregiving)
+- [Housing: Home Modifications](/housing/home-modifications)
 
 ---
 

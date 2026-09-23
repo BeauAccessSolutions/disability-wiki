@@ -706,12 +706,12 @@ We welcome contributions from:
 
 ## See Also
 
-- [Community & Peer Support: Online Communities](../../community/online-communities.md)
-- [Community & Peer Support: Disability-Specific Peer Groups](../../community/disability-specific-peer-groups.md)
-- [Community & Peer Support: Overview](../../community/index.md)
-- [Youth and Student Communities](./youth-student-communities.md)
-- [Get Involved: Community Organizing](../../get-involved/community-organizing.md)
-- [Intersectionality: Overview](../../intersectionality/index.md)
+- [Community & Peer Support: Online Communities](/community/online-communities)
+- [Community & Peer Support: Disability-Specific Peer Groups](/community/disability-specific-peer-groups)
+- [Community & Peer Support: Overview](/community)
+- [Youth and Student Communities](/community/youth-student-communities)
+- [Get Involved: Community Organizing](/get-involved/community-organizing)
+- [Intersectionality: Overview](/intersectionality)
 
 ---
 

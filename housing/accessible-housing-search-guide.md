@@ -396,13 +396,13 @@ Housing search strategies vary globally based on local housing markets, accessib
 
 ## Related Resources
 
-For information on **Housing Rights** across different countries, see [Housing Rights](/housing/housing-rights.md).
+For information on **Housing Rights** across different countries, see [Housing Rights](/housing/housing-rights).
 
-For **Home Modifications** funding and strategies, see [Home Modifications](/housing/home-modifications.md).
+For **Home Modifications** funding and strategies, see [Home Modifications](/housing/home-modifications).
 
-For **Tenants' Rights** once you've found housing, see [Tenants' Rights with Disabilities](/housing/tenants-rights-with-disabilities.md).
+For **Tenants' Rights** once you've found housing, see [Tenants' Rights with Disabilities](/housing/tenants-rights-with-disabilities).
 
-For **International Housing Rights** frameworks (CRPD Article 19, global standards), see [International Housing Rights](/housing/international-housing-rights.md).
+For **International Housing Rights** frameworks (CRPD Article 19, global standards), see [International Housing Rights](/housing/international-housing-rights).
 
 ---
 

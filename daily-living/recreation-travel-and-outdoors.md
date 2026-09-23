@@ -567,13 +567,13 @@ We welcome contributions from disabled travelers, athletes, and outdoor enthusia
 
 ## See Also
 
-- [Exercise and Adaptive Sports](./exercise-and-adaptive-sports.md)
-- [Accessible Travel](./accessible-travel.md)
-- [Assistive Technology Overview](./assistive-technology-overview.md)
-- [Transportation: Air Travel Rights](../../transport/air-travel-rights.md)
-- [Transportation: Public Transit Rights](../../transport/public-transit-rights.md)
-- [Relationships: Dating and Relationships](../../relationships/dating-and-relationships.md)
-- [Community & Peer Support](../../community/index.md)
+- [Exercise and Adaptive Sports](/daily-living/exercise-and-adaptive-sports)
+- [Accessible Travel](/daily-living/accessible-travel)
+- [Assistive Technology Overview](/daily-living/assistive-technology-overview)
+- [Transportation: Air Travel Rights](/transport/air-travel-rights)
+- [Transportation: Public Transit Rights](/transport/public-transit-rights)
+- [Relationships: Dating and Relationships](/relationships/dating-and-relationships)
+- [Community & Peer Support](/community)
 
 ---
 

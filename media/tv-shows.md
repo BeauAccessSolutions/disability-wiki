@@ -41,7 +41,7 @@ This list prioritizes shows with **authentic casting** (disabled actors playing 
   - [Neurodivergence](#neurodivergence)
   - [Chronic Illness](#chronic-illness)
   - [Psychiatric Disability](#psychiatric-disability)
-  - [Intellectual & Developmental](#intellectual--developmental)
+  - [Intellectual & Developmental](#intellectual--developmental-disabilities)
 - [International Series](#international-series)
 - [Problematic but Notable](#problematic-but-notable)
 - [Behind the Scenes](#behind-the-scenes)

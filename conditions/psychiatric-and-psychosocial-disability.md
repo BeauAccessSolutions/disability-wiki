@@ -257,7 +257,7 @@ Substance use disorders, schizoaffective disorder, adjustment disorders, and man
 - FMLA for mental health leave
 
 **Rights**:
-- [ADA](/rights/us/ada.md) covers psychiatric disabilities — reasonable accommodations required
+- [ADA](/rights/us/ada) covers psychiatric disabilities — reasonable accommodations required
 - Fair Housing Act protects against housing discrimination
 - Some states have stronger mental health rights laws
 
@@ -365,7 +365,7 @@ Mental health services and rights vary dramatically worldwide:
 - UN CRPD Article 12 (legal capacity) and Article 14 (liberty) are relevant to psychiatric survivors' rights
 - UN has called for end to coercive practices
 
-See [International Rights](/rights/international-rights.md).
+See [International Rights](/rights/international-rights).
 
 ---
 
@@ -431,7 +431,7 @@ Support from others with lived experience is increasingly recognized as effectiv
 - **Peer respites**: Alternatives to hospitalization (limited but growing)
 - **Mobile crisis teams**: Come to you instead of police/hospital
 
-See [Crisis resources](/crisis/index.md), [Disabled Crisis Support](/crisis/disabled-crisis-support.md).
+See [Crisis resources](/crisis), [Disabled Crisis Support](/crisis/disabled-crisis-support).
 
 ### Hospitalizations
 
@@ -477,7 +477,7 @@ Many people with psychiatric conditions work; others cannot.
 
 **Disclosure**: You don't have to disclose diagnosis — only functional limitations and needed accommodations.
 
-See [Workplace Accommodations](/employment/workplace-accommodations.md), [Employment Rights by Country](/employment/employment-rights-by-country.md).
+See [Workplace Accommodations](/employment/workplace-accommodations), [Employment Rights by Country](/employment/employment-rights-by-country).
 
 ### Benefits and Not Working
 
@@ -487,7 +487,7 @@ If you cannot work due to psychiatric disability:
 - Appeals are common — don't give up after first denial
 - Your value is not determined by work capacity
 
-See [Benefits](/benefits/index.md), [SSDI](/benefits/us/ssdi), [SSI](/benefits/us/ssi).
+See [Benefits](/benefits), [SSDI](/benefits/us/ssdi), [SSI](/benefits/us/ssi).
 
 ---
 
@@ -556,7 +556,7 @@ Mental illness is often misrepresented in media:
 - Disability can affect mental health
 - Mental health conditions can cause physical disability
 
-See [Intersectionality](/intersectionality/index.md) section.
+See [Intersectionality](/intersectionality) section.
 
 ---
 
@@ -593,7 +593,7 @@ The psychiatric survivor movement has fought for:
 - Disability rights organizations
 - Mental health advocacy organizations
 
-See [Rights & Advocacy](/rights/index.md), [Advocacy & Self-Advocacy](/rights/advocacy-and-self-advocacy.md).
+See [Rights & Advocacy](/rights), [Advocacy & Self-Advocacy](/rights/advocacy-and-self-advocacy).
 
 ---
 
@@ -619,15 +619,15 @@ If you've recently received a psychiatric diagnosis:
 
 ## Related Pages
 
-- [Mental Health](/healthcare/mental-health.md)
-- [Invisible Disabilities](/conditions/invisible-disabilities.md)
-- [Crisis resources](/crisis/index.md)
-- [Disabled Crisis Support](/crisis/disabled-crisis-support.md)
-- [Abuse, Neglect & Exploitation](/crisis/abuse-neglect-exploitation.md)
-- [Workplace Accommodations](/employment/workplace-accommodations.md)
-- [Neurodivergence](/conditions/neurodivergence.md)
-- [Chronic Illness](/conditions/chronic-illness.md)
-- [Multiple Disabilities](/conditions/multiple-disabilities.md)
+- [Mental Health](/healthcare/mental-health)
+- [Invisible Disabilities](/conditions/invisible-disabilities)
+- [Crisis resources](/crisis)
+- [Disabled Crisis Support](/crisis/disabled-crisis-support)
+- [Abuse, Neglect & Exploitation](/crisis/abuse-neglect-exploitation)
+- [Workplace Accommodations](/employment/workplace-accommodations)
+- [Neurodivergence](/conditions/neurodivergence)
+- [Chronic Illness](/conditions/chronic-illness)
+- [Multiple Disabilities](/conditions/multiple-disabilities)
 
 ---
 

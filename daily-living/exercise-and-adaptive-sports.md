@@ -685,11 +685,11 @@ We welcome contributions from:
 
 ## See Also
 
-- [Recreation, Travel, and Outdoors](./recreation-travel-and-outdoors.md)
-- [Mental Health](../../healthcare/mental-health.md)
-- [Healthcare: Healthcare Rights](../../healthcare/healthcare-rights.md)
-- [Daily Living & Lifestyle: Overview](./index.md)
-- [Community & Peer Support](../../community/index.md)
+- [Recreation, Travel, and Outdoors](/daily-living/recreation-travel-and-outdoors)
+- [Mental Health](/healthcare/mental-health)
+- [Healthcare: Healthcare Rights](/healthcare/healthcare-rights)
+- [Daily Living & Lifestyle: Overview](/daily-living)
+- [Community & Peer Support](/community)
 
 ---
 

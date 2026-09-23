@@ -387,13 +387,13 @@ La financiación de las modificaciones del hogar varía dramáticamente a nivel 
 
 ## Recursos relacionados
 
-Para información sobre los **Derechos de vivienda**, incluidos los requisitos de modificación, consulta [Derechos de vivienda](/es/housing/housing-rights.md).
+Para información sobre los **Derechos de vivienda**, incluidos los requisitos de modificación, consulta [Derechos de vivienda](/es/housing/housing-rights).
 
-Para la **Búsqueda de vivienda accesible** cuando el hogar actual no se puede modificar, consulta [Guía de búsqueda de vivienda accesible](/es/housing/accessible-housing-search-guide.md).
+Para la **Búsqueda de vivienda accesible** cuando el hogar actual no se puede modificar, consulta [Guía de búsqueda de vivienda accesible](/es/housing/accessible-housing-search-guide).
 
-Para los **Derechos de los inquilinos** en cuanto a las solicitudes de modificación como inquilino, consulta [Derechos de los inquilinos con discapacidad](/es/housing/tenants-rights-with-disabilities.md).
+Para los **Derechos de los inquilinos** en cuanto a las solicitudes de modificación como inquilino, consulta [Derechos de los inquilinos con discapacidad](/es/housing/tenants-rights-with-disabilities).
 
-Para los **Servicios Basados en el Hogar y la Comunidad** que financian modificaciones, consulta [Prestaciones](/es/benefits/index.md) para conocer los programas específicos por país.
+Para los **Servicios Basados en el Hogar y la Comunidad** que financian modificaciones, consulta [Prestaciones](/es/benefits) para conocer los programas específicos por país.
 
 ---
 

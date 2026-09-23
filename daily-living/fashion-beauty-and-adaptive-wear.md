@@ -532,11 +532,11 @@ We welcome contributions from:
 
 ## See Also
 
-- [Personal Care](./personal-care.md)
-- [Assistive Technology Overview](./assistive-technology-overview.md)
-- [Daily Living & Lifestyle: Overview](./index.md)
-- [Relationships: Dating and Relationships](../../relationships/dating-and-relationships.md)
-- [Media: Media Tropes and Representation](../../media/media-tropes-and-representation.md)
+- [Personal Care](/daily-living/personal-care)
+- [Assistive Technology Overview](/daily-living/assistive-technology-overview)
+- [Daily Living & Lifestyle: Overview](/daily-living)
+- [Relationships: Dating and Relationships](/relationships/dating-and-relationships)
+- [Media: Media Tropes and Representation](/media/media-tropes-and-representation)
 
 ---
 

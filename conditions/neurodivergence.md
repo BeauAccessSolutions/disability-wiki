@@ -297,7 +297,7 @@ Mental health conditions also co-occur at higher rates:
 
 These aren't caused by neurodivergence itself but often by lack of support, masking, and trauma.
 
-See [Multiple Disabilities](/conditions/multiple-disabilities.md), [Psychiatric & Psychosocial Disability](/conditions/psychiatric-and-psychosocial-disability.md).
+See [Multiple Disabilities](/conditions/multiple-disabilities), [Psychiatric & Psychosocial Disability](/conditions/psychiatric-and-psychosocial-disability).
 
 ---
 
@@ -312,14 +312,14 @@ See [Multiple Disabilities](/conditions/multiple-disabilities.md), [Psychiatric 
 - Long wait times for specialists
 
 **Education rights**:
-- [IDEA](/rights/us/idea.md) covers special education (IEPs)
-- [Section 504](/rights/us/section-504.md) covers accommodations
-- See [K-12 Education](/education/k12-education.md)
-- Higher education: Disability services offices; [Higher Education](/education/higher-education.md)
+- [IDEA](/rights/us/idea) covers special education (IEPs)
+- [Section 504](/rights/us/section-504) covers accommodations
+- See [K-12 Education](/education/k12-education)
+- Higher education: Disability services offices; [Higher Education](/education/higher-education)
 
 **Employment**:
 - ADA covers accommodations for qualified individuals
-- See [Workplace Accommodations](/employment/workplace-accommodations.md)
+- See [Workplace Accommodations](/employment/workplace-accommodations)
 
 **Benefits**:
 - [SSI](/benefits/us/ssi) and [SSDI](/benefits/us/ssdi) may be available for some
@@ -368,12 +368,12 @@ See [Multiple Disabilities](/conditions/multiple-disabilities.md), [Psychiatric 
 **Education**:
 - Education, Health and Care Plans (EHCPs) for those with significant needs
 - SEN (Special Educational Needs) support
-- See [K-12 Education](/education/k12-education.md)
+- See [K-12 Education](/education/k12-education)
 
 **Employment**:
 - Access to Work program funds accommodations
 - Disability Confident employer scheme
-- See [Workplace Accommodations](/employment/workplace-accommodations.md)
+- See [Workplace Accommodations](/employment/workplace-accommodations)
 
 **Benefits**:
 - Personal Independence Payment (PIP)
@@ -421,7 +421,7 @@ Neurodivergence support varies dramatically by country:
 
 **UN CRPD**: Establishes rights to education, employment, and accommodations globally, though implementation varies.
 
-See [International Rights](/rights/international-rights.md), [Education](/education/index.md).
+See [International Rights](/rights/international-rights), [Education](/education).
 
 ---
 
@@ -429,7 +429,7 @@ See [International Rights](/rights/international-rights.md), [Education](/educat
 
 ### K-12 Education
 
-**Rights**: Most countries have some legal framework for educational accommodations. In the US, [IDEA](/rights/us/idea.md) and [Section 504](/rights/us/section-504.md) provide different levels of support.
+**Rights**: Most countries have some legal framework for educational accommodations. In the US, [IDEA](/rights/us/idea) and [Section 504](/rights/us/section-504) provide different levels of support.
 
 **Common accommodations**:
 - Extended time on tests
@@ -443,7 +443,7 @@ See [International Rights](/rights/international-rights.md), [Education](/educat
 
 **Advocacy**: Parent advocacy is often necessary to secure appropriate support. Self-advocacy skills benefit students as they age.
 
-See [K-12 Education](/education/k12-education.md), [Transition to Adulthood](/education/transition-to-adulthood.md).
+See [K-12 Education](/education/k12-education), [Transition to Adulthood](/education/transition-to-adulthood).
 
 ### Higher Education
 
@@ -459,7 +459,7 @@ See [K-12 Education](/education/k12-education.md), [Transition to Adulthood](/ed
 
 **Challenges**: Executive function demands increase significantly. Many students benefit from coaching or support.
 
-See [Higher Education](/education/higher-education.md).
+See [Higher Education](/education/higher-education).
 
 ---
 
@@ -473,7 +473,7 @@ See [Higher Education](/education/higher-education.md).
 
 **Disclosure decisions**: Weigh need for accommodations against potential discrimination. You don't have to disclose until requesting accommodations.
 
-See [Job Searching with a Disability](/employment/job-searching-with-a-disability.md).
+See [Job Searching with a Disability](/employment/job-searching-with-a-disability).
 
 ### Workplace Accommodations
 
@@ -488,13 +488,13 @@ See [Job Searching with a Disability](/employment/job-searching-with-a-disabilit
 
 **Informal accommodations**: Sometimes easier to implement without formal process — "I work best when..."
 
-See [Workplace Accommodations](/employment/workplace-accommodations.md), [Employment Rights by Country](/employment/employment-rights-by-country.md).
+See [Workplace Accommodations](/employment/workplace-accommodations), [Employment Rights by Country](/employment/employment-rights-by-country).
 
 ### Self-Employment
 
 Some neurodivergent people thrive in self-employment, setting their own structures and focusing on strengths.
 
-See [Entrepreneurship & Self-Employment](/employment/entrepreneurship-and-self-employment.md).
+See [Entrepreneurship & Self-Employment](/employment/entrepreneurship-and-self-employment).
 
 ---
 
@@ -551,7 +551,7 @@ Neurodivergent people have higher rates of anxiety, depression, and other mental
 - Avoid therapists focused on "social skills training" without understanding neurodivergent social needs
 - ABA (Applied Behavior Analysis) is controversial in autistic community — many autistic adults report trauma from it
 
-See [Mental Health](/healthcare/mental-health.md), [Psychiatric & Psychosocial Disability](/conditions/psychiatric-and-psychosocial-disability.md).
+See [Mental Health](/healthcare/mental-health), [Psychiatric & Psychosocial Disability](/conditions/psychiatric-and-psychosocial-disability).
 
 ---
 
@@ -586,7 +586,7 @@ Often missed in diagnosis due to:
 - Autistic people more likely to be gender diverse
 - May understand gender/sexuality differently
 
-See [Intersectionality](/intersectionality/index.md) section.
+See [Intersectionality](/intersectionality) section.
 
 ---
 
@@ -627,21 +627,21 @@ The neurodiversity movement was built by neurodivergent self-advocates:
 - For autistic-led research and organizations
 - Against stigma and for acceptance
 
-See [Advocacy & Self-Advocacy](/rights/advocacy-and-self-advocacy.md), [Get Involved](/get-involved/index.md).
+See [Advocacy & Self-Advocacy](/rights/advocacy-and-self-advocacy), [Get Involved](/get-involved).
 
 ---
 
 ## Related Pages
 
-- [Intellectual & Developmental Disability](/conditions/intellectual-and-developmental-disability.md)
-- [Invisible Disabilities](/conditions/invisible-disabilities.md)
-- [Multiple Disabilities](/conditions/multiple-disabilities.md)
-- [Sensory Disabilities](/conditions/sensory-disabilities.md) (for sensory processing)
-- [K-12 Education](/education/k12-education.md)
-- [Higher Education](/education/higher-education.md)
-- [Workplace Accommodations](/employment/workplace-accommodations.md)
-- [Mental Health](/healthcare/mental-health.md)
-- [Communication Access & AAC](/tech/communication-access-and-aac.md)
+- [Intellectual & Developmental Disability](/conditions/intellectual-and-developmental-disability)
+- [Invisible Disabilities](/conditions/invisible-disabilities)
+- [Multiple Disabilities](/conditions/multiple-disabilities)
+- [Sensory Disabilities](/conditions/sensory-disabilities) (for sensory processing)
+- [K-12 Education](/education/k12-education)
+- [Higher Education](/education/higher-education)
+- [Workplace Accommodations](/employment/workplace-accommodations)
+- [Mental Health](/healthcare/mental-health)
+- [Communication Access & AAC](/tech/communication-access-and-aac)
 
 ---
 

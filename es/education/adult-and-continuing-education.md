@@ -422,13 +422,13 @@ Esta página está escrita por y para personas adultas con discapacidad. Damos l
 
 ## Ver también
 
-- [Educación K–12](../k12-education.md)
-- [Educación superior](../higher-education.md)
-- [Transición a la adultez](../transition-to-adulthood.md)
-- [Empleo: empleo con apoyo y rehabilitación vocacional](../../employment/supported-employment-and-voc-rehab.md)
-- [Prestaciones: incentivos al trabajo y planificación de prestaciones](../../benefits/index.md)
-- [Tecnología: tecnología de asistencia para el aprendizaje](../../tech/communication-access-and-aac.md)
-- [Accesibilidad: principios generales](../../foundations/index.md)
+- [Educación K–12](/es/education/k12-education)
+- [Educación superior](/es/education/higher-education)
+- [Transición a la adultez](/es/education/transition-to-adulthood)
+- [Empleo: empleo con apoyo y rehabilitación vocacional](/es/employment/supported-employment-and-voc-rehab)
+- [Prestaciones: incentivos al trabajo y planificación de prestaciones](/es/benefits)
+- [Tecnología: tecnología de asistencia para el aprendizaje](/es/tech/communication-access-and-aac)
+- [Accesibilidad: principios generales](/es/foundations)
 
 ---
 

@@ -16,7 +16,7 @@ Disabled people have legal protections in housing—yet many don't know what rig
 
 All disabled people worldwide share the same fundamental right: **to live independently in the community with support if needed**. This standard is set by the **UN Convention on the Rights of Persons with Disabilities (CRPD) Article 19**, which has 193 parties as of June 2026 ([UN Treaty Collection](https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=IV-15&chapter=4)). Ratification does not by itself create an enforceable individual remedy — what you can claim depends on your country's implementation (see below).
 
-For detailed explanation of how CRPD Article 19 works, how different legal systems interpret it, and the international frameworks protecting disabled people's housing rights, see [International Housing Rights](/housing/international-housing-rights.md).
+For detailed explanation of how CRPD Article 19 works, how different legal systems interpret it, and the international frameworks protecting disabled people's housing rights, see [International Housing Rights](/housing/international-housing-rights).
 
 **In brief:** CRPD Article 19 establishes that disabled people have:
 1. **The right to choose** where to live, with whom, and what living arrangements work for them
@@ -47,7 +47,7 @@ The U.S. has not ratified CRPD (though it signed it), so CRPD is not legally bin
 
 ### Fair Housing Act: the foundational federal law
 
-The **Fair Housing Act (FHA)**, passed in 1968 with disability protections added in 1988, prohibits discrimination in housing based on disability. It covers most rentals and sales but has limited exemptions: owner-occupied buildings with four or fewer units where the owner lives, and housing exclusively for people 55+ (though disability provisions still apply). For full legal text, see [Fair Housing Act](/rights/us/fair-housing-act.md).
+The **Fair Housing Act (FHA)**, passed in 1968 with disability protections added in 1988, prohibits discrimination in housing based on disability. It covers most rentals and sales but has limited exemptions: owner-occupied buildings with four or fewer units where the owner lives, and housing exclusively for people 55+ (though disability provisions still apply). For full legal text, see [Fair Housing Act](/rights/us/fair-housing-act).
 
 The FHA prohibits three main categories of violations:
 
@@ -61,7 +61,7 @@ The FHA prohibits three main categories of violations:
 
 ### Section 504 of the Rehabilitation Act: stronger protections for federally-funded housing
 
-**Section 504** applies to any housing receiving federal funding: public housing, Project-Based Section 8, HOPWA, supportive housing, programs funded through CDBG or HOME. This covers substantial U.S. housing stock. For details, see [Section 504](/rights/us/section-504.md).
+**Section 504** applies to any housing receiving federal funding: public housing, Project-Based Section 8, HOPWA, supportive housing, programs funded through CDBG or HOME. This covers substantial U.S. housing stock. For details, see [Section 504](/rights/us/section-504).
 
 Section 504 provides stronger protections than FHA: landlords must pay for reasonable modifications, must proactively offer accommodations to known disabled residents, and must ensure accessibility in all common areas and services. New construction must include 5% mobility-accessible and 2% sensory-accessible units.
 
@@ -435,7 +435,7 @@ Whether you're in a country that has ratified CRPD, in a country like the U.S. t
 
 ## Resources and Support
 
-**International Housing Rights**: See [International Housing Rights](/housing/international-housing-rights.md) for detailed explanation of CRPD Article 19, global frameworks, and how different legal systems implement housing rights.
+**International Housing Rights**: See [International Housing Rights](/housing/international-housing-rights) for detailed explanation of CRPD Article 19, global frameworks, and how different legal systems implement housing rights.
 
 **UN Convention on Rights of Persons with Disabilities**: [ohchr.org](https://ohchr.org). Full text in multiple languages; General Comment 5 on Article 19 provides in-depth interpretation.
 

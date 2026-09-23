@@ -26,7 +26,7 @@ All disabled tenants globally share fundamental rights based on CRPD Article 19 
 
 These principles apply universally. Implementation and enforcement mechanisms differ by country.
 
-For detailed explanation of international housing rights frameworks, see [International Housing Rights](/housing/international-housing-rights.md).
+For detailed explanation of international housing rights frameworks, see [International Housing Rights](/housing/international-housing-rights).
 
 ---
 
@@ -47,7 +47,7 @@ Choose your country or region to see specific protections, processes, and resour
 
 The U.S. implements tenant rights through federal law (Fair Housing Act, Section 504), state laws, and local ordinances. Protections vary significantly by location.
 
-For comprehensive information on housing rights including detailed legal frameworks, see [Housing Rights](/housing/housing-rights.md#united-states).
+For comprehensive information on housing rights including detailed legal frameworks, see [Housing Rights](/housing/housing-rights#united-states).
 
 ### Requesting reasonable accommodations
 
@@ -129,7 +129,7 @@ Fair Housing Act supersedes occupancy limits and guest restrictions for disabili
 
 Canada implements tenant rights through Canadian Human Rights Act, provincial human rights codes, and residential tenancy acts. Protections and processes vary by province.
 
-For comprehensive housing rights information, see [Housing Rights](/housing/housing-rights.md#canada).
+For comprehensive housing rights information, see [Housing Rights](/housing/housing-rights#canada).
 
 ### Requesting accommodations and modifications
 
@@ -187,7 +187,7 @@ Landlords cannot retaliate against tenants for asserting rights. Most provinces 
 
 EU member states must implement CRPD Article 19 protections. Tenant protections vary significantly by country, but core principles apply universally across EU.
 
-For detailed country-specific information, see [Housing Rights](/housing/housing-rights.md#european-union).
+For detailed country-specific information, see [Housing Rights](/housing/housing-rights#european-union).
 
 ### Universal EU principles for disabled tenants
 
@@ -253,7 +253,7 @@ Mechanisms vary by country but typically include:
 
 UK implements tenant rights through Equality Act 2010, Residential Tenancies Act, and common law protections.
 
-For comprehensive housing rights information, see [Housing Rights](/housing/housing-rights.md#united-kingdom).
+For comprehensive housing rights information, see [Housing Rights](/housing/housing-rights#united-kingdom).
 
 ### Requesting reasonable adjustments
 
@@ -307,7 +307,7 @@ UK uses term "reasonable adjustments" rather than "accommodations." Landlords mu
 
 Australia implements tenant rights through Disability Discrimination Act, National Disability Insurance Scheme, and state/territory residential tenancy laws.
 
-For comprehensive housing rights information, see [Housing Rights](/housing/housing-rights.md#australia).
+For comprehensive housing rights information, see [Housing Rights](/housing/housing-rights#australia).
 
 ### Requesting accommodations
 
@@ -437,13 +437,13 @@ Tenant protections vary globally. Universal principles apply; specific mechanism
 
 ## Related Resources
 
-For information on **Housing Rights** across different countries, see [Housing Rights](/housing/housing-rights.md).
+For information on **Housing Rights** across different countries, see [Housing Rights](/housing/housing-rights).
 
-For **Accessible Housing Search** strategies, see [Accessible Housing Search Guide](/housing/accessible-housing-search-guide.md).
+For **Accessible Housing Search** strategies, see [Accessible Housing Search Guide](/housing/accessible-housing-search-guide).
 
-For **Home Modifications** funding and strategies, see [Home Modifications](/housing/home-modifications.md).
+For **Home Modifications** funding and strategies, see [Home Modifications](/housing/home-modifications).
 
-For **International Housing Rights** frameworks (CRPD Article 19, global standards), see [International Housing Rights](/housing/international-housing-rights.md).
+For **International Housing Rights** frameworks (CRPD Article 19, global standards), see [International Housing Rights](/housing/international-housing-rights).
 
 ---
 

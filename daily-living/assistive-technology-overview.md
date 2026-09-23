@@ -611,12 +611,12 @@ We welcome contributions from:
 
 ## See Also
 
-- [Technology & Digital Access: Web Accessibility](../../tech/web-accessibility.md)
-- [Technology & Digital Access: Communication Access and AAC](../../tech/communication-access-and-aac.md)
-- [Healthcare: Medical Equipment and AT](../../healthcare/medical-equipment-and-at.md)
-- [Daily Living & Lifestyle: Overview](./index.md)
-- [Education: K-12 Education](../../education/k12-education.md)
-- [Employment: Workplace Accommodations](../../employment/workplace-accommodations.md)
+- [Technology & Digital Access: Web Accessibility](/tech/web-accessibility)
+- [Technology & Digital Access: Communication Access and AAC](/tech/communication-access-and-aac)
+- [Healthcare: Medical Equipment and AT](/healthcare/medical-equipment-and-at)
+- [Daily Living & Lifestyle: Overview](/daily-living)
+- [Education: K-12 Education](/education/k12-education)
+- [Employment: Workplace Accommodations](/employment/workplace-accommodations)
 
 ---
 

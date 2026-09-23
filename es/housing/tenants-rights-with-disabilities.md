@@ -26,7 +26,7 @@ Todos los inquilinos con discapacidad del mundo comparten derechos fundamentales
 
 Estos principios se aplican de manera universal. Los mecanismos de implementación y aplicación difieren según el país.
 
-Para una explicación detallada de los marcos internacionales de derechos de vivienda, consulta [Derechos internacionales de vivienda](/es/housing/international-housing-rights.md).
+Para una explicación detallada de los marcos internacionales de derechos de vivienda, consulta [Derechos internacionales de vivienda](/es/housing/international-housing-rights).
 
 ---
 
@@ -47,7 +47,7 @@ Elige tu país o región para ver protecciones, procesos y recursos específicos
 
 EE. UU. implementa los derechos de los inquilinos a través de la ley federal (Fair Housing Act, Sección 504), las leyes estatales y las ordenanzas locales. Las protecciones varían de forma significativa según la ubicación.
 
-Para información completa sobre derechos de vivienda, incluidos los marcos legales detallados, consulta [Derechos de vivienda](/es/housing/housing-rights.md#united-states).
+Para información completa sobre derechos de vivienda, incluidos los marcos legales detallados, consulta [Derechos de vivienda](/es/housing/housing-rights#united-states).
 
 ### Solicitar adaptaciones razonables
 
@@ -129,7 +129,7 @@ La Fair Housing Act prevalece sobre los límites de ocupación y las restriccion
 
 Canadá implementa los derechos de los inquilinos a través de la Canadian Human Rights Act, los códigos provinciales de derechos humanos y las leyes de arrendamiento residencial. Las protecciones y los procesos varían según la provincia.
 
-Para información completa sobre derechos de vivienda, consulta [Derechos de vivienda](/es/housing/housing-rights.md#canada).
+Para información completa sobre derechos de vivienda, consulta [Derechos de vivienda](/es/housing/housing-rights#canada).
 
 ### Solicitar adaptaciones y modificaciones
 
@@ -187,7 +187,7 @@ Los arrendadores no pueden tomar represalias contra los inquilinos por hacer val
 
 Los Estados miembros de la UE deben implementar las protecciones del artículo 19 de la CDPD. Las protecciones de los inquilinos varían de forma significativa según el país, pero los principios fundamentales se aplican de manera universal en toda la UE.
 
-Para información detallada específica de cada país, consulta [Derechos de vivienda](/es/housing/housing-rights.md#european-union).
+Para información detallada específica de cada país, consulta [Derechos de vivienda](/es/housing/housing-rights#european-union).
 
 ### Principios universales de la UE para inquilinos con discapacidad
 
@@ -253,7 +253,7 @@ Los mecanismos varían según el país, pero por lo general incluyen:
 
 El Reino Unido implementa los derechos de los inquilinos a través de la Equality Act 2010, la Residential Tenancies Act y las protecciones del derecho consuetudinario (common law).
 
-Para información completa sobre derechos de vivienda, consulta [Derechos de vivienda](/es/housing/housing-rights.md#united-kingdom).
+Para información completa sobre derechos de vivienda, consulta [Derechos de vivienda](/es/housing/housing-rights#united-kingdom).
 
 ### Solicitar ajustes razonables
 
@@ -307,7 +307,7 @@ La **Residential Tenancies Act** y el derecho consuetudinario establecen:
 
 Australia implementa los derechos de los inquilinos a través de la Disability Discrimination Act, el National Disability Insurance Scheme y las leyes de arrendamiento residencial estatales o territoriales.
 
-Para información completa sobre derechos de vivienda, consulta [Derechos de vivienda](/es/housing/housing-rights.md#australia).
+Para información completa sobre derechos de vivienda, consulta [Derechos de vivienda](/es/housing/housing-rights#australia).
 
 ### Solicitar adaptaciones
 
@@ -437,13 +437,13 @@ Las protecciones de los inquilinos varían a nivel global. Los principios univer
 
 ## Recursos relacionados
 
-Para información sobre **Derechos de vivienda** en distintos países, consulta [Derechos de vivienda](/es/housing/housing-rights.md).
+Para información sobre **Derechos de vivienda** en distintos países, consulta [Derechos de vivienda](/es/housing/housing-rights).
 
-Para estrategias de **Búsqueda de vivienda accesible**, consulta [Guía de búsqueda de vivienda accesible](/es/housing/accessible-housing-search-guide.md).
+Para estrategias de **Búsqueda de vivienda accesible**, consulta [Guía de búsqueda de vivienda accesible](/es/housing/accessible-housing-search-guide).
 
-Para el financiamiento y las estrategias de **Modificaciones del hogar**, consulta [Modificaciones del hogar](/es/housing/home-modifications.md).
+Para el financiamiento y las estrategias de **Modificaciones del hogar**, consulta [Modificaciones del hogar](/es/housing/home-modifications).
 
-Para los marcos de **Derechos internacionales de vivienda** (artículo 19 de la CDPD, estándares globales), consulta [Derechos internacionales de vivienda](/es/housing/international-housing-rights.md).
+Para los marcos de **Derechos internacionales de vivienda** (artículo 19 de la CDPD, estándares globales), consulta [Derechos internacionales de vivienda](/es/housing/international-housing-rights).
 
 ---
 

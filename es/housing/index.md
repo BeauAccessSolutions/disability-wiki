@@ -18,59 +18,59 @@ Esta sección ofrece orientación práctica sobre todos los aspectos de la vivie
 
 Elige tu país o región para encontrar derechos de vivienda, programas y recursos específicos:
 
-- **Estados Unidos** → Consulta [Derechos de vivienda](/es/housing/housing-rights.md#united-states), [Modificaciones del hogar](/es/housing/home-modifications.md#united-states), [Guía de búsqueda de vivienda accesible](/es/housing/accessible-housing-search-guide.md)
-- **Canadá** → Consulta [Derechos de vivienda](/es/housing/housing-rights.md#canada), [Modificaciones del hogar](/es/housing/home-modifications.md#canada)
-- **Unión Europea y Estados miembros** → Consulta [Derechos de vivienda](/es/housing/housing-rights.md#european-union), [Modificaciones del hogar](/es/housing/home-modifications.md#european-union)
-- **Reino Unido** → Consulta [Derechos de vivienda](/es/housing/housing-rights.md#united-kingdom), [Modificaciones del hogar](/es/housing/home-modifications.md#united-kingdom)
-- **Australia** → Consulta [Derechos de vivienda](/es/housing/housing-rights.md#australia), [Modificaciones del hogar](/es/housing/home-modifications.md#australia)
-- **Otros países** → Consulta [Derechos de vivienda](/es/housing/housing-rights.md#other-countries), [Modificaciones del hogar](/es/housing/home-modifications.md#other-countries)
+- **Estados Unidos** → Consulta [Derechos de vivienda](/es/housing/housing-rights#united-states), [Modificaciones del hogar](/es/housing/home-modifications#united-states), [Guía de búsqueda de vivienda accesible](/es/housing/accessible-housing-search-guide)
+- **Canadá** → Consulta [Derechos de vivienda](/es/housing/housing-rights#canada), [Modificaciones del hogar](/es/housing/home-modifications#canada)
+- **Unión Europea y Estados miembros** → Consulta [Derechos de vivienda](/es/housing/housing-rights#european-union), [Modificaciones del hogar](/es/housing/home-modifications#european-union)
+- **Reino Unido** → Consulta [Derechos de vivienda](/es/housing/housing-rights#united-kingdom), [Modificaciones del hogar](/es/housing/home-modifications#united-kingdom)
+- **Australia** → Consulta [Derechos de vivienda](/es/housing/housing-rights#australia), [Modificaciones del hogar](/es/housing/home-modifications#australia)
+- **Otros países** → Consulta [Derechos de vivienda](/es/housing/housing-rights#other-countries), [Modificaciones del hogar](/es/housing/home-modifications#other-countries)
 
-**¿Eres nuevo en los derechos de las personas con discapacidad y la vivienda?** Empieza con [Derechos internacionales de vivienda](/es/housing/international-housing-rights.md) para comprender los marcos globales que protegen el derecho a la vivienda de las personas con discapacidad, y luego dirígete a tu país o región más arriba.
+**¿Eres nuevo en los derechos de las personas con discapacidad y la vivienda?** Empieza con [Derechos internacionales de vivienda](/es/housing/international-housing-rights) para comprender los marcos globales que protegen el derecho a la vivienda de las personas con discapacidad, y luego dirígete a tu país o región más arriba.
 
 ---
 
 ## Marco global
 
-Todas las personas con discapacidad del mundo tienen derecho a vivir de forma independiente en la comunidad con apoyo. Esto se establece en el artículo 19 de la Convención de la ONU sobre los Derechos de las Personas con Discapacidad (CDPD, por sus siglas en inglés), ratificada por 186 países. Consulta [Derechos internacionales de vivienda](/es/housing/international-housing-rights.md) para ver cómo esto se traduce en los distintos sistemas legales.
+Todas las personas con discapacidad del mundo tienen derecho a vivir de forma independiente en la comunidad con apoyo. Esto se establece en el artículo 19 de la Convención de la ONU sobre los Derechos de las Personas con Discapacidad (CDPD, por sus siglas en inglés), ratificada por 186 países. Consulta [Derechos internacionales de vivienda](/es/housing/international-housing-rights) para ver cómo esto se traduce en los distintos sistemas legales.
 
 ## Páginas de esta sección
 
-**[Guía de búsqueda de vivienda accesible](/es/housing/accessible-housing-search-guide.md)**
-Cómo encontrar vivienda accesible, evaluar características de accesibilidad, usar bases de datos y herramientas de búsqueda, y navegar el proceso de alquiler con confianza. Consulta también: [Derechos de vivienda](/es/housing/housing-rights.md) para protección contra la discriminación.
+**[Guía de búsqueda de vivienda accesible](/es/housing/accessible-housing-search-guide)**
+Cómo encontrar vivienda accesible, evaluar características de accesibilidad, usar bases de datos y herramientas de búsqueda, y navegar el proceso de alquiler con confianza. Consulta también: [Derechos de vivienda](/es/housing/housing-rights) para protección contra la discriminación.
 
-**[Derechos de vivienda](/es/housing/housing-rights.md)**
-Tus protecciones legales: comienzan con los marcos internacionales (artículo 19 de la CDPD) que se aplican a nivel global, y luego se organizan por país o región (EE. UU., Canadá, UE, Reino Unido, Australia y otros). Encuentra tu ubicación y conoce qué derechos existen, cómo hacerlos valer y dónde obtener ayuda. Consulta también: [Derechos internacionales de vivienda](/es/housing/international-housing-rights.md) para profundizar en los marcos globales.
+**[Derechos de vivienda](/es/housing/housing-rights)**
+Tus protecciones legales: comienzan con los marcos internacionales (artículo 19 de la CDPD) que se aplican a nivel global, y luego se organizan por país o región (EE. UU., Canadá, UE, Reino Unido, Australia y otros). Encuentra tu ubicación y conoce qué derechos existen, cómo hacerlos valer y dónde obtener ayuda. Consulta también: [Derechos internacionales de vivienda](/es/housing/international-housing-rights) para profundizar en los marcos globales.
 
-**[Modificaciones del hogar](/es/housing/home-modifications.md)**
+**[Modificaciones del hogar](/es/housing/home-modifications)**
 Cómo financiar modificaciones, qué programas cubren los costos (incluidos [Medicaid](/es/benefits/us/medicaid) y [prestaciones para veteranos](/es/benefits/us/veterans-benefits)), beneficios fiscales, cómo encontrar contratistas calificados y cómo solicitar modificaciones como inquilino.
 
-**[Derechos de los inquilinos con discapacidad](/es/housing/tenants-rights-with-disabilities.md)**
-Solicitar adaptaciones razonables, animales de servicio y animales de apoyo (consulta también [Animales de servicio](/es/transport/service-animals.md)), enfrentar incumplimientos y protegerte del desalojo. Hace referencia a [Derechos de vivienda](/es/housing/housing-rights.md).
+**[Derechos de los inquilinos con discapacidad](/es/housing/tenants-rights-with-disabilities)**
+Solicitar adaptaciones razonables, animales de servicio y animales de apoyo (consulta también [Animales de servicio](/es/transport/service-animals)), enfrentar incumplimientos y protegerte del desalojo. Hace referencia a [Derechos de vivienda](/es/housing/housing-rights).
 
-**[La situación de calle y la discapacidad](/es/housing/homelessness-and-disability.md)**
-Comprender la inseguridad habitacional, los modelos de Housing First, los servicios disponibles y cómo se cruzan la discapacidad y la situación de calle, en particular para las comunidades marginadas. Consulta [Interseccionalidad: discapacidad y situación de calle](/es/intersectionality/disability-and-homelessness.md) para un análisis más profundo. Relacionado: [Recursos de crisis](/es/crisis/index.md).
+**[La situación de calle y la discapacidad](/es/housing/homelessness-and-disability)**
+Comprender la inseguridad habitacional, los modelos de Housing First, los servicios disponibles y cómo se cruzan la discapacidad y la situación de calle, en particular para las comunidades marginadas. Consulta [Interseccionalidad: discapacidad y situación de calle](/es/intersectionality/disability-and-homelessness) para un análisis más profundo. Relacionado: [Recursos de crisis](/es/crisis).
 
-**[Hogares grupales e instituciones](/es/housing/group-homes-and-institutions.md)**
-Comprender los entornos colectivos, la crítica de la justicia para las personas con discapacidad a las instituciones, los marcos de desinstitucionalización y las alternativas basadas en la comunidad. Consulta [Filosofía de la vida independiente](/es/housing/independent-living-philosophy-and-centers.md) para enfoques basados en la comunidad.
+**[Hogares grupales e instituciones](/es/housing/group-homes-and-institutions)**
+Comprender los entornos colectivos, la crítica de la justicia para las personas con discapacidad a las instituciones, los marcos de desinstitucionalización y las alternativas basadas en la comunidad. Consulta [Filosofía de la vida independiente](/es/housing/independent-living-philosophy-and-centers) para enfoques basados en la comunidad.
 
-**[Filosofía de la vida independiente y centros](/es/housing/independent-living-philosophy-and-centers.md)**
-La historia y los principios del movimiento de vida independiente, lo que ofrecen los CIL, los modelos de apoyo entre pares (peer) y cómo la justicia para las personas con discapacidad hizo evolucionar este marco. Alternativa a [Hogares grupales e instituciones](/es/housing/group-homes-and-institutions.md).
+**[Filosofía de la vida independiente y centros](/es/housing/independent-living-philosophy-and-centers)**
+La historia y los principios del movimiento de vida independiente, lo que ofrecen los CIL, los modelos de apoyo entre pares (peer) y cómo la justicia para las personas con discapacidad hizo evolucionar este marco. Alternativa a [Hogares grupales e instituciones](/es/housing/group-homes-and-institutions).
 
 ## Empieza aquí si...
 
-**Necesitas encontrar vivienda accesible ahora:** Ve a [Guía de búsqueda de vivienda accesible](/es/housing/accessible-housing-search-guide.md) para bases de datos, herramientas y orientación paso a paso a lo largo del proceso de búsqueda y alquiler.
+**Necesitas encontrar vivienda accesible ahora:** Ve a [Guía de búsqueda de vivienda accesible](/es/housing/accessible-housing-search-guide) para bases de datos, herramientas y orientación paso a paso a lo largo del proceso de búsqueda y alquiler.
 
-**Estás enfrentando discriminación en la vivienda:** Ve a [Derechos de vivienda](/es/housing/housing-rights.md) para comprender qué es ilegal, cómo documentar incumplimientos y cómo presentar quejas.
+**Estás enfrentando discriminación en la vivienda:** Ve a [Derechos de vivienda](/es/housing/housing-rights) para comprender qué es ilegal, cómo documentar incumplimientos y cómo presentar quejas.
 
-**Quieres modificar tu hogar:** Ve a [Modificaciones del hogar](/es/housing/home-modifications.md) para conocer fuentes de financiamiento, programas gubernamentales y orientación sobre contratistas.
+**Quieres modificar tu hogar:** Ve a [Modificaciones del hogar](/es/housing/home-modifications) para conocer fuentes de financiamiento, programas gubernamentales y orientación sobre contratistas.
 
-**Estás alquilando y necesitas adaptaciones:** Ve a [Derechos de los inquilinos con discapacidad](/es/housing/tenants-rights-with-disabilities.md) para saber cómo solicitar adaptaciones, las protecciones para animales de servicio y la defensa frente al desalojo.
+**Estás alquilando y necesitas adaptaciones:** Ve a [Derechos de los inquilinos con discapacidad](/es/housing/tenants-rights-with-disabilities) para saber cómo solicitar adaptaciones, las protecciones para animales de servicio y la defensa frente al desalojo.
 
-**Estás en situación de calle:** Ve a [La situación de calle y la discapacidad](/es/housing/homelessness-and-disability.md) para conocer servicios, enfoques de Housing First y recursos específicos para personas con discapacidad.
+**Estás en situación de calle:** Ve a [La situación de calle y la discapacidad](/es/housing/homelessness-and-disability) para conocer servicios, enfoques de Housing First y recursos específicos para personas con discapacidad.
 
-**Estás considerando vivienda institucional o vives en una:** Ve a [Hogares grupales e instituciones](/es/housing/group-homes-and-institutions.md) para perspectivas de la justicia para las personas con discapacidad y alternativas basadas en la comunidad.
+**Estás considerando vivienda institucional o vives en una:** Ve a [Hogares grupales e instituciones](/es/housing/group-homes-and-institutions) para perspectivas de la justicia para las personas con discapacidad y alternativas basadas en la comunidad.
 
-**Quieres comprender el movimiento de vida independiente:** Ve a [Filosofía de la vida independiente y centros](/es/housing/independent-living-philosophy-and-centers.md) para conocer su historia, los servicios de los CIL y el marco de la justicia para las personas con discapacidad.
+**Quieres comprender el movimiento de vida independiente:** Ve a [Filosofía de la vida independiente y centros](/es/housing/independent-living-philosophy-and-centers) para conocer su historia, los servicios de los CIL y el marco de la justicia para las personas con discapacidad.
 
 ## Principio clave
 

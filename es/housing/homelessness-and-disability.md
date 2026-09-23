@@ -16,7 +16,7 @@ Las personas con discapacidad viven en situación de calle en tasas más altas q
 
 Todas las personas con discapacidad tienen derecho a vivir de forma independiente en la comunidad con apoyo. Esto se establece en el **artículo 19 de la Convención de la ONU sobre los Derechos de las Personas con Discapacidad (CDPD)**, ratificada por 186 países. La situación de calle representa la violación más grave de este derecho.
 
-Para una explicación detallada de los marcos internacionales de derechos de vivienda, consulta [Derechos internacionales de vivienda](/es/housing/international-housing-rights.md).
+Para una explicación detallada de los marcos internacionales de derechos de vivienda, consulta [Derechos internacionales de vivienda](/es/housing/international-housing-rights).
 
 **Principio clave**: la situación de calle no es un problema de discapacidad que exija que las personas con discapacidad cambien. Es un problema de vivienda y de política que exige que la sociedad garantice vivienda adecuada y servicios de apoyo.
 
@@ -448,7 +448,7 @@ La juventud LGBTQ+ enfrenta un riesgo de situación de calle un 120 % mayor; la 
 
 **Servicios afirmativos**: los servicios comunes para personas en situación de calle deben afirmar la orientación sexual y la identidad de género.
 
-**Recursos**: organizaciones de discapacidad LGBTQ+; SABE International; sección [LGBTQ+ y discapacidad](/es/intersectionality/lgbtq-and-disability.md).
+**Recursos**: organizaciones de discapacidad LGBTQ+; SABE International; sección [LGBTQ+ y discapacidad](/es/intersectionality/lgbtq-and-disability).
 
 ### Personas inmigrantes y refugiadas con discapacidad, y situación de calle
 
@@ -458,7 +458,7 @@ Enfrentan temores de deportación que limitan el acceso a servicios; barreras de
 
 **Defensa**: desvincular las prestaciones públicas de la aplicación de las leyes migratorias; proteger la privacidad de las personas inmigrantes en situación de calle que acceden a servicios.
 
-**Recursos**: organizaciones de derechos de las personas inmigrantes; sección [Inmigración y personas refugiadas](/es/intersectionality/immigration-and-refugees.md).
+**Recursos**: organizaciones de derechos de las personas inmigrantes; sección [Inmigración y personas refugiadas](/es/intersectionality/immigration-and-refugees).
 
 ### Mujeres con discapacidad que viven en situación de calle
 
@@ -468,7 +468,7 @@ Mayor vulnerabilidad a la violencia de pareja; la situación de calle a menudo r
 
 **Servicios**: servicios para personas en situación de calle específicos por género; servicios de discapacidad informados sobre la violencia.
 
-**Recursos**: organizaciones contra la violencia doméstica; organizaciones de discapacidad; sección [Género y discapacidad](/es/intersectionality/gender-and-disability.md).
+**Recursos**: organizaciones contra la violencia doméstica; organizaciones de discapacidad; sección [Género y discapacidad](/es/intersectionality/gender-and-disability).
 
 ### Padres y madres con discapacidad y situación de calle
 
@@ -484,7 +484,7 @@ Enfrentan colonización sistémica, despojo de tierras y barreras a la comunidad
 
 **Soluciones**: soluciones de vivienda arraigadas en la soberanía indígena y el control comunitario; apoyo para regresar a la comunidad.
 
-**Recursos**: organizaciones de discapacidad indígenas; sección [Perspectivas indígenas sobre la discapacidad](/es/intersectionality/indigenous-disability-perspectives.md).
+**Recursos**: organizaciones de discapacidad indígenas; sección [Perspectivas indígenas sobre la discapacidad](/es/intersectionality/indigenous-disability-perspectives).
 
 ---
 
@@ -508,17 +508,17 @@ Las personas con discapacidad se organizan para exigir derechos de vivienda y se
 
 ## Recursos relacionados
 
-Para información sobre **Derechos de vivienda** en distintos países, consulta [Derechos de vivienda](/es/housing/housing-rights.md).
+Para información sobre **Derechos de vivienda** en distintos países, consulta [Derechos de vivienda](/es/housing/housing-rights).
 
-Para la **Búsqueda de vivienda accesible** al salir de la situación de calle, consulta [Guía de búsqueda de vivienda accesible](/es/housing/accessible-housing-search-guide.md).
+Para la **Búsqueda de vivienda accesible** al salir de la situación de calle, consulta [Guía de búsqueda de vivienda accesible](/es/housing/accessible-housing-search-guide).
 
-Para las **Modificaciones del hogar** en una vivienda estable, consulta [Modificaciones del hogar](/es/housing/home-modifications.md).
+Para las **Modificaciones del hogar** en una vivienda estable, consulta [Modificaciones del hogar](/es/housing/home-modifications).
 
-Para los marcos de **Derechos internacionales de vivienda** (artículo 19 de la CDPD), consulta [Derechos internacionales de vivienda](/es/housing/international-housing-rights.md).
+Para los marcos de **Derechos internacionales de vivienda** (artículo 19 de la CDPD), consulta [Derechos internacionales de vivienda](/es/housing/international-housing-rights).
 
-Para **Interseccionalidad y situación de calle**, consulta [Discapacidad y situación de calle](/es/intersectionality/disability-and-homelessness.md).
+Para **Interseccionalidad y situación de calle**, consulta [Discapacidad y situación de calle](/es/intersectionality/disability-and-homelessness).
 
-Para **Recursos de crisis**, consulta [Apoyo en crisis](/es/crisis/disabled-crisis-support.md).
+Para **Recursos de crisis**, consulta [Apoyo en crisis](/es/crisis/disabled-crisis-support).
 
 ---
 

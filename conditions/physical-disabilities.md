@@ -41,7 +41,7 @@ Injury to the spinal cord causing paralysis and/or loss of sensation. Level and 
 
 **Typical specialists**: Physiatrist (rehabilitation medicine), urologist, neurologist, rehabilitation team
 
-**Related pages**: [Mobility Aids](/transport/mobility-aids.md), [Home Modifications](/housing/home-modifications.md), [Personal Care](/daily-living/personal-care.md)
+**Related pages**: [Mobility Aids](/transport/mobility-aids), [Home Modifications](/housing/home-modifications), [Personal Care](/daily-living/personal-care)
 
 ---
 
@@ -50,7 +50,7 @@ A group of disorders affecting movement, muscle tone, and posture caused by dama
 
 **Typical specialists**: Neurologist, physiatrist, orthopedic surgeon (for some), physical therapist, occupational therapist
 
-**Related pages**: [Mobility Aids](/transport/mobility-aids.md), [Communication Access & AAC](/tech/communication-access-and-aac.md)
+**Related pages**: [Mobility Aids](/transport/mobility-aids), [Communication Access & AAC](/tech/communication-access-and-aac)
 
 ---
 
@@ -59,7 +59,7 @@ A group of genetic diseases causing progressive weakness and loss of muscle mass
 
 **Typical specialists**: Neurologist, pulmonologist (for respiratory involvement), cardiologist, geneticist, physical therapist
 
-**Related pages**: [Medical Equipment & AT](/healthcare/medical-equipment-and-at.md), [Home & Community Care](/healthcare/home-and-community-care.md)
+**Related pages**: [Medical Equipment & AT](/healthcare/medical-equipment-and-at), [Home & Community Care](/healthcare/home-and-community-care)
 
 ---
 
@@ -68,7 +68,7 @@ Congenital limb differences (born without or with different limbs) or acquired a
 
 **Typical specialists**: Prosthetist, physiatrist, physical therapist, occupational therapist
 
-**Related pages**: [Adaptive Driving](/transport/driving-and-adaptive-driving.md), [Adaptive Sports](/daily-living/exercise-and-adaptive-sports.md)
+**Related pages**: [Adaptive Driving](/transport/driving-and-adaptive-driving), [Adaptive Sports](/daily-living/exercise-and-adaptive-sports)
 
 ---
 
@@ -77,7 +77,7 @@ An autoimmune disease affecting the central nervous system. Symptoms vary widely
 
 **Typical specialists**: Neurologist (often MS specialist), physiatrist, urologist, physical therapist
 
-**Related pages**: [Chronic Illness](/conditions/chronic-illness.md), [Invisible Disabilities](/conditions/invisible-disabilities.md), [Pain & Fatigue](/healthcare/pain-and-fatigue.md)
+**Related pages**: [Chronic Illness](/conditions/chronic-illness), [Invisible Disabilities](/conditions/invisible-disabilities), [Pain & Fatigue](/healthcare/pain-and-fatigue)
 
 ---
 
@@ -86,7 +86,7 @@ A birth defect where the spine doesn't form completely. Effects range from mild 
 
 **Typical specialists**: Neurosurgeon, urologist, orthopedic surgeon, physiatrist
 
-**Related pages**: [Early Intervention](/education/early-intervention.md), [Transition to Adulthood](/education/transition-to-adulthood.md)
+**Related pages**: [Early Intervention](/education/early-intervention), [Transition to Adulthood](/education/transition-to-adulthood)
 
 ---
 
@@ -95,7 +95,7 @@ Includes rheumatoid arthritis, osteoarthritis, psoriatic arthritis, ankylosing s
 
 **Typical specialists**: Rheumatologist, orthopedic surgeon (for joint replacement), physical therapist
 
-**Related pages**: [Chronic Illness](/conditions/chronic-illness.md), [Pain & Fatigue](/healthcare/pain-and-fatigue.md), [Workplace Accommodations](/employment/workplace-accommodations.md)
+**Related pages**: [Chronic Illness](/conditions/chronic-illness), [Pain & Fatigue](/healthcare/pain-and-fatigue), [Workplace Accommodations](/employment/workplace-accommodations)
 
 ---
 
@@ -111,7 +111,7 @@ Physical effects from stroke, traumatic brain injury, or other brain injuries ma
 
 **Typical specialists**: Neurologist, physiatrist, rehabilitation team
 
-**Related pages**: [Neurodivergence](/conditions/neurodivergence.md) (for cognitive effects)
+**Related pages**: [Neurodivergence](/conditions/neurodivergence) (for cognitive effects)
 
 ---
 
@@ -120,7 +120,7 @@ A group of connective tissue disorders affecting joints, skin, and blood vessels
 
 **Typical specialists**: Geneticist (for diagnosis), rheumatologist, cardiologist (for vascular type), physical therapist familiar with EDS
 
-**Related pages**: [Chronic Illness](/conditions/chronic-illness.md), [Invisible Disabilities](/conditions/invisible-disabilities.md)
+**Related pages**: [Chronic Illness](/conditions/chronic-illness), [Invisible Disabilities](/conditions/invisible-disabilities)
 
 ---
 
@@ -141,7 +141,7 @@ Includes achondroplasia and other conditions resulting in short stature. Little 
 ### Other Physical Disabilities
 This list is not exhaustive. Other physical disabilities include: Parkinson's disease, Huntington's disease, ALS/motor neuron diseases, Guillain-Barré syndrome, myasthenia gravis, peripheral neuropathies, and many more.
 
-**If your condition isn't listed**: The general guidance on this page still applies. Consider [contributing](/glossary/how-to-contribute.md) information about your condition.
+**If your condition isn't listed**: The general guidance on this page still applies. Consider [contributing](/glossary/how-to-contribute) information about your condition.
 
 ---
 
@@ -152,7 +152,7 @@ This list is not exhaustive. Other physical disabilities include: Parkinson's di
 **Healthcare navigation**:
 - Physiatrists (rehabilitation medicine doctors) coordinate care for many physical disabilities
 - University medical centers often have multidisciplinary clinics for specific conditions
-- [Insurance Navigation](/healthcare/insurance-navigation.md) for coverage guidance
+- [Insurance Navigation](/healthcare/insurance-navigation) for coverage guidance
 
 **Benefits**:
 - [SSDI](/benefits/us/ssdi) and [SSI](/benefits/us/ssi) for income support
@@ -162,7 +162,7 @@ This list is not exhaustive. Other physical disabilities include: Parkinson's di
 **Equipment and mobility aids**:
 - Medicare Part B covers durable medical equipment (DME) with doctor's prescription
 - "Medical necessity" documentation is often required and can be fought
-- See [Medical Equipment & AT](/healthcare/medical-equipment-and-at.md)
+- See [Medical Equipment & AT](/healthcare/medical-equipment-and-at)
 
 **Organizations (disabled-led)**:
 - **ADAPT**: Direct action disability rights organization founded by physically disabled people
@@ -244,7 +244,7 @@ Frameworks vary by country, but EU disability strategy promotes:
 - **Netherlands**: WMO (Social Support Act) for home modifications and aids
 - **Nordic countries**: Generally strong social support systems
 
-See [EU Benefits](/benefits/european-union/benefits) and [International Rights](/rights/international-rights.md).
+See [EU Benefits](/benefits/european-union/benefits) and [International Rights](/rights/international-rights).
 
 ---
 
@@ -258,7 +258,7 @@ The UN Convention on the Rights of Persons with Disabilities (CRPD) establishes 
 - Are there Centers for Independent Living or similar peer-led organizations?
 - What legal protections exist for accessibility and discrimination?
 
-See [International Benefits Overview](/benefits/international/benefits-overview) and [Other Countries Benefits](/benefits/other-countries-benefits.md).
+See [International Benefits Overview](/benefits/international/benefits-overview) and [Other Countries Benefits](/benefits/other-countries-benefits).
 
 ---
 
@@ -289,7 +289,7 @@ Mobility aids, adaptive equipment, and durable medical equipment (DME) can be li
 - Appeal denials — many are overturned
 - Consider peer-to-peer equipment sharing/selling communities
 - Explore nonprofit equipment loan programs
-- See [Medical Equipment & AT](/healthcare/medical-equipment-and-at.md)
+- See [Medical Equipment & AT](/healthcare/medical-equipment-and-at)
 
 ### Personal Care Assistance
 
@@ -299,7 +299,7 @@ Many physically disabled people use personal care attendants (PCAs), also called
 - Self-directed care (you hire/train/manage) vs. agency-based
 - Funding sources vary by country and situation
 - Finding reliable attendants is an ongoing challenge most physically disabled people understand
-- See [Home & Community Care](/healthcare/home-and-community-care.md) and [Personal Care](/daily-living/personal-care.md)
+- See [Home & Community Care](/healthcare/home-and-community-care) and [Personal Care](/daily-living/personal-care)
 
 ---
 
@@ -314,13 +314,13 @@ Physically disabled people are experts at adapting. Common areas of adaptation i
 - **Technology**: Voice control, switch access, ergonomic setups
 - **Clothing**: Adaptive clothing, seated dressing techniques, magnetic closures
 
-See [Daily Living](/daily-living/index.md) for more resources.
+See [Daily Living](/daily-living) for more resources.
 
 ### Energy Management
 
 Many physical disabilities involve fatigue or limited energy. Pacing, planning, and prioritizing are skills physically disabled people develop.
 
-See [Pain & Fatigue](/healthcare/pain-and-fatigue.md).
+See [Pain & Fatigue](/healthcare/pain-and-fatigue).
 
 ---
 
@@ -328,21 +328,21 @@ See [Pain & Fatigue](/healthcare/pain-and-fatigue.md).
 
 ### Employment
 
-- [Workplace Accommodations](/employment/workplace-accommodations.md)
-- [Employment Rights by Country](/employment/employment-rights-by-country.md)
+- [Workplace Accommodations](/employment/workplace-accommodations)
+- [Employment Rights by Country](/employment/employment-rights-by-country)
 - Common accommodations: flexible schedules, remote work, accessible workstations, modified duties
 
 ### Housing
 
-- [Fair Housing Act (US)](/rights/us/fair-housing-act.md) — landlords must allow reasonable modifications
-- [Housing Rights](/housing/housing-rights.md) — international overview
-- [Home Modifications](/housing/home-modifications.md)
+- [Fair Housing Act (US)](/rights/us/fair-housing-act) — landlords must allow reasonable modifications
+- [Housing Rights](/housing/housing-rights) — international overview
+- [Home Modifications](/housing/home-modifications)
 
 ### Transportation
 
-- [Public Transit Rights](/transport/public-transit-rights.md)
-- [Paratransit](/transport/paratransit.md)
-- [Air Travel Rights](/transport/air-travel-rights.md)
+- [Public Transit Rights](/transport/public-transit-rights)
+- [Paratransit](/transport/paratransit)
+- [Air Travel Rights](/transport/air-travel-rights)
 
 ---
 
@@ -359,7 +359,7 @@ Other physically disabled people understand what it's like to navigate inaccessi
 - **Centers for Independent Living**: Peer-based support and advocacy
 - **Adaptive sports and recreation**: Connect through shared activities
 
-See [Community & Peer Support](/community/index.md) and [Disability-Specific Peer Groups](/community/disability-specific-peer-groups.md).
+See [Community & Peer Support](/community) and [Disability-Specific Peer Groups](/community/disability-specific-peer-groups).
 
 ---
 
@@ -392,7 +392,7 @@ Physical disability intersects with every other aspect of identity:
 - **LGBTQ+**: LGBTQ+ disabled people navigate multiple marginalized identities
 - **Class**: Poverty and physical disability interact in devastating ways — inaccessible housing, inability to afford equipment, limited attendant care
 
-See [Intersectionality](/intersectionality/index.md) section for more.
+See [Intersectionality](/intersectionality) section for more.
 
 ---
 
@@ -407,22 +407,22 @@ Physically disabled people have always been at the forefront of disability right
 
 This organizing continues today. Physically disabled people are fighting for: adequate Medicaid funding, freedom from institutions, accessible housing, affordable equipment, and full community inclusion.
 
-See [History of Disability Rights](/rights/history-of-disability-rights.md) and [Get Involved](/get-involved/index.md).
+See [History of Disability Rights](/rights/history-of-disability-rights) and [Get Involved](/get-involved).
 
 ---
 
 ## Related Pages
 
-- [Mobility Aids](/transport/mobility-aids.md)
-- [Home Modifications](/housing/home-modifications.md)
-- [Medical Equipment & AT](/healthcare/medical-equipment-and-at.md)
-- [Personal Care](/daily-living/personal-care.md)
-- [Pain & Fatigue](/healthcare/pain-and-fatigue.md)
-- [Workplace Accommodations](/employment/workplace-accommodations.md)
-- [Independent Living Philosophy](/housing/independent-living-philosophy-and-centers.md)
-- [Chronic Illness](/conditions/chronic-illness.md) (many conditions overlap)
-- [Invisible Disabilities](/conditions/invisible-disabilities.md)
-- [Multiple Disabilities](/conditions/multiple-disabilities.md)
+- [Mobility Aids](/transport/mobility-aids)
+- [Home Modifications](/housing/home-modifications)
+- [Medical Equipment & AT](/healthcare/medical-equipment-and-at)
+- [Personal Care](/daily-living/personal-care)
+- [Pain & Fatigue](/healthcare/pain-and-fatigue)
+- [Workplace Accommodations](/employment/workplace-accommodations)
+- [Independent Living Philosophy](/housing/independent-living-philosophy-and-centers)
+- [Chronic Illness](/conditions/chronic-illness) (many conditions overlap)
+- [Invisible Disabilities](/conditions/invisible-disabilities)
+- [Multiple Disabilities](/conditions/multiple-disabilities)
 
 ---
 

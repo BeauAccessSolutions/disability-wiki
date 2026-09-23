@@ -297,7 +297,7 @@ Las condiciones de salud mental también coinciden a tasas más altas:
 
 Estas no son causadas por la neurodivergencia en sí, sino a menudo por la falta de apoyo, el enmascaramiento y el trauma.
 
-Consulta [Discapacidades múltiples](/es/conditions/multiple-disabilities.md), [Discapacidad psiquiátrica y psicosocial](/es/conditions/psychiatric-and-psychosocial-disability.md).
+Consulta [Discapacidades múltiples](/es/conditions/multiple-disabilities), [Discapacidad psiquiátrica y psicosocial](/es/conditions/psychiatric-and-psychosocial-disability).
 
 ---
 
@@ -312,14 +312,14 @@ Consulta [Discapacidades múltiples](/es/conditions/multiple-disabilities.md), [
 - Tiempos de espera largos para los especialistas
 
 **Derechos en educación**:
-- [IDEA](/es/rights/us/idea.md) cubre la educación especial (IEP)
-- La [Sección 504](/es/rights/us/section-504.md) cubre las adaptaciones
-- Consulta [Educación K-12](/es/education/k12-education.md)
-- Educación superior: oficinas de servicios de discapacidad; [Educación superior](/es/education/higher-education.md)
+- [IDEA](/es/rights/us/idea) cubre la educación especial (IEP)
+- La [Sección 504](/es/rights/us/section-504) cubre las adaptaciones
+- Consulta [Educación K-12](/es/education/k12-education)
+- Educación superior: oficinas de servicios de discapacidad; [Educación superior](/es/education/higher-education)
 
 **Empleo**:
 - La ADA cubre las adaptaciones para personas calificadas
-- Consulta [Adaptaciones en el lugar de trabajo](/es/employment/workplace-accommodations.md)
+- Consulta [Adaptaciones en el lugar de trabajo](/es/employment/workplace-accommodations)
 
 **Prestaciones**:
 - [SSI](/es/benefits/us/ssi) y [SSDI](/es/benefits/us/ssdi) pueden estar disponibles para algunas personas
@@ -368,12 +368,12 @@ Consulta [Discapacidades múltiples](/es/conditions/multiple-disabilities.md), [
 **Educación**:
 - Education, Health and Care Plans (EHCP) para quienes tienen necesidades significativas
 - Apoyo de SEN (necesidades educativas especiales)
-- Consulta [Educación K-12](/es/education/k12-education.md)
+- Consulta [Educación K-12](/es/education/k12-education)
 
 **Empleo**:
 - El programa Access to Work financia adaptaciones
 - Esquema de empleadores Disability Confident
-- Consulta [Adaptaciones en el lugar de trabajo](/es/employment/workplace-accommodations.md)
+- Consulta [Adaptaciones en el lugar de trabajo](/es/employment/workplace-accommodations)
 
 **Prestaciones**:
 - Personal Independence Payment (PIP)
@@ -421,7 +421,7 @@ El apoyo a la neurodivergencia varía enormemente según el país:
 
 **CDPD de la ONU**: Establece derechos a la educación, el empleo y las adaptaciones a nivel global, aunque la implementación varía.
 
-Consulta [Derechos internacionales](/es/rights/international-rights.md), [Educación](/es/education/index.md).
+Consulta [Derechos internacionales](/es/rights/international-rights), [Educación](/es/education).
 
 ---
 
@@ -429,7 +429,7 @@ Consulta [Derechos internacionales](/es/rights/international-rights.md), [Educac
 
 ### Educación primaria y secundaria (K-12)
 
-**Derechos**: La mayoría de los países tiene algún marco legal para las adaptaciones educativas. En EE. UU., [IDEA](/es/rights/us/idea.md) y la [Sección 504](/es/rights/us/section-504.md) brindan distintos niveles de apoyo.
+**Derechos**: La mayoría de los países tiene algún marco legal para las adaptaciones educativas. En EE. UU., [IDEA](/es/rights/us/idea) y la [Sección 504](/es/rights/us/section-504) brindan distintos niveles de apoyo.
 
 **Adaptaciones comunes**:
 - Tiempo adicional en los exámenes
@@ -443,7 +443,7 @@ Consulta [Derechos internacionales](/es/rights/international-rights.md), [Educac
 
 **Defensa**: A menudo es necesaria la defensa por parte de las familias para asegurar el apoyo adecuado. Las habilidades de autodefensa benefician a las y los estudiantes a medida que crecen.
 
-Consulta [Educación K-12](/es/education/k12-education.md), [Transición a la adultez](/es/education/transition-to-adulthood.md).
+Consulta [Educación K-12](/es/education/k12-education), [Transición a la adultez](/es/education/transition-to-adulthood).
 
 ### Educación superior
 
@@ -459,7 +459,7 @@ Consulta [Educación K-12](/es/education/k12-education.md), [Transición a la ad
 
 **Desafíos**: Las exigencias de la función ejecutiva aumentan de forma significativa. Muchas y muchos estudiantes se benefician del acompañamiento o el apoyo.
 
-Consulta [Educación superior](/es/education/higher-education.md).
+Consulta [Educación superior](/es/education/higher-education).
 
 ---
 
@@ -473,7 +473,7 @@ Consulta [Educación superior](/es/education/higher-education.md).
 
 **Decisiones sobre la comunicación de la discapacidad**: Pondera la necesidad de adaptaciones frente a la posible discriminación. No tienes que comunicarla hasta que solicites adaptaciones.
 
-Consulta [Buscar empleo con una discapacidad](/es/employment/job-searching-with-a-disability.md).
+Consulta [Buscar empleo con una discapacidad](/es/employment/job-searching-with-a-disability).
 
 ### Adaptaciones en el lugar de trabajo
 
@@ -488,13 +488,13 @@ Consulta [Buscar empleo con una discapacidad](/es/employment/job-searching-with-
 
 **Adaptaciones informales**: A veces son más fáciles de implementar sin un proceso formal: "Trabajo mejor cuando...".
 
-Consulta [Adaptaciones en el lugar de trabajo](/es/employment/workplace-accommodations.md), [Derechos laborales por país](/es/employment/employment-rights-by-country.md).
+Consulta [Adaptaciones en el lugar de trabajo](/es/employment/workplace-accommodations), [Derechos laborales por país](/es/employment/employment-rights-by-country).
 
 ### Trabajo por cuenta propia
 
 Algunas personas neurodivergentes prosperan trabajando por cuenta propia, fijando sus propias estructuras y enfocándose en sus fortalezas.
 
-Consulta [Emprendimiento y trabajo por cuenta propia](/es/employment/entrepreneurship-and-self-employment.md).
+Consulta [Emprendimiento y trabajo por cuenta propia](/es/employment/entrepreneurship-and-self-employment).
 
 ---
 
@@ -551,7 +551,7 @@ Las personas neurodivergentes tienen tasas más altas de ansiedad, depresión y 
 - Evita terapeutas centradas en el "entrenamiento de habilidades sociales" sin comprender las necesidades sociales neurodivergentes
 - El ABA (análisis conductual aplicado) es controvertido en la comunidad autista; muchas personas autistas adultas reportan trauma derivado de él
 
-Consulta [Salud mental](/es/healthcare/mental-health.md), [Discapacidad psiquiátrica y psicosocial](/es/conditions/psychiatric-and-psychosocial-disability.md).
+Consulta [Salud mental](/es/healthcare/mental-health), [Discapacidad psiquiátrica y psicosocial](/es/conditions/psychiatric-and-psychosocial-disability).
 
 ---
 
@@ -586,7 +586,7 @@ A menudo se pasan por alto en el diagnóstico debido a:
 - Las personas autistas tienen mayor probabilidad de tener una diversidad de género
 - Pueden comprender el género y la sexualidad de manera distinta
 
-Consulta la sección [Interseccionalidad](/es/intersectionality/index.md).
+Consulta la sección [Interseccionalidad](/es/intersectionality).
 
 ---
 
@@ -627,21 +627,21 @@ El movimiento de la neurodiversidad fue construido por personas neurodivergentes
 - Por investigación y organizaciones lideradas por personas autistas
 - Contra el estigma y por la aceptación
 
-Consulta [Defensa y autodefensa](/es/rights/advocacy-and-self-advocacy.md), [Participa](/es/get-involved/index.md).
+Consulta [Defensa y autodefensa](/es/rights/advocacy-and-self-advocacy), [Participa](/es/get-involved).
 
 ---
 
 ## Páginas relacionadas
 
-- [Discapacidad intelectual y del desarrollo](/es/conditions/intellectual-and-developmental-disability.md)
-- [Discapacidades invisibles](/es/conditions/invisible-disabilities.md)
-- [Discapacidades múltiples](/es/conditions/multiple-disabilities.md)
-- [Discapacidades sensoriales](/es/conditions/sensory-disabilities.md) (para el procesamiento sensorial)
-- [Educación K-12](/es/education/k12-education.md)
-- [Educación superior](/es/education/higher-education.md)
-- [Adaptaciones en el lugar de trabajo](/es/employment/workplace-accommodations.md)
-- [Salud mental](/es/healthcare/mental-health.md)
-- [Acceso a la comunicación y CAA](/es/tech/communication-access-and-aac.md)
+- [Discapacidad intelectual y del desarrollo](/es/conditions/intellectual-and-developmental-disability)
+- [Discapacidades invisibles](/es/conditions/invisible-disabilities)
+- [Discapacidades múltiples](/es/conditions/multiple-disabilities)
+- [Discapacidades sensoriales](/es/conditions/sensory-disabilities) (para el procesamiento sensorial)
+- [Educación K-12](/es/education/k12-education)
+- [Educación superior](/es/education/higher-education)
+- [Adaptaciones en el lugar de trabajo](/es/employment/workplace-accommodations)
+- [Salud mental](/es/healthcare/mental-health)
+- [Acceso a la comunicación y CAA](/es/tech/communication-access-and-aac)
 
 ---
 

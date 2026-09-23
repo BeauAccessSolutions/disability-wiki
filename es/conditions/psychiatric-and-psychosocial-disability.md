@@ -257,7 +257,7 @@ Trastornos por consumo de sustancias, trastorno esquizoafectivo, trastornos de a
 - FMLA para licencia por salud mental
 
 **Derechos**:
-- La [ADA](/es/rights/us/ada.md) cubre las discapacidades psiquiátricas: se exigen adaptaciones razonables
+- La [ADA](/es/rights/us/ada) cubre las discapacidades psiquiátricas: se exigen adaptaciones razonables
 - La Ley de Vivienda Justa protege contra la discriminación en la vivienda
 - Algunos estados tienen leyes de derechos de salud mental más fuertes
 
@@ -365,7 +365,7 @@ Los servicios y los derechos de salud mental varían enormemente en todo el mund
 - El Artículo 12 (capacidad jurídica) y el Artículo 14 (libertad) de la CDPD de la ONU son relevantes para los derechos de las personas sobrevivientes de la psiquiatría
 - La ONU ha pedido el fin de las prácticas coercitivas
 
-Consulta [Derechos internacionales](/es/rights/international-rights.md).
+Consulta [Derechos internacionales](/es/rights/international-rights).
 
 ---
 
@@ -431,7 +431,7 @@ El apoyo de otras personas con experiencia vivida se reconoce cada vez más como
 - **Respiros entre pares (peer respites)**: Alternativas a la hospitalización (limitados, pero en crecimiento)
 - **Equipos móviles de crisis**: Acuden a ti en lugar de la policía o el hospital
 
-Consulta [Recursos de crisis](/es/crisis/index.md), [Apoyo en crisis para personas con discapacidad](/es/crisis/disabled-crisis-support.md).
+Consulta [Recursos de crisis](/es/crisis), [Apoyo en crisis para personas con discapacidad](/es/crisis/disabled-crisis-support).
 
 ### Hospitalizaciones
 
@@ -477,7 +477,7 @@ Muchas personas con condiciones psiquiátricas trabajan; otras no pueden.
 
 **Comunicación de la discapacidad**: No tienes que comunicar el diagnóstico, solo las limitaciones funcionales y las adaptaciones que necesitas.
 
-Consulta [Adaptaciones en el lugar de trabajo](/es/employment/workplace-accommodations.md), [Derechos laborales por país](/es/employment/employment-rights-by-country.md).
+Consulta [Adaptaciones en el lugar de trabajo](/es/employment/workplace-accommodations), [Derechos laborales por país](/es/employment/employment-rights-by-country).
 
 ### Prestaciones y no trabajar
 
@@ -487,7 +487,7 @@ Si no puedes trabajar debido a una discapacidad psiquiátrica:
 - Las apelaciones son comunes: no te rindas tras la primera denegación
 - Tu valor no se determina por tu capacidad de trabajo
 
-Consulta [Prestaciones](/es/benefits/index.md), [SSDI](/es/benefits/us/ssdi), [SSI](/es/benefits/us/ssi).
+Consulta [Prestaciones](/es/benefits), [SSDI](/es/benefits/us/ssdi), [SSI](/es/benefits/us/ssi).
 
 ---
 
@@ -556,7 +556,7 @@ La enfermedad mental a menudo se representa de forma errónea en los medios:
 - La discapacidad puede afectar la salud mental
 - Las condiciones de salud mental pueden causar discapacidad física
 
-Consulta la sección [Interseccionalidad](/es/intersectionality/index.md).
+Consulta la sección [Interseccionalidad](/es/intersectionality).
 
 ---
 
@@ -593,7 +593,7 @@ El movimiento de sobrevivientes de la psiquiatría ha luchado por:
 - Organizaciones de derechos de las personas con discapacidad
 - Organizaciones de defensa de la salud mental
 
-Consulta [Derechos y defensa](/es/rights/index.md), [Defensa y autodefensa](/es/rights/advocacy-and-self-advocacy.md).
+Consulta [Derechos y defensa](/es/rights), [Defensa y autodefensa](/es/rights/advocacy-and-self-advocacy).
 
 ---
 
@@ -619,15 +619,15 @@ Si recibiste hace poco un diagnóstico psiquiátrico:
 
 ## Páginas relacionadas
 
-- [Salud mental](/es/healthcare/mental-health.md)
-- [Discapacidades invisibles](/es/conditions/invisible-disabilities.md)
-- [Recursos de crisis](/es/crisis/index.md)
-- [Apoyo en crisis para personas con discapacidad](/es/crisis/disabled-crisis-support.md)
-- [Abuso, negligencia y explotación](/es/crisis/abuse-neglect-exploitation.md)
-- [Adaptaciones en el lugar de trabajo](/es/employment/workplace-accommodations.md)
-- [Neurodivergencia](/es/conditions/neurodivergence.md)
-- [Enfermedad crónica](/es/conditions/chronic-illness.md)
-- [Discapacidades múltiples](/es/conditions/multiple-disabilities.md)
+- [Salud mental](/es/healthcare/mental-health)
+- [Discapacidades invisibles](/es/conditions/invisible-disabilities)
+- [Recursos de crisis](/es/crisis)
+- [Apoyo en crisis para personas con discapacidad](/es/crisis/disabled-crisis-support)
+- [Abuso, negligencia y explotación](/es/crisis/abuse-neglect-exploitation)
+- [Adaptaciones en el lugar de trabajo](/es/employment/workplace-accommodations)
+- [Neurodivergencia](/es/conditions/neurodivergence)
+- [Enfermedad crónica](/es/conditions/chronic-illness)
+- [Discapacidades múltiples](/es/conditions/multiple-disabilities)
 
 ---
 

@@ -16,7 +16,7 @@ Disabled people experience homelessness at higher rates than non-disabled people
 
 All disabled people have the right to live independently in the community with support. This is established in **UN Convention on Rights of Persons with Disabilities (CRPD) Article 19**, ratified by 186 countries. Homelessness represents the most severe violation of this right.
 
-For detailed explanation of international housing rights frameworks, see [International Housing Rights](/housing/international-housing-rights.md).
+For detailed explanation of international housing rights frameworks, see [International Housing Rights](/housing/international-housing-rights).
 
 **Key principle**: Homelessness is not a disability problem requiring disabled people to change. It is a housing and policy problem requiring society to ensure adequate housing and support services.
 
@@ -448,7 +448,7 @@ LGBTQ+ youth experience 120% higher risk of homelessness; disabled LGBTQ+ youth 
 
 **Affirming services**: Regular homeless services must affirm sexual orientation and gender identity.
 
-**Resources**: LGBTQ+ disability organizations; SABE International; [LGBTQ+ and Disability](/intersectionality/lgbtq-and-disability.md) section.
+**Resources**: LGBTQ+ disability organizations; SABE International; [LGBTQ+ and Disability](/intersectionality/lgbtq-and-disability) section.
 
 ### Disabled immigrants and refugees, homelessness
 
@@ -458,7 +458,7 @@ Face deportation fears limiting service access; documentation barriers; discrimi
 
 **Advocacy**: Decoupling public benefits from immigration enforcement; protecting privacy of homeless immigrants accessing services.
 
-**Resources**: Immigrant rights organizations; [Immigration and Refugees](/intersectionality/immigration-and-refugees.md) section.
+**Resources**: Immigrant rights organizations; [Immigration and Refugees](/intersectionality/immigration-and-refugees) section.
 
 ### Disabled women experiencing homelessness
 
@@ -468,7 +468,7 @@ Higher vulnerability to intimate partner violence; homelessness often results fr
 
 **Services**: Gender-specific homeless services; violence-informed disability services.
 
-**Resources**: Domestic violence organizations; disability organizations; [Gender and Disability](/intersectionality/gender-and-disability.md) section.
+**Resources**: Domestic violence organizations; disability organizations; [Gender and Disability](/intersectionality/gender-and-disability) section.
 
 ### Disabled parents and homelessness
 
@@ -484,7 +484,7 @@ Face systemic colonization, land dispossession, barriers to community. Homelessn
 
 **Solutions**: Housing solutions rooted in Indigenous sovereignty and community control; support for returning to community.
 
-**Resources**: Indigenous disability organizations; [Indigenous Disability Perspectives](/intersectionality/indigenous-disability-perspectives.md) section.
+**Resources**: Indigenous disability organizations; [Indigenous Disability Perspectives](/intersectionality/indigenous-disability-perspectives) section.
 
 ---
 
@@ -508,17 +508,17 @@ Disabled people are organizing to demand housing rights and adequate services:
 
 ## Related Resources
 
-For information on **Housing Rights** across different countries, see [Housing Rights](/housing/housing-rights.md).
+For information on **Housing Rights** across different countries, see [Housing Rights](/housing/housing-rights).
 
-For **Accessible Housing Search** when exiting homelessness, see [Accessible Housing Search Guide](/housing/accessible-housing-search-guide.md).
+For **Accessible Housing Search** when exiting homelessness, see [Accessible Housing Search Guide](/housing/accessible-housing-search-guide).
 
-For **Home Modifications** in stable housing, see [Home Modifications](/housing/home-modifications.md).
+For **Home Modifications** in stable housing, see [Home Modifications](/housing/home-modifications).
 
-For **International Housing Rights** frameworks (CRPD Article 19), see [International Housing Rights](/housing/international-housing-rights.md).
+For **International Housing Rights** frameworks (CRPD Article 19), see [International Housing Rights](/housing/international-housing-rights).
 
-For **Intersectionality and Homelessness**, see [Disability and Homelessness](/intersectionality/disability-and-homelessness.md).
+For **Intersectionality and Homelessness**, see [Disability and Homelessness](/intersectionality/disability-and-homelessness).
 
-For **Crisis Resources**, see [Crisis Support](/crisis/disabled-crisis-support.md).
+For **Crisis Resources**, see [Crisis Support](/crisis/disabled-crisis-support).
 
 ---
 

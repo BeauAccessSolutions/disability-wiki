@@ -171,7 +171,7 @@ Dificultad para procesar y responder a la información sensorial. Puede implicar
 - Hiposensibilidad (respuesta insuficiente) que requiere más entrada sensorial
 - A menudo coincide con autismo, TDAH y otras condiciones
 
-Consulta [Neurodivergencia](/es/conditions/neurodivergence.md) para más información.
+Consulta [Neurodivergencia](/es/conditions/neurodivergence) para más información.
 
 #### Trastornos vestibulares
 
@@ -205,7 +205,7 @@ Afectan el equilibrio y la orientación espacial:
 - Escuelas Sordas (programas residenciales y de día)
 - Escuelas para personas ciegas
 - Escuelas convencionales con planes IEP/504
-- Consulta [Educación K-12](/es/education/k12-education.md) e [IDEA](/es/rights/us/idea.md)
+- Consulta [Educación K-12](/es/education/k12-education) e [IDEA](/es/rights/us/idea)
 
 **Tecnología**:
 - Capacitación en lectores de pantalla disponible a través de agencias de rehabilitación y organizaciones sin fines de lucro
@@ -299,7 +299,7 @@ Afectan el equilibrio y la orientación espacial:
 La **World Federation of the Deaf** tiene asociaciones miembro en más de 130 países.
 La **World Blind Union** representa a las organizaciones de personas ciegas a nivel global.
 
-Consulta [Derechos internacionales](/es/rights/international-rights.md).
+Consulta [Derechos internacionales](/es/rights/international-rights).
 
 ---
 
@@ -357,7 +357,7 @@ Consulta [Derechos internacionales](/es/rights/international-rights.md).
 - **Alertas visuales/vibratorias** para timbres, alarmas y monitores de bebé
 - **Audífonos e implantes cocleares** (decisión personal, no para todas las personas)
 - **Aplicaciones de voz a texto**
-- Consulta [Accesibilidad en móviles y sistemas operativos](/es/tech/mobile-and-os-accessibility.md)
+- Consulta [Accesibilidad en móviles y sistemas operativos](/es/tech/mobile-and-os-accessibility)
 
 ### Tecnología para personas ciegas y con baja visión
 
@@ -367,7 +367,7 @@ Consulta [Derechos internacionales](/es/rights/international-rights.md).
 - **Aplicaciones accesibles de GPS y navegación**
 - **Aplicaciones de OCR** para leer texto impreso
 - **Tecnología de hogar inteligente** con control por voz
-- Consulta [Accesibilidad web](/es/tech/web-accessibility.md) y [Accesibilidad en móviles y sistemas operativos](/es/tech/mobile-and-os-accessibility.md)
+- Consulta [Accesibilidad web](/es/tech/web-accessibility) y [Accesibilidad en móviles y sistemas operativos](/es/tech/mobile-and-os-accessibility)
 
 ### Tecnología para personas sordociegas
 
@@ -408,7 +408,7 @@ Existen múltiples enfoques (con fuertes debates dentro de la comunidad Sorda):
 
 **La perspectiva de la comunidad**: Organizaciones como la NFB enfatizan las altas expectativas, la capacitación adecuada y el mensaje de que "la ceguera no es el problema".
 
-Consulta [Educación K-12](/es/education/k12-education.md), [Educación superior](/es/education/higher-education.md).
+Consulta [Educación K-12](/es/education/k12-education), [Educación superior](/es/education/higher-education).
 
 ---
 
@@ -439,7 +439,7 @@ Consulta [Educación K-12](/es/education/k12-education.md), [Educación superior
 
 **La filosofía de la NFB**: Las personas ciegas pueden trabajar en prácticamente cualquier campo con la capacitación y las adaptaciones adecuadas.
 
-Consulta [Adaptaciones en el lugar de trabajo](/es/employment/workplace-accommodations.md), [Derechos laborales por país](/es/employment/employment-rights-by-country.md).
+Consulta [Adaptaciones en el lugar de trabajo](/es/employment/workplace-accommodations), [Derechos laborales por país](/es/employment/employment-rights-by-country).
 
 ---
 
@@ -459,7 +459,7 @@ Consulta [Adaptaciones en el lugar de trabajo](/es/employment/workplace-accommod
 - Información accesible en el transporte (anuncios visuales)
 - Acceso a la comunicación en situaciones de transporte
 
-Consulta [Ayudas para la movilidad](/es/transport/mobility-aids.md), [Animales de servicio](/es/transport/service-animals.md).
+Consulta [Ayudas para la movilidad](/es/transport/mobility-aids), [Animales de servicio](/es/transport/service-animals).
 
 ### Habilidades para la vida diaria
 
@@ -471,7 +471,7 @@ Tanto la comunidad ciega como la Sorda enfatizan que, con las habilidades y herr
 - La crianza (sí, las personas Sordas y ciegas son madres y padres, y prosperan)
 - Mantenimiento del hogar
 
-Consulta [Vida diaria](/es/daily-living/index.md).
+Consulta [Vida diaria](/es/daily-living).
 
 ---
 
@@ -500,7 +500,7 @@ Consulta [Vida diaria](/es/daily-living/index.md).
 
 Algunas personas Sordas tienen discapacidades adicionales. El término "SordasconDiscapacidad" (DeafDisabled) o "Sorda+" (Deaf+) reconoce estas intersecciones a la vez que mantiene la identidad Sorda.
 
-Consulta la sección [Interseccionalidad](/es/intersectionality/index.md).
+Consulta la sección [Interseccionalidad](/es/intersectionality).
 
 ---
 
@@ -582,22 +582,22 @@ Consulta la sección [Interseccionalidad](/es/intersectionality/index.md).
 - Tecnología asequible
 - Transporte accesible
 
-Consulta [Historia de los derechos de las personas con discapacidad](/es/rights/history-of-disability-rights.md), [Participa](/es/get-involved/index.md).
+Consulta [Historia de los derechos de las personas con discapacidad](/es/rights/history-of-disability-rights), [Participa](/es/get-involved).
 
 ---
 
 ## Páginas relacionadas
 
-- [Acceso a la comunicación y CAA](/es/tech/communication-access-and-aac.md)
-- [Accesibilidad web](/es/tech/web-accessibility.md)
-- [Accesibilidad en móviles y sistemas operativos](/es/tech/mobile-and-os-accessibility.md)
-- [Animales de servicio](/es/transport/service-animals.md)
-- [Ayudas para la movilidad](/es/transport/mobility-aids.md)
-- [Adaptaciones en el lugar de trabajo](/es/employment/workplace-accommodations.md)
-- [Educación K-12](/es/education/k12-education.md)
-- [Discapacidades invisibles](/es/conditions/invisible-disabilities.md) (para personas con dificultades auditivas y baja visión)
-- [Discapacidades múltiples](/es/conditions/multiple-disabilities.md)
-- [Neurodivergencia](/es/conditions/neurodivergence.md) (para el procesamiento sensorial)
+- [Acceso a la comunicación y CAA](/es/tech/communication-access-and-aac)
+- [Accesibilidad web](/es/tech/web-accessibility)
+- [Accesibilidad en móviles y sistemas operativos](/es/tech/mobile-and-os-accessibility)
+- [Animales de servicio](/es/transport/service-animals)
+- [Ayudas para la movilidad](/es/transport/mobility-aids)
+- [Adaptaciones en el lugar de trabajo](/es/employment/workplace-accommodations)
+- [Educación K-12](/es/education/k12-education)
+- [Discapacidades invisibles](/es/conditions/invisible-disabilities) (para personas con dificultades auditivas y baja visión)
+- [Discapacidades múltiples](/es/conditions/multiple-disabilities)
+- [Neurodivergencia](/es/conditions/neurodivergence) (para el procesamiento sensorial)
 
 ---
 

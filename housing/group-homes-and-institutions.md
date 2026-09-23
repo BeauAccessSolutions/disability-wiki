@@ -74,7 +74,7 @@ Article 19 specifically requires states to:
 
 **This means**: Institutions are incompatible with CRPD Article 19. States have obligation to deinstitutionalize and fund community living.
 
-For detailed explanation of CRPD Article 19 and how countries implement it, see [International Housing Rights](/housing/international-housing-rights.md).
+For detailed explanation of CRPD Article 19 and how countries implement it, see [International Housing Rights](/housing/international-housing-rights).
 
 ### Olmstead v. L.C. (1999) - U.S. Supreme Court
 
@@ -517,13 +517,13 @@ Disabled people are successfully living in community with appropriate support, d
 
 ## Related Resources
 
-For information on **Housing Rights** including right to community living, see [Housing Rights](/housing/housing-rights.md).
+For information on **Housing Rights** including right to community living, see [Housing Rights](/housing/housing-rights).
 
-For **Independent Living Philosophy and Centers**, see [Independent Living Philosophy and Centers](/housing/independent-living-philosophy-and-centers.md) for alternative models.
+For **Independent Living Philosophy and Centers**, see [Independent Living Philosophy and Centers](/housing/independent-living-philosophy-and-centers) for alternative models.
 
-For **International Housing Rights** frameworks (CRPD Article 19), see [International Housing Rights](/housing/international-housing-rights.md).
+For **International Housing Rights** frameworks (CRPD Article 19), see [International Housing Rights](/housing/international-housing-rights).
 
-For **Homelessness and Disability**, see [Homelessness and Disability](/housing/homelessness-and-disability.md).
+For **Homelessness and Disability**, see [Homelessness and Disability](/housing/homelessness-and-disability).
 
 ---
 

@@ -96,7 +96,7 @@ La parálisis cerebral (PC) es un grupo de trastornos que afectan el movimiento,
 - No es progresiva, pero sus efectos pueden cambiar con el tiempo
 - Algunas personas usan CAA (comunicación aumentativa y alternativa)
 
-**Consulta también**: [Discapacidades físicas](/es/conditions/physical-disabilities.md) para más información sobre la PC.
+**Consulta también**: [Discapacidades físicas](/es/conditions/physical-disabilities) para más información sobre la PC.
 
 ---
 
@@ -160,7 +160,7 @@ Afección genética que causa efectos en el desarrollo y la salud.
 
 Muchas otras afecciones pueden implicar discapacidad intelectual o del desarrollo, incluidas: síndrome de Rett, síndrome de Angelman, algunas formas de epilepsia, efectos de lesiones cerebrales y muchas afecciones genéticas raras.
 
-**Si tu afección no aparece en la lista**: La orientación general de esta página sigue aplicando. Considera [contribuir](/es/glossary/how-to-contribute.md) con información.
+**Si tu afección no aparece en la lista**: La orientación general de esta página sigue aplicando. Considera [contribuir](/es/glossary/how-to-contribute) con información.
 
 ---
 
@@ -175,10 +175,10 @@ Muchas otras afecciones pueden implicar discapacidad intelectual o del desarroll
 - **Centros para la Vida Independiente**: apoyo entre pares
 
 **Derechos y protecciones**:
-- [ADA](/es/rights/us/ada.md): prohíbe la discriminación
+- [ADA](/es/rights/us/ada): prohíbe la discriminación
 - Decisión Olmstead: derecho a vivir en la comunidad
-- [IDEA](/es/rights/us/idea.md): derechos educativos
-- [Sección 504](/es/rights/us/section-504.md): adaptaciones
+- [IDEA](/es/rights/us/idea): derechos educativos
+- [Sección 504](/es/rights/us/section-504): adaptaciones
 
 **Prestaciones**:
 - [SSI](/es/benefits/us/ssi): ingresos para personas con discapacidad que no han trabajado
@@ -272,7 +272,7 @@ Muchos países están trabajando para dejar atrás las instituciones y avanzar h
 
 **Inclusion International**: Red global de organizaciones para personas con discapacidades intelectuales.
 
-Consulta [Derechos internacionales](/es/rights/international-rights.md).
+Consulta [Derechos internacionales](/es/rights/international-rights).
 
 ---
 
@@ -321,7 +321,7 @@ No todas las personas usan el lenguaje hablado. Eso no significa que no puedan c
 - La CAA debe estar siempre disponible, no solo en la terapia
 - Asume que las personas tienen cosas que decir
 
-Consulta [Acceso a la comunicación y CAA](/es/tech/communication-access-and-aac.md).
+Consulta [Acceso a la comunicación y CAA](/es/tech/communication-access-and-aac).
 
 ### Lenguaje sencillo
 
@@ -343,7 +343,7 @@ El lenguaje sencillo beneficia a todos, no solo a las personas con DID.
 La **inclusión** significa aprender junto a compañeros sin discapacidad, con los apoyos adecuados, no en clases "especiales" segregadas.
 
 **En EE. UU.**:
-- [IDEA](/es/rights/us/idea.md) exige una educación pública gratuita y apropiada
+- [IDEA](/es/rights/us/idea) exige una educación pública gratuita y apropiada
 - El principio del Entorno Menos Restrictivo (LRE) favorece la inclusión
 - Los IEP (Programas de Educación Individualizada) especifican los apoyos
 - Planificación de la transición para la vida después de la escuela
@@ -359,7 +359,7 @@ La **inclusión** significa aprender junto a compañeros sin discapacidad, con l
 - La inclusión requiere un apoyo adecuado
 - A menudo se necesita incidencia para conseguir los servicios apropiados
 
-Consulta [Educación K-12](/es/education/k12-education.md), [Intervención temprana](/es/education/early-intervention.md), [Transición a la adultez](/es/education/transition-to-adulthood.md).
+Consulta [Educación K-12](/es/education/k12-education), [Intervención temprana](/es/education/early-intervention), [Transición a la adultez](/es/education/transition-to-adulthood).
 
 ---
 
@@ -387,7 +387,7 @@ Las personas con DID tienen derecho a trabajar en un empleo competitivo e integr
 - Especialistas en empleo personalizado
 - Agencias estatales de discapacidad del desarrollo
 
-Consulta [Buscar empleo con una discapacidad](/es/employment/job-searching-with-a-disability.md), [Empleo con apoyo y rehabilitación vocacional](/es/employment/supported-employment-and-voc-rehab.md), [Adaptaciones en el lugar de trabajo](/es/employment/workplace-accommodations.md).
+Consulta [Buscar empleo con una discapacidad](/es/employment/job-searching-with-a-disability), [Empleo con apoyo y rehabilitación vocacional](/es/employment/supported-employment-and-voc-rehab), [Adaptaciones en el lugar de trabajo](/es/employment/workplace-accommodations).
 
 ---
 
@@ -416,7 +416,7 @@ Consulta [Buscar empleo con una discapacidad](/es/employment/job-searching-with-
 - Estar aislado
 - No tener opción ni control
 
-Consulta [Vivienda y vida independiente](/es/housing/index.md), [Filosofía de la vida independiente](/es/housing/independent-living-philosophy-and-centers.md), [Hogares grupales e instituciones](/es/housing/group-homes-and-institutions.md).
+Consulta [Vivienda y vida independiente](/es/housing), [Filosofía de la vida independiente](/es/housing/independent-living-philosophy-and-centers), [Hogares grupales e instituciones](/es/housing/group-homes-and-institutions).
 
 ---
 
@@ -444,7 +444,7 @@ Las personas con DID enfrentan disparidades significativas en la atención médi
 - Los centros médicos universitarios pueden tener más experiencia
 - Pide recomendaciones a otras familias y a personas autogestoras
 
-Consulta [Atención médica accesible](/es/healthcare/accessible-healthcare.md), [Derechos en la atención médica](/es/healthcare/healthcare-rights.md).
+Consulta [Atención médica accesible](/es/healthcare/accessible-healthcare), [Derechos en la atención médica](/es/healthcare/healthcare-rights).
 
 ---
 
@@ -471,7 +471,7 @@ Las personas con DID tienen los mismos derechos a las relaciones, la sexualidad 
 - El sistema de bienestar infantil retira de forma desproporcionada a los hijos de padres con discapacidad
 - La discriminación en la custodia y la adopción es ilegal, pero ocurre
 
-Consulta [Citas y relaciones](/es/relationships/dating-and-relationships.md), [Crianza con una discapacidad](/es/relationships/parenting-with-a-disability.md), [Sexualidad y salud reproductiva](/es/relationships/sexuality-and-reproductive-health.md).
+Consulta [Citas y relaciones](/es/relationships/dating-and-relationships), [Crianza con una discapacidad](/es/relationships/parenting-with-a-disability), [Sexualidad y salud reproductiva](/es/relationships/sexuality-and-reproductive-health).
 
 ---
 
@@ -500,7 +500,7 @@ Las personas con DID sufren abuso en tasas mucho más altas que la población ge
 - Contacta a una organización de derechos de las personas con discapacidad
 - Servicios de Protección de Adultos (en EE. UU.)
 - La policía si es apropiado
-- Consulta [Abuso, negligencia y explotación](/es/crisis/abuse-neglect-exploitation.md)
+- Consulta [Abuso, negligencia y explotación](/es/crisis/abuse-neglect-exploitation)
 
 ---
 
@@ -528,7 +528,7 @@ Las personas con DID sufren abuso en tasas mucho más altas que la población ge
 - Se cruza con la inestabilidad de la vivienda y la inseguridad alimentaria
 - Las reglas de las prestaciones a menudo atrapan a las personas en la pobreza
 
-Consulta la sección [Interseccionalidad](/es/intersectionality/index.md).
+Consulta la sección [Interseccionalidad](/es/intersectionality).
 
 ---
 
@@ -557,7 +557,7 @@ Consulta la sección [Interseccionalidad](/es/intersectionality/index.md).
 - Aboga por la inclusión comunitaria, no por programas "especiales" separados
 - Cuídate tú también
 
-Consulta [Padres de hijos con discapacidad](/es/relationships/parents-of-disabled-children.md), [Cuidado](/es/relationships/caregiving.md).
+Consulta [Padres de hijos con discapacidad](/es/relationships/parents-of-disabled-children), [Cuidado](/es/relationships/caregiving).
 
 ---
 
@@ -580,21 +580,21 @@ El movimiento de autogestión ha transformado la vida de las personas con DID:
 
 El lema de **Self-Advocates Becoming Empowered (SABE)**: "Nada Sobre Nosotros Sin Nosotros"
 
-Consulta [Historia de los derechos de las personas con discapacidad](/es/rights/history-of-disability-rights.md), [Incidencia y autodefensa](/es/rights/advocacy-and-self-advocacy.md), [Participa](/es/get-involved/index.md).
+Consulta [Historia de los derechos de las personas con discapacidad](/es/rights/history-of-disability-rights), [Incidencia y autodefensa](/es/rights/advocacy-and-self-advocacy), [Participa](/es/get-involved).
 
 ---
 
 ## Páginas relacionadas
 
-- [Neurodivergencia](/es/conditions/neurodivergence.md) (autismo, TDAH, etc.)
-- [Discapacidades físicas](/es/conditions/physical-disabilities.md) (para la PC y otros aspectos físicos)
-- [Acceso a la comunicación y CAA](/es/tech/communication-access-and-aac.md)
-- [Filosofía de la vida independiente](/es/housing/independent-living-philosophy-and-centers.md)
-- [Hogares grupales e instituciones](/es/housing/group-homes-and-institutions.md)
-- [Empleo con apoyo y rehabilitación vocacional](/es/employment/supported-employment-and-voc-rehab.md)
-- [Transición a la adultez](/es/education/transition-to-adulthood.md)
-- [Cuidado](/es/relationships/caregiving.md)
-- [Discapacidades múltiples](/es/conditions/multiple-disabilities.md)
+- [Neurodivergencia](/es/conditions/neurodivergence) (autismo, TDAH, etc.)
+- [Discapacidades físicas](/es/conditions/physical-disabilities) (para la PC y otros aspectos físicos)
+- [Acceso a la comunicación y CAA](/es/tech/communication-access-and-aac)
+- [Filosofía de la vida independiente](/es/housing/independent-living-philosophy-and-centers)
+- [Hogares grupales e instituciones](/es/housing/group-homes-and-institutions)
+- [Empleo con apoyo y rehabilitación vocacional](/es/employment/supported-employment-and-voc-rehab)
+- [Transición a la adultez](/es/education/transition-to-adulthood)
+- [Cuidado](/es/relationships/caregiving)
+- [Discapacidades múltiples](/es/conditions/multiple-disabilities)
 
 ---
 

@@ -50,6 +50,15 @@ jobs:
         working-directory: site
         run: npm run check:sw
 
+      # BLOCKING: internal links as RENDERED, not as written. The markdown
+      # validator below resolved `/housing/housing-rights.md` to the file and
+      # passed it, while Astro shipped that href verbatim — 764 live 404s across
+      # 42 pages (2026-09-23). This reads dist/: no `.md` hrefs, every internal
+      # href lands on a built page or redirect, every #fragment matches an id.
+      - name: Validate rendered internal links
+        working-directory: site
+        run: npm run check:links
+
       # BLOCKING: the native-app bundle tripwire can't rot. The iOS bundle
       # (app/ios/App/App/public) is a git-ignored copy of site/dist, so CI can't
       # verify a real archive — but it self-tests verify-bundle.mjs: that a
@@ -84,7 +93,9 @@ jobs:
           python-version: '3.x'
 
       # BLOCKING: broken internal links. Baseline is 0; --strict exits non-zero
-      # on any regression. English content only (the validator excludes es/).
+      # on any regression, in both trees (English and es/). Also rejects link
+      # FORMS that resolve here but 404 once rendered: a `.md` suffix, or a
+      # relative link (pages are served with a trailing slash).
       - name: Validate internal links (strict)
         run: python3 scripts/validate_wiki_links.py --strict
 
