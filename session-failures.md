@@ -82,3 +82,14 @@ Searchable history of failures worth remembering, so cross-session patterns surf
 - [validator blind spot]: asserted "0 broken links" repeatedly while validate_wiki_links.py silently excluded the whole es/ tree → manual target checks covered it; gap closed properly by PR #94 (60 broken es links found).
 
 ---
+## Session: 2026-08-21
+
+**Project:** disability-wiki (es/ link validation in CI → 60 es link fixes → PR #94/#96 shepherding)
+
+### Failures
+- [Bash `sleep 90; gh pr checks`]: blocked by the harness (no foreground sleep) → switched to a background `until`-loop watcher. Reach for `run_in_background` polling first when waiting on CI.
+- [validator exit code]: piped `validate … --strict | grep` then read `$?` — that's grep's status, and `${PIPESTATUS[0]}` isn't zsh (`pipestatus`), so the strict exit printed `n/a` → re-ran unpiped to get the real exit 0. Check a gate's exit code with no pipe in the way.
+- [gh pr merge ×2]: both `gh pr merge 94` and `gh pr merge 96` returned "already merged" — peer sessions merged each PR minutes before my CI watcher fired. Benign, but the second also errored trying to delete a local branch checked out in a peer's worktree → treat "already merged" as success and confirm via `gh pr view --json state`; don't pass `--delete-branch` for branches that live in another worktree.
+- [post-merge CI read]: the `main` run for each of my merges came back `cancelled` and I initially read that as a possible deploy problem → it was concurrency-cancel from the next peer merge; the Cloudflare Pages deploy is independent of that workflow and the page was already live (`curl -sL` → 200). A cancelled post-merge run on a busy `main` says nothing about the deploy — probe the live URL.
+
+---

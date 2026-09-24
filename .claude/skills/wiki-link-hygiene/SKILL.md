@@ -53,8 +53,11 @@ This was a whole-site batch on the crisis pages (2026-06-08): 34 pages converted
 python3 scripts/validate_wiki_links.py        # writes link_validation_report.txt (gitignored)
 ```
 
-It scans **only `published: true` English pages** (skips `es/`, docs, backups,
-drafts, and root meta-docs like README/AUDIT_*). The report lists each broken link
+It scans **`published: true` pages in two separate trees** — English (skipping docs,
+backups, drafts, and root meta-docs like README/AUDIT_*) and `es/` (since PR #94,
+2026-08-20; before that the whole Spanish tree was silently excluded and 60 broken
+`/es/*` links shipped past CI). Each tree gets its own section and totals, and
+`--strict` fails on a broken link in either. The report lists each broken link
 with its source file. Tally the most-referenced missing targets:
 
 ```
@@ -98,7 +101,9 @@ Match the file-basename case exactly.
 ## Step 3 — Batch-fix the mechanical/case buckets
 
 Build a verified `{wrong: right}` map, then string-replace across **English content
-only**. Skip `es/` (separate locale + sync workflow), `docs/`, `backups/`,
+only** first, then a second pass for the `es/` section of the report (same map with
+the `/es/` prefix; the es target must exist — confirm, or flag it for translation).
+Skip `docs/`, `backups/`,
 `archetypes/`, `page-review-*/`, `scripts/`, `content/`, and **root meta-docs**
 (AUDIT_*, README — they *describe* broken links; rewriting them corrupts the record).
 
