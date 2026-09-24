@@ -82,3 +82,15 @@ Searchable history of failures worth remembering, so cross-session patterns surf
 - [validator blind spot]: asserted "0 broken links" repeatedly while validate_wiki_links.py silently excluded the whole es/ tree → manual target checks covered it; gap closed properly by PR #94 (60 broken es links found).
 
 ---
+## Session: 2026-08-21
+
+**Project:** disability-wiki (es welcome translation, PR #96)
+
+### Failures
+- [task premise vs repo]: the task said the validator "now validates es/" and that six links had been retargeted to English — neither was on main or this branch at the time, so I reported the premise as wrong. Both were in a peer's open PR (#94) that merged mid-session → surfaced as a CHANGELOG merge conflict; retargeted the six links in the merge commit. Check `gh pr list` when the repo contradicts the task description.
+- [validate_wiki_links.py]: relied on `--strict` to vouch for es/ links while it still excluded the tree → ad-hoc es-link resolution check + full build until the es-aware validator landed via the merge.
+- [npm run build / cd site]: persisted cwd made `cd site` fail and `ls site/dist/...` miss; first build failed with `astro: command not found` in the fresh worktree → `npm ci` then build, paths relative to cwd.
+- [gh pr merge]: first attempt blocked by a CHANGELOG `[Unreleased]` conflict with main → merged origin/main, kept both entries, re-ran CI; the second attempt found the PR already merged by a peer/Zach — confirmed via `gh pr view --json state`.
+- [live probe, repeat]: bare `curl -o /dev/null -w %{http_code}` looped on 308 for a deployed page — the same trailing-slash trap already in memory and the previous session's log → `curl -sL`; fix graduated into the disability-wiki-edit checklist this session.
+
+---
