@@ -6,6 +6,13 @@ All notable changes to the Disability Wiki project are documented in this file.
 
 ## [Unreleased]
 
+### Fixed
+- **US crisis line now uses its current name** (2026-09-29,
+  [`crisis/index.md`](crisis/index.md) + `es/`, [`docs/CLAIMS.md`](docs/CLAIMS.md)): the
+  crisis index called it the "National Suicide Prevention Lifeline", its pre-July-2022
+  name. It now reads "988 Suicide & Crisis Lifeline" (es: "Línea 988 de Prevención del
+  Suicidio y Crisis"), as verified at 988lifeline.org. The number (988) did not change.
+
 ### Changed
 - **Disabled Creators Directory tables are generated from one data file** (2026-09-23,
   [`data/creators.yaml`](data/creators.yaml),
