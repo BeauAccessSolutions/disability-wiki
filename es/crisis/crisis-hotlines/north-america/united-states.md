@@ -183,8 +183,7 @@ Con eso basta. Ellos se encargan del resto.
 
 ### Para personas que hablan español
 
-- La 988 está disponible en español
-- Spanish Suicide Prevention Lifeline: 1-888-628-9454 (24/7)
+- Línea 988 en español: marca 988 y presiona 2, envía AYUDA por mensaje de texto al 988 o chatea en español en 988lifeline.org (24/7)
 - La mayoría de las líneas principales tienen opciones en español
 
 ### Múltiples idiomas

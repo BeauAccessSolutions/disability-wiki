@@ -73,7 +73,7 @@ Planning for emergencies and climate-driven disasters, which are not experienced
 ## Quick Resources by Situation
 
 ### I'm having suicidal thoughts right now
-- **US**: [National Suicide Prevention Lifeline](tel:988) (call/text 988)
+- **US**: [988 Suicide & Crisis Lifeline](tel:988) (call/text 988)
 - **Canada**: [9-8-8 Suicide Crisis Helpline](tel:988) (call or text 988)
 - **UK**: [Samaritans](tel:116-123) (call 116 123)
 - [More options →](/crisis/global-crisis-hotlines)

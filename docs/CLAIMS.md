@@ -51,7 +51,8 @@ Numbers below were corrected in the 2026-06 crisis audits (commits `78b2ed3`,
 
 | Page(s) | Claim | Value | Primary source | Verified | Status |
 |---|---|---|---|---|---|
-| crisis/.../us | US suicide & crisis lifeline | **988** | 988lifeline.org / SAMHSA | 2026-06 | ✅ |
+| crisis/.../us, crisis/index | US lifeline — official name "988 Suicide & Crisis Lifeline" (es: "Línea 988 de Prevención del Suicidio y Crisis"; renamed from "National Suicide Prevention Lifeline" July 2022) | **988** | 988lifeline.org (+ /es/inicio/) / SAMHSA | 2026-09 | ✅ |
+| crisis/.../us (+ es/) | Spanish-language 988 access | **988, press 2; text AYUDA to 988; chat in Spanish** | 988lifeline.org/interpretation-services/servicios-en-espanol/ + FAQ; replaced legacy "Spanish Suicide Prevention Lifeline 1-888-628-9454" (not listed on 988lifeline.org) | 2026-09 | ✅ |
 | crisis/.../mexico | Mexico lead crisis line | **800-911-2000** | replaced a fabricated US number | 2026-06 | ✅ |
 | crisis/.../africa, .../nigeria | Nigeria suicide line (SURPIN) | **0800 078 7746** | replaced fabricated "Lifeline Nigeria +234-809-063-0000" | 2026-06 | ✅ |
 | crisis/.../africa, .../kenya | Kenya crisis line | **1199** | replaced untraceable Red Cross 0800 721 100 | 2026-06 | ✅ |
