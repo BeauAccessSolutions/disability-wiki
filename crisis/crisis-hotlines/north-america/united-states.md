@@ -184,7 +184,7 @@ That's enough. They'll take it from there.
 ### For Spanish Speakers
 
 - 988 available in Spanish
-- Spanish Suicide Prevention Lifeline: 1-888-628-9454 (24/7)
+- 988 in Spanish: call 988 and press 2, text AYUDA to 988, or chat in Spanish at 988lifeline.org (24/7)
 - Most major hotlines have Spanish options
 
 ### Multiple Languages

@@ -12,6 +12,10 @@ All notable changes to the Disability Wiki project are documented in this file.
   crisis index called it the "National Suicide Prevention Lifeline", its pre-July-2022
   name. It now reads "988 Suicide & Crisis Lifeline" (es: "Línea 988 de Prevención del
   Suicidio y Crisis"), as verified at 988lifeline.org. The number (988) did not change.
+  The US hotline page ([`crisis/crisis-hotlines/north-america/united-states.md`](crisis/crisis-hotlines/north-america/united-states.md)
+  + `es/`) also listed a legacy "Spanish Suicide Prevention Lifeline" at 1-888-628-9454,
+  which 988lifeline.org no longer lists. It now gives the current Spanish access: call
+  988 and press 2, text AYUDA to 988, or chat in Spanish.
 
 ### Changed
 - **Disabled Creators Directory tables are generated from one data file** (2026-09-23,
