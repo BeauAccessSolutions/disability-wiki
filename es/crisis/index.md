@@ -73,7 +73,7 @@ Planificación para emergencias y desastres provocados por el clima, que no se v
 ## Recursos rápidos según la situación
 
 ### Estoy teniendo pensamientos suicidas en este momento
-- **EE. UU.**: [National Suicide Prevention Lifeline](tel:988) (llama/envía un texto al 988)
+- **EE. UU.**: [Línea 988 de Prevención del Suicidio y Crisis](tel:988) (llama/envía un texto al 988)
 - **Canadá**: [9-8-8 Suicide Crisis Helpline](tel:988) (llama o envía un texto al 988)
 - **Reino Unido**: [Samaritans](tel:116-123) (llama al 116 123)
 - [Más opciones →](/es/crisis/global-crisis-hotlines)
