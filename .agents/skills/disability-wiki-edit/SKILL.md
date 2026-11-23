@@ -122,4 +122,6 @@ dashboard (Caching → Purge).
 - [ ] Deleting/moving? `git rm`/`git mv` + repoint links + add redirect in
       `site/public/_redirects`
 - [ ] English change → note/handle the `es/` sync
-- [ ] Branch + PR → CI green → merge to `main`; verify on the live site (mind the cache)
+- [ ] Branch + PR → CI green → merge to `main`; verify on the live site with
+      `curl -sL` (the site 308s extensionless paths to a trailing slash — a bare curl
+      false-negatives forever) or `scripts/verify_page.py`; mind the cache
