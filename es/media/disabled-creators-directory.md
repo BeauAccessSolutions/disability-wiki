@@ -109,6 +109,7 @@ Este directorio reúne en un solo lugar a personas creadoras con discapacidad pa
 | Frida Kahlo (1907-1954) | Daño en la columna, dolor crónico | Pintura | Autorretratos, ícono de la discapacidad |
 | Joseph Grigely | Sordo | Arte conceptual | Conversation pieces |
 | Katherine Sherwood | Sobreviviente de derrame cerebral | Pintura | Obra posterior al derrame |
+| Matt Sesow | Amputado de miembro superior | Pintura | Dive Bomb (sello de la ONU, 2013) |
 | Riva Lehrer | Espina bífida | Pintura | Retratos de Circle Stories |
 | Sandie Yi | Discapacidad física | Escultura | Arte de instalación |
 | Sunaura Taylor | Artrogriposis | Pintura, escritura | Derechos de los animales/de la discapacidad |

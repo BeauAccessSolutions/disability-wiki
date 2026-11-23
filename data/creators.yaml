@@ -648,6 +648,16 @@ creators:
       - section: screen-actors
         roles: American Horror Story
 
+  - name: Matt Sesow
+    disability: {en: Upper-limb amputee, es: Amputado de miembro superior}
+    disclosure_source: "https://disabledartist.org/"
+    website: "https://www.sesow.com/"
+    verified: "2026-11-23"
+    listings:
+      - section: visual-artists
+        medium: {en: Painting, es: Pintura}
+        notable_for: {en: Dive Bomb (2013 UN stamp), es: "Dive Bomb (sello de la ONU, 2013)"}
+
   - name: Maysoon Zayid
     disability: {en: Cerebral palsy, es: Parálisis cerebral}
     legacy: true
