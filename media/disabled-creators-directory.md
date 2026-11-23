@@ -109,6 +109,7 @@ This directory collects disabled creators in one place for easy discovery. All c
 | Frida Kahlo (1907-1954) | Spinal damage, chronic pain | Painting | Self-portraits, disability icon |
 | Joseph Grigely | Deaf | Conceptual art | Conversation pieces |
 | Katherine Sherwood | Stroke survivor | Painting | Post-stroke work |
+| Matt Sesow | Upper-limb amputee | Painting | Dive Bomb (2013 UN stamp) |
 | Riva Lehrer | Spina bifida | Painting | Circle Stories portraits |
 | Sandie Yi | Physical disability | Sculpture | Installation art |
 | Sunaura Taylor | Arthrogryposis | Painting, writing | Animal/disability rights |
